@@ -187,7 +187,7 @@ class EstudiosTab extends StatelessWidget {
       number: '01',
       title: 'La naturaleza de Dios',
       
-    Study(
+     Study(
       number: '01',
       title: 'La importancia de conocer verdaderamente a Dios',
       subtitle: 'El fundamento para comprender la revelación divina y la Trinidad.',
@@ -201,7 +201,7 @@ Por esta razón, la Biblia llama al ser humano a buscar un conocimiento verdader
 Este conocimiento es indispensable para comprender la doctrina de la Trinidad. Antes de estudiar la identidad del Padre, del Hijo y del Espíritu Santo, debemos comprender la enseñanza bíblica de que existe un solo Dios.
 
 El propósito de este estudio es establecer las bases bíblicas y teológicas necesarias para desarrollar una comprensión responsable de la naturaleza divina.
-''',
+''' ,
       sections: [
         StudySection(
           title: '1. El conocimiento de Dios es fundamental para la fe',
@@ -215,7 +215,7 @@ En Juan 17:3, Jesucristo relaciona la vida eterna con conocer al único Dios ver
 Este texto debe examinarse cuidadosamente: Jesús distingue al Padre, a quien se dirige, de sí mismo, a quien identifica como el enviado. La doctrina trinitaria estudia esta relación junto con los demás pasajes que presentan la divinidad del Hijo.
 
 Por tanto, conocer a Dios implica estudiar su identidad, su carácter, sus obras y su voluntad.
-''',
+''' ,
           references: 'Jeremías 9:23-24; Juan 17:3; Oseas 6:6; Filipenses 3:8-10.',
         ),
         StudySection(
@@ -230,7 +230,7 @@ La revelación divina puede observarse en la creación, en las obras de Dios a t
 Romanos 1:19-20 enseña que la creación manifiesta aspectos del poder y la naturaleza de Dios. Sin embargo, para conocer el mensaje de salvación y comprender la identidad del Padre, del Hijo y del Espíritu Santo, debemos estudiar el testimonio bíblico.
 
 No debemos fundamentar nuestras doctrinas exclusivamente en experiencias, opiniones personales o razonamientos humanos. Toda enseñanza debe examinarse a la luz de la Palabra.
-''',
+'''  ,
           references: 'Hebreos 1:1-2; Romanos 1:19-20; Salmos 19:1-4; 2 Timoteo 3:16-17.',
         ),
         StudySection(
@@ -247,7 +247,7 @@ Deuteronomio 29:29 distingue entre las cosas secretas que pertenecen a Dios y la
 Este principio nos enseña a estudiar con humildad. Debemos afirmar lo que Dios ha revelado, sin inventar explicaciones sobre aquello que no ha dado a conocer.
 
 La Trinidad debe estudiarse siguiendo este mismo principio: considerando el testimonio completo de las Escrituras.
-''',
+''' ,
           references: 'Juan 5:39-40; Deuteronomio 29:29; Hechos 17:11; 2 Timoteo 2:15.',
         ),
         StudySection(
@@ -264,7 +264,7 @@ Esto no significa que las obras humanas compren la salvación. La obediencia es 
 El conocimiento bíblico debe producir una transformación en nuestra manera de pensar, hablar, actuar y relacionarnos con los demás.
 
 Una doctrina correctamente comprendida debe conducir a una vida que honre a Dios.
-''',
+''' ,
           references: 'Santiago 2:19; 1 Juan 2:3-6; Juan 14:21; Santiago 1:22-25.',
         ),
         StudySection(
@@ -281,7 +281,7 @@ Estos pasajes deben interpretarse junto con los textos que distinguen al Padre d
 La doctrina trinitaria reconoce que el Hijo comparte la naturaleza divina y, al mismo tiempo, mantiene una relación personal real con el Padre.
 
 Por eso, conocer a Dios exige estudiar la preexistencia de Jesucristo, su encarnación, su divinidad, su humanidad y su relación con el Padre.
-''',
+''' ,
           references: 'Juan 1:1-3, 18; Juan 14:6-11; Colosenses 1:15-20; Hebreos 1:1-3.',
         ),
         StudySection(
@@ -302,7 +302,7 @@ Además, Mateo 28:19 menciona conjuntamente al Padre, al Hijo y al Espíritu San
 La formulación doctrinal trinitaria sostiene que existe un solo Dios en tres personas distintas: Padre, Hijo y Espíritu Santo. No son tres dioses independientes, ni tres partes de Dios, ni una sola persona que cambia de nombre o manifestación.
 
 Esta doctrina deberá examinarse progresivamente mediante el análisis de los textos bíblicos y de sus contextos.
-''',
+''' ,
           references: 'Deuteronomio 6:4; 1 Corintios 8:4-6; Mateo 28:19; Juan 1:1; Juan 20:28; Hechos 5:3-4; 2 Corintios 13:14.',
         ),
         StudySection(
@@ -317,7 +317,7 @@ La humildad teológica exige reconocer la diferencia entre lo que la Biblia afir
 No debemos inventar explicaciones para resolver artificialmente todas las preguntas. Tampoco debemos rechazar una enseñanza bíblica simplemente porque supera nuestra comprensión.
 
 En el estudio de la Trinidad podemos afirmar lo que las Escrituras revelan sobre Dios sin pretender explicar completamente el misterio de su existencia.
-''',
+''' ,
           references: 'Job 11:7-9; Romanos 11:33-36; Isaías 55:8-9; Salmos 145:3.',
         ),
         StudySection(
@@ -338,7 +338,7 @@ El quinto es utilizar comparaciones humanas como si explicaran completamente la 
 El estudio responsable debe distinguir entre lo que un pasaje afirma expresamente, lo que se deduce de su contexto y las formulaciones teológicas que resumen la enseñanza bíblica.
 
 La meta no es defender una idea mediante argumentos forzados, sino comprender fielmente la revelación de Dios.
-''',
+''' ,
           references: 'Hechos 17:11; 2 Timoteo 2:15; 1 Corintios 8:4-6; Mateo 28:19; 1 Juan 4:1.',
         ),
       ],
