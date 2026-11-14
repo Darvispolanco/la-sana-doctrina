@@ -1,26 +1,54 @@
-name: Android CI
+
+name: Build La Sana Doctrina APK
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: set up JDK 11
-      uses: actions/setup-java@v4
-      with:
-        java-version: '11'
-        distribution: 'temurin'
-        cache: gradle
+      - name: Descargar proyecto
+        uses: actions/checkout@v4
 
-    - name: Grant execute permission for gradlew
-      run: chmod +x gradlew
-    - name: Build with Gradle
-      run: ./gradlew build
+      - name: Configurar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Instalar Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Preparar proyecto Android
+        run: |
+          mkdir -p assets/audio assets/images
+          if [ ! -d android ]; then
+            flutter create --platforms=android --org com.lasanadoctrina .
+          fi
+
+      - name: Instalar dependencias
+        run: flutter pub get
+
+      - name: Revisar proyecto
+        run: flutter analyze
+
+      - name: Generar APK
+        run: flutter build apk --debug
+
+      - name: Guardar APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: la-sana-doctrina-debug-apk
+          path: build/app/outputs/flutter-apk/app-debug.apk
+          if-no-files-found: error
+          
