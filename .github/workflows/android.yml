@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Configurar Java
-        uses: actions/setup-java@v4
+        uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: '17'
@@ -29,12 +29,13 @@ jobs:
           channel: stable
           cache: true
 
-      - name: Preparar proyecto Android
+      - name: Preparar carpetas
         run: |
           mkdir -p assets/audio assets/images
-          if [ ! -d android ]; then
-            flutter create --platforms=android --org com.lasanadoctrina .
-          fi
+
+      - name: Generar estructura Android
+        run: |
+          flutter create --platforms=android --org com.lasanadoctrina .
 
       - name: Instalar dependencias
         run: flutter pub get
