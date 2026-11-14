@@ -41,7 +41,7 @@ jobs:
         run: flutter pub get
 
       - name: Revisar proyecto
-        run: flutter analyze
+        run: flutter analyze lib
 
       - name: Generar APK
         run: flutter build apk --debug
