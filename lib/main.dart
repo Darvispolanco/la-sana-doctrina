@@ -180,8 +180,6 @@ class InicioTab extends StatelessWidget {
 }
 
 class EstudiosTab extends StatelessWidget {
-
-class EstudiosTab extends StatelessWidget {
   const EstudiosTab({super.key});
 
   static const studies = <Study>[
