@@ -8636,12 +8636,6 @@ references: 'Mateo 4:1-11; Juan 15:4-5; 1 Corintios 10:12-13; Gálatas 5:16-25; 
 conclusion:
 'La tentación busca apartar al ser humano de la voluntad de Dios, pero la Escritura enseña que existe una respuesta de fidelidad mediante la gracia divina. Jesucristo enfrentó la tentación sin pecar y ofrece ayuda a quienes se acercan a Él. El Padre sostiene a sus hijos, el Hijo intercede por ellos y el Espíritu Santo produce una vida de obediencia. Por tanto, el creyente debe conocer la Palabra, orar, velar, establecer límites, buscar una comunidad cristiana saludable y depender de Dios. La lucha contra el pecado no debe conducir a la desesperación ni al orgullo, sino a una confianza perseverante en Jesucristo.',
 ),
-
-12345678
-
-
-
-
 ];
 
 @override
