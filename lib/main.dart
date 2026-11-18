@@ -14781,7 +14781,6 @@ references: 'Génesis 17:1; Job 42:2; Lucas 1:37; Colosenses 1:16-17; Apocalipsi
 conclusion:
 'La omnipotencia revela que Dios posee autoridad y poder absolutos sobre toda la creación. Nada puede igualarse a Él ni impedir definitivamente el cumplimiento de sus propósitos. Sin embargo, su poder nunca contradice su naturaleza: el Señor no miente, no peca y no deja de ser quien es. La creación, la providencia, los milagros, la encarnación, la resurrección y la redención manifiestan su poder en la historia. La doctrina trinitaria afirma que el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina y su poder eterno. Por eso, la iglesia puede confiar en Dios sin pretender controlar su voluntad, reconocer sus límites como criatura y vivir con esperanza en la victoria definitiva de Jesucristo.'
 ),
-
 ];
 
 @override
@@ -15244,3 +15243,5 @@ child: AdWidget(ad: _bannerAd!),
 );
 }
 }
+}
+
