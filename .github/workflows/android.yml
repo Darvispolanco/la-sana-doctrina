@@ -1,3 +1,4 @@
+
 name: Build Android APK
 
 on:
@@ -52,20 +53,30 @@ jobs:
 
       - name: Configure Android AdMob App ID
         run: |
-          if [ -f android/app/src/main/AndroidManifest.xml ]; then
-            python3 - <<'PY'
-from pathlib import Path
-p = Path('android/app/src/main/AndroidManifest.xml')
-s = p.read_text()
-marker = 'com.google.android.gms.ads.APPLICATION_ID'
-if marker not in s:
-    meta = '''        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3642704038378168~5569657844"/>\n'''
-    s = s.replace('    </application>', meta + '    </application>')
-p.write_text(s)
-PY
-          fi
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path('android/app/src/main/AndroidManifest.xml')
+
+          if not p.exists():
+              raise SystemExit("AndroidManifest.xml not found")
+
+          s = p.read_text()
+
+          marker = 'com.google.android.gms.ads.APPLICATION_ID'
+
+          if marker not in s:
+              meta = '''        <meta-data
+                  android:name="com.google.android.gms.ads.APPLICATION_ID"
+                  android:value="ca-app-pub-3642704038738168~5569657844"/>
+          '''
+              s = s.replace(
+                  '</application>',
+                  meta + '    </application>'
+              )
+
+          p.write_text(s)
+          PY
 
       - name: Analyze project
         run: flutter analyze --no-fatal-infos --no-fatal-warnings
@@ -80,3 +91,4 @@ PY
           path: build/app/outputs/flutter-apk/app-debug.apk
           if-no-files-found: error
           retention-days: 7
+
