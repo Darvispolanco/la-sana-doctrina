@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:flutter/foundation.dart';
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
 
@@ -196,9 +195,9 @@ const Text(
 'Versión inicial de desarrollo · El contenido se incorporará por etapas.',
 textAlign: TextAlign.center,
 style: TextStyle(color: Colors.black54, fontSize: 12),
+),
 const SizedBox(height: 16),
 const HomeBannerAd(),
-),
 ],
 );
 }
@@ -15241,7 +15240,6 @@ width: double.infinity,
 height: _bannerAd!.size.height.toDouble(),
 child: AdWidget(ad: _bannerAd!),
 );
-}
 }
 }
 
