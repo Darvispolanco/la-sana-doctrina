@@ -15077,7 +15077,267 @@ references: "Mateo 28:19; Juan 1:1-14; Juan 4:24; 2 Corintios 13:14."
 ],
 conclusion: "La espiritualidad de Dios enseña que el Señor existe eternamente como espíritu y que su naturaleza no depende de la materia ni está limitada por el espacio. Él es el Creador y no forma parte de la creación; es invisible en su esencia, aunque se revela mediante sus obras, su Palabra y sus manifestaciones. Esta verdad no convierte a Dios en una fuerza impersonal, porque las Escrituras lo presentan como el Dios vivo y personal. Desde la perspectiva trinitaria, el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina. La encarnación del Hijo no anuló su divinidad, sino que unió en su persona la naturaleza divina y la humana. Por tanto, la espiritualidad de Dios conduce a rechazar la idolatría, comprender correctamente las manifestaciones bíblicas y ofrecer una adoración sincera, conforme a la verdad revelada en Jesucristo."
 ),
+,
 
+Study(
+  number: '62',
+  title: 'La trascendencia e inmanencia de Dios: su grandeza sobre la creación y su presencia activa en ella',
+  subtitle: 'Dios está por encima de todo lo creado y, al mismo tiempo, actúa en medio de su creación.',
+  introduction: 'La trascendencia enseña que Dios no está limitado por el espacio, la materia ni las condiciones de la creación. Él es el Creador y no forma parte de aquello que creó. La inmanencia enseña que Dios no está ausente de su obra: la sostiene, la gobierna y se relaciona con ella. Ambas verdades deben mantenerse juntas para evitar imaginar a un Dios encerrado en el universo o a un Dios distante e indiferente. La revelación bíblica muestra al Padre, al Hijo y al Espíritu Santo actuando en perfecta unidad divina.',
+  sections: [
+    StudySection(
+      title: "1. La trascendencia como grandeza incomparable",
+      content: "Dios excede infinitamente todo lo creado. Isaías enseña que sus caminos y pensamientos superan los nuestros; no porque sean irracionales, sino porque su sabiduría no tiene límite. La trascendencia afirma que Dios no es una criatura más elevada, sino el Creador soberano.",
+      references: "Is 55:8-9; Sal 113:4-6",
+    ),
+    StudySection(
+      title: "2. El Creador no forma parte de la creación",
+      content: "Génesis distingue al que crea de aquello que recibe existencia. El universo no es una extensión de la esencia divina ni Dios depende de él para existir. Esta distinción fundamenta la adoración exclusiva al Creador.",
+      references: "Gn 1:1; Hch 17:24-25",
+    ),
+    StudySection(
+      title: "3. La inmanencia como presencia activa",
+      content: "Dios está presente y obra en su creación: la conoce, la sostiene y gobierna. Jeremías declara que nadie puede esconderse de Él. Su presencia no significa que esté contenido en el mundo.",
+      references: "Jer 23:23-24; Sal 139:7-10",
+    ),
+    StudySection(
+      title: "4. La omnipresencia sin división",
+      content: "Dios no se reparte en fragmentos entre lugares distintos. Está plenamente presente sin quedar limitado por las dimensiones espaciales. No debemos imaginar que una parte de Dios está aquí y otra en otro sitio.",
+      references: "Sal 139:7-12; 1 R 8:27",
+    ),
+    StudySection(
+      title: "5. Ningún edificio puede contener a Dios",
+      content: "Salomón reconoció que ni los cielos pueden contener al Señor. El templo fue un lugar dedicado al culto y al encuentro, pero nunca una estructura capaz de encerrar la plenitud divina.",
+      references: "1 R 8:27-30; Is 66:1-2",
+    ),
+    StudySection(
+      title: "6. Dios está cerca sin dejar de ser santo",
+      content: "La cercanía divina no elimina su majestad ni su santidad. Isaías presenta al Alto y Sublime habitando con el quebrantado y humilde. Su grandeza no impide su compasión.",
+      references: "Is 57:15; Sal 34:18",
+    ),
+    StudySection(
+      title: "7. La naturaleza revela, pero no es Dios",
+      content: "Los cielos anuncian la gloria de su Autor. La creación permite reconocer aspectos del poder y sabiduría divinos, pero no debe recibir la adoración que corresponde al Creador.",
+      references: "Sal 19:1; Ro 1:19-25",
+    ),
+    StudySection(
+      title: "8. Dios sostiene lo que creó",
+      content: "El universo no es autosuficiente. Colosenses afirma que todas las cosas subsisten en Cristo. La creación depende continuamente del poder sustentador de Dios.",
+      references: "Col 1:16-17; Heb 1:3",
+    ),
+    StudySection(
+      title: "9. La vida procede de Dios",
+      content: "Dios da vida, aliento y todas las cosas. La existencia humana no es independiente de Él; esta dependencia debe producir gratitud, humildad y responsabilidad.",
+      references: "Hch 17:24-28; Job 12:10",
+    ),
+    StudySection(
+      title: "10. La providencia divina",
+      content: "La providencia comprende el cuidado y gobierno de Dios sobre sus criaturas y acontecimientos. No conocemos todas sus decisiones, pero la Escritura afirma que el mundo no está fuera de su autoridad.",
+      references: "Sal 103:19; Mt 6:25-30",
+    ),
+    StudySection(
+      title: "11. Dios gobierna sobre las naciones",
+      content: "Los poderes humanos son temporales y limitados. Daniel enseña que el Altísimo gobierna sobre los reinos humanos; esto no convierte cada decisión política en moralmente aprobada por Dios.",
+      references: "Dn 4:17, 34-35; Sal 22:28",
+    ),
+    StudySection(
+      title: "12. La historia bajo la soberanía de Dios",
+      content: "La historia bíblica muestra a Dios obrando para cumplir sus propósitos sin borrar la responsabilidad humana. José reconoció que Dios pudo encaminar para bien lo que otros hicieron con mala intención.",
+      references: "Gn 50:20; Ef 1:11",
+    ),
+    StudySection(
+      title: "13. Dios conoce cada rincón de la creación",
+      content: "Nada queda fuera de su conocimiento. Su presencia no es una vigilancia impersonal, sino el conocimiento perfecto del Señor que conoce las obras y los corazones.",
+      references: "Pr 15:3; Heb 4:13",
+    ),
+    StudySection(
+      title: "14. La trascendencia y los límites humanos",
+      content: "Job 38–41 confronta la pretensión humana de comprenderlo todo. La respuesta adecuada no es abandonar el estudio, sino reconocer los límites de nuestra razón ante la sabiduría divina.",
+      references: "Job 38:1-18; Ro 11:33",
+    ),
+    StudySection(
+      title: "15. Dios se revela sin agotarse en la revelación",
+      content: "Dios puede ser conocido verdaderamente porque se revela, pero ninguna manifestación creada agota la plenitud de su ser. Nuestro conocimiento es real, aunque no exhaustivo.",
+      references: "Dt 29:29; Jn 1:18",
+    ),
+    StudySection(
+      title: "16. La presencia de Dios en el Edén",
+      content: "El relato del Edén presenta comunión entre Dios y la humanidad. El pecado rompe esa armonía, pero Dios continúa llamando al ser humano y desarrollando su propósito redentor.",
+      references: "Gn 2:7-17; 3:8-15",
+    ),
+    StudySection(
+      title: "17. La presencia durante el éxodo",
+      content: "La nube y el fuego manifestaron la dirección y el cuidado de Dios sobre Israel. No eran dioses ni fuerzas autónomas, sino señales de su acompañamiento soberano.",
+      references: "Ex 13:21-22; 14:19-20",
+    ),
+    StudySection(
+      title: "18. El tabernáculo en medio del pueblo",
+      content: "Dios mandó construir el tabernáculo para habitar en medio de Israel. La gloria que lo llenó manifestó su presencia pactal, sin limitar su esencia a una tienda.",
+      references: "Ex 25:8; 40:34-38",
+    ),
+    StudySection(
+      title: "19. El templo y la gloria divina",
+      content: "El templo fue apartado para la adoración, pero Salomón sabía que Dios no quedaba encerrado allí. La presencia divina nunca dependió de las paredes del santuario.",
+      references: "1 R 8:10-30",
+    ),
+    StudySection(
+      title: "20. Dios escucha a quienes le buscan",
+      content: "La cercanía de Dios se expresa en su disposición a escuchar a quienes le invocan conforme a su voluntad. La oración no manipula a Dios; expresa dependencia, fe y obediencia.",
+      references: "Dt 4:7; Sal 145:18",
+    ),
+    StudySection(
+      title: "21. La encarnación como cercanía del Hijo",
+      content: "El Verbo se hizo carne y habitó entre nosotros. El Hijo eterno asumió una naturaleza humana verdadera para revelar al Padre y realizar la redención, sin dejar de ser divino.",
+      references: "Jn 1:1-3,14; Fil 2:5-8",
+    ),
+    StudySection(
+      title: "22. La encarnación no limita la esencia divina",
+      content: "Al hacerse hombre, el Hijo no dejó de ser Dios ni la esencia divina se transformó en materia. La encarnación es la unión de la naturaleza divina y humana en la persona del Hijo.",
+      references: "Col 2:9; Fil 2:6-8",
+    ),
+    StudySection(
+      title: "23. El Padre como Creador y sustentador",
+      content: "El Padre es presentado como origen y Señor de todas las cosas. Su trascendencia no significa indiferencia: conoce las necesidades de sus criaturas y cuida de ellas.",
+      references: "Mt 6:25-32; Ef 4:6",
+    ),
+    StudySection(
+      title: "24. El Hijo participa en la obra creadora",
+      content: "Todas las cosas fueron hechas por medio del Verbo y para Él. Cristo no pertenece al conjunto de las criaturas; la Escritura le atribuye la obra creadora y el sostenimiento del universo.",
+      references: "Jn 1:1-3; Col 1:16-17",
+    ),
+    StudySection(
+      title: "25. El Espíritu Santo y la creación",
+      content: "El Espíritu aparece actuando en el relato de la creación y en la renovación de la vida. No es una fuerza impersonal, sino una persona divina que obra en unidad con el Padre y el Hijo.",
+      references: "Gn 1:2; Sal 104:30",
+    ),
+    StudySection(
+      title: "26. La Trinidad y la presencia divina",
+      content: "Hay un solo Dios en tres personas distintas: Padre, Hijo y Espíritu Santo. La trascendencia y la inmanencia pertenecen al único Dios trino; no son atributos de tres dioses separados.",
+      references: "Mt 28:19; 2 Co 13:14",
+    ),
+    StudySection(
+      title: "27. La obra creadora del único Dios",
+      content: "La Escritura atribuye la creación al único Dios y presenta la participación del Padre, del Hijo y del Espíritu. No son tres creadores independientes, sino la obra del único Dios.",
+      references: "Gn 1:1-2; Jn 1:3; Col 1:16",
+    ),
+    StudySection(
+      title: "28. Pentecostés y la presencia del Espíritu",
+      content: "En Pentecostés, el Espíritu Santo vino sobre los discípulos conforme a la promesa de Jesús. Su presencia capacitó a la Iglesia para dar testimonio de Cristo.",
+      references: "Jn 14:16-17; Hch 1:8; 2:1-4",
+    ),
+    StudySection(
+      title: "29. El Espíritu habita en los creyentes",
+      content: "El Espíritu Santo habita en quienes pertenecen a Cristo. Esto expresa comunión y pertenencia a Dios, no que el creyente se convierta en parte de la esencia divina.",
+      references: "Ro 8:9-11; 1 Co 3:16",
+    ),
+    StudySection(
+      title: "30. El cuerpo como templo del Espíritu",
+      content: "La imagen del templo enseña que el cuerpo pertenece a Dios y debe ser tratado con santidad y responsabilidad. La presencia del Espíritu impulsa a glorificar a Dios con la vida.",
+      references: "1 Co 6:18-20",
+    ),
+    StudySection(
+      title: "31. Cristo acompaña a su Iglesia",
+      content: "Jesús prometió estar con sus discípulos todos los días. La Iglesia cumple su misión bajo su autoridad y con la seguridad de su presencia fiel.",
+      references: "Mt 28:18-20; Jn 14:18-23",
+    ),
+    StudySection(
+      title: "32. Dios no es autor del pecado",
+      content: "La soberanía divina no significa que Dios sea autor moral del mal. Santiago afirma que Dios no tienta a nadie; la responsabilidad moral de las criaturas permanece.",
+      references: "Stg 1:13-17; 1 Jn 1:5",
+    ),
+    StudySection(
+      title: "33. La presencia de Dios en el sufrimiento",
+      content: "La cercanía divina no promete ausencia de dificultades. La Escritura enseña que Dios sostiene a su pueblo en medio de pruebas, aflicciones y circunstancias difíciles de comprender.",
+      references: "Sal 23:4; 46:1; Is 43:2",
+    ),
+    StudySection(
+      title: "34. La humildad ante el Dios infinito",
+      content: "La grandeza de Dios corrige el orgullo intelectual y espiritual. Podemos estudiar su revelación, pero no dominar su ser ni comprender exhaustivamente todos sus caminos.",
+      references: "Job 40:1-5; Ro 11:33-36",
+    ),
+    StudySection(
+      title: "35. Vivir delante de Dios",
+      content: "La omnipresencia debe influir en nuestras decisiones cotidianas. No existe una vida separada de su conocimiento; palabras, relaciones, trabajo y conducta deben honrarlo.",
+      references: "Col 3:17,23-24; Pr 15:3",
+    ),
+    StudySection(
+      title: "36. La oración responde a su cercanía",
+      content: "Jesús enseñó a orar al Padre buscando su nombre, reino y voluntad. La oración no informa a Dios ni lo obliga; expresa confianza y dependencia.",
+      references: "Mt 6:5-13; Fil 4:6-7",
+    ),
+    StudySection(
+      title: "37. Adorar al Dios trascendente",
+      content: "La adoración reconoce la majestad y santidad de Dios. La confianza filial no elimina la reverencia; nos acercamos al Padre por medio de Cristo con respeto y gratitud.",
+      references: "Sal 96:4-9; Heb 12:28-29",
+    ),
+    StudySection(
+      title: "38. Adorar al Dios cercano",
+      content: "La cercanía divina hace posible una comunión real. La adoración no depende solamente de emociones, sino de la verdad revelada y de una vida de obediencia.",
+      references: "Jn 4:23-24; Heb 4:14-16",
+    ),
+    StudySection(
+      title: "39. La presencia no depende de sensaciones",
+      content: "Las emociones cambian, pero la fidelidad de Dios permanece. La fe descansa en sus promesas y carácter, no exclusivamente en experiencias sensibles.",
+      references: "Dt 31:6; Heb 13:5-6",
+    ),
+    StudySection(
+      title: "40. La misión bajo la presencia de Cristo",
+      content: "Los discípulos fueron enviados a hacer discípulos de todas las naciones. La misión requiere fidelidad al evangelio, dependencia de Dios y obediencia concreta.",
+      references: "Mt 28:18-20; Hch 4:29-31",
+    ),
+    StudySection(
+      title: "41. La presencia divina y la santificación",
+      content: "El Espíritu obra en los creyentes para conformarlos a la voluntad de Dios. La santificación es una transformación progresiva que se expresa en una vida apartada para Él.",
+      references: "Ro 8:12-14; Gá 5:16-25",
+    ),
+    StudySection(
+      title: "42. Dios actúa en la historia de la redención",
+      content: "Desde el llamado de Abraham hasta la venida de Cristo y la misión de la Iglesia, la Escritura muestra a Dios actuando para cumplir su propósito salvador.",
+      references: "Gn 12:1-3; Heb 1:1-2; Gá 4:4-6",
+    ),
+    StudySection(
+      title: "43. La nueva creación y la comunión eterna",
+      content: "La esperanza bíblica culmina en la nueva creación, donde Dios habitará con su pueblo. La comunión restaurada será el destino de quienes pertenecen al Señor.",
+      references: "Ap 21:1-4; 22:1-5",
+    ),
+    StudySection(
+      title: "44. Evitar confundir a Dios con el universo",
+      content: "Es incorrecto identificar la creación con Dios o afirmar que cada objeto constituye una parte de su esencia. La Biblia distingue al Creador de sus obras.",
+      references: "Ro 1:20-25; Gn 1:1",
+    ),
+    StudySection(
+      title: "45. Evitar imaginar un Dios distante",
+      content: "También es incorrecto pensar que Dios creó el mundo y después dejó de relacionarse con él. La Escritura afirma que sostiene, conoce y gobierna su creación.",
+      references: "Col 1:17; Sal 139:7-10",
+    ),
+    StudySection(
+      title: "46. La trascendencia no es indiferencia",
+      content: "Dios supera infinitamente el universo, pero se acerca a los humildes, escucha la oración y actúa en la historia. Su grandeza y compasión no se contradicen.",
+      references: "Is 57:15; Sal 145:18",
+    ),
+    StudySection(
+      title: "47. La inmanencia no es aprobación moral",
+      content: "Que Dios esté presente y conozca todas las cosas no significa que apruebe todas las acciones. Su santidad establece la diferencia entre su voluntad y el pecado humano.",
+      references: "Hab 1:13; Stg 1:13",
+    ),
+    StudySection(
+      title: "48. Las misiones personales en la Trinidad",
+      content: "El Padre envía al Hijo; el Hijo realiza la redención; el Espíritu Santo consuela, guía y aplica la obra de Cristo. Estas misiones distinguen a las personas sin dividir la esencia divina.",
+      references: "Jn 3:16-17; 14:16-26; Ef 2:18",
+    ),
+    StudySection(
+      title: "49. La comunión con Dios por medio de Cristo",
+      content: "Por medio del Hijo, los creyentes tienen acceso al Padre en un mismo Espíritu. La cercanía cristiana es trinitaria y descansa en la obra de gracia de Dios.",
+      references: "Ef 2:18; Ro 5:1-2",
+    ),
+    StudySection(
+      title: "50. Aplicación: reverencia y confianza",
+      content: "La trascendencia nos llama a reverencia y humildad; la inmanencia nos invita a confiar en el cuidado de Dios. Ambas verdades deben moldear la adoración, la conducta y la esperanza cristiana.",
+      references: "Ro 11:33-36; Col 3:17",
+    )
+  ],
+  conclusion: 'La trascendencia y la inmanencia de Dios son verdades complementarias. Dios es infinitamente superior a su creación: no depende de ella, no está limitado por el espacio y no puede ser encerrado en ninguna estructura. Sin embargo, está presente y activo en todo cuanto existe: sostiene la vida, gobierna la historia y se relaciona con su pueblo. La doctrina de la Trinidad muestra la obra del único Dios en las personas del Padre, del Hijo y del Espíritu Santo. El creyente debe vivir con reverencia ante la grandeza de Dios y con confianza en su cercanía.'
+),
 ];
 
 @override
