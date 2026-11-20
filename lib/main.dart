@@ -15337,6 +15337,266 @@ Study(
     )
   ],
   conclusion: 'La trascendencia y la inmanencia de Dios son verdades complementarias. Dios es infinitamente superior a su creación: no depende de ella, no está limitado por el espacio y no puede ser encerrado en ninguna estructura. Sin embargo, está presente y activo en todo cuanto existe: sostiene la vida, gobierna la historia y se relaciona con su pueblo. La doctrina de la Trinidad muestra la obra del único Dios en las personas del Padre, del Hijo y del Espíritu Santo. El creyente debe vivir con reverencia ante la grandeza de Dios y con confianza en su cercanía.'
+),,
+
+Study(
+  number: '63',
+  title: 'La autosuficiencia de Dios: su independencia absoluta y la ausencia de necesidades en su naturaleza divina',
+  subtitle: 'Dios existe por sí mismo y no depende de la creación; su plenitud eterna se revela en la comunión del Padre, del Hijo y del Espíritu Santo.',
+  introduction: 'La autosuficiencia divina enseña que Dios no necesita recibir de sus criaturas aquello que le falta, porque su existencia y perfección no dependen de nada externo. Él no creó por soledad, no necesita adoración para subsistir ni requiere recursos humanos para conservar su poder. Sin embargo, su independencia no significa indiferencia: libremente crea, sostiene, ama, salva y se relaciona con su pueblo. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina eterna y no dependen de la creación para ser Dios.',
+  sections: [
+    StudySection(
+      title: "1. Qué significa la autosuficiencia divina",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «qué significa la autosuficiencia divina», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Éxodo 3:14; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "2. Dios existe sin causa anterior",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «dios existe sin causa anterior», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 90:2; Génesis 1:1",
+    ),
+    StudySection(
+      title: "3. La vida de Dios en sí mismo",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la vida de dios en sí mismo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 5:26; Juan 1:4",
+    ),
+    StudySection(
+      title: "4. Dios no necesita sustento",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «dios no necesita sustento», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "5. La creación no completa a Dios",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «la creación no completa a dios», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 19:1; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "6. Dios no creó por soledad",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «dios no creó por soledad», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-2; 17:24",
+    ),
+    StudySection(
+      title: "7. La autosuficiencia y la Trinidad",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la autosuficiencia y la trinidad», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Mateo 28:19; Juan 14:16-17",
+    ),
+    StudySection(
+      title: "8. La autosuficiencia del Padre",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «la autosuficiencia del padre», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Efesios 1:3; 1 Corintios 8:6",
+    ),
+    StudySection(
+      title: "9. La vida divina del Hijo",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «la vida divina del hijo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-3; Colosenses 2:9",
+    ),
+    StudySection(
+      title: "10. La divinidad del Espíritu Santo",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la divinidad del espíritu santo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11",
+    ),
+    StudySection(
+      title: "11. Dios no necesita adoración para existir",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «dios no necesita adoración para existir», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 29:1-2; Apocalipsis 4:11",
+    ),
+    StudySection(
+      title: "12. El servicio humano no completa a Dios",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «el servicio humano no completa a dios», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 17:25; 1 Corintios 3:5-9",
+    ),
+    StudySection(
+      title: "13. Dios no necesita consejo",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «dios no necesita consejo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Isaías 40:13-14; Romanos 11:33-34",
+    ),
+    StudySection(
+      title: "14. Dios no necesita aprender",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «dios no necesita aprender», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 147:5; Isaías 46:9-10",
+    ),
+    StudySection(
+      title: "15. Dios no necesita poder externo",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «dios no necesita poder externo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Job 42:2; Jeremías 32:17",
+    ),
+    StudySection(
+      title: "16. Dios no necesita protección",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «dios no necesita protección», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 46:1-3; Isaías 40:28",
+    ),
+    StudySection(
+      title: "17. Dios no necesita riquezas materiales",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «dios no necesita riquezas materiales», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hageo 2:8; Salmos 50:10-12",
+    ),
+    StudySection(
+      title: "18. La generosidad divina no nace de carencia",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la generosidad divina no nace de carencia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Santiago 1:5,17; Romanos 8:32",
+    ),
+    StudySection(
+      title: "19. La creación como acto libre",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la creación como acto libre», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Apocalipsis 4:11; Génesis 1:1",
+    ),
+    StudySection(
+      title: "20. La creación manifiesta su gloria",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «la creación manifiesta su gloria», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 19:1-4; Romanos 1:20",
+    ),
+    StudySection(
+      title: "21. Dios no depende de templos",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «dios no depende de templos», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Éxodo 3:14; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "22. Dios no depende de instituciones humanas",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «dios no depende de instituciones humanas», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 90:2; Génesis 1:1",
+    ),
+    StudySection(
+      title: "23. Dios no depende de aprobación humana",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «dios no depende de aprobación humana», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 5:26; Juan 1:4",
+    ),
+    StudySection(
+      title: "24. Autosuficiencia no significa egoísmo",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «autosuficiencia no significa egoísmo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "25. El amor eterno dentro de la Trinidad",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «el amor eterno dentro de la trinidad», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 19:1; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "26. La relación eterna entre Padre e Hijo",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la relación eterna entre padre e hijo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-2; 17:24",
+    ),
+    StudySection(
+      title: "27. El Espíritu y la comunión divina",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «el espíritu y la comunión divina», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Mateo 28:19; Juan 14:16-17",
+    ),
+    StudySection(
+      title: "28. La misión del Hijo no niega su divinidad",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «la misión del hijo no niega su divinidad», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Efesios 1:3; 1 Corintios 8:6",
+    ),
+    StudySection(
+      title: "29. La misión del Espíritu Santo",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «la misión del espíritu santo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-3; Colosenses 2:9",
+    ),
+    StudySection(
+      title: "30. La autosuficiencia y la encarnación",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la autosuficiencia y la encarnación», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11",
+    ),
+    StudySection(
+      title: "31. La obediencia de Jesús durante su misión",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la obediencia de jesús durante su misión», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 29:1-2; Apocalipsis 4:11",
+    ),
+    StudySection(
+      title: "32. Dios no necesita el pecado",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «dios no necesita el pecado», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 17:25; 1 Corintios 3:5-9",
+    ),
+    StudySection(
+      title: "33. Dios no necesita el sufrimiento",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «dios no necesita el sufrimiento», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Isaías 40:13-14; Romanos 11:33-34",
+    ),
+    StudySection(
+      title: "34. La autosuficiencia y la providencia",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la autosuficiencia y la providencia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 147:5; Isaías 46:9-10",
+    ),
+    StudySection(
+      title: "35. La autosuficiencia y la oración",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la autosuficiencia y la oración», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Job 42:2; Jeremías 32:17",
+    ),
+    StudySection(
+      title: "36. La autosuficiencia y la gratitud",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «la autosuficiencia y la gratitud», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 46:1-3; Isaías 40:28",
+    ),
+    StudySection(
+      title: "37. La dependencia humana",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «la dependencia humana», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hageo 2:8; Salmos 50:10-12",
+    ),
+    StudySection(
+      title: "38. La salvación es por gracia",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la salvación es por gracia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Santiago 1:5,17; Romanos 8:32",
+    ),
+    StudySection(
+      title: "39. Dios no puede comprarse",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «dios no puede comprarse», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Apocalipsis 4:11; Génesis 1:1",
+    ),
+    StudySection(
+      title: "40. La autosuficiencia y la justicia divina",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «la autosuficiencia y la justicia divina», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 19:1-4; Romanos 1:20",
+    ),
+    StudySection(
+      title: "41. La autosuficiencia y la fidelidad",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «la autosuficiencia y la fidelidad», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Éxodo 3:14; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "42. La adoración verdadera",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la adoración verdadera», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 90:2; Génesis 1:1",
+    ),
+    StudySection(
+      title: "43. El servicio cristiano",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «el servicio cristiano», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 5:26; Juan 1:4",
+    ),
+    StudySection(
+      title: "44. Errores al comprender la autosuficiencia",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «errores al comprender la autosuficiencia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "45. Independencia divina y cercanía",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «independencia divina y cercanía», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Salmos 19:1; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "46. La misión de la Iglesia",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «la misión de la iglesia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-2; 17:24",
+    ),
+    StudySection(
+      title: "47. La autosuficiencia y la esperanza futura",
+      content: "En el contexto bíblico, esta enseñanza debe mantenerse unida a la santidad, sabiduría y amor divinos. No debemos extraer una conclusión que contradiga otros pasajes, sino reconocer la plenitud del único Dios y su obra en la historia. Al estudiar «la autosuficiencia y la esperanza futura», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Mateo 28:19; Juan 14:16-17",
+    ),
+    StudySection(
+      title: "48. Depender de Dios sin intentar manipularlo",
+      content: "La doctrina también tiene una dimensión trinitaria: el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Sus relaciones y misiones no significan que la esencia de Dios sea incompleta o dependa del universo. Al estudiar «depender de dios sin intentar manipularlo», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Efesios 1:3; 1 Corintios 8:6",
+    ),
+    StudySection(
+      title: "49. Gratitud y generosidad del creyente",
+      content: "Dios posee existencia y plenitud por sí mismo. El pasaje enseña que ninguna criatura puede convertirse en fuente de su ser ni añadir perfección a su naturaleza. Esta verdad distingue al Creador de todo lo creado y conduce a una adoración reverente. Al estudiar «gratitud y generosidad del creyente», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Juan 1:1-3; Colosenses 2:9",
+    ),
+    StudySection(
+      title: "50. Síntesis trinitaria de la autosuficiencia",
+      content: "La Escritura presenta a Dios como independiente de las necesidades humanas. No significa que sea distante: libremente se revela, sostiene y salva. La criatura depende de Él, mientras que el Señor no depende de aquello que ha creado. Al estudiar «síntesis trinitaria de la autosuficiencia», observamos que Dios no recibe de la creación aquello que le falta; por el contrario, sus criaturas reciben de Él existencia, sustento y gracia. La aplicación correcta es vivir con humildad, gratitud y dependencia del Señor.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11",
+    )
+  ],
+  conclusion: 'Dios es absolutamente autosuficiente: existe por sí mismo, posee vida en sí mismo y no necesita que la creación complete su plenitud. La adoración, el servicio y las ofrendas no satisfacen una carencia divina; son respuestas humanas a su dignidad y generosidad. Esta independencia no convierte a Dios en un ser distante: Él crea, sostiene, ama y salva por voluntad libre. El Padre, el Hijo y el Espíritu Santo comparten la única esencia divina eterna. Por tanto, la autosuficiencia nos llama a la humildad, la gratitud, la confianza y una vida de servicio que depende de la gracia de Dios.',
 ),
 ];
 
