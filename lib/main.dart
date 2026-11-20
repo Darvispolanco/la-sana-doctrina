@@ -15857,6 +15857,266 @@ Study(
     )
   ],
   conclusion: 'La gloria pertenece eternamente a Dios y revela su excelencia, santidad, majestad y amor. La creación la anuncia, la historia de la redención la manifiesta y Jesucristo, el Hijo eterno encarnado, revela al Padre. El Espíritu Santo glorifica al Hijo y transforma a los creyentes para reflejar su carácter. El Padre, el Hijo y el Espíritu Santo no son tres dioses ni tres fuentes separadas de gloria, sino las tres personas del único Dios. Por eso, la respuesta correcta es adorarlo con reverencia, vivir en santidad, servir con humildad y hacer todas las cosas para su gloria.',
+),,
+
+Study(
+  number: '65',
+  title: 'La bienaventuranza de Dios: la plenitud de su gozo, felicidad y perfecta satisfacción en sí mismo',
+  subtitle: 'Dios es eternamente pleno y bienaventurado; el gozo del creyente es un don que procede de Él.',
+  introduction: 'La bienaventuranza de Dios expresa que Él posee en sí mismo plenitud perfecta, gozo eterno y completa satisfacción. Su felicidad no depende de la creación, de la aprobación humana ni de circunstancias cambiantes. La Biblia presenta al Padre, al Hijo y al Espíritu Santo como las tres personas distintas del único Dios, que comparten plenamente la misma naturaleza divina. También enseña que el gozo de los creyentes es recibido por gracia y sostenido por el Espíritu. Este estudio distingue la plenitud esencial de Dios del gozo derivado de sus criaturas, y evita confundir la alegría bíblica con prosperidad material, euforia constante o ausencia de sufrimiento.',
+  sections: [
+    StudySection(
+      title: "1. El significado bíblico de bienaventurado",
+      content: "La Escritura llama bienaventurado a Dios para expresar que posee plenitud perfecta y no está sujeto a carencia ni dependencia. Su felicidad no es pasajera, sino una perfección constante de su ser.",
+      references: "1 Timoteo 1:11; 6:15",
+    ),
+    StudySection(
+      title: "2. Dios es feliz en sí mismo",
+      content: "Dios no necesita que algo externo complete su existencia. Padre, Hijo y Espíritu Santo poseen eternamente la plenitud de la única naturaleza divina.",
+      references: "Hechos 17:24-25; Juan 17:5",
+    ),
+    StudySection(
+      title: "3. La bienaventuranza como atributo",
+      content: "La bienaventuranza describe la perfección de Dios desde la perspectiva de su plenitud. No es simplemente una emoción humana elevada, sino una realidad propia del Dios eterno.",
+      references: "1 Timoteo 1:11; Salmos 16:11",
+    ),
+    StudySection(
+      title: "4. La eternidad del gozo divino",
+      content: "Dios no pasa de carencia a plenitud por cambios circunstanciales. Su gozo es eterno porque su naturaleza permanece y sus perfecciones son completas.",
+      references: "Salmos 90:2; Santiago 1:17",
+    ),
+    StudySection(
+      title: "5. La independencia de la felicidad divina",
+      content: "Las criaturas dependen de Dios, pero Dios no depende de ellas para ser pleno. La creación no satisface una necesidad divina, sino que existe por su voluntad libre y bondad.",
+      references: "Hechos 17:24-25; Romanos 11:35-36",
+    ),
+    StudySection(
+      title: "6. La comunión eterna de la Trinidad",
+      content: "La fe cristiana confiesa un solo Dios en tres personas distintas. La comunión del Padre, del Hijo y del Espíritu no surgió en el tiempo, sino que es eterna.",
+      references: "Mateo 28:19; Juan 1:1-2; 17:5",
+    ),
+    StudySection(
+      title: "7. El amor eterno entre Padre e Hijo",
+      content: "Jesús habla del amor del Padre hacia Él antes de la fundación del mundo. Su relación no comenzó con la encarnación ni depende de la existencia humana.",
+      references: "Juan 17:24; 3:35",
+    ),
+    StudySection(
+      title: "8. El gozo del Padre en el Hijo",
+      content: "En el bautismo y la transfiguración, el Padre declara su complacencia en el Hijo amado. Esto revela una relación personal real y la aprobación perfecta del Padre.",
+      references: "Mateo 3:16-17; 17:5",
+    ),
+    StudySection(
+      title: "9. El Hijo en comunión con el Padre",
+      content: "Jesús cumple la voluntad del Padre en su misión encarnada. Su obediencia no niega su naturaleza divina, sino que expresa su misión como Hijo hecho hombre.",
+      references: "Juan 5:19-23; 6:38; 8:29",
+    ),
+    StudySection(
+      title: "10. El Espíritu Santo y la vida divina",
+      content: "El Espíritu Santo no es una fuerza impersonal ni una criatura. La Escritura lo presenta como persona divina que conoce, habla, guía y glorifica al Hijo.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11; Juan 16:13-14",
+    ),
+    StudySection(
+      title: "11. Gozo y santidad",
+      content: "La felicidad divina nunca consiste en aprobar el mal. Dios se complace en lo que corresponde a su carácter santo y justo.",
+      references: "Salmos 5:4; 11:7; Habacuc 1:13",
+    ),
+    StudySection(
+      title: "12. Dios se complace en la verdad",
+      content: "La verdad corresponde a la naturaleza de Dios. Su deleite no está en el engaño ni en la apariencia religiosa, sino en la integridad que refleja su carácter.",
+      references: "Salmos 51:6; Proverbios 12:22",
+    ),
+    StudySection(
+      title: "13. Dios se complace en la justicia",
+      content: "La justicia no es una regla superior que obligue a Dios; expresa su propio carácter recto. Por eso se opone a la opresión y llama a practicar la justicia.",
+      references: "Salmos 11:7; Jeremías 9:24; Miqueas 6:8",
+    ),
+    StudySection(
+      title: "14. Dios se complace en la misericordia",
+      content: "La Escritura presenta a Dios como compasivo y misericordioso. Su disposición a perdonar manifiesta su carácter y su propósito redentor en Cristo.",
+      references: "Miqueas 7:18-20; Efesios 2:4-7",
+    ),
+    StudySection(
+      title: "15. El gozo de Dios en sus obras",
+      content: "Al concluir la creación, Dios vio que todo era bueno en gran manera. La creación no completó una carencia divina, sino que correspondió a su propósito sabio.",
+      references: "Génesis 1:31; Salmos 104:31",
+    ),
+    StudySection(
+      title: "16. La creación no aumenta la plenitud de Dios",
+      content: "Dios ya era plenamente Dios antes de crear. Las criaturas pueden reconocer su gloria y recibir su bondad, pero no añadir perfección al Creador.",
+      references: "Salmos 50:10-12; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "17. El gozo de Dios en la redención",
+      content: "La salvación revela la gracia de Dios y su propósito de reunir un pueblo para sí. La redención procede de su voluntad amorosa y santa, no de una necesidad que deba suplir.",
+      references: "Efesios 1:3-10; Tito 3:4-7",
+    ),
+    StudySection(
+      title: "18. El gozo del Hijo al cumplir su misión",
+      content: "Jesús perseveró en la misión recibida del Padre y puso delante de sí el gozo relacionado con el resultado de su obra. Su entrega revela obediencia y confianza.",
+      references: "Hebreos 12:2; Juan 4:34",
+    ),
+    StudySection(
+      title: "19. La alegría anunciada en el evangelio",
+      content: "El nacimiento del Salvador fue anunciado como buenas nuevas de gran gozo. La alegría cristiana se funda en la llegada del Mesías y su salvación, no en la ausencia de dificultades.",
+      references: "Lucas 2:10-11",
+    ),
+    StudySection(
+      title: "20. El reino de Dios y el gozo",
+      content: "El reino de Dios se caracteriza por justicia, paz y gozo en el Espíritu Santo. Este gozo nace de la reconciliación con Dios y de la vida bajo su gobierno.",
+      references: "Romanos 14:17",
+    ),
+    StudySection(
+      title: "21. El gozo como fruto del Espíritu",
+      content: "El Espíritu produce gozo en el creyente. Esto no significa que toda emoción difícil desaparezca, sino que Dios sostiene una esperanza profunda en diversas circunstancias.",
+      references: "Gálatas 5:22-23; Romanos 15:13",
+    ),
+    StudySection(
+      title: "22. El gozo de Jesús en sus discípulos",
+      content: "Jesús habló para que su gozo estuviera en sus discípulos. La alegría cristiana se relaciona con permanecer en Cristo, guardar su palabra y vivir en su amor.",
+      references: "Juan 15:9-11",
+    ),
+    StudySection(
+      title: "23. Permanecer en Cristo",
+      content: "Permanecer en Cristo implica depender de su palabra y obedecerle. El gozo no se obtiene mediante fórmulas, sino como fruto de la comunión con el Señor.",
+      references: "Juan 15:4-11",
+    ),
+    StudySection(
+      title: "24. El gozo durante las pruebas",
+      content: "La fe puede perseverar con esperanza durante las pruebas. Esto no exige negar el dolor ni fingir emociones, sino confiar en Dios mientras se atraviesan circunstancias difíciles.",
+      references: "Santiago 1:2-4; 1 Pedro 1:6-9",
+    ),
+    StudySection(
+      title: "25. Gozo no significa comodidad",
+      content: "El gozo bíblico no equivale a una vida sin problemas, recursos abundantes o reconocimiento social. Puede coexistir con lágrimas porque su fundamento está en Dios.",
+      references: "Habacuc 3:17-19; 2 Corintios 6:10",
+    ),
+    StudySection(
+      title: "26. El gozo y la esperanza futura",
+      content: "La esperanza de la gloria fortalece al creyente en el presente. La plenitud prometida aún no se ha manifestado por completo, pero la fidelidad divina sostiene la confianza.",
+      references: "Romanos 5:1-5; 8:18-25",
+    ),
+    StudySection(
+      title: "27. El gozo de la salvación",
+      content: "La salvación produce gratitud porque Dios rescata por gracia. La seguridad del creyente descansa en la obra de Cristo, no en la intensidad de sus emociones.",
+      references: "Salmos 51:12; Lucas 10:20; Filipenses 3:1",
+    ),
+    StudySection(
+      title: "28. El gozo ante el arrepentimiento",
+      content: "La Biblia describe el gozo que hay delante de Dios cuando el pecador se arrepiente. Esta enseñanza revela el valor de la restauración y llama a recibir con misericordia al que vuelve.",
+      references: "Lucas 15:7,10,20-24",
+    ),
+    StudySection(
+      title: "29. Gozo y obediencia",
+      content: "La obediencia no compra el favor de Dios. Es la respuesta agradecida de quienes han recibido su gracia y desean andar en la voluntad del Señor.",
+      references: "Juan 14:15; 1 Juan 5:3",
+    ),
+    StudySection(
+      title: "30. Gozo y adoración",
+      content: "La adoración expresa gratitud y reconocimiento de la bondad divina. No debe medirse solo por intensidad musical, sino por verdad, reverencia y sinceridad.",
+      references: "Salmos 100:1-5; Juan 4:23-24",
+    ),
+    StudySection(
+      title: "31. Gozo y oración",
+      content: "La oración permite presentar peticiones y agradecer. La paz prometida no depende de controlar cada circunstancia, sino de confiar en el Señor.",
+      references: "Filipenses 4:4-7; 1 Tesalonicenses 5:16-18",
+    ),
+    StudySection(
+      title: "32. Gozo y comunión de la Iglesia",
+      content: "La comunidad cristiana comparte cargas, consuelos y motivos de gratitud. El gozo de unos fortalece a otros cuando se practica el amor y se evita la comparación.",
+      references: "Romanos 12:15; Filipenses 2:1-4",
+    ),
+    StudySection(
+      title: "33. Gozo y servicio",
+      content: "Servir con alegría significa reconocer el privilegio de pertenecer al Señor y ayudar a otros. No implica ocultar el cansancio, sino servir con fidelidad y responsabilidad.",
+      references: "Salmos 100:2; Colosenses 3:23-24",
+    ),
+    StudySection(
+      title: "34. Gozo y generosidad",
+      content: "La generosidad cristiana nace de una disposición voluntaria, no de presión o manipulación. Dios ama al dador alegre y permite compartir con otros.",
+      references: "2 Corintios 9:7-11",
+    ),
+    StudySection(
+      title: "35. Gozo en la verdad del evangelio",
+      content: "La verdad de Cristo es motivo de alegría porque libera del engaño y orienta hacia la vida eterna. La alegría nunca justifica alterar el mensaje bíblico.",
+      references: "Juan 8:31-32; 3 Juan 3-4",
+    ),
+    StudySection(
+      title: "36. Dios no necesita al ser humano",
+      content: "La Biblia rechaza que Dios dependa de la actividad humana para subsistir o alcanzar plenitud. El servicio cristiano es respuesta a la gracia, no una contribución que complete a Dios.",
+      references: "Hechos 17:24-25; Job 22:2-3",
+    ),
+    StudySection(
+      title: "37. No siempre se debe sentir euforia",
+      content: "La Escritura reconoce el lamento, el cansancio y la tristeza. La fe no obliga a aparentar felicidad permanente ni a juzgar la espiritualidad por el estado emocional.",
+      references: "Salmos 42:5; Juan 11:33-36; 2 Corintios 1:8-9",
+    ),
+    StudySection(
+      title: "38. Bienaventuranza e inmutabilidad",
+      content: "Dios no pierde su plenitud ni necesita recuperarla. Su perfección permanece estable y sus obras en la historia son coherentes con su carácter eterno.",
+      references: "Malaquías 3:6; Santiago 1:17",
+    ),
+    StudySection(
+      title: "39. Bienaventuranza y soberanía",
+      content: "Dios gobierna con libertad y sabiduría, sin estar sometido a poderes superiores. Su soberanía no es caprichosa: corresponde a su naturaleza santa y perfecta.",
+      references: "Salmos 115:3; Daniel 4:35; Efesios 1:11",
+    ),
+    StudySection(
+      title: "40. Bienaventuranza y bondad",
+      content: "La plenitud divina no hace a Dios indiferente a su creación. Su bondad se manifiesta al sostener, proveer y llamar a las personas a recibir su gracia.",
+      references: "Salmos 145:8-9; Mateo 5:45",
+    ),
+    StudySection(
+      title: "41. Bienaventuranza y gloria",
+      content: "La gloria expresa la excelencia divina y la bienaventuranza su plenitud perfecta. Son conceptos relacionados, pero distintos: Dios es glorioso y bienaventurado por quien es.",
+      references: "1 Timoteo 1:11; 6:15-16",
+    ),
+    StudySection(
+      title: "42. Adoración trinitaria",
+      content: "La Iglesia honra al único Dios: al Padre, por medio del Hijo, en el Espíritu Santo. Esto reconoce la distinción personal sin dividir la esencia divina.",
+      references: "Efesios 2:18; 1 Pedro 1:2; Judas 20-21",
+    ),
+    StudySection(
+      title: "43. El gozo del creyente es recibido por gracia",
+      content: "El creyente no posee la autosuficiencia de Dios. Recibe vida, comunión y esperanza como dones; su felicidad es dependiente y derivada, mientras que la de Dios es esencial.",
+      references: "Salmos 16:11; Juan 15:5; Romanos 8:32",
+    ),
+    StudySection(
+      title: "44. Gozo pleno en la presencia de Dios",
+      content: "La esperanza final es estar con el Señor y disfrutar de su presencia. Esto no significa convertirse en divinidad, sino recibir vida eterna en comunión con Dios.",
+      references: "Salmos 16:11; Apocalipsis 21:3-4",
+    ),
+    StudySection(
+      title: "45. Cultivar el gozo cristiano",
+      content: "La confianza en las promesas, la oración, la comunión y la obediencia alimentan una esperanza sostenida por el Espíritu. No son técnicas para controlar emociones, sino respuestas de fe.",
+      references: "Romanos 12:12; Filipenses 4:4-7; Colosenses 3:16",
+    ),
+    StudySection(
+      title: "46. No usar el gozo para sentirse superior",
+      content: "Nadie debe declararse más espiritual por su estado emocional. La Escritura llama a consolar, acompañar y llevar las cargas mutuamente.",
+      references: "Gálatas 6:2; Romanos 12:15",
+    ),
+    StudySection(
+      title: "47. Bienaventuranza y misión cristiana",
+      content: "La misión anuncia al Dios vivo que ofrece reconciliación y vida en Cristo. No promete felicidad superficial, sino que llama a conocer al Padre, al Hijo y al Espíritu Santo.",
+      references: "Mateo 28:19-20; Juan 17:3",
+    ),
+    StudySection(
+      title: "48. La diferencia entre plenitud divina y alegría humana",
+      content: "La plenitud de Dios es esencial, eterna e independiente. La alegría humana es creada, variable y sostenida por la gracia; confundirlas borra la diferencia entre Creador y criatura.",
+      references: "Salmos 16:11; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "49. El gozo como testimonio cristiano",
+      content: "Una esperanza firme, acompañada de amor y paciencia, puede dar testimonio del evangelio. El creyente no necesita fingir que todo está bien, sino mostrar una confianza sincera en Dios.",
+      references: "1 Pedro 3:15; Filipenses 2:14-16",
+    ),
+    StudySection(
+      title: "50. Síntesis: Dios, fuente eterna de plenitud",
+      content: "Dios es eternamente bienaventurado: nada puede añadir o quitar perfección a su naturaleza. El Padre ama al Hijo, el Hijo vive en comunión perfecta con el Padre y el Espíritu participa plenamente de la única vida divina. El creyente recibe gozo por gracia y aprende a vivir en esperanza aun en las pruebas.",
+      references: "1 Timoteo 1:11; Juan 17:5,24; Romanos 15:13",
+    )
+  ],
+  conclusion: 'La bienaventuranza pertenece a la naturaleza eterna de Dios. Él no necesita nada creado para alcanzar plenitud, porque su ser es perfecto y su comunión trinitaria es eterna. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina; por eso no existen tres felicidades divinas separadas, sino la plenitud del único Dios. El gozo que recibe el creyente es distinto: es un don de gracia que nace de la salvación, la comunión con Cristo y la obra del Espíritu. Puede permanecer como esperanza en medio de las pruebas, sin exigir que se niegue el dolor ni que se aparente una emoción permanente. La respuesta bíblica es confiar en Dios, obedecer su palabra y vivir agradecidos delante de Él.',
 ),
 ];
 
