@@ -16378,7 +16378,7 @@ Study(
   conclusion: "La voluntad de Dios es santa, sabia y coherente con todo lo que Él es. El Padre, el Hijo y el Espíritu Santo comparten la única voluntad divina, aunque cada persona actúa según su relación personal y su misión en la obra de Dios. La obediencia de Jesús en su humanidad revela la perfecta sumisión del Hijo encarnado al Padre, sin dividir la esencia divina. La Escritura llama al creyente a abandonar el pecado, renovar su mente, amar al prójimo y someter sus planes al Señor. No debemos atribuir a Dios la maldad humana ni convertir nuestras impresiones en mandamientos divinos. Con humildad, estudio bíblico, oración y sabiduría, podemos procurar aquello que agrada al Señor y confiar en que sus propósitos permanecen."
   ),
   Study(
-    number: '66',
+    number: '67',
     title: 'La belleza de Dios: su hermosura perfecta, su excelencia y el resplandor de su santidad',
     subtitle: 'La perfección divina como fuente de toda belleza y fundamento de una adoración reverente.',
     introduction: 'La belleza de Dios no consiste en una apariencia física ni depende de los gustos humanos. La Escritura presenta la hermosura divina como la excelencia perfecta de su ser y de su carácter: santidad, verdad, justicia, amor, misericordia y sabiduría sin defecto. Esta belleza pertenece eternamente al único Dios, que existe en tres personas distintas: el Padre, el Hijo y el Espíritu Santo. Se revela en sus obras y, de manera especial, en Jesucristo, imagen del Dios invisible. Este estudio distingue la belleza divina de la gloria de Dios, ya estudiada, y examina cómo la contemplación bíblica de su excelencia transforma la adoración y la vida del creyente.',
@@ -16637,7 +16637,7 @@ Study(
     conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
   ),,
   Study(
-    number: '66',
+    number: '68',
     title: "La paz de Dios: su perfecta armonía, plenitud y obra reconciliadora en Jesucristo",
     subtitle: 'La paz no es una simple sensación humana: tiene su fundamento en el carácter perfecto de Dios y se manifiesta en la reconciliación realizada por Jesucristo.',
     introduction: "La paz de Dios expresa la perfecta armonía, plenitud e integridad de su ser. No significa indiferencia frente al pecado ni ausencia de justicia, sino la perfección de un Dios en quien no existe contradicción moral ni desorden. La Escritura lo llama Dios de paz y presenta a Jesucristo como nuestra paz, porque por medio de su cruz Dios reconcilia consigo a los que creen. El Padre envía al Hijo, el Hijo realiza la reconciliación y el Espíritu Santo aplica sus beneficios y produce fruto de paz en la vida de los creyentes. Este estudio distingue la paz como perfección divina, la paz con Dios obtenida por la justificación y la paz que el Espíritu forma en la comunidad cristiana.",
@@ -17130,7 +17130,266 @@ const terms = [
 ('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
 ('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
 ('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),
+('Revelación', 'Acción por la que Dios se da a conocer.'),,
+Study(
+  number: '69',
+  title: "La Iglesia de Jesucristo: su identidad, fundamento, naturaleza y misión en la comunión del Dios trino",
+  subtitle: 'La comunidad redimida por Cristo, edificada sobre su enseñanza y llamada a vivir y servir en la comunión del Padre, del Hijo y del Espíritu Santo.',
+  introduction: "La Iglesia de Jesucristo es la comunidad de personas llamadas por Dios mediante el evangelio, redimidas por el Hijo y vivificadas por el Espíritu Santo. No es simplemente un edificio, una organización humana ni el proyecto personal de un líder. La Escritura la presenta como pueblo de Dios, cuerpo de Cristo, familia espiritual y templo del Espíritu. Su identidad está arraigada en la obra del Dios trino; su fundamento es Jesucristo y la enseñanza apostólica; y su misión consiste en adorar, hacer discípulos, anunciar el evangelio, servir al prójimo y perseverar en la verdad. Este estudio examina la naturaleza, organización, vida y misión de la Iglesia sin confundir la Iglesia universal con las congregaciones locales ni permitir que las estructuras humanas sustituyan el señorío de Cristo.",
+  sections: [
+    StudySection(
+      title: "1. La Iglesia pertenece a Jesucristo",
+      content: "La Iglesia no es propiedad de un líder ni de una institución humana. Pertenece a Cristo, quien la redimió y es su Señor; esta identidad determina su autoridad y propósito.",
+      references: "Mateo 16:18; Hechos 20:28; Efesios 5:25-27",
+    ),
+    StudySection(
+      title: "2. El significado bíblico de Iglesia",
+      content: "La Iglesia es la asamblea del pueblo convocado por Dios mediante el evangelio. En el Nuevo Testamento describe a quienes creen en Cristo y se reúnen en su nombre.",
+      references: "Hechos 2:41-47; 1 Corintios 1:2",
+    ),
+    StudySection(
+      title: "3. La Iglesia como pueblo de Dios",
+      content: "Los creyentes son llamados pueblo adquirido para anunciar las virtudes de Dios. Esta identidad se entiende a la luz de las promesas bíblicas y de la obra de Cristo.",
+      references: "1 Pedro 2:9-10; Efesios 2:11-22",
+    ),
+    StudySection(
+      title: "4. Cristo es el fundamento",
+      content: "Jesucristo es el fundamento decisivo de la Iglesia. Ninguna personalidad, tradición o estructura puede sustituir su persona y obra redentora.",
+      references: "1 Corintios 3:11; Efesios 2:20",
+    ),
+    StudySection(
+      title: "5. El testimonio apostólico",
+      content: "La enseñanza de los apóstoles da testimonio autorizado de Cristo y orienta la doctrina de la Iglesia. La comunidad no puede reemplazar el evangelio por otro mensaje.",
+      references: "Hechos 2:42; Gálatas 1:8-9",
+    ),
+    StudySection(
+      title: "6. Cristo es la cabeza",
+      content: "Cristo dirige y gobierna a la Iglesia como cabeza. La comunidad depende de Él y debe someter su enseñanza y conducta a su autoridad.",
+      references: "Efesios 1:22-23; Colosenses 1:18",
+    ),
+    StudySection(
+      title: "7. La Iglesia como cuerpo de Cristo",
+      content: "La imagen del cuerpo enseña unidad, diversidad de funciones y dependencia mutua. Cada miembro tiene valor y responsabilidad en la edificación común.",
+      references: "1 Corintios 12:12-27; Romanos 12:4-5",
+    ),
+    StudySection(
+      title: "8. La obra del Padre en la Iglesia",
+      content: "El Padre llama y adopta un pueblo para sí por medio de Jesucristo. La identidad de la Iglesia nace de su propósito misericordioso.",
+      references: "Efesios 1:3-6; Juan 6:37",
+    ),
+    StudySection(
+      title: "9. La obra del Hijo en la Iglesia",
+      content: "El Hijo redime a la Iglesia por su sangre, la ama y la santifica. La cruz fundamenta su pertenencia a Cristo y su esperanza futura.",
+      references: "Efesios 5:25-27; Colosenses 1:13-14",
+    ),
+    StudySection(
+      title: "10. La obra del Espíritu Santo",
+      content: "El Espíritu da vida, distribuye dones y une a los creyentes en un solo cuerpo. Su presencia es esencial para la vida y misión de la Iglesia.",
+      references: "1 Corintios 12:4-13; Efesios 2:18,22",
+    ),
+    StudySection(
+      title: "11. La comunión trinitaria y la Iglesia",
+      content: "La Iglesia se acerca al Padre por medio del Hijo y en el Espíritu. Las tres personas actúan en perfecta unidad sin confundirse personalmente.",
+      references: "Efesios 2:18; 2 Corintios 13:14",
+    ),
+    StudySection(
+      title: "12. La Iglesia universal",
+      content: "La Iglesia universal comprende a todos los que pertenecen verdaderamente a Cristo, en todo lugar y generación. Ninguna congregación local agota por sí sola esa totalidad.",
+      references: "Efesios 1:22-23; Hebreos 12:22-24",
+    ),
+    StudySection(
+      title: "13. La iglesia local",
+      content: "Las congregaciones locales se reúnen para adorar, aprender, servir y cumplir la misión de Cristo. Su vida debe reflejar la enseñanza apostólica.",
+      references: "1 Corintios 1:2; Hechos 14:23",
+    ),
+    StudySection(
+      title: "14. La unidad de la Iglesia",
+      content: "La unidad cristiana se fundamenta en un Señor, una fe, un bautismo y un Espíritu. No exige uniformidad en todo asunto secundario, pero sí fidelidad al evangelio.",
+      references: "Efesios 4:1-6; Juan 17:20-23",
+    ),
+    StudySection(
+      title: "15. Diversidad de miembros y funciones",
+      content: "Dios concede dones y funciones diferentes para el bien común. Ningún miembro debe considerarse inútil ni superior por su servicio.",
+      references: "1 Corintios 12:14-26; Romanos 12:6-8",
+    ),
+    StudySection(
+      title: "16. La santidad de la Iglesia",
+      content: "La Iglesia es llamada a vivir apartada para Dios y reflejar el carácter de Cristo. La santidad comunitaria requiere verdad, arrepentimiento y cuidado mutuo.",
+      references: "Efesios 5:25-27; 1 Pedro 1:14-16",
+    ),
+    StudySection(
+      title: "17. La Iglesia como templo del Espíritu",
+      content: "La comunidad es descrita como templo donde habita el Espíritu. Esta verdad llama a preservar la santidad, la unidad y la reverencia.",
+      references: "1 Corintios 3:16-17; Efesios 2:21-22",
+    ),
+    StudySection(
+      title: "18. La Iglesia como familia",
+      content: "Los creyentes son hermanos y hermanas por la adopción en Cristo. La familia espiritual debe expresar cuidado, respeto y amor sincero.",
+      references: "Efesios 2:19; 1 Timoteo 5:1-2",
+    ),
+    StudySection(
+      title: "19. La enseñanza apostólica",
+      content: "La doctrina apostólica es esencial para la salud de la Iglesia. Toda enseñanza debe examinarse a la luz de las Escrituras.",
+      references: "Hechos 2:42; Tito 2:1; 2 Timoteo 1:13-14",
+    ),
+    StudySection(
+      title: "20. La predicación de la Palabra",
+      content: "La predicación anuncia fielmente las Escrituras y dirige a las personas a Cristo. No debe convertirse en exhibición personal ni manipulación.",
+      references: "2 Timoteo 4:1-5; 1 Corintios 2:1-5",
+    ),
+    StudySection(
+      title: "21. La adoración congregacional",
+      content: "La Iglesia se reúne para adorar con reverencia, verdad y edificación mutua. Cristo debe ser el centro de la reunión.",
+      references: "Juan 4:23-24; Colosenses 3:16",
+    ),
+    StudySection(
+      title: "22. La oración comunitaria",
+      content: "La oración expresa dependencia del Padre, confianza en Cristo y comunión en el Espíritu. La congregación ora por sus necesidades y su misión.",
+      references: "Hechos 4:23-31; Efesios 6:18",
+    ),
+    StudySection(
+      title: "23. El bautismo cristiano",
+      content: "El bautismo es una ordenanza de Cristo y un testimonio público de fe y unión con su muerte y resurrección. No es un mérito que compre la salvación.",
+      references: "Mateo 28:19; Romanos 6:3-4; Hechos 2:38-41",
+    ),
+    StudySection(
+      title: "24. La Cena del Señor",
+      content: "La Cena recuerda y proclama la muerte de Cristo hasta que Él venga. La Iglesia participa con reverencia, discernimiento y comunión.",
+      references: "1 Corintios 10:16-17; 11:23-29",
+    ),
+    StudySection(
+      title: "25. El liderazgo como servicio",
+      content: "Los líderes reciben responsabilidades para cuidar y edificar, no para dominar. Jesús enseñó que la grandeza se expresa en servir.",
+      references: "Marcos 10:42-45; 1 Pedro 5:2-4",
+    ),
+    StudySection(
+      title: "26. El carácter de los líderes",
+      content: "La Escritura exige carácter probado, dominio propio y fidelidad en quienes ejercen responsabilidad. El talento sin integridad no satisface los requisitos bíblicos.",
+      references: "1 Timoteo 3:1-13; Tito 1:5-9",
+    ),
+    StudySection(
+      title: "27. Pastores y ancianos",
+      content: "Los pastores cuidan, enseñan y guían al rebaño bajo la autoridad de Cristo. Su labor exige humildad y rendición de cuentas.",
+      references: "Hechos 20:17,28; 1 Pedro 5:1-4",
+    ),
+    StudySection(
+      title: "28. El servicio de los diáconos",
+      content: "El servicio organizado atiende necesidades concretas y contribuye a la unidad congregacional. También requiere madurez e integridad.",
+      references: "Hechos 6:1-7; 1 Timoteo 3:8-13",
+    ),
+    StudySection(
+      title: "29. La responsabilidad de cada miembro",
+      content: "Cada creyente participa en la edificación mediante sus dones, recursos, oración y conducta. La vida cristiana no se reduce a asistir a reuniones.",
+      references: "Efesios 4:15-16; Gálatas 6:10",
+    ),
+    StudySection(
+      title: "30. Los dones espirituales",
+      content: "Los dones son concedidos por el Espíritu para el bien común. Deben ejercerse con amor, orden y sujeción a la enseñanza bíblica.",
+      references: "1 Corintios 12:4-11; 14:1,26,40",
+    ),
+    StudySection(
+      title: "31. El fruto del Espíritu en la comunidad",
+      content: "El carácter producido por el Espíritu debe verse en las relaciones congregacionales. Los dones no sustituyen el amor ni el dominio propio.",
+      references: "Gálatas 5:22-23; 1 Corintios 13:1-7",
+    ),
+    StudySection(
+      title: "32. La disciplina eclesial",
+      content: "La disciplina busca restaurar al que cae, proteger a la comunidad y honrar a Cristo. Debe aplicarse con verdad, justicia y propósito restaurador.",
+      references: "Mateo 18:15-17; Gálatas 6:1",
+    ),
+    StudySection(
+      title: "33. La reconciliación entre creyentes",
+      content: "Los conflictos deben tratarse con verdad, perdón y búsqueda de paz. La reconciliación no significa encubrir abusos ni injusticias.",
+      references: "Mateo 5:23-24; Colosenses 3:12-15",
+    ),
+    StudySection(
+      title: "34. El cuidado de los necesitados",
+      content: "La Iglesia debe recordar a los pobres y afligidos mediante ayuda concreta y trato digno. La misericordia práctica forma parte del testimonio cristiano.",
+      references: "Hechos 6:1-4; Santiago 1:27; 1 Juan 3:17-18",
+    ),
+    StudySection(
+      title: "35. La protección de los vulnerables",
+      content: "La comunidad debe rechazar la explotación, el favoritismo y el abuso de autoridad. El liderazgo cristiano protege al rebaño y no se aprovecha de él.",
+      references: "Ezequiel 34:2-4; Marcos 9:42; 1 Pedro 5:2-3",
+    ),
+    StudySection(
+      title: "36. La misión evangelizadora",
+      content: "La Iglesia anuncia arrepentimiento y perdón en el nombre de Jesucristo. La evangelización es tarea comunitaria y debe realizarse con fidelidad y amor.",
+      references: "Mateo 28:18-20; Lucas 24:46-49",
+    ),
+    StudySection(
+      title: "37. La misión entre las naciones",
+      content: "El evangelio debe proclamarse a todos los pueblos. La misión busca formar discípulos que obedezcan a Cristo.",
+      references: "Hechos 1:8; Apocalipsis 7:9-10",
+    ),
+    StudySection(
+      title: "38. La Iglesia y la verdad en la sociedad",
+      content: "La Iglesia está llamada a sostener la verdad y mantener fidelidad a Cristo en medio de presiones culturales. Su testimonio une convicción doctrinal y conducta honorable.",
+      references: "1 Timoteo 3:15; Filipenses 2:14-16",
+    ),
+    StudySection(
+      title: "39. La Iglesia y las autoridades civiles",
+      content: "Los creyentes deben actuar como ciudadanos responsables, respetando a las autoridades dentro de los límites de la obediencia a Dios.",
+      references: "Romanos 13:1-7; Hechos 5:29; 1 Pedro 2:13-17",
+    ),
+    StudySection(
+      title: "40. Unidad sin abandonar la verdad",
+      content: "La unidad no exige aceptar enseñanzas contrarias al evangelio. La Iglesia busca la paz sin abandonar la verdad ni despreciar a otros creyentes.",
+      references: "Efesios 4:3-15; Romanos 14:1-6",
+    ),
+    StudySection(
+      title: "41. La advertencia contra falsos maestros",
+      content: "La Iglesia debe examinar las enseñanzas y proteger a los creyentes de doctrinas que desvían de Cristo. El discernimiento se ejerce mediante las Escrituras.",
+      references: "Hechos 20:28-31; 1 Juan 4:1-3",
+    ),
+    StudySection(
+      title: "42. La perseverancia congregacional",
+      content: "La Iglesia está llamada a permanecer en doctrina, comunión, oración y esperanza, aun en medio de dificultades.",
+      references: "Hechos 2:42; Hebreos 10:23-25",
+    ),
+    StudySection(
+      title: "43. La Iglesia en medio de persecución",
+      content: "La oposición no debe llevar a abandonar el testimonio de Cristo. Los creyentes responden con firmeza, oración y conducta honorable.",
+      references: "Hechos 8:1-4; 1 Pedro 3:14-17",
+    ),
+    StudySection(
+      title: "44. La diversidad cultural en la Iglesia",
+      content: "La Iglesia reúne personas de distintos pueblos y condiciones en Cristo. Las diferencias culturales no deben convertirse en barreras de dignidad o comunión.",
+      references: "Gálatas 3:28; Efesios 2:14-19",
+    ),
+    StudySection(
+      title: "45. La esperanza del regreso de Cristo",
+      content: "La comunidad espera el regreso de su Señor. Esta esperanza impulsa vigilancia, santidad, consuelo mutuo y fidelidad en la misión.",
+      references: "1 Tesalonicenses 4:13-18; Tito 2:11-14",
+    ),
+    StudySection(
+      title: "46. La Iglesia será presentada a Cristo",
+      content: "La Escritura describe a la Iglesia como la esposa que Cristo ama y prepara para sí. Su esperanza depende de la gracia y obra santificadora del Señor.",
+      references: "Efesios 5:25-27; Apocalipsis 19:7-9",
+    ),
+    StudySection(
+      title: "47. La Iglesia y la nueva creación",
+      content: "La comunidad redimida espera la consumación del propósito de Dios, cuando su pueblo habitará con Él en plenitud.",
+      references: "Apocalipsis 21:1-4; 22:3-5",
+    ),
+    StudySection(
+      title: "48. La Iglesia no es un edificio",
+      content: "Aunque se reúne en lugares físicos, la Iglesia no se reduce a una construcción. El edificio sirve a la reunión, pero la Iglesia es la comunidad redimida.",
+      references: "Hechos 7:48-50; 1 Corintios 3:16",
+    ),
+    StudySection(
+      title: "49. La Iglesia no es un espectáculo ni un negocio",
+      content: "La congregación no debe medir su fidelidad por fama, riqueza o entretenimiento. Su propósito es glorificar a Dios, proclamar a Cristo y edificar con integridad.",
+      references: "1 Pedro 5:2; 2 Corintios 2:17; 1 Tesalonicenses 2:3-5",
+    ),
+    StudySection(
+      title: "50. Síntesis: una Iglesia centrada en el Dios trino",
+      content: "La Iglesia pertenece al Padre, fue redimida por el Hijo y es habitada y capacitada por el Espíritu. Su identidad y misión permanecen bajo el señorío de Cristo y la autoridad bíblica.",
+      references: "Efesios 2:18-22; Mateo 28:19-20; 1 Pedro 2:9-10",
+    )
+  ],
+  conclusion: "La Iglesia es el pueblo que pertenece a Dios por medio de Jesucristo y vive por la obra del Espíritu Santo. Cristo es su fundamento y cabeza; la enseñanza apostólica guía su doctrina; y cada miembro recibe responsabilidades y dones para la edificación común. La Iglesia universal se expresa en congregaciones locales llamadas a adorar, enseñar, servir, cuidar a los necesitados y anunciar el evangelio. Su unidad no elimina la diversidad, y su amor no exige abandonar la verdad. El Padre llama y adopta, el Hijo redime y gobierna, y el Espíritu vivifica, une y capacita. Por tanto, la Iglesia debe permanecer centrada en Cristo, fiel a las Escrituras y comprometida con la misión que ha recibido hasta el regreso del Señor.",
+)
 ];
 
 return ListView(
