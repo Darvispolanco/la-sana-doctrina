@@ -16117,7 +16117,266 @@ Study(
     )
   ],
   conclusion: 'La bienaventuranza pertenece a la naturaleza eterna de Dios. Él no necesita nada creado para alcanzar plenitud, porque su ser es perfecto y su comunión trinitaria es eterna. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina; por eso no existen tres felicidades divinas separadas, sino la plenitud del único Dios. El gozo que recibe el creyente es distinto: es un don de gracia que nace de la salvación, la comunión con Cristo y la obra del Espíritu. Puede permanecer como esperanza en medio de las pruebas, sin exigir que se niegue el dolor ni que se aparente una emoción permanente. La respuesta bíblica es confiar en Dios, obedecer su palabra y vivir agradecidos delante de Él.',
-),
+),,
+Study(
+  number: '66',
+  title: "La voluntad de Dios: su naturaleza, sus propósitos eternos y su expresión en la vida de la Trinidad y de la creación",
+  subtitle: "La voluntad de Dios expresa sus propósitos santos y sabios; el Padre, el Hijo y el Espíritu Santo actúan en perfecta unidad divina.",
+  introduction: "La voluntad de Dios es el ejercicio perfecto de su decisión, conforme a su naturaleza santa, sabia y eterna. La Biblia revela que Dios tiene propósitos, da mandamientos y llama a sus criaturas a responder con fe y obediencia. Este estudio distingue entre el propósito que Dios determina y los preceptos que ordena, sin confundir lo que permite con lo que aprueba. Considera la relación entre la voluntad del Padre, la misión del Hijo encarnado y la obra personal del Espíritu Santo. La doctrina trinitaria confiesa un solo Dios en tres personas: no tres voluntades divinas rivales, sino la única voluntad de la única naturaleza divina. A la vez, la humanidad verdadera de Jesucristo incluye una voluntad humana que se somete perfectamente al Padre. El propósito es aprender a discernir la voluntad revelada de Dios y vivir responsablemente delante de Él.",
+  sections: [
+    StudySection(
+      title: "1. La voluntad de Dios en la revelación bíblica",
+      content: "La Escritura presenta a Dios como personal y activo; su voluntad expresa decisiones sabias y santas, coherentes con su naturaleza. Conocerla exige atender al conjunto del testimonio bíblico.",
+      references: "Efesios 1:11; Romanos 12:2; Salmo 143:10.",
+    ),
+    StudySection(
+      title: "2. La voluntad y la naturaleza divina",
+      content: "La voluntad de Dios nunca contradice su santidad, justicia, amor ni verdad. Él no decide caprichosamente ni puede actuar contra su carácter perfecto.",
+      references: "Deuteronomio 32:4; Salmo 145:17; Santiago 1:13.",
+    ),
+    StudySection(
+      title: "3. Dios quiere con conocimiento perfecto",
+      content: "Dios conoce plenamente todas las cosas; su voluntad no nace de ignorancia, improvisación ni error de cálculo.",
+      references: "Salmo 147:5; Isaías 46:9-10; Hebreos 4:13.",
+    ),
+    StudySection(
+      title: "4. La voluntad eterna de Dios",
+      content: "Los propósitos divinos no comenzaron con la creación. La Biblia habla de un propósito eterno y de la gracia dada en Cristo antes de los tiempos de los siglos.",
+      references: "Efesios 3:11; 2 Timoteo 1:9; Tito 1:2.",
+    ),
+    StudySection(
+      title: "5. La voluntad del Padre",
+      content: "Jesús habló de la voluntad del Padre y vivió en obediencia a ella. El Padre envía al Hijo y establece el propósito salvador que Cristo cumple.",
+      references: "Juan 6:38-40; Juan 4:34; Gálatas 1:4.",
+    ),
+    StudySection(
+      title: "6. La voluntad del Hijo en comunión con el Padre",
+      content: "El Hijo encarnado vino a hacer la voluntad del que lo envió. Su obediencia en la misión redentora manifiesta su relación filial y su misión asumida voluntariamente.",
+      references: "Juan 5:19, 30; Juan 6:38; Filipenses 2:5-8.",
+    ),
+    StudySection(
+      title: "7. La obra del Espíritu Santo y la voluntad divina",
+      content: "El Espíritu distribuye dones como quiere y guía a los creyentes. La Escritura lo presenta actuando personalmente, no como energía impersonal.",
+      references: "1 Corintios 12:11; Hechos 13:2; Hechos 16:6-7.",
+    ),
+    StudySection(
+      title: "8. Una sola voluntad divina y tres personas",
+      content: "Padre, Hijo y Espíritu Santo no poseen voluntades divinas rivales: comparten la única naturaleza y voluntad divina, distinguiéndose personalmente.",
+      references: "Deuteronomio 6:4; Juan 10:30; Efesios 4:4-6.",
+    ),
+    StudySection(
+      title: "9. La voluntad divina y la voluntad humana de Cristo",
+      content: "El Hijo eterno asumió humanidad completa. En Getsemaní, Jesús expresa una voluntad humana real que se somete al propósito del Padre, sin oposición pecaminosa dentro de la Trinidad.",
+      references: "Mateo 26:39; Lucas 22:42; Filipenses 2:8.",
+    ),
+    StudySection(
+      title: "10. La voluntad decretiva: lo que Dios determina",
+      content: "La teología llama decretiva a la voluntad por la que Dios determina lo que ciertamente llevará a cabo. El término debe permanecer subordinado al testimonio bíblico.",
+      references: "Efesios 1:11; Isaías 46:10; Daniel 4:35.",
+    ),
+    StudySection(
+      title: "11. La voluntad preceptiva: lo que Dios manda",
+      content: "La voluntad preceptiva se refiere a lo que Dios ordena: amar, obedecer, hacer justicia y apartarse del mal. Sus mandamientos revelan lo agradable a su carácter.",
+      references: "Deuteronomio 10:12-13; Miqueas 6:8; 1 Tesalonicenses 4:3.",
+    ),
+    StudySection(
+      title: "12. La voluntad divina y la responsabilidad humana",
+      content: "Los propósitos de Dios no convierten a las personas en seres sin responsabilidad. La Biblia llama a obedecer, arrepentirse y responder a la verdad.",
+      references: "Ezequiel 18:30-32; Hechos 17:30; Romanos 2:6-8.",
+    ),
+    StudySection(
+      title: "13. La desobediencia a los mandamientos",
+      content: "La desobediencia humana es real y condenada por Dios. El pecado no debe atribuirse a una orden divina de hacer el mal.",
+      references: "Génesis 2:16-17; Deuteronomio 11:26-28; Santiago 1:13-15.",
+    ),
+    StudySection(
+      title: "14. La voluntad de Dios y lo que permite",
+      content: "La Biblia distingue entre lo que Dios manda y aquello que permite dentro de su gobierno. No todo acontecimiento es moralmente aprobado por Dios.",
+      references: "Génesis 50:20; Job 1:12; Hechos 2:23.",
+    ),
+    StudySection(
+      title: "15. La voluntad de Dios y el problema del pecado",
+      content: "Dios es santo y no es autor de la maldad. La existencia del pecado no transforma la maldad en bien ni elimina la responsabilidad humana.",
+      references: "Habacuc 1:13; Santiago 1:13-14; 1 Juan 1:5.",
+    ),
+    StudySection(
+      title: "16. La voluntad divina en la creación",
+      content: "La creación existe porque Dios quiso y habló con autoridad. El universo no es producto de una necesidad que obligara a Dios.",
+      references: "Génesis 1:1-3; Apocalipsis 4:11; Salmo 33:6-9.",
+    ),
+    StudySection(
+      title: "17. La voluntad divina y la conservación de lo creado",
+      content: "La existencia continua de la creación depende de Dios. Todas las cosas subsisten por su poder, sin confundir al Creador con lo creado.",
+      references: "Colosenses 1:16-17; Hebreos 1:3; Nehemías 9:6.",
+    ),
+    StudySection(
+      title: "18. La voluntad de Dios en la historia de los pueblos",
+      content: "Los cambios de reinos y épocas no sorprenden a Dios. Su autoridad sobre la historia no convierte decisiones injustas en actos moralmente correctos.",
+      references: "Daniel 2:20-21; Daniel 4:17; Hechos 17:26.",
+    ),
+    StudySection(
+      title: "19. La voluntad de Dios en el llamamiento de Abraham",
+      content: "Dios llamó a Abraham y estableció promesas para bendecir a las naciones. Su respuesta de fe muestra la importancia de escuchar y obedecer.",
+      references: "Génesis 12:1-3; Génesis 15:5-6; Hebreos 11:8.",
+    ),
+    StudySection(
+      title: "20. La voluntad de Dios en la historia de Israel",
+      content: "La elección y formación de Israel muestran la fidelidad de Dios a sus promesas. Recibir privilegios no autorizaba al pueblo a vivir en desobediencia.",
+      references: "Deuteronomio 7:6-8; Deuteronomio 10:12-15; Romanos 9:4-5.",
+    ),
+    StudySection(
+      title: "21. La voluntad divina anunciada por los profetas",
+      content: "Los profetas llamaron al pueblo a abandonar la injusticia y volver a Dios. Él no se complace en una religiosidad externa que desprecia justicia y misericordia.",
+      references: "Isaías 1:16-18; Jeremías 7:23; Miqueas 6:8.",
+    ),
+    StudySection(
+      title: "22. La voluntad de Dios en la encarnación",
+      content: "La venida de Jesucristo responde al propósito salvador de Dios. El Hijo asumió humanidad verdadera y cumplió la misión que el Padre le encomendó.",
+      references: "Lucas 1:35; Gálatas 4:4-5; Hebreos 10:5-10.",
+    ),
+    StudySection(
+      title: "23. La voluntad de Dios en la cruz",
+      content: "La muerte de Jesús ocurrió conforme al consejo de Dios, pero quienes lo entregaron actuaron con responsabilidad. La cruz revela el propósito redentor sin absolver la injusticia.",
+      references: "Hechos 2:23; Hechos 4:27-28; 1 Pedro 1:18-20.",
+    ),
+    StudySection(
+      title: "24. La voluntad de Dios en la resurrección",
+      content: "La resurrección manifiesta que la muerte no frustró el propósito divino. El Padre levantó al Hijo y confirmó la victoria que sostiene la esperanza cristiana.",
+      references: "Hechos 2:24; Hechos 3:15; Romanos 6:4.",
+    ),
+    StudySection(
+      title: "25. La voluntad de Dios y la salvación",
+      content: "Dios llama a las personas a la salvación y ofrece vida en su Hijo. La salvación no debe reducirse al mérito humano ni usarse la soberanía como excusa para rechazar el evangelio.",
+      references: "1 Timoteo 2:3-4; Juan 6:40; 2 Pedro 3:9.",
+    ),
+    StudySection(
+      title: "26. La voluntad de Dios y la santificación",
+      content: "Dios llama a los creyentes a apartarse del pecado y vivir para Él. La obediencia es fruto de la gracia y respuesta a la Palabra.",
+      references: "1 Tesalonicenses 4:3-7; 1 Pedro 1:14-16; 1 Tesalonicenses 5:23-24.",
+    ),
+    StudySection(
+      title: "27. La renovación de la mente para discernir",
+      content: "El discernimiento cristiano requiere una mente renovada por la verdad. No consiste en adivinar señales ocultas, sino en pensar y vivir de acuerdo con la Palabra.",
+      references: "Romanos 12:1-2; Efesios 4:22-24; Colosenses 3:1-2.",
+    ),
+    StudySection(
+      title: "28. La voluntad revelada en los mandamientos",
+      content: "La Escritura ofrece principios y mandatos para orientar la conducta moral. No se necesita una revelación extraordinaria para obedecer lo que Dios ya expresó claramente.",
+      references: "Salmo 119:9-11; Deuteronomio 29:29; 1 Juan 5:3.",
+    ),
+    StudySection(
+      title: "29. La voluntad de Dios y la sabiduría práctica",
+      content: "La sabiduría bíblica ayuda a evaluar motivos, consecuencias y responsabilidades. Pedir sabiduría no sustituye el estudio, el consejo prudente ni la obediencia.",
+      references: "Santiago 1:5; Proverbios 3:5-6; Efesios 5:15-17.",
+    ),
+    StudySection(
+      title: "30. La voluntad de Dios y los planes personales",
+      content: "Nuestros conocimientos y control son limitados. Someter los proyectos a Dios implica humildad, responsabilidad y disposición a corregir el rumbo.",
+      references: "Proverbios 16:9; Proverbios 19:21; Santiago 4:13-15.",
+    ),
+    StudySection(
+      title: "31. El sentido bíblico de decir «si Dios quiere»",
+      content: "Esta expresión reconoce que los planes humanos son limitados y que la vida debe vivirse con dependencia y humildad ante el Señor.",
+      references: "Santiago 4:15; Hechos 18:21; 1 Corintios 4:19.",
+    ),
+    StudySection(
+      title: "32. La voluntad de Dios y la oración",
+      content: "Jesús enseñó a pedir que la voluntad del Padre se haga en la tierra como en el cielo. La oración presenta peticiones sinceras y confianza en la sabiduría divina.",
+      references: "Mateo 6:9-10; 1 Juan 5:14-15; Lucas 22:42.",
+    ),
+    StudySection(
+      title: "33. La oración de Jesús en Getsemaní",
+      content: "Jesús expresó la angustia propia de su humanidad y se sometió al propósito del Padre. Su oración muestra obediencia real, no una actuación ni ruptura de la unidad divina.",
+      references: "Mateo 26:36-46; Marcos 14:32-36; Lucas 22:39-44.",
+    ),
+    StudySection(
+      title: "34. La voluntad de Dios y el sufrimiento",
+      content: "No todo sufrimiento es señal de desaprobación divina ni debemos llamar bueno al mal. En las pruebas, el creyente puede buscar ayuda, actuar con sabiduría y confiar en Dios.",
+      references: "Romanos 8:18, 28; 2 Corintios 1:3-5; Santiago 1:2-4.",
+    ),
+    StudySection(
+      title: "35. La voluntad de Dios y la perseverancia",
+      content: "La perseverancia se sostiene en las promesas de Dios y se expresa mediante fe obediente. La seguridad bíblica no promueve pasividad, sino fidelidad continua a Cristo.",
+      references: "Juan 10:27-29; Filipenses 2:12-13; Hebreos 10:36.",
+    ),
+    StudySection(
+      title: "36. La voluntad de Dios y el amor al prójimo",
+      content: "La voluntad moral de Dios se refleja en el amor que busca el bien del prójimo. El egoísmo y la injusticia contradicen el mandamiento del amor.",
+      references: "Mateo 22:37-40; Romanos 13:8-10; Gálatas 5:13-14.",
+    ),
+    StudySection(
+      title: "37. La voluntad de Dios y la justicia",
+      content: "Dios exige justicia y rechaza la opresión. Buscar su voluntad incluye tratar rectamente a las personas y abandonar prácticas deshonestas.",
+      references: "Isaías 1:17; Amós 5:24; Zacarías 7:9-10.",
+    ),
+    StudySection(
+      title: "38. La voluntad de Dios y la vida de la iglesia",
+      content: "La iglesia debe ordenar enseñanza, servicio y comunión conforme a la Palabra. La voluntad de Dios no justifica manipulación, rivalidad ni prácticas contrarias a Cristo.",
+      references: "1 Corintios 14:26, 40; Efesios 4:1-6; Colosenses 3:12-17.",
+    ),
+    StudySection(
+      title: "39. La voluntad de Dios y los dones espirituales",
+      content: "El Espíritu distribuye los dones según su voluntad para edificación del cuerpo. Ningún don hace superior a una persona ni autoriza a abandonar el orden bíblico.",
+      references: "1 Corintios 12:4-11; Romanos 12:4-8; 1 Pedro 4:10-11.",
+    ),
+    StudySection(
+      title: "40. La voluntad de Dios y el servicio cristiano",
+      content: "El servicio nace de la gratitud y busca agradar al Señor, no conseguir reconocimiento humano. Cada creyente debe servir con fidelidad según sus capacidades.",
+      references: "Colosenses 3:23-24; Efesios 6:6-8; 1 Pedro 4:10.",
+    ),
+    StudySection(
+      title: "41. La voluntad de Dios y la conducta laboral",
+      content: "La ética cristiana incluye honestidad, diligencia y respeto en las responsabilidades ordinarias. La fe se demuestra también en las tareas cotidianas.",
+      references: "Colosenses 3:22-25; Efesios 6:5-8; Proverbios 11:1.",
+    ),
+    StudySection(
+      title: "42. La voluntad de Dios y la familia",
+      content: "Las relaciones familiares deben reflejar amor, respeto, fidelidad y responsabilidad. La autoridad nunca justifica abuso ni trato contrario a la dignidad humana.",
+      references: "Efesios 5:21-33; Efesios 6:1-4; Colosenses 3:18-21.",
+    ),
+    StudySection(
+      title: "43. La voluntad de Dios y el discernimiento doctrinal",
+      content: "Toda enseñanza debe examinarse a la luz de la Escritura. Decir «Dios me dijo» no vuelve incuestionable una idea ni exime de comprobar su fidelidad bíblica.",
+      references: "Hechos 17:11; 1 Tesalonicenses 5:19-22; 1 Juan 4:1.",
+    ),
+    StudySection(
+      title: "44. La voluntad de Dios y las impresiones personales",
+      content: "Los sentimientos pueden ser intensos, pero no son infalibles. Deben evaluarse con la Escritura, los hechos y el consejo responsable, sin imponerlos como mandatos divinos.",
+      references: "Proverbios 14:12; Jeremías 17:9; 1 Juan 4:1.",
+    ),
+    StudySection(
+      title: "45. La voluntad de Dios y las circunstancias",
+      content: "Las circunstancias pueden orientar decisiones, pero no prueban por sí solas aprobación o rechazo divino. Pablo encontró oportunidades y obstáculos y evaluó su misión a la luz del evangelio.",
+      references: "Hechos 16:6-10; 1 Corintios 16:8-9; 2 Corintios 2:12-13.",
+    ),
+    StudySection(
+      title: "46. La voluntad de Dios y el consejo sabio",
+      content: "El consejo prudente puede ayudar a decidir. Buscarlo no reemplaza la responsabilidad personal ni la evaluación de cada recomendación según la Palabra.",
+      references: "Proverbios 11:14; Proverbios 15:22; Proverbios 19:20.",
+    ),
+    StudySection(
+      title: "47. La voluntad de Dios y la libertad cristiana",
+      content: "Donde la Escritura no establece un mandato específico, el creyente debe actuar con conciencia limpia, amor y consideración. La libertad no debe ser ocasión para pecar ni despreciar al hermano.",
+      references: "Romanos 14:1-19; 1 Corintios 10:23-33; Gálatas 5:13.",
+    ),
+    StudySection(
+      title: "48. La voluntad de Dios y la esperanza futura",
+      content: "El propósito divino culminará en la renovación de todas las cosas y la manifestación plena del reino de Cristo. Esta esperanza anima a vivir con fidelidad hoy.",
+      references: "Efesios 1:9-10; Apocalipsis 21:1-5; 1 Corintios 15:24-28.",
+    ),
+    StudySection(
+      title: "49. La voluntad de Dios y la misión evangelizadora",
+      content: "El anuncio del evangelio forma parte del llamado de Cristo a su iglesia. La obediencia a Dios incluye dar testimonio con verdad, amor y respeto, sin manipular a quienes escuchan.",
+      references: "Mateo 28:18-20; Hechos 1:8; 2 Timoteo 4:2.",
+    ),
+    StudySection(
+      title: "50. Vivir cada día procurando agradar a Dios",
+      content: "No necesitamos conocer anticipadamente cada detalle del futuro para obedecer hoy. Podemos caminar en fe, practicar justicia, amar al prójimo y someter nuestros planes al Señor.",
+      references: "Colosenses 1:9-10; 1 Tesalonicenses 4:1; Hebreos 13:20-21.",
+    )
+  ],
+  conclusion: "La voluntad de Dios es santa, sabia y coherente con todo lo que Él es. El Padre, el Hijo y el Espíritu Santo comparten la única voluntad divina, aunque cada persona actúa según su relación personal y su misión en la obra de Dios. La obediencia de Jesús en su humanidad revela la perfecta sumisión del Hijo encarnado al Padre, sin dividir la esencia divina. La Escritura llama al creyente a abandonar el pecado, renovar su mente, amar al prójimo y someter sus planes al Señor. No debemos atribuir a Dios la maldad humana ni convertir nuestras impresiones en mandamientos divinos. Con humildad, estudio bíblico, oración y sabiduría, podemos procurar aquello que agrada al Señor y confiar en que sus propósitos permanecen."
+  )
 ];
 
 @override
