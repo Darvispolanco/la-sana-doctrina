@@ -18241,7 +18241,6 @@ Este estudio examina la inspiración, la autoridad, la transmisión, la interpre
 
 Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.',
   ),
-,
   Study(
     number: '84',
     title: "La evangelización cristiana: el anuncio del evangelio, el llamado al arrepentimiento y el testimonio de la Iglesia",
