@@ -16117,7 +16117,7 @@ Study(
     )
   ],
   conclusion: 'La bienaventuranza pertenece a la naturaleza eterna de Dios. Él no necesita nada creado para alcanzar plenitud, porque su ser es perfecto y su comunión trinitaria es eterna. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina; por eso no existen tres felicidades divinas separadas, sino la plenitud del único Dios. El gozo que recibe el creyente es distinto: es un don de gracia que nace de la salvación, la comunión con Cristo y la obra del Espíritu. Puede permanecer como esperanza en medio de las pruebas, sin exigir que se niegue el dolor ni que se aparente una emoción permanente. La respuesta bíblica es confiar en Dios, obedecer su palabra y vivir agradecidos delante de Él.',
-),,
+),
 Study(
   number: '66',
   title: "La voluntad de Dios: su naturaleza, sus propósitos eternos y su expresión en la vida de la Trinidad y de la creación",
