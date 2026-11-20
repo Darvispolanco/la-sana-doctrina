@@ -16376,7 +16376,266 @@ Study(
     )
   ],
   conclusion: "La voluntad de Dios es santa, sabia y coherente con todo lo que Él es. El Padre, el Hijo y el Espíritu Santo comparten la única voluntad divina, aunque cada persona actúa según su relación personal y su misión en la obra de Dios. La obediencia de Jesús en su humanidad revela la perfecta sumisión del Hijo encarnado al Padre, sin dividir la esencia divina. La Escritura llama al creyente a abandonar el pecado, renovar su mente, amar al prójimo y someter sus planes al Señor. No debemos atribuir a Dios la maldad humana ni convertir nuestras impresiones en mandamientos divinos. Con humildad, estudio bíblico, oración y sabiduría, podemos procurar aquello que agrada al Señor y confiar en que sus propósitos permanecen."
-  )
+  ),
+  Study(
+    number: '66',
+    title: 'La belleza de Dios: su hermosura perfecta, su excelencia y el resplandor de su santidad',
+    subtitle: 'La perfección divina como fuente de toda belleza y fundamento de una adoración reverente.',
+    introduction: 'La belleza de Dios no consiste en una apariencia física ni depende de los gustos humanos. La Escritura presenta la hermosura divina como la excelencia perfecta de su ser y de su carácter: santidad, verdad, justicia, amor, misericordia y sabiduría sin defecto. Esta belleza pertenece eternamente al único Dios, que existe en tres personas distintas: el Padre, el Hijo y el Espíritu Santo. Se revela en sus obras y, de manera especial, en Jesucristo, imagen del Dios invisible. Este estudio distingue la belleza divina de la gloria de Dios, ya estudiada, y examina cómo la contemplación bíblica de su excelencia transforma la adoración y la vida del creyente.',
+    sections: [
+    StudySection(
+      title: "1. La belleza como perfección propia de Dios",
+      content: "Dios es hermoso por la perfección de su propio ser. Su belleza no depende de criterios humanos, modas ni apariencias; expresa que en Él no existe defecto moral ni imperfección.",
+      references: "Salmos 27:4; Salmos 96:6",
+    ),
+    StudySection(
+      title: "2. Dios es la fuente de toda belleza creada",
+      content: "La belleza creada es limitada y derivada. Toda excelencia procede del Creador y debe conducir a reconocerlo, nunca a dar a las criaturas la adoración que solo pertenece a Dios.",
+      references: "Salmos 19:1; Santiago 1:17",
+    ),
+    StudySection(
+      title: "3. La hermosura de la santidad",
+      content: "La Escritura vincula la hermosura de Dios con su santidad. Su belleza es moral y perfecta: pureza, rectitud y separación absoluta de todo mal.",
+      references: "1 Crónicas 16:29; Salmos 29:2",
+    ),
+    StudySection(
+      title: "4. La belleza y la perfección del carácter divino",
+      content: "Bondad, justicia, verdad, misericordia y sabiduría no se contradicen en Dios. Todas manifiestan la excelencia indivisible de su naturaleza perfecta.",
+      references: "Éxodo 34:6-7; Deuteronomio 32:4",
+    ),
+    StudySection(
+      title: "5. La belleza de Dios no depende de la creación",
+      content: "Antes de la creación, Dios ya era plenamente perfecto. El universo manifiesta su excelencia, pero no la produce, completa ni aumenta.",
+      references: "Juan 17:5; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "6. La belleza del Dios eterno",
+      content: "La hermosura divina no se deteriora con el tiempo. Dios permanece eternamente el mismo en su ser y en la perfección de su carácter.",
+      references: "Salmos 90:2; Malaquías 3:6",
+    ),
+    StudySection(
+      title: "7. La belleza y la unidad de la esencia divina",
+      content: "El Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única esencia divina. La belleza de Dios no se divide en tres naturalezas.",
+      references: "Deuteronomio 6:4; Mateo 28:19",
+    ),
+    StudySection(
+      title: "8. La belleza del Padre en las Escrituras",
+      content: "El Padre se revela como fuente de toda dádiva buena, que ama, envía y recibe a los suyos. Su carácter es digno de confianza y adoración.",
+      references: "Juan 3:16-17; Santiago 1:17",
+    ),
+    StudySection(
+      title: "9. La belleza del Hijo, imagen del Dios invisible",
+      content: "Jesucristo es la imagen del Dios invisible y revela perfectamente al Padre. No es criatura ni una divinidad inferior, sino el Hijo eterno hecho hombre.",
+      references: "Colosenses 1:15-19; Hebreos 1:3",
+    ),
+    StudySection(
+      title: "10. La belleza del Espíritu Santo",
+      content: "El Espíritu Santo es persona divina, no una fuerza impersonal. Su santidad, verdad y obra transformadora manifiestan la excelencia del único Dios.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11",
+    ),
+    StudySection(
+      title: "11. La belleza en la comunión eterna de la Trinidad",
+      content: "El Padre, el Hijo y el Espíritu Santo existen eternamente sin división ni rivalidad. La comunión trinitaria no elimina la distinción personal ni divide la esencia divina.",
+      references: "Juan 14:16-17; Juan 17:5",
+    ),
+    StudySection(
+      title: "12. La gloria y la belleza: relación sin confusión",
+      content: "La gloria alude a la excelencia divina manifestada y reconocida; la belleza contempla esa excelencia como perfección digna de admiración. Son conceptos relacionados, no idénticos.",
+      references: "Salmos 96:6; Salmos 27:4",
+    ),
+    StudySection(
+      title: "13. La belleza divina revelada en la creación",
+      content: "Los cielos y la tierra manifiestan orden y sabiduría del Creador. La creación señala hacia Dios, pero no contiene ni representa exhaustivamente su esencia.",
+      references: "Génesis 1:31; Salmos 19:1",
+    ),
+    StudySection(
+      title: "14. La belleza y el orden de las obras de Dios",
+      content: "Las obras de Dios muestran propósito y sabiduría. Su orden invita a la gratitud y al reconocimiento del Creador, no a convertir la naturaleza en objeto de culto.",
+      references: "Salmos 104:24; Romanos 1:20",
+    ),
+    StudySection(
+      title: "15. La belleza de Dios en su revelación",
+      content: "Dios se da a conocer por sus obras y por su Palabra. Podemos conocerlo verdaderamente, aunque ninguna criatura pueda comprenderlo de manera exhaustiva.",
+      references: "Salmos 19:7-9; Romanos 11:33",
+    ),
+    StudySection(
+      title: "16. La belleza de la Palabra de Dios",
+      content: "La Palabra de Dios es recta, verdadera y confiable. Su valor no depende de adornos externos, sino de su origen, autoridad y fidelidad.",
+      references: "Salmos 19:7-10; Salmos 119:160",
+    ),
+    StudySection(
+      title: "17. La belleza de la verdad divina",
+      content: "La verdad divina está libre de engaño. Todo lo que Dios revela es coherente con su carácter perfecto y constituye fundamento seguro para la fe.",
+      references: "Números 23:19; Juan 17:17",
+    ),
+    StudySection(
+      title: "18. La belleza de la justicia de Dios",
+      content: "La justicia de Dios nunca es arbitraria ni corrupta. Él juzga rectamente y ama lo justo, por lo que su carácter inspira reverencia y confianza.",
+      references: "Salmos 11:7; Deuteronomio 32:4",
+    ),
+    StudySection(
+      title: "19. La belleza de la misericordia divina",
+      content: "La misericordia divina muestra compasión hacia quienes necesitan perdón y ayuda. No anula la justicia, sino que actúa de manera santa y fiel.",
+      references: "Éxodo 34:6-7; Efesios 2:4-5",
+    ),
+    StudySection(
+      title: "20. La belleza del amor de Dios",
+      content: "El amor de Dios es santo, fiel y generoso. Se revela de manera suprema en el envío del Hijo, sin convertir el amor en aprobación del pecado.",
+      references: "1 Juan 4:9-10; Romanos 5:8",
+    ),
+    StudySection(
+      title: "21. La belleza de la gracia divina",
+      content: "La gracia es favor inmerecido hacia los pecadores. En Jesucristo se manifiesta la generosidad de Dios que salva y enseña a vivir conforme a su voluntad.",
+      references: "Efesios 2:8-9; Tito 2:11-12",
+    ),
+    StudySection(
+      title: "22. La belleza de la paciencia de Dios",
+      content: "La paciencia divina concede oportunidad para arrepentirse. No significa indiferencia ante el mal, sino dominio perfecto que no renuncia a la justicia.",
+      references: "Romanos 2:4; 2 Pedro 3:9",
+    ),
+    StudySection(
+      title: "23. La belleza de la fidelidad de Dios",
+      content: "Dios cumple sus promesas y permanece fiel a su Palabra. Por eso sus hijos pueden confiar en Él aun cuando atraviesan circunstancias difíciles.",
+      references: "Lamentaciones 3:22-23; 1 Corintios 1:9",
+    ),
+    StudySection(
+      title: "24. La belleza de la sabiduría divina",
+      content: "La sabiduría divina es perfecta: Dios conoce todas las cosas y obra con propósito recto. Sus decisiones no necesitan corrección ni información externa.",
+      references: "Romanos 11:33; Judas 25",
+    ),
+    StudySection(
+      title: "25. La belleza del poder unido a la bondad",
+      content: "El poder de Dios nunca está separado de su carácter santo. Su omnipotencia siempre es coherente con su bondad y justicia.",
+      references: "Salmos 145:17; Jeremías 32:17-19",
+    ),
+    StudySection(
+      title: "26. La belleza de la humildad manifestada en Cristo",
+      content: "El Hijo eterno tomó forma de siervo y obedeció hasta la muerte. Su humildad encarnada revela la excelencia del carácter divino, no una pérdida de su divinidad.",
+      references: "Filipenses 2:5-8; Juan 13:3-5",
+    ),
+    StudySection(
+      title: "27. La belleza de la encarnación",
+      content: "En la encarnación, el Hijo asumió verdadera naturaleza humana sin dejar de ser Dios. Jesucristo es la revelación personal de Dios en nuestra historia.",
+      references: "Juan 1:14; Colosenses 2:9",
+    ),
+    StudySection(
+      title: "28. La belleza de la vida santa de Jesús",
+      content: "La vida de Jesús manifestó obediencia, compasión, verdad y pureza. Su conducta fue sin pecado y revela perfectamente al Hijo encarnado.",
+      references: "Hebreos 4:15; 1 Pedro 2:22",
+    ),
+    StudySection(
+      title: "29. La belleza de la cruz de Cristo",
+      content: "La cruz revela la gravedad del pecado y la profundidad del amor redentor. Su belleza no está en el sufrimiento, sino en la entrega salvadora de Cristo.",
+      references: "Romanos 5:8; Gálatas 2:20",
+    ),
+    StudySection(
+      title: "30. La belleza de la resurrección",
+      content: "La resurrección manifiesta la victoria de Cristo y confirma su identidad y obra. Dios lo levantó conforme a las Escrituras.",
+      references: "Hechos 2:24-32; 1 Corintios 15:3-4",
+    ),
+    StudySection(
+      title: "31. La belleza de la exaltación del Hijo",
+      content: "El Hijo resucitado fue exaltado y reina con autoridad. Su exaltación manifiesta su señorío; no significa que comenzó entonces a ser divino.",
+      references: "Filipenses 2:9-11; Hebreos 1:3-4",
+    ),
+    StudySection(
+      title: "32. La belleza de la obra del Espíritu en la santificación",
+      content: "El Espíritu produce una vida que refleja el carácter de Dios. La transformación cristiana no es un cambio superficial, sino crecimiento en santidad.",
+      references: "Gálatas 5:22-23; 2 Corintios 3:18",
+    ),
+    StudySection(
+      title: "33. La belleza del fruto del Espíritu",
+      content: "El fruto del Espíritu manifiesta una vida transformada: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza. Procede de su obra, no del orgullo humano.",
+      references: "Gálatas 5:22-23; Efesios 5:9",
+    ),
+    StudySection(
+      title: "34. La belleza de la adoración reverente",
+      content: "La adoración bíblica responde a quién es Dios y a lo que ha hecho. Debe ser sincera, reverente y conforme a la verdad, no una exhibición humana.",
+      references: "Juan 4:23-24; Salmos 96:9",
+    ),
+    StudySection(
+      title: "35. Contemplar a Dios con reverencia",
+      content: "Buscar a Dios implica acercarse con fe, humildad y respeto. La contemplación bíblica conoce a Dios por su revelación y no pretende representar físicamente su esencia.",
+      references: "Salmos 27:4; Hebreos 12:28",
+    ),
+    StudySection(
+      title: "36. La belleza de la oración en comunión trinitaria",
+      content: "El creyente se acerca al Padre por medio del Hijo y en el Espíritu. Esta forma bíblica de oración reconoce la distinción personal y la unidad divina.",
+      references: "Efesios 2:18; Judas 20-21",
+    ),
+    StudySection(
+      title: "37. La belleza de la comunión de la iglesia",
+      content: "La iglesia refleja de manera limitada la obra reconciliadora de Dios cuando vive en amor, verdad y unidad. Su comunión no reemplaza la comunión eterna trinitaria.",
+      references: "Efesios 4:1-6; Juan 17:21",
+    ),
+    StudySection(
+      title: "38. La belleza del servicio cristiano",
+      content: "Servir al prójimo con humildad refleja el ejemplo de Cristo. El servicio cristiano no busca prestigio, sino expresar amor y obediencia a Dios.",
+      references: "Marcos 10:45; Gálatas 5:13",
+    ),
+    StudySection(
+      title: "39. La belleza de la santidad cotidiana",
+      content: "La santidad se expresa en decisiones, palabras y acciones conformes a la voluntad divina. No es apariencia religiosa, sino una vida apartada para Dios.",
+      references: "1 Pedro 1:15-16; 1 Tesalonicenses 4:3-7",
+    ),
+    StudySection(
+      title: "40. La belleza de la verdad en el carácter del creyente",
+      content: "La honestidad y la integridad reflejan la verdad de Dios en la conducta. El creyente está llamado a abandonar el engaño y hablar con sinceridad.",
+      references: "Efesios 4:25; Colosenses 3:9-10",
+    ),
+    StudySection(
+      title: "41. La belleza de la compasión hacia el prójimo",
+      content: "La compasión reconoce la dignidad del prójimo y responde con misericordia práctica. No busca superioridad, sino servir como expresión del amor recibido.",
+      references: "Lucas 10:33-37; Colosenses 3:12",
+    ),
+    StudySection(
+      title: "42. La belleza de la unidad sin uniformidad",
+      content: "La unidad cristiana no exige funciones idénticas. Se fundamenta en un solo Señor, una fe y un Espíritu, y se expresa en amor y verdad.",
+      references: "Efesios 4:3-6; 1 Corintios 12:4-6",
+    ),
+    StudySection(
+      title: "43. La belleza de la esperanza cristiana",
+      content: "La esperanza bíblica descansa en las promesas y la fidelidad de Dios. No depende de optimismo superficial ni de circunstancias favorables.",
+      references: "Romanos 15:13; Tito 2:13",
+    ),
+    StudySection(
+      title: "44. La belleza de la nueva creación",
+      content: "La nueva creación anuncia la restauración final bajo el gobierno de Dios. Estará libre de la corrupción que ahora afecta al mundo creado.",
+      references: "Apocalipsis 21:1-5; Romanos 8:21",
+    ),
+    StudySection(
+      title: "45. La visión de Dios y la esperanza futura",
+      content: "La Escritura promete que los redimidos estarán con el Señor y lo verán. Esta esperanza debe exponerse con reverencia, sin inventar detalles no revelados.",
+      references: "1 Juan 3:2; Apocalipsis 22:3-4",
+    ),
+    StudySection(
+      title: "46. La belleza de Dios frente a los ídolos",
+      content: "Los ídolos son obras humanas incapaces de compararse con el Dios vivo. La adoración pertenece al Creador, no a imágenes ni representaciones de la divinidad.",
+      references: "Salmos 115:3-8; Isaías 40:18",
+    ),
+    StudySection(
+      title: "47. La belleza divina no se reduce a la apariencia física",
+      content: "Dios es espíritu y no puede reducirse a una forma corporal creada. Las imágenes bíblicas comunican verdades, pero no describen exhaustivamente su esencia.",
+      references: "Juan 4:24; Deuteronomio 4:15-16",
+    ),
+    StudySection(
+      title: "48. La belleza de Dios y el discernimiento espiritual",
+      content: "El creyente distingue lo que agrada a Dios de aquello que solo parece atractivo. El discernimiento se forma mediante la Palabra y una mente renovada.",
+      references: "Romanos 12:2; Filipenses 1:9-10",
+    ),
+    StudySection(
+      title: "49. La belleza de Dios como fundamento de la adoración eterna",
+      content: "La adoración eterna reconoce la santidad y dignidad del Señor. La respuesta de la creación redimida no añade perfección a Dios: reconoce quién es Él.",
+      references: "Apocalipsis 4:8-11; Apocalipsis 5:12-13",
+    ),
+    StudySection(
+      title: "50. La respuesta del creyente ante la excelencia divina",
+      content: "Contemplar la excelencia divina debe producir reverencia, gratitud, obediencia y amor al prójimo. La belleza de Dios no se estudia solo para acumular conceptos, sino para orientar toda la vida hacia Él.",
+      references: "Miqueas 6:8; Colosenses 3:17",
+    ),
+    ],
+    conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
+  ),
 ];
 
 @override
