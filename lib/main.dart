@@ -18175,7 +18175,6 @@ Study(
     ],
     conclusion: "La ley de Dios revela su carácter santo y justo, ordenó la vida de Israel dentro del antiguo pacto y mostró la gravedad del pecado. Sus disposiciones ceremoniales, civiles y morales deben interpretarse respetando su contexto y la historia de la redención. Jesucristo no vino a desechar las Escrituras, sino a cumplirlas; mediante su obra redentora abrió el nuevo pacto prometido. Nadie es justificado por las obras de la ley: la salvación es un regalo de gracia recibido por la fe. Sin embargo, la gracia no conduce a la indiferencia moral. El Espíritu Santo transforma al creyente para amar a Dios, servir al prójimo y practicar la justicia. La obediencia es fruto de la salvación, no su precio. El Padre llama a su pueblo, el Hijo es el cumplimiento y modelo perfecto de obediencia, y el Espíritu capacita para andar conforme a la voluntad divina. La Iglesia debe rechazar tanto el legalismo como el libertinaje y vivir en la libertad responsable de quienes están en Cristo."
   ),
-,
   Study(
     number: '83',
     title: "La doctrina de las Escrituras: revelación, inspiración, autoridad, suficiencia y preservación de la Palabra de Dios",
