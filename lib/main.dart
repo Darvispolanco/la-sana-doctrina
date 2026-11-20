@@ -18180,11 +18180,11 @@ Study(
     number: '83',
     title: 'La inspiración de las Escrituras: origen divino, autores humanos y autoridad de la Palabra',
     subtitle: 'La inspiración divina, la participación de los autores humanos y la autoridad de la Palabra para la fe y la vida cristiana.',
-    introduction: 'La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
+    introduction: '''La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
 
 La doctrina de la inspiración afirma que las Escrituras proceden de Dios y que el Espíritu Santo obró mediante autores humanos para comunicar su mensaje. Esta afirmación no elimina la historia, la personalidad, el idioma ni el estilo de los escritores. Tampoco significa que toda interpretación humana sea infalible. Es necesario distinguir entre el texto inspirado y nuestras explicaciones, traducciones y aplicaciones.
 
-Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.',
+Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.''',
     sections: [
       StudySection(title: '1. Origen divino', content: 'La Escritura afirma que su mensaje procede de Dios. Su autoridad no descansa solo en la antigüedad o prestigio de sus escritores, sino en Aquel que se da a conocer por medio de ella.', references: '2 Timoteo 3:16; 2 Pedro 1:20-21.'),
       StudySection(title: '2. Significado de inspiración', content: 'Inspiración expresa que Dios es la fuente de la Escritura. No equivale a creatividad humana extraordinaria ni a entusiasmo religioso subjetivo, sino a la acción divina en la comunicación escrita de su mensaje.', references: '2 Timoteo 3:16; 2 Samuel 23:2.'),
@@ -18237,9 +18237,9 @@ Este estudio examina la inspiración, la autoridad, la transmisión, la interpre
       StudySection(title: '49. Fidelidad de la Iglesia', content: 'La Iglesia está llamada a conservar, enseñar y practicar la verdad recibida. Esto exige rechazar la manipulación de los textos y el desprecio por su autoridad; la fidelidad produce una comunidad humilde y justa.', references: '1 Timoteo 3:15; Judas 3; Apocalipsis 22:18-19.'),
       StudySection(title: '50. Lectura comunitaria', content: 'La Escritura forma también al pueblo reunido. Leerla y explicarla en comunidad permite corregir interpretaciones aisladas, aprender unos de otros y fortalecer la unidad; esto complementa, no reemplaza, el estudio personal.', references: 'Colosenses 3:16; 1 Timoteo 4:13; Hechos 2:42.'),
     ],
-    conclusion: 'La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
+    conclusion: '''La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
 
-Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.',
+Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.''',
   ),
   Study(
     number: '84',
