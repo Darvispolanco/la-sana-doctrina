@@ -15597,6 +15597,266 @@ Study(
     )
   ],
   conclusion: 'Dios es absolutamente autosuficiente: existe por sí mismo, posee vida en sí mismo y no necesita que la creación complete su plenitud. La adoración, el servicio y las ofrendas no satisfacen una carencia divina; son respuestas humanas a su dignidad y generosidad. Esta independencia no convierte a Dios en un ser distante: Él crea, sostiene, ama y salva por voluntad libre. El Padre, el Hijo y el Espíritu Santo comparten la única esencia divina eterna. Por tanto, la autosuficiencia nos llama a la humildad, la gratitud, la confianza y una vida de servicio que depende de la gracia de Dios.',
+),,
+
+Study(
+  number: '64',
+  title: 'La gloria de Dios: su excelencia suprema y su manifestación en la creación, la Trinidad y la redención',
+  subtitle: 'La gloria pertenece eternamente al único Dios y se manifiesta en sus obras, en Jesucristo y en la obra del Espíritu Santo.',
+  introduction: 'La gloria de Dios expresa su grandeza, santidad, majestad y excelencia. No es algo que las criaturas añadan a su naturaleza, sino la manifestación de quién es Él. La creación anuncia su gloria, la historia bíblica muestra sus obras y Jesucristo revela al Padre. El Espíritu Santo glorifica al Hijo y transforma a los creyentes para que reflejen el carácter de Cristo. Esta doctrina debe estudiarse desde la unidad de Dios y la distinción personal del Padre, del Hijo y del Espíritu Santo, evitando confundir la gloria divina con fama humana, prosperidad material o experiencias emocionales.',
+  sections: [
+    StudySection(
+      title: "1. Qué significa la gloria de Dios",
+      content: "En la Biblia, la gloria de Dios expresa la grandeza, excelencia, santidad y majestad propias de su ser. No es un adorno que se añade a Dios, sino la manifestación de quién es. Cuando las Escrituras hablan de su gloria, llaman al lector a reconocer su incomparable dignidad.",
+      references: "Éxodo 15:11; Salmos 19:1; Isaías 6:3",
+    ),
+    StudySection(
+      title: "2. La gloria esencial de Dios",
+      content: "Dios posee gloria por su propia naturaleza, independientemente de que las criaturas la reconozcan. Ningún ser humano puede aumentar su perfección ni disminuir su dignidad. La adoración reconoce una gloria que ya pertenece eternamente al Señor.",
+      references: "Salmos 24:7-10; Hechos 7:2; Romanos 11:36",
+    ),
+    StudySection(
+      title: "3. La gloria manifestada",
+      content: "La gloria puede hacerse visible o perceptible mediante las obras, palabras y presencia de Dios. La manifestación no significa que su esencia quede limitada a lo que una criatura alcanza a ver; significa que Dios se da a conocer de manera comprensible para sus criaturas.",
+      references: "Éxodo 16:7; 24:16-17; Juan 1:14",
+    ),
+    StudySection(
+      title: "4. La gloria y la santidad",
+      content: "La santidad de Dios y su gloria están estrechamente relacionadas. Los serafines proclaman que toda la tierra está llena de su gloria al declarar que el Señor es santo. Su gloria no puede separarse de su pureza moral y absoluta majestad.",
+      references: "Isaías 6:1-3; Salmos 29:2",
+    ),
+    StudySection(
+      title: "5. La gloria y la majestad",
+      content: "La majestad divina expresa su autoridad y grandeza como Rey sobre toda la creación. La gloria acompaña esa majestad y revela que ningún poder creado puede compararse con Él.",
+      references: "Salmos 93:1-2; 145:11-13",
+    ),
+    StudySection(
+      title: "6. La gloria revelada en la creación",
+      content: "Los cielos anuncian la gloria de Dios porque muestran señales de su poder, sabiduría y orden. La creación no es Dios ni contiene toda su esencia; es obra suya y testimonio de su grandeza.",
+      references: "Salmos 19:1-6; Romanos 1:19-20",
+    ),
+    StudySection(
+      title: "7. La gloria y la obra creadora",
+      content: "Dios creó todas las cosas por su voluntad y para su gloria. La existencia del universo dirige la atención hacia el Creador, no hacia la adoración de las cosas creadas.",
+      references: "Apocalipsis 4:11; Colosenses 1:16",
+    ),
+    StudySection(
+      title: "8. La gloria de Dios en la historia de Israel",
+      content: "La historia de Israel contiene manifestaciones de la gloria divina, especialmente en la liberación de Egipto, el desierto y la dedicación del tabernáculo. Estos acontecimientos muestran que Dios actúa en la historia y cumple sus promesas.",
+      references: "Éxodo 14:17-18; 16:10; 40:34-35",
+    ),
+    StudySection(
+      title: "9. La gloria en el tabernáculo",
+      content: "La nube cubrió el tabernáculo y la gloria del Señor lo llenó. Esta manifestación señalaba la presencia santa de Dios en medio de su pueblo, sin enseñar que la divinidad pudiera quedar encerrada en una construcción.",
+      references: "Éxodo 40:34-38; Levítico 9:23-24",
+    ),
+    StudySection(
+      title: "10. La gloria en el templo",
+      content: "Cuando Salomón dedicó el templo, la gloria del Señor llenó la casa. La manifestación confirmó la importancia del culto y del pacto, pero Salomón reconoció que ni los cielos podían contener a Dios.",
+      references: "1 Reyes 8:10-13,27; 2 Crónicas 7:1-3",
+    ),
+    StudySection(
+      title: "11. La gloria no puede manipularse",
+      content: "La presencia y gloria de Dios no están bajo control humano. Los relatos bíblicos advierten contra tratar lo santo como instrumento de poder o como garantía automática de protección.",
+      references: "1 Samuel 4:3-11; Ezequiel 10:18-19",
+    ),
+    StudySection(
+      title: "12. La gloria y la revelación a Moisés",
+      content: "Moisés pidió conocer la gloria de Dios y recibió una revelación de su bondad, nombre y carácter. El pasaje relaciona la gloria divina con su misericordia, justicia, compasión y fidelidad, no solo con una experiencia visible.",
+      references: "Éxodo 33:18-23; 34:5-7",
+    ),
+    StudySection(
+      title: "13. La gloria y el nombre de Dios",
+      content: "El nombre del Señor representa su identidad y reputación reveladas. Glorificar su nombre significa reconocerlo como santo y digno, y vivir de manera que no se contradiga el testimonio que se da acerca de Él.",
+      references: "Salmos 8:1; 29:2; Mateo 6:9",
+    ),
+    StudySection(
+      title: "14. La gloria y la palabra profética",
+      content: "Los profetas anunciaron la gloria de Dios y llamaron al pueblo a abandonar la idolatría y la injusticia. La verdadera honra al Señor exige escuchar su palabra y responder con obediencia.",
+      references: "Isaías 40:3-5; 42:8; Habacuc 2:14",
+    ),
+    StudySection(
+      title: "15. La gloria y la idolatría",
+      content: "La idolatría atribuye a objetos o criaturas la honra que pertenece al Creador. La gloria de Dios es incomparable y no puede transferirse como si los ídolos tuvieran naturaleza divina.",
+      references: "Isaías 42:8; Romanos 1:21-25",
+    ),
+    StudySection(
+      title: "16. La gloria de Dios en el nacimiento de Jesús",
+      content: "Los anuncios del nacimiento de Jesús relacionan la llegada del Salvador con la gloria de Dios y la paz anunciada a los hombres. La encarnación introduce en la historia la misión salvadora del Hijo eterno.",
+      references: "Lucas 2:9-14",
+    ),
+    StudySection(
+      title: "17. El Verbo hecho carne y su gloria",
+      content: "Juan declara que el Verbo se hizo carne y que los discípulos contemplaron su gloria. La gloria de Cristo se revela en su identidad divina y en su misión, llena de gracia y verdad.",
+      references: "Juan 1:1-3,14",
+    ),
+    StudySection(
+      title: "18. La gloria del Hijo antes de la creación",
+      content: "Jesús habla de la gloria que tenía junto al Padre antes de que el mundo existiera. Este pasaje sostiene la preexistencia del Hijo y distingue su relación personal con el Padre.",
+      references: "Juan 17:1-5,24",
+    ),
+    StudySection(
+      title: "19. El Hijo revela al Padre",
+      content: "Jesús declara que quien lo ha visto ha visto al Padre, en el sentido de que el Hijo revela perfectamente al Padre. El texto no elimina la distinción personal, pues el mismo Evangelio muestra al Hijo hablando con el Padre.",
+      references: "Juan 1:18; 14:8-11",
+    ),
+    StudySection(
+      title: "20. La gloria de Cristo en sus señales",
+      content: "Las señales de Jesús revelan su identidad y conducen a la fe. En Caná, el Evangelio afirma que manifestó su gloria y sus discípulos creyeron en Él. Los milagros no son espectáculos, sino señales del reino y de la persona de Cristo.",
+      references: "Juan 2:11; 11:4,40",
+    ),
+    StudySection(
+      title: "21. La gloria y la transfiguración",
+      content: "En la transfiguración, los discípulos reciben una manifestación extraordinaria de la majestad de Jesús. La voz del Padre identifica al Hijo amado y ordena escucharlo, mostrando distinción personal y unidad en la revelación divina.",
+      references: "Mateo 17:1-8; 2 Pedro 1:16-18",
+    ),
+    StudySection(
+      title: "22. La gloria de Cristo en la cruz",
+      content: "La cruz parece una derrota según los criterios humanos, pero el Evangelio de Juan la presenta dentro de la hora en que el Hijo es glorificado. La gloria de Dios se manifiesta también en el amor sacrificial y la obediencia redentora de Cristo.",
+      references: "Juan 12:23-28; 13:31-32",
+    ),
+    StudySection(
+      title: "23. La gloria y la resurrección de Jesús",
+      content: "La resurrección manifiesta el poder de Dios y confirma la identidad y obra del Hijo. La gloria del Cristo resucitado no es una simple recuperación de la vida anterior, sino la victoria sobre la muerte y la confirmación de su señorío.",
+      references: "Romanos 6:4; 1 Corintios 15:3-8; Filipenses 2:9-11",
+    ),
+    StudySection(
+      title: "24. La gloria y la exaltación del Hijo",
+      content: "El Padre exaltó a Jesucristo y le dio el nombre sobre todo nombre. La exaltación no significa que el Hijo comenzara entonces a ser divino, sino que su victoria y señorío son proclamados públicamente.",
+      references: "Filipenses 2:9-11; Hebreos 1:3-4",
+    ),
+    StudySection(
+      title: "25. La gloria del Padre",
+      content: "El Padre es glorioso y fuente de toda obra divina. El Nuevo Testamento dirige hacia Él la alabanza y enseña que la obra del Hijo conduce a la gloria del Padre, sin separar sus voluntades en competencia.",
+      references: "Efesios 1:3-6; Filipenses 2:11",
+    ),
+    StudySection(
+      title: "26. La gloria del Hijo",
+      content: "El Hijo comparte la gloria divina y recibe adoración en el marco de la revelación bíblica. El honor dado al Hijo no compite con el honor del Padre, porque el Hijo participa plenamente de la única naturaleza divina.",
+      references: "Juan 5:22-23; Hebreos 1:6-8; Apocalipsis 5:11-14",
+    ),
+    StudySection(
+      title: "27. La gloria del Espíritu Santo",
+      content: "El Espíritu Santo glorifica al Hijo y comunica la verdad recibida de Él. Su obra no busca una gloria independiente o rival, sino que revela y aplica la obra de Cristo en perfecta unidad con el Padre y el Hijo.",
+      references: "Juan 15:26; 16:13-14",
+    ),
+    StudySection(
+      title: "28. La gloria y la Trinidad",
+      content: "La Biblia revela al Padre, al Hijo y al Espíritu Santo como personas distintas, sin dividir al único Dios. La gloria divina es una porque la esencia divina es una; las tres personas participan plenamente de esa misma gloria.",
+      references: "Mateo 28:19; Juan 17:5; 2 Corintios 13:14",
+    ),
+    StudySection(
+      title: "29. La gloria en la bendición apostólica",
+      content: "La bendición de 2 Corintios menciona la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo. El texto muestra la acción coordinada de las tres personas en la vida de la Iglesia.",
+      references: "2 Corintios 13:14",
+    ),
+    StudySection(
+      title: "30. La gloria y la obra del Espíritu en el creyente",
+      content: "El Espíritu transforma al creyente para reflejar progresivamente el carácter de Cristo. La gloria recibida no convierte al ser humano en Dios; expresa una transformación por gracia y dependencia del Espíritu.",
+      references: "2 Corintios 3:17-18; Gálatas 5:22-23",
+    ),
+    StudySection(
+      title: "31. La gloria del evangelio",
+      content: "El evangelio anuncia la gloria de Cristo, quien es imagen de Dios. La proclamación cristiana no debe oscurecer a Cristo mediante orgullo humano, sino presentar con fidelidad la verdad de su persona y obra.",
+      references: "2 Corintios 4:3-6",
+    ),
+    StudySection(
+      title: "32. La gloria y la salvación",
+      content: "La salvación revela la gracia y la justicia de Dios. El propósito de la redención incluye que los creyentes alaben la gloria de su gracia, no que se atribuyan el mérito de su rescate.",
+      references: "Efesios 1:5-14; Tito 3:4-7",
+    ),
+    StudySection(
+      title: "33. La gloria y la justificación",
+      content: "La justificación excluye la jactancia humana. Todos han pecado y necesitan la gracia; por eso la salvación conduce a dar gloria a Dios y no a exaltar los méritos personales.",
+      references: "Romanos 3:23-28; 4:20",
+    ),
+    StudySection(
+      title: "34. La gloria y la santificación",
+      content: "La vida santa honra a Dios porque refleja su carácter en las decisiones, relaciones y conducta. La santificación no compra la salvación, sino que es fruto de la obra de Dios en quienes le pertenecen.",
+      references: "1 Pedro 1:14-16; 1 Corintios 6:19-20",
+    ),
+    StudySection(
+      title: "35. Glorificar a Dios con el cuerpo",
+      content: "La vida física y las acciones cotidianas pertenecen al ámbito de la obediencia cristiana. El creyente está llamado a honrar a Dios también con su cuerpo, evitando separar la adoración de la conducta.",
+      references: "1 Corintios 6:19-20; Romanos 12:1",
+    ),
+    StudySection(
+      title: "36. Glorificar a Dios en las obras",
+      content: "Jesús enseña que las buenas obras pueden llevar a otros a glorificar al Padre. La conducta cristiana debe señalar hacia Dios y no convertirse en una plataforma de orgullo personal.",
+      references: "Mateo 5:16; 1 Pedro 2:12",
+    ),
+    StudySection(
+      title: "37. La gloria y la humildad",
+      content: "La gloria pertenece a Dios; por eso el creyente debe rechazar la vanagloria y reconocer que toda capacidad y oportunidad proceden de Él. La humildad no niega los dones, sino que los administra para servir.",
+      references: "Jeremías 9:23-24; 1 Corintios 4:7",
+    ),
+    StudySection(
+      title: "38. La gloria y el servicio",
+      content: "Servir a Dios significa usar los dones recibidos para el bien de otros y la edificación de la Iglesia. El servicio fiel dirige la atención al Señor, no al prestigio del servidor.",
+      references: "1 Pedro 4:10-11; Colosenses 3:17",
+    ),
+    StudySection(
+      title: "39. La gloria y la adoración congregacional",
+      content: "La reunión de la Iglesia debe orientarse a la honra de Dios y a la edificación mutua. La música, la enseñanza y la oración tienen sentido cuando se realizan conforme a la verdad y con reverencia.",
+      references: "Salmos 96:1-9; 1 Corintios 14:26",
+    ),
+    StudySection(
+      title: "40. La gloria y la oración",
+      content: "La oración comienza reconociendo la santidad y grandeza del Padre. Pedir conforme a su voluntad no es buscar que Dios sirva a nuestros deseos, sino aprender a vivir bajo su gobierno.",
+      references: "Mateo 6:9-10; Juan 14:13",
+    ),
+    StudySection(
+      title: "41. La gloria y la evangelización",
+      content: "Anunciar el evangelio procura que las personas conozcan a Dios y respondan con fe y adoración. El mensajero no debe apropiarse de la gloria que corresponde al Señor.",
+      references: "Mateo 28:18-20; 2 Corintios 4:5",
+    ),
+    StudySection(
+      title: "42. La gloria frente al sufrimiento",
+      content: "La Biblia no enseña que el sufrimiento sea bueno en sí mismo ni que deba ocultarse. Enseña que Dios puede sostener a sus hijos y que la esperanza futura supera las aflicciones presentes.",
+      references: "Romanos 8:18; 2 Corintios 4:16-18",
+    ),
+    StudySection(
+      title: "43. La gloria futura de los creyentes",
+      content: "La esperanza cristiana incluye ser transformados y participar de la gloria que Dios concede por gracia. Esto no significa compartir la esencia divina, sino recibir la plenitud de la vida y comunión prometidas en Cristo.",
+      references: "Romanos 8:17-30; Colosenses 3:4",
+    ),
+    StudySection(
+      title: "44. La gloria en la segunda venida de Cristo",
+      content: "El Nuevo Testamento anuncia que Cristo volverá en gloria y que su señorío será manifestado públicamente. La Iglesia espera este acontecimiento con fidelidad y vigilancia, sin fijar fechas.",
+      references: "Mateo 24:30; Tito 2:13; 2 Tesalonicenses 1:7-10",
+    ),
+    StudySection(
+      title: "45. La gloria en la nueva creación",
+      content: "Apocalipsis describe la nueva Jerusalén iluminada por la gloria de Dios y del Cordero. La imagen comunica comunión plena, santidad y ausencia de todo aquello que destruye la vida.",
+      references: "Apocalipsis 21:1-5,22-23; 22:3-5",
+    ),
+    StudySection(
+      title: "46. La gloria pertenece solo a Dios",
+      content: "La Escritura rechaza la idolatría y la apropiación orgullosa del honor divino. Los seres humanos pueden recibir reconocimiento limitado por sus responsabilidades, pero la adoración suprema pertenece exclusivamente al Señor.",
+      references: "Isaías 42:8; Hechos 12:21-23",
+    ),
+    StudySection(
+      title: "47. Errores al comprender la gloria divina",
+      content: "No debe confundirse la gloria de Dios con brillo físico, éxito económico, fama ministerial o emociones intensas. Las manifestaciones visibles pueden aparecer en algunos relatos, pero la gloria divina abarca su carácter, presencia, obras y dignidad.",
+      references: "Éxodo 33:18-23; Juan 1:14; 2 Corintios 3:18",
+    ),
+    StudySection(
+      title: "48. La gloria no es una sustancia separada de Dios",
+      content: "La Biblia habla de la gloria como manifestación de la grandeza divina, pero no enseña que sea un ser independiente o una cuarta persona. Debe comprenderse en relación con el propio Dios y su revelación.",
+      references: "Éxodo 33:18-19; Isaías 6:3",
+    ),
+    StudySection(
+      title: "49. La gloria y la verdad doctrinal",
+      content: "Honrar a Dios exige hablar de Él conforme a la revelación bíblica. Una enseñanza que distorsiona su identidad no puede justificarse por su popularidad, intensidad emocional o apariencia religiosa.",
+      references: "Juan 4:23-24; 17:17",
+    ),
+    StudySection(
+      title: "50. Síntesis: vivir para la gloria de Dios",
+      content: "La gloria de Dios debe orientar la doctrina, la adoración y la vida diaria. El creyente reconoce la grandeza del Padre, honra al Hijo y vive en la obra del Espíritu Santo, dando testimonio del único Dios trino.",
+      references: "1 Corintios 10:31; 2 Corintios 3:18; 1 Pedro 4:11",
+    )
+  ],
+  conclusion: 'La gloria pertenece eternamente a Dios y revela su excelencia, santidad, majestad y amor. La creación la anuncia, la historia de la redención la manifiesta y Jesucristo, el Hijo eterno encarnado, revela al Padre. El Espíritu Santo glorifica al Hijo y transforma a los creyentes para reflejar su carácter. El Padre, el Hijo y el Espíritu Santo no son tres dioses ni tres fuentes separadas de gloria, sino las tres personas del único Dios. Por eso, la respuesta correcta es adorarlo con reverencia, vivir en santidad, servir con humildad y hacer todas las cosas para su gloria.',
 ),
 ];
 
