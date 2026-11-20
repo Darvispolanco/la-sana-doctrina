@@ -997,8 +997,7 @@ Los relatos de los Evangelios muestran que Jesús resucitado se manifestó a sus
 La resurrección es una afirmación central de la fe cristiana y constituye el fundamento de la esperanza futura de los creyentes.
 
 Sin la muerte y resurrección de Cristo, el anuncio apostólico del evangelio perdería su fundamento.
-''',
-references: 'Marcos 10:45; Lucas 24:1-8; Juan 19:16-37; Juan 20:1-29; Romanos 5:8; 1 Corintios 15:3-8, 12-22.',
+''',references: 'Marcos 10:45; Lucas 24:1-8; Juan 19:16-37; Juan 20:1-29; Romanos 5:8; 1 Corintios 15:3-8, 12-22.',
 ),
 ],
 conclusion: '''
@@ -1997,8 +1996,7 @@ conclusion:
 
 Study(
 number: '15',
-title: 'La relación eterna entre el Padre, el Hijo y el Espíritu Santo',
-subtitle: 'La comunión, unidad y distinción personal de las tres personas divinas',
+title: 'La relación eterna entre el Padre, el Hijo y el Espíritu Santo',subtitle: 'La comunión, unidad y distinción personal de las tres personas divinas',
 introduction:
 'La doctrina bíblica de la Trinidad no comienza con la creación del universo ni con la encarnación de Jesucristo. El Padre, el Hijo y el Espíritu Santo existen eternamente como las tres personas del único Dios verdadero. Antes de que existiera el tiempo, la materia, los ángeles o la humanidad, Dios ya existía en la plenitud de su naturaleza divina. Las Escrituras revelan relaciones personales entre el Padre, el Hijo y el Espíritu Santo, especialmente mediante el amor del Padre hacia el Hijo, la relación eterna del Hijo con el Padre y la participación del Espíritu en la comunión y obra divina. Este estudio examina estas verdades sin confundir a las personas ni dividir la esencia de Dios.',
 sections: [
@@ -2997,8 +2995,7 @@ title: '22. Juan 15:26: el Espíritu procede del Padre',
 content:
 'Jesús promete enviar el Consolador desde el Padre y declara que el Espíritu de verdad procede del Padre. El pasaje distingue al Padre, al Hijo y al Espíritu Santo. El Espíritu da testimonio de Cristo y no es presentado como una fuerza impersonal. La expresión procede del Padre ha sido objeto de reflexión teológica histórica. Debe estudiarse con respeto a su contexto bíblico y sin convertir una discusión posterior sobre las relaciones de origen en una afirmación que el versículo no desarrolla por sí solo.',
 references: 'Juan 15:26; Juan 14:16-17; Juan 16:13-15'
-),
-StudySection(
+),StudySection(
 title: '23. Juan 16:13-15: el Espíritu recibe y comunica lo que es de Cristo',
 content:
 'Jesús enseña que el Espíritu guiará a los discípulos a toda verdad, hablará, anunciará lo que ha de venir y glorificará al Hijo. También declara que todo lo que tiene el Padre es del Hijo y que el Espíritu tomará de lo suyo. Este pasaje presenta una profunda comunión entre las tres personas. El Espíritu no actúa de manera independiente ni contradice al Padre y al Hijo. Su misión es comunicar la verdad y glorificar a Cristo.',
@@ -3997,8 +3994,7 @@ references: 'Hebreos 10:5-14; Hebreos 9:26-28; 1 Pedro 1:18-19.'
 StudySection(
 title: '29. ¿Jesús dejó de ser Dios cuando se humilló?',
 content:
-'Filipenses 2:7 utiliza la expresión se despojó a sí mismo. Esta frase debe interpretarse dentro del contexto: Cristo tomó forma de siervo y se hizo semejante a los hombres. El texto no dice que abandonara sus atributos divinos ni que dejara de ser Dios. Describe su humillación voluntaria y su obediencia. La encarnación fue una adición de humanidad, no una pérdida de divinidad.',
-references: 'Filipenses 2:5-8; Colosenses 2:9; Juan 1:14.'
+'Filipenses 2:7 utiliza la expresión se despojó a sí mismo. Esta frase debe interpretarse dentro del contexto: Cristo tomó forma de siervo y se hizo semejante a los hombres. El texto no dice que abandonara sus atributos divinos ni que dejara de ser Dios. Describe su humillación voluntaria y su obediencia. La encarnación fue una adición de humanidad, no una pérdida de divinidad.',references: 'Filipenses 2:5-8; Colosenses 2:9; Juan 1:14.'
 ),
 StudySection(
 title: '30. ¿Jesús era solamente un hombre lleno de Dios?',
@@ -4997,8 +4993,7 @@ content:
 references: 'Mateo 28:18-20; Juan 14:16-18; Efesios 3:16-17.'
 ),
 StudySection(
-title: '28. La ascensión y la misión evangelizadora',
-content:
+title: '28. La ascensión y la misión evangelizadora',content:
 'Antes de ascender, Jesús encargó a sus discípulos anunciar el evangelio a todas las naciones. La autoridad universal de Cristo fundamenta la misión universal de la Iglesia. La evangelización no se realiza para construir el prestigio de una institución, sino para dar testimonio de Jesucristo, llamar al arrepentimiento y enseñar a obedecer sus mandamientos. El Señor exaltado continúa siendo el centro del mensaje cristiano.',
 references: 'Mateo 28:18-20; Lucas 24:46-49; Hechos 1:8.'
 ),
@@ -5997,8 +5992,7 @@ title: '26. La adopción no debe confundirse con la salvación universal automá
 content:
 'La Biblia afirma que Dios es Creador y Padre en determinados sentidos relacionados con su obra creadora y su autoridad sobre la humanidad. Sin embargo, los textos que hablan de la adopción salvadora relacionan esta condición con Jesucristo y con la fe. Juan 1:12, Gálatas 3:26 y Romanos 8 presentan una recepción filial vinculada a la unión con Cristo. Por tanto, no es correcto utilizar la doctrina de la adopción para afirmar que todas las personas ya disfrutan automáticamente de la misma relación salvadora.',
 references: 'Juan 1:12-13; Romanos 8:14-17; Gálatas 3:26; Gálatas 4:4-7.',
-),
-StudySection(
+),StudySection(
 title: '27. ¿Todos los seres humanos son hijos de Dios en el mismo sentido?',
 content:
 'La respuesta requiere distinguir entre creación y adopción. Todos los seres humanos deben su existencia a Dios y poseen dignidad como criaturas hechas a su imagen. Pero el Nuevo Testamento utiliza la adopción para describir la relación salvadora concedida mediante Jesucristo. No se debe negar la dignidad de ninguna persona, ni tampoco borrar la diferencia bíblica entre ser criatura de Dios y haber sido recibido como hijo por medio de Cristo.',
@@ -6997,8 +6991,7 @@ references: 'Romanos 8:15-17; Efesios 1:13-14; 1 Juan 5:11-13.',
 StudySection(
 title: '37. Juan 17 y la comunión de los discípulos',
 content:
-'En su oración, Jesús pide al Padre por sus discípulos y por quienes creerían mediante su palabra. La unidad solicitada tiene como referencia la relación entre el Padre y el Hijo, pero no significa que los creyentes se conviertan en una sola persona ni que compartan la esencia divina. Expresa una unidad espiritual, fundada en la verdad y el amor, que debe distinguir a la comunidad cristiana.',
-references: 'Juan 17:20-23.',
+'En su oración, Jesús pide al Padre por sus discípulos y por quienes creerían mediante su palabra. La unidad solicitada tiene como referencia la relación entre el Padre y el Hijo, pero no significa que los creyentes se conviertan en una sola persona ni que compartan la esencia divina. Expresa una unidad espiritual, fundada en la verdad y el amor, que debe distinguir a la comunidad cristiana.',references: 'Juan 17:20-23.',
 ),
 StudySection(
 title: '38. Primera de Juan 1:3 y la comunión apostólica',
@@ -7997,8 +7990,7 @@ content:
 references: 'Génesis 1:31; Romanos 8:23; 1 Corintios 6:13-20.',
 ),
 StudySection(
-title: '48. ¿La imagen de Dios significa que todos somos dioses?',
-content:
+title: '48. ¿La imagen de Dios significa que todos somos dioses?',content:
 'No. Ser imagen de Dios significa haber sido creado con una dignidad y responsabilidad especiales, no poseer la naturaleza divina. La diferencia entre Creador y criatura permanece. Ningún ser humano es omnipotente, eterno o digno de la adoración que corresponde únicamente a Dios.',
 references: 'Isaías 45:5-7; Romanos 1:25; Salmos 100:3.',
 ),
@@ -8997,8 +8989,7 @@ title: '6. Noé y la gracia divina',
 content:
 'Génesis declara que Noé halló gracia ante los ojos del Señor. El relato presenta a un hombre que vivía en una generación caracterizada por la corrupción, pero que recibió el favor de Dios. El texto no enseña que Noé compró la gracia mediante su conducta. Su obediencia aparece dentro de la relación que el relato describe, mostrando que la gracia y una vida de fidelidad no son realidades opuestas.',
 references: 'Génesis 6:5-9; Hebreos 11:7.'
-),
-StudySection(
+),StudySection(
 title: '7. La gracia y el pacto de Dios',
 content:
 'La historia bíblica muestra que Dios actúa por iniciativa propia al establecer sus pactos y cumplir sus promesas. Su fidelidad no depende de la perfección de las personas con quienes trata. Sin embargo, la gracia del pacto no debe confundirse con indiferencia hacia la obediencia: Dios llama a su pueblo a vivir conforme a su voluntad.',
@@ -9997,8 +9988,7 @@ content:
 'El Espíritu Santo es presentado como quien sella a los creyentes y constituye las arras de la herencia prometida. Su presencia es garantía de que Dios llevará adelante su propósito de redención. El Espíritu no es una energía separada de Dios, sino una persona divina que actúa en unidad con el Padre y el Hijo.',
 references: 'Efesios 1:13-14; Efesios 4:30; 2 Corintios 1:21-22.'
 ),
-StudySection(
-title: '26. La Trinidad y el cumplimiento de las promesas',
+StudySection(title: '26. La Trinidad y el cumplimiento de las promesas',
 content:
 'La obra salvadora revela la participación personal del Padre, del Hijo y del Espíritu Santo. El Padre establece el propósito, el Hijo realiza la redención y el Espíritu aplica sus beneficios. Esta distinción no significa que existan tres voluntades divinas enfrentadas, sino una sola obra del único Dios en tres personas distintas.',
 references: 'Efesios 1:3-14; 1 Pedro 1:2; Tito 3:4-7.'
@@ -10997,8 +10987,7 @@ StudySection(
 title: '36. El silencio de Dios y su presencia',
 content:
 'En ocasiones, las personas oran sin recibir una respuesta inmediata o sin percibir una intervención visible. La Biblia muestra que la espera forma parte de la experiencia de los creyentes. El silencio aparente no significa ausencia divina. Dios continúa presente y conoce nuestras circunstancias. No debemos inventar explicaciones para cada demora, sino perseverar en la fe y buscar orientación en las Escrituras.',
-references: 'Salmos 27:13-14; Lamentaciones 3:25-26; Habacuc 2:3.'
-),
+references: 'Salmos 27:13-14; Lamentaciones 3:25-26; Habacuc 2:3.'),
 StudySection(
 title: '37. La omnipresencia y la promesa de reunión cristiana',
 content:
@@ -11997,8 +11986,7 @@ references: 'Hechos 17:24-28; Juan 17:24; 1 Juan 4:9-10.',
 ),
 StudySection(
 title: '47. La autosuficiencia y la esperanza cristiana',
-content:
-'La esperanza del creyente descansa en Dios y no en la estabilidad de los recursos humanos. El Señor no necesita condiciones favorables para permanecer fiel ni pierde su capacidad de cumplir sus promesas. Por eso, podemos confiar en Él incluso cuando nuestras circunstancias cambian.',
+content:'La esperanza del creyente descansa en Dios y no en la estabilidad de los recursos humanos. El Señor no necesita condiciones favorables para permanecer fiel ni pierde su capacidad de cumplir sus promesas. Por eso, podemos confiar en Él incluso cuando nuestras circunstancias cambian.',
 references: 'Romanos 8:31-39; Filipenses 4:19; Hebreos 10:23.',
 ),
 StudySection(
@@ -12997,8 +12985,7 @@ content:
 'El amor humano puede estar limitado por intereses personales, ignorancia, temor y cambios emocionales. El amor de Dios no tiene esas imperfecciones. Él conoce perfectamente a quienes ama y actúa conforme a su sabiduría y justicia. Su amor nunca es manipulador, egoísta ni contrario a su propio carácter.',
 references: 'Mateo 5:48; Salmos 145:17; Santiago 1:17.',
 ),
-StudySection(
-title: '6. El amor y la bondad de Dios',
+StudySection(title: '6. El amor y la bondad de Dios',
 content:
 'El amor y la bondad están estrechamente relacionados, aunque destacan aspectos diferentes del carácter divino. La bondad enfatiza la perfección y generosidad de Dios; el amor destaca su disposición de buscar el bien conforme a su voluntad y de establecer una relación con sus criaturas. Ambos atributos se manifiestan de manera coherente en la creación y en la redención.',
 references: 'Salmos 100:5; Salmos 145:8-9; 1 Juan 4:9-10.',
@@ -13997,8 +13984,7 @@ StudySection(
 title: '16. La verdad de Dios y la interpretación de la Biblia',
 content:
 'Creer que la Biblia es verdadera no significa que cualquier interpretación humana sea correcta. Los lectores pueden cometer errores al desconocer el contexto, ignorar el género literario o imponer ideas ajenas al pasaje. Por eso, interpretar fielmente requiere comparar las Escrituras, estudiar el contexto histórico y observar cómo se desarrolla el argumento. La autoridad pertenece a la palabra de Dios, no a las conclusiones particulares de un intérprete.',
-references: 'Nehemías 8:8; Lucas 24:25-27; 2 Timoteo 2:15.',
-),
+references: 'Nehemías 8:8; Lucas 24:25-27; 2 Timoteo 2:15.',),
 StudySection(
 title: '17. La verdad revelada progresivamente',
 content:
@@ -14780,6 +14766,318 @@ references: 'Génesis 17:1; Job 42:2; Lucas 1:37; Colosenses 1:16-17; Apocalipsi
 conclusion:
 'La omnipotencia revela que Dios posee autoridad y poder absolutos sobre toda la creación. Nada puede igualarse a Él ni impedir definitivamente el cumplimiento de sus propósitos. Sin embargo, su poder nunca contradice su naturaleza: el Señor no miente, no peca y no deja de ser quien es. La creación, la providencia, los milagros, la encarnación, la resurrección y la redención manifiestan su poder en la historia. La doctrina trinitaria afirma que el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina y su poder eterno. Por eso, la iglesia puede confiar en Dios sin pretender controlar su voluntad, reconocer sus límites como criatura y vivir con esperanza en la victoria definitiva de Jesucristo.'
 ),
+
+Study(
+number: '61',
+title: "La espiritualidad de Dios: su naturaleza espiritual y su existencia más allá de la materia",
+subtitle: "Dios es espíritu: eterno, invisible, inmaterial y distinto de toda la creación.",
+introduction:
+"La espiritualidad de Dios es el atributo que expresa que su naturaleza no es material, corporal ni dependiente del universo físico. Dios no está compuesto de elementos, no ocupa un espacio como las criaturas y no puede ser reducido a una representación visible. Su existencia es eterna e independiente de todo lo creado. La Biblia enseña esta realidad mediante declaraciones directas, como Juan 4:24, y mediante textos que presentan a Dios como invisible, eterno y distinto de la creación. Esta doctrina también requiere una lectura trinitaria. El Padre es espíritu, el Hijo posee plenamente la naturaleza divina y el Espíritu Santo es verdaderamente Dios. La encarnación del Hijo no significa que la esencia divina se haya convertido en materia: el Hijo asumió una verdadera naturaleza humana sin dejar de ser Dios. De igual manera, las manifestaciones visibles de Dios en la historia bíblica no deben confundirse automáticamente con la totalidad de su esencia.",
+sections: [
+StudySection(
+title: "1. Definición de la espiritualidad divina",
+content:
+"La espiritualidad divina significa que Dios existe como espíritu y no como un ser material compuesto de partes físicas. Su naturaleza no depende de un organismo ni de las condiciones del universo. Juan 4:24 declara una verdad acerca de quién es Dios, no solamente acerca de una actividad suya.",
+references: "Juan 4:24; Lucas 24:39; Hechos 17:24-25."
+),
+StudySection(
+title: "2. El significado de «Dios es Espíritu»",
+content:
+"En Juan 4:24, Jesús enseña que la adoración verdadera no depende de un lugar geográfico exclusivo. La naturaleza espiritual de Dios explica por qué su presencia y autoridad no quedan encerradas en un santuario. Esto tampoco significa que Dios sea una fuerza impersonal: las Escrituras lo presentan como alguien que habla, ama, decide y establece relaciones.",
+references: "Juan 4:19-24; Salmos 139:1-10."
+),
+StudySection(
+title: "3. Dios no es un ser material",
+content:
+"La materia pertenece al orden de la creación, mientras que Dios es el Creador. Él no está formado por elementos físicos ni necesita un cuerpo para existir. Hechos 17:24-25 enseña que el Creador no depende de templos hechos por manos humanas ni recibe servicio porque tenga necesidad de algo.",
+references: "Génesis 1:1; Hechos 17:24-25; Romanos 1:20."
+),
+StudySection(
+title: "4. La diferencia entre el Creador y la creación",
+content:
+"La Biblia distingue entre Dios y todo lo creado. El universo tiene principio y depende de su Creador; Dios existe eternamente y no recibe su existencia de una fuente externa. No es una parte del universo ni una energía que lo atraviesa, sino el Señor trascendente que lo creó y lo sostiene.",
+references: "Génesis 1:1; Salmos 90:2; Colosenses 1:16-17."
+),
+StudySection(
+title: "5. La invisibilidad de Dios",
+content:
+"La invisibilidad significa que la esencia divina no puede ser contemplada como se observa un objeto físico. Primera a Timoteo 1:17 llama a Dios invisible, y Colosenses 1:15 presenta al Hijo como imagen del Dios invisible. Invisibilidad no significa ausencia: Dios actúa y se revela mediante sus obras y su Palabra.",
+references: "Romanos 1:20; 1 Timoteo 1:17; Colosenses 1:15."
+),
+StudySection(
+title: "6. Dios no está limitado por dimensiones físicas",
+content:
+"Los seres materiales ocupan espacio y están sujetos a dimensiones físicas. Dios no está contenido en un lugar como una criatura ni puede ser encerrado en una estructura. Cuando Salomón reconoce que los cielos no pueden contenerlo, afirma su grandeza incomparable.",
+references: "1 Reyes 8:27; Isaías 66:1; Hechos 7:48-50."
+),
+StudySection(
+title: "7. La independencia de Dios respecto de la materia",
+content:
+"Dios no necesita materia para existir ni depende del universo para mantener su ser. Antes de la creación ya existía plenamente. La creación manifiesta su poder, pero no constituye una necesidad para su existencia. Esta independencia distingue al Creador de todas sus criaturas.",
+references: "Salmos 90:2; Juan 17:5; Hechos 17:24-25."
+),
+StudySection(
+title: "8. La eternidad de la naturaleza espiritual",
+content:
+"La espiritualidad divina no comenzó cuando apareció el universo. Dios existe desde siempre y no está sujeto al nacimiento, envejecimiento o deterioro propios de los seres materiales. El Salmo 90 presenta al Señor como Dios desde la eternidad y hasta la eternidad.",
+references: "Salmos 90:1-2; Isaías 40:28; 1 Timoteo 1:17."
+),
+StudySection(
+title: "9. La espiritualidad y la santidad de Dios",
+content:
+"Que Dios sea espíritu no significa únicamente que sea inmaterial. Su naturaleza también es perfectamente santa y moralmente pura. La espiritualidad divina debe estudiarse junto con sus demás atributos. El Dios que es Espíritu es también santo, justo y verdadero.",
+references: "Levítico 11:44; Isaías 6:1-3; Juan 4:24."
+),
+StudySection(
+title: "10. La espiritualidad y la personalidad de Dios",
+content:
+"Dios no es una energía anónima ni una fuerza sin voluntad. La Biblia lo presenta como un ser personal que conoce, habla, ama, ordena y establece pactos. Su naturaleza espiritual no elimina su personalidad; enseña que su existencia no depende de un organismo material.",
+references: "Éxodo 3:14-15; Juan 3:16; 1 Juan 4:8-10."
+),
+StudySection(
+title: "11. Dios conoce sin depender de órganos físicos",
+content:
+"Los seres humanos conocemos mediante capacidades corporales y mentales limitadas. Dios conoce perfectamente sin depender de ojos, oídos o instrumentos. Cuando la Biblia habla de sus ojos u oídos, comunica su conocimiento y atención mediante un lenguaje comprensible.",
+references: "Salmos 139:1-4; Proverbios 15:3; Hebreos 4:13."
+),
+StudySection(
+title: "12. Dios actúa sin depender de manos materiales",
+content:
+"Las Escrituras describen la obra de Dios utilizando expresiones como su mano, su brazo y su dedo. Estas expresiones comunican poder, intervención y autoridad. No obligan a concluir que la esencia divina tenga miembros físicos; comunican realidades espirituales mediante imágenes conocidas.",
+references: "Éxodo 15:6; Salmos 8:3; Isaías 59:1."
+),
+StudySection(
+title: "13. El lenguaje antropomórfico en la Biblia",
+content:
+"El antropomorfismo consiste en describir a Dios mediante expresiones asociadas con características humanas. La Biblia habla de su rostro, sus ojos, sus manos y su brazo para comunicar presencia, conocimiento y poder. Estas expresiones deben interpretarse dentro de su contexto literario y teológico.",
+references: "Números 6:24-26; Salmos 34:15; Isaías 59:1."
+),
+StudySection(
+title: "14. Las expresiones que comunican emociones",
+content:
+"La Biblia habla del amor, la compasión, el enojo y el agrado de Dios. Estas expresiones revelan su relación personal y moral con sus criaturas, no una dependencia de procesos corporales humanos. Su compasión y justicia son reales, aunque no sean reacciones biológicas de un organismo.",
+references: "Éxodo 34:6-7; Salmos 103:8-13; Juan 3:16."
+),
+StudySection(
+title: "15. La diferencia entre una imagen y la naturaleza divina",
+content:
+"Una imagen puede representar una idea, pero no contiene ni reproduce la esencia de aquello que representa. Ninguna figura creada puede expresar adecuadamente la naturaleza infinita de Dios. La prohibición bíblica de fabricar imágenes para rendirles culto protege la adoración de confundir al Creador con objetos limitados.",
+references: "Éxodo 20:3-6; Deuteronomio 4:15-19; Isaías 40:18."
+),
+StudySection(
+title: "16. La prohibición de representar a Dios mediante ídolos",
+content:
+"Israel recibió la advertencia de no fabricar imágenes para representar y adorar al Señor. Deuteronomio 4 recuerda que el pueblo oyó la voz de Dios, pero no vio una figura que pudiera reproducir. Ninguna forma material creada debe sustituir la verdadera naturaleza divina.",
+references: "Éxodo 20:4-5; Deuteronomio 4:12-19; Isaías 44:9-20."
+),
+StudySection(
+title: "17. La presencia de Dios no equivale a ocupar un cuerpo",
+content:
+"Dios puede manifestar su presencia en un lugar sin quedar limitado a ese lugar. La dedicación del templo muestra que el pueblo podía acudir allí para orar, pero ni el templo ni los cielos podían contener al Señor. Su presencia es real, aunque no funcione como la ocupación espacial de un cuerpo material.",
+references: "1 Reyes 8:10-30; Salmos 139:7-10."
+),
+StudySection(
+title: "18. La omnipresencia y la espiritualidad divina",
+content:
+"La omnipresencia significa que Dios está presente en todo lugar y que ningún espacio queda fuera de su conocimiento y poder. No significa que Dios sea idéntico al universo ni que el universo sea parte de su esencia. Nadie puede quedar fuera de la presencia del Señor.",
+references: "Salmos 139:7-12; Jeremías 23:23-24; Hechos 17:27-28."
+),
+StudySection(
+title: "19. Dios no debe confundirse con la naturaleza",
+content:
+"La creación manifiesta la gloria y el poder de Dios, pero no es Dios mismo. El sol, los astros, los animales y los elementos naturales son obras creadas, no manifestaciones que deban recibir adoración. La espiritualidad divina establece una diferencia entre el Creador y las cosas que Él hizo.",
+references: "Génesis 1:1; Romanos 1:20-25; Hechos 14:15."
+),
+StudySection(
+title: "20. La voz de Dios en las Escrituras",
+content:
+"La Biblia presenta a Dios hablando y comunicando su voluntad. Que se describa una voz no exige que Dios posea un aparato vocal físico. El lenguaje bíblico comunica que Dios se revela de manera comprensible y efectiva. Su palabra tiene autoridad porque procede del Señor.",
+references: "Génesis 1:3; Éxodo 3:4; Hebreos 1:1-2."
+),
+StudySection(
+title: "21. Las manifestaciones visibles en el Antiguo Testamento",
+content:
+"En el Antiguo Testamento aparecen manifestaciones mediante fuego, nube, luz y mensajeros. Estas escenas muestran que Dios puede darse a conocer de forma perceptible, pero no significan que su esencia completa se haya convertido en el fenómeno observado. Debe distinguirse entre la revelación de Dios y la totalidad de su naturaleza.",
+references: "Éxodo 3:1-6; Éxodo 24:15-17; Éxodo 40:34-38."
+),
+StudySection(
+title: "22. La zarza ardiente y la revelación divina",
+content:
+"En Éxodo 3, Moisés encuentra una zarza que arde sin consumirse y escucha la voz de Dios. El acontecimiento constituye una manifestación extraordinaria mediante la cual el Señor llama a Moisés y revela su propósito. El texto no enseña que Dios sea una planta o una llama, sino que utiliza ese medio para comunicarse.",
+references: "Éxodo 3:1-15; Hechos 7:30-34."
+),
+StudySection(
+title: "23. La nube y el fuego como señales de la presencia divina",
+content:
+"La nube y el fuego acompañaron al pueblo de Israel durante su peregrinación. Estas señales comunicaban dirección, protección y presencia divina. No deben confundirse con la esencia de Dios, sino comprenderse como manifestaciones mediante las cuales el Señor guiaba a su pueblo.",
+references: "Éxodo 13:21-22; Éxodo 40:34-38; Números 9:15-23."
+),
+StudySection(
+title: "24. La visión de Isaías y el lenguaje de la gloria",
+content:
+"Isaías 6 presenta una visión del Señor sentado en un trono, acompañado por serafines que proclaman su santidad. El profeta recibe una visión que comunica majestad, autoridad y gloria. El lenguaje visual de la escena no debe interpretarse como una descripción exhaustiva de la esencia espiritual de Dios.",
+references: "Isaías 6:1-8; Juan 12:37-41."
+),
+StudySection(
+title: "25. La espiritualidad de Dios y el templo",
+content:
+"El templo era un lugar especialmente relacionado con el culto y la oración de Israel, pero no encerraba la esencia divina. Salomón reconoció que ni los cielos podían contener a Dios. El Señor escucha a su pueblo sin depender de una residencia material.",
+references: "1 Reyes 8:27-30; 2 Crónicas 6:18-21."
+),
+StudySection(
+title: "26. La declaración de Jesús sobre la adoración",
+content:
+"En su conversación con la mujer samaritana, Jesús explica que la adoración verdadera no estará restringida a Jerusalén ni al monte de Samaria. Como Dios es Espíritu, sus adoradores deben acercarse en espíritu y en verdad. La enseñanza dirige la atención hacia una adoración auténtica.",
+references: "Juan 4:19-24."
+),
+StudySection(
+title: "27. Qué significa adorar en espíritu",
+content:
+"Adorar en espíritu significa que la adoración no se reduce a gestos externos, ceremonias o lugares. Involucra la interioridad de la persona y una respuesta genuina ante Dios. El texto debe leerse junto con la necesidad de la verdad: la adoración no se fundamenta únicamente en emociones.",
+references: "Juan 4:23-24; Romanos 12:1-2; Filipenses 3:3."
+),
+StudySection(
+title: "28. Qué significa adorar en verdad",
+content:
+"Adorar en verdad implica acercarse a Dios de acuerdo con la verdad que Él ha revelado. La sinceridad es importante, pero no sustituye el conocimiento verdadero de Dios. Jesús identifica la verdad con la revelación divina y con su propia misión. La adoración cristiana debe estar guiada por la Palabra y centrada en Cristo.",
+references: "Juan 1:14; Juan 14:6; Juan 17:17."
+),
+StudySection(
+title: "29. La espiritualidad del Padre",
+content:
+"El Padre es presentado en las Escrituras como Dios, Creador y fuente de toda autoridad divina. Su naturaleza no es material ni está encerrada en un cuerpo. Jesús habla del Padre como alguien que busca adoradores verdaderos y que actúa en comunión con el Hijo y el Espíritu Santo.",
+references: "Juan 4:23-24; Juan 5:19-23; Efesios 4:6."
+),
+StudySection(
+title: "30. La divinidad del Hijo",
+content:
+"El Hijo no es una criatura espiritual ni un ser inferior en naturaleza al Padre. Juan 1:1 declara que el Verbo era Dios, y Colosenses 2:9 enseña que en Cristo habita corporalmente toda la plenitud de la Deidad. El Hijo comparte plenamente la naturaleza divina.",
+references: "Juan 1:1-3; Juan 20:28; Colosenses 2:9."
+),
+StudySection(
+title: "31. La divinidad del Espíritu Santo",
+content:
+"El Espíritu Santo no es una fuerza creada ni una energía impersonal. Las Escrituras le atribuyen conocimiento, voluntad y acción, y lo identifican en relación con Dios. En Hechos 5:3-4, mentir al Espíritu Santo es presentado como mentir a Dios. Su naturaleza es plenamente divina.",
+references: "Hechos 5:3-4; 1 Corintios 2:10-11; 1 Corintios 3:16."
+),
+StudySection(
+title: "32. Una esencia divina y tres personas",
+content:
+"La doctrina trinitaria confiesa un solo Dios que existe eternamente en tres personas distintas: Padre, Hijo y Espíritu Santo. No son tres dioses ni tres partes de Dios. Cada persona es plenamente divina y comparte la única esencia divina. La espiritualidad no divide a Dios ni convierte a las personas en manifestaciones temporales de una sola persona.",
+references: "Mateo 28:19; Juan 1:1; 2 Corintios 13:14."
+),
+StudySection(
+title: "33. La distinción personal en el bautismo de Jesús",
+content:
+"En el bautismo de Jesús, el Hijo está en el agua, el Espíritu desciende como paloma y la voz del Padre se escucha desde los cielos. El relato muestra una distinción personal real entre Padre, Hijo y Espíritu Santo. La manifestación visible del Espíritu no significa que su esencia sea una paloma, sino que esa forma sirve como señal.",
+references: "Mateo 3:13-17; Marcos 1:9-11; Lucas 3:21-22."
+),
+StudySection(
+title: "34. La fórmula bautismal trinitaria",
+content:
+"Jesús ordena bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. La fórmula presenta a las tres personas en una única referencia bautismal y conserva la distinción entre ellas. Este pasaje es fundamental para la enseñanza trinitaria y debe interpretarse junto con el testimonio completo del Nuevo Testamento.",
+references: "Mateo 28:18-20."
+),
+StudySection(
+title: "35. La bendición apostólica y la comunión trinitaria",
+content:
+"Segunda de Corintios 13:14 menciona la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo. Pablo presenta a las tres personas en la bendición dirigida a la iglesia. El texto muestra su participación en la vida cristiana, sin confundir sus identidades personales.",
+references: "2 Corintios 13:14; Efesios 2:18."
+),
+StudySection(
+title: "36. La encarnación no transforma la esencia divina en materia",
+content:
+"La encarnación significa que el Hijo eterno asumió una verdadera naturaleza humana. Juan 1:14 afirma que el Verbo fue hecho carne, pero no enseña que la naturaleza divina dejara de ser divina o se convirtiera en materia. El Hijo tomó humanidad sin abandonar su divinidad. La encarnación une dos naturalezas en la única persona de Cristo.",
+references: "Juan 1:1-14; Filipenses 2:5-8; Hebreos 2:14-17."
+),
+StudySection(
+title: "37. Jesucristo: verdadero Dios y verdadero hombre",
+content:
+"Jesucristo posee una naturaleza divina y una naturaleza humana. Según su humanidad, nació, creció, tuvo hambre, experimentó cansancio y murió. Según su divinidad, es el Verbo eterno y comparte plenamente la naturaleza de Dios. Ambas naturalezas permanecen reales, sin confundirse ni separarse en la persona del Hijo.",
+references: "Juan 1:1-3,14; Romanos 9:5; Hebreos 1:1-3; 1 Timoteo 2:5."
+),
+StudySection(
+title: "38. El cuerpo glorificado de Cristo",
+content:
+"Después de resucitar, Jesús se presenta ante sus discípulos con un cuerpo verdadero y glorificado. Lucas 24 muestra que no era una aparición sin realidad corporal. Esto pertenece a la humanidad resucitada del Hijo encarnado y no significa que la esencia divina sea material. La resurrección confirma la realidad de su humanidad.",
+references: "Lucas 24:36-43; Juan 20:24-29; Filipenses 3:20-21."
+),
+StudySection(
+title: "39. La ascensión de Jesucristo",
+content:
+"La ascensión señala la exaltación del Cristo resucitado y su entrada en la gloria. El Hijo encarnado asciende corporalmente, pero su divinidad no queda limitada al cielo como si antes hubiera estado ausente de otros lugares. La ascensión se relaciona con su obra mesiánica, su autoridad y su humanidad glorificada.",
+references: "Lucas 24:50-53; Hechos 1:6-11; Efesios 1:20-23."
+),
+StudySection(
+title: "40. El Espíritu Santo y sus manifestaciones",
+content:
+"El Espíritu Santo puede manifestar su obra mediante señales perceptibles, como ocurrió en Pentecostés. El viento y las lenguas como de fuego descritos en Hechos 2 no son la esencia del Espíritu, sino señales que acompañaron su venida sobre los discípulos. La persona divina del Espíritu no debe confundirse con los símbolos de su actividad.",
+references: "Hechos 2:1-4; Juan 3:8; Hechos 10:44-46."
+),
+StudySection(
+title: "41. El Espíritu Santo no es una fuerza impersonal",
+content:
+"El Espíritu Santo enseña, guía, habla, intercede y distribuye dones conforme a su voluntad. Estas acciones personales impiden reducirlo a una energía sin identidad. Su naturaleza espiritual no significa que sea impersonal, sino que es una persona divina que actúa en perfecta unidad con el Padre y el Hijo.",
+references: "Juan 14:26; Juan 16:13-14; Romanos 8:26-27; 1 Corintios 12:11."
+),
+StudySection(
+title: "42. La espiritualidad y la oración",
+content:
+"La oración no consiste en dirigirse a una ubicación física para conseguir que Dios escuche. El creyente puede orar con confianza porque Dios conoce y escucha a sus hijos. La oración es una relación con el Señor presente y soberano, no una comunicación dependiente de la distancia.",
+references: "Mateo 6:6-8; Filipenses 4:6-7; 1 Juan 5:14."
+),
+StudySection(
+title: "43. La espiritualidad y la vida interior del creyente",
+content:
+"La vida cristiana no se limita a prácticas externas. Dios transforma el corazón, renueva la mente y produce obediencia en quienes creen. La espiritualidad divina fundamenta una adoración que involucra la totalidad de la persona y no solamente una apariencia religiosa. El creyente está llamado a vivir delante de Dios con sinceridad.",
+references: "Romanos 12:1-2; Efesios 3:16-19; Gálatas 5:16-25."
+),
+StudySection(
+title: "44. La espiritualidad y la regeneración",
+content:
+"Jesús enseña que es necesario nacer de nuevo y relaciona este nacimiento con la obra del Espíritu. La regeneración no es una transformación física ni un cambio de ubicación, sino una obra divina en la vida interior de la persona. El Espíritu Santo concede nueva vida y produce una respuesta de fe y obediencia.",
+references: "Juan 3:3-8; Tito 3:5-6; 1 Pedro 1:23."
+),
+StudySection(
+title: "45. La espiritualidad y la santificación",
+content:
+"La santificación comprende la obra de Dios por la cual el creyente es apartado para Él y transformado en su conducta. El Espíritu Santo actúa en la vida del cristiano para producir fruto y conformidad con la voluntad divina. Esta obra no convierte al creyente en un ser divino, sino que lo transforma para vivir en obediencia a Dios.",
+references: "Romanos 8:12-14; 1 Corintios 6:11; Gálatas 5:22-25."
+),
+StudySection(
+title: "46. La espiritualidad y la iglesia",
+content:
+"La iglesia es el pueblo reunido por Dios y habitado por el Espíritu Santo. El Nuevo Testamento utiliza la imagen del templo para enseñar que la comunidad pertenece al Señor. Esta comparación no encierra a Dios en una estructura; expresa su presencia y obra en medio de su pueblo.",
+references: "1 Corintios 3:16-17; Efesios 2:19-22; 1 Pedro 2:4-5."
+),
+StudySection(
+title: "47. La espiritualidad y la adoración comunitaria",
+content:
+"La adoración congregacional incluye cantos, oración, enseñanza y comunión, pero ninguna de estas actividades debe reducirse a una presentación externa. La iglesia adora al Dios vivo conforme a su Palabra y por medio de Jesucristo, en la obra del Espíritu Santo. La espiritualidad divina orienta el culto hacia Dios.",
+references: "Juan 4:23-24; Efesios 5:18-20; Colosenses 3:16-17."
+),
+StudySection(
+title: "48. Errores que deben evitarse",
+content:
+"Es incorrecto concluir que Dios es una energía impersonal, que el universo es parte de su esencia o que toda manifestación visible representa su naturaleza completa. También es incorrecto negar la verdadera humanidad de Cristo por afirmar que Dios es Espíritu. La interpretación bíblica debe conservar la espiritualidad de Dios, la encarnación real del Hijo y la personalidad divina del Espíritu Santo.",
+references: "Juan 1:14; Juan 4:24; Colosenses 2:9; Hechos 5:3-4."
+),
+StudySection(
+title: "49. Implicaciones para la fe",
+content:
+"Saber que Dios es Espíritu fortalece la confianza en que el Señor no depende de circunstancias materiales ni está limitado por fronteras humanas. También enseña a evitar la idolatría, valorar la oración y buscar una adoración sincera. La doctrina conduce a reconocer la grandeza de Dios y a vivir con reverencia delante de Él.",
+references: "Salmos 115:1-8; Salmos 139:7-12; Juan 4:23-24."
+),
+StudySection(
+title: "50. Síntesis trinitaria de la espiritualidad de Dios",
+content:
+"La espiritualidad divina pertenece a la única esencia de Dios. El Padre es Dios, el Hijo es Dios y el Espíritu Santo es Dios; las tres personas son distintas y comparten plenamente la misma naturaleza, que no es material ni está dividida. El Hijo asumió una naturaleza humana sin dejar de ser divino, y el Espíritu Santo actúa personalmente en la creación, la redención y la santificación. Esta doctrina debe confesarse sin confundir las personas ni dividir la esencia.",
+references: "Mateo 28:19; Juan 1:1-14; Juan 4:24; 2 Corintios 13:14."
+),
+],
+conclusion: "La espiritualidad de Dios enseña que el Señor existe eternamente como espíritu y que su naturaleza no depende de la materia ni está limitada por el espacio. Él es el Creador y no forma parte de la creación; es invisible en su esencia, aunque se revela mediante sus obras, su Palabra y sus manifestaciones. Esta verdad no convierte a Dios en una fuerza impersonal, porque las Escrituras lo presentan como el Dios vivo y personal. Desde la perspectiva trinitaria, el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina. La encarnación del Hijo no anuló su divinidad, sino que unió en su persona la naturaleza divina y la humana. Por tanto, la espiritualidad de Dios conduce a rechazar la idolatría, comprender correctamente las manifestaciones bíblicas y ofrecer una adoración sincera, conforme a la verdad revelada en Jesucristo."
+),
+
 ];
 
 @override
@@ -14997,8 +15295,7 @@ fontWeight: FontWeight.bold,
 letterSpacing: 1,
 ),
 ),
-),
-const SizedBox(height: 20),
+),const SizedBox(height: 20),
 ],
 ),
 );
@@ -15242,4 +15539,3 @@ child: AdWidget(ad: _bannerAd!),
 );
 }
 }
-
