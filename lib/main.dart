@@ -16635,7 +16635,266 @@ Study(
     ),
     ],
     conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
-  ),
+  ),,
+  Study(
+    number: '66',
+    title: "La paz de Dios: su perfecta armonía, plenitud y obra reconciliadora en Jesucristo",
+    subtitle: 'La paz no es una simple sensación humana: tiene su fundamento en el carácter perfecto de Dios y se manifiesta en la reconciliación realizada por Jesucristo.',
+    introduction: "La paz de Dios expresa la perfecta armonía, plenitud e integridad de su ser. No significa indiferencia frente al pecado ni ausencia de justicia, sino la perfección de un Dios en quien no existe contradicción moral ni desorden. La Escritura lo llama Dios de paz y presenta a Jesucristo como nuestra paz, porque por medio de su cruz Dios reconcilia consigo a los que creen. El Padre envía al Hijo, el Hijo realiza la reconciliación y el Espíritu Santo aplica sus beneficios y produce fruto de paz en la vida de los creyentes. Este estudio distingue la paz como perfección divina, la paz con Dios obtenida por la justificación y la paz que el Espíritu forma en la comunidad cristiana.",
+    sections: [
+      StudySection(
+        title: "1. La paz como perfección del carácter divino",
+        content: "La paz de Dios no es una emoción pasajera, sino la plenitud y armonía de su ser. En Él no existe contradicción moral ni desorden.",
+        references: "Jueces 6:24; 1 Corintios 14:33",
+      ),
+      StudySection(
+        title: "2. Dios, fuente de paz",
+        content: "La Escritura llama al Señor Dios de paz. La paz procede de quién es Él y de su voluntad santa; no es una fuerza independiente.",
+        references: "Romanos 15:33; Filipenses 4:9",
+      ),
+      StudySection(
+        title: "3. La paz y la santidad divina",
+        content: "La paz nunca significa indiferencia frente al mal. La santidad de Dios permanece íntegra y concuerda perfectamente con su justicia.",
+        references: "Isaías 6:3; Hebreos 12:10-11",
+      ),
+      StudySection(
+        title: "4. La paz y la justicia",
+        content: "La paz verdadera no se construye negando la justicia. En Dios, justicia y paz no compiten: su carácter es perfectamente recto.",
+        references: "Salmo 85:10; Isaías 32:17",
+      ),
+      StudySection(
+        title: "5. La paz y la verdad",
+        content: "La paz divina no depende de engaños ni falsas seguridades. Dios establece la paz en la verdad y llama a su pueblo a caminar en ella.",
+        references: "Zacarías 8:16-19; Efesios 4:25",
+      ),
+      StudySection(
+        title: "6. La paz y la inmutabilidad",
+        content: "Dios no pierde su plenitud ni queda sujeto a inestabilidad como las criaturas. Su carácter y sus propósitos permanecen firmes.",
+        references: "Malaquías 3:6; Santiago 1:17",
+      ),
+      StudySection(
+        title: "7. La paz y la eternidad",
+        content: "La paz de Dios no comenzó con la creación. Él existe eternamente en la plenitud de su ser, sin necesitar condiciones externas.",
+        references: "Salmo 90:2; 1 Timoteo 1:17",
+      ),
+      StudySection(
+        title: "8. La paz y la autosuficiencia",
+        content: "Dios no necesita que las criaturas completen su felicidad ni sostengan su existencia. La creación recibe de Él, pero no lo hace más completo.",
+        references: "Hechos 17:24-25; Romanos 11:35-36",
+      ),
+      StudySection(
+        title: "9. La paz y la soberanía",
+        content: "El gobierno de Dios no es una lucha entre poderes iguales. Él reina con autoridad suprema y conduce sus propósitos con sabiduría.",
+        references: "Salmo 103:19; Daniel 4:35",
+      ),
+      StudySection(
+        title: "10. La paz y el orden de la creación",
+        content: "La creación manifiesta orden y propósito porque procede del Dios sabio. Esto no significa que hoy no exista sufrimiento, sino que el mundo depende de su Creador.",
+        references: "Génesis 1:31; Colosenses 1:16-17",
+      ),
+      StudySection(
+        title: "11. La paz en los pactos divinos",
+        content: "Dios establece sus pactos por iniciativa de su gracia. Sus promesas manifiestan fidelidad y su propósito de restaurar la relación con su pueblo.",
+        references: "Números 25:12; Ezequiel 37:26",
+      ),
+      StudySection(
+        title: "12. El Príncipe de Paz prometido",
+        content: "Isaías anuncia al Mesías como Príncipe de Paz. Su reino manifiesta la paz de Dios y su autoridad no tendrá fin.",
+        references: "Isaías 9:6-7",
+      ),
+      StudySection(
+        title: "13. La paz anunciada en el nacimiento de Jesús",
+        content: "El anuncio angelical relaciona la llegada del Salvador con la gloria de Dios y su favor. La paz mesiánica se entiende a la luz de la salvación que Cristo trae.",
+        references: "Lucas 2:10-14",
+      ),
+      StudySection(
+        title: "14. Jesucristo, nuestra paz",
+        content: "Cristo no solamente enseñó acerca de la paz: Él mismo es nuestra paz. Por su obra reconcilia con Dios a quienes estaban separados por el pecado.",
+        references: "Efesios 2:13-18; Colosenses 1:19-22",
+      ),
+      StudySection(
+        title: "15. La encarnación y la reconciliación",
+        content: "El Hijo eterno asumió verdadera naturaleza humana sin dejar de ser Dios. En su encarnación se acercó a nosotros para cumplir la redención.",
+        references: "Juan 1:1,14; Filipenses 2:6-8",
+      ),
+      StudySection(
+        title: "16. La cruz como fundamento de paz",
+        content: "La paz con Dios no se alcanza ignorando el pecado. Cristo hizo la paz mediante la sangre de su cruz y reconcilia al creyente con Dios.",
+        references: "Colosenses 1:20-22; Romanos 5:8-11",
+      ),
+      StudySection(
+        title: "17. La justificación y la paz con Dios",
+        content: "La justificación por la fe establece una nueva condición delante de Dios: tenemos paz con Él por medio de Jesucristo. Es fruto de la gracia, no de méritos humanos.",
+        references: "Romanos 5:1-2; Romanos 4:5-8",
+      ),
+      StudySection(
+        title: "18. La reconciliación como iniciativa divina",
+        content: "Dios toma la iniciativa de reconciliar consigo al ser humano por medio de Cristo. No es un acuerdo entre poderes equivalentes, sino un regalo de gracia.",
+        references: "2 Corintios 5:18-21; Romanos 5:10-11",
+      ),
+      StudySection(
+        title: "19. El Padre y el propósito de paz",
+        content: "El Padre envió al Hijo conforme a su propósito salvador. La reconciliación revela su amor y su voluntad de recibir por gracia a quienes vienen a Él mediante Cristo.",
+        references: "Juan 3:16-17; Efesios 1:3-7",
+      ),
+      StudySection(
+        title: "20. El Hijo y la paz por su sangre",
+        content: "El Hijo realiza la reconciliación mediante su entrega voluntaria. Su sacrificio muestra cómo la paz se establece sin negar la santidad ni la justicia divina.",
+        references: "Efesios 2:14-16; Colosenses 1:20",
+      ),
+      StudySection(
+        title: "21. El Espíritu Santo y la paz",
+        content: "El Espíritu aplica la obra de Cristo y produce fruto de paz en los creyentes. Su acción no sustituye la obra del Hijo, sino que la hace efectiva en la vida cristiana.",
+        references: "Gálatas 5:22-23; Romanos 8:5-6",
+      ),
+      StudySection(
+        title: "22. La bendición trinitaria y la paz",
+        content: "Las cartas apostólicas presentan la gracia de Jesucristo, el amor del Padre y la comunión del Espíritu. La paz cristiana se comprende dentro de la obra del único Dios trino.",
+        references: "2 Corintios 13:14; 1 Pedro 1:2",
+      ),
+      StudySection(
+        title: "23. La distinción personal en la obra de paz",
+        content: "El Padre envía, el Hijo reconcilia mediante su sangre y el Espíritu aplica sus beneficios. Estas acciones distinguen a las personas sin dividir la esencia divina.",
+        references: "Juan 14:26; Efesios 2:18",
+      ),
+      StudySection(
+        title: "24. La paz no confunde a las personas divinas",
+        content: "La relación del Hijo con el Padre y la misión del Espíritu muestran distinción personal real. La paz no borra estas distinciones: hay un solo Dios en tres personas.",
+        references: "Mateo 3:16-17; Mateo 28:19",
+      ),
+      StudySection(
+        title: "25. El acceso al Padre por el Hijo en el Espíritu",
+        content: "Por medio de Cristo tenemos acceso al Padre en un mismo Espíritu. La comunión cristiana es una relación restaurada y sostenida por la gracia trinitaria.",
+        references: "Efesios 2:18; Romanos 8:15-16",
+      ),
+      StudySection(
+        title: "26. La paz que Jesús deja a sus discípulos",
+        content: "Jesús promete una paz distinta de la que ofrece el mundo. No promete ausencia absoluta de dificultades, sino su presencia y el fundamento de confianza que nace de su victoria.",
+        references: "Juan 14:27; Juan 16:33",
+      ),
+      StudySection(
+        title: "27. La confianza como fruto de la paz",
+        content: "La confianza bíblica se apoya en el carácter y las promesas del Señor. El creyente descansa en Dios sin negar sus preocupaciones ni abandonar sus responsabilidades.",
+        references: "Isaías 26:3-4; Salmo 4:8",
+      ),
+      StudySection(
+        title: "28. La oración y la paz que guarda el corazón",
+        content: "La oración permite presentar necesidades delante de Dios con gratitud. La paz que guarda el corazón es un don divino, no una técnica para controlar las circunstancias.",
+        references: "Filipenses 4:6-7; Colosenses 4:2",
+      ),
+      StudySection(
+        title: "29. La mente puesta en el Espíritu",
+        content: "La orientación de la mente hacia el Espíritu produce vida y paz. La renovación implica aprender a pensar conforme a la verdad de Dios y no según el pecado.",
+        references: "Romanos 8:5-6; Romanos 12:2",
+      ),
+      StudySection(
+        title: "30. La obediencia como fruto, no precio",
+        content: "La obediencia no compra la paz con Dios; es fruto de la reconciliación recibida. Quien ha sido alcanzado por la gracia es llamado a vivir conforme a la voluntad del Señor.",
+        references: "Romanos 6:17-18; Santiago 3:17-18",
+      ),
+      StudySection(
+        title: "31. La paz y la santificación",
+        content: "El Dios de paz obra en su pueblo para hacerlo crecer en santidad. La paz bíblica no promueve pasividad moral, sino una vida transformada.",
+        references: "1 Tesalonicenses 5:23-24; Hebreos 13:20-21",
+      ),
+      StudySection(
+        title: "32. La paz como fruto del Espíritu",
+        content: "La paz aparece entre las evidencias del fruto del Espíritu. No es solamente temperamento tranquilo, sino una disposición formada por su presencia y dirección.",
+        references: "Gálatas 5:22-25",
+      ),
+      StudySection(
+        title: "33. La paz y el dominio propio",
+        content: "El Espíritu produce dominio propio para que el creyente responda con prudencia y no sea gobernado por impulsos. La paz se expresa también en decisiones responsables.",
+        references: "Gálatas 5:22-23; 2 Timoteo 1:7",
+      ),
+      StudySection(
+        title: "34. La unidad de la iglesia en paz",
+        content: "Los creyentes son llamados a conservar la unidad del Espíritu en el vínculo de la paz. La unidad requiere humildad, verdad y amor, no uniformidad forzada.",
+        references: "Efesios 4:1-6; Colosenses 3:12-15",
+      ),
+      StudySection(
+        title: "35. El perdón y la paz",
+        content: "El perdón refleja la gracia recibida de Dios. No llama bueno a lo malo ni elimina la justicia, sino que renuncia a la venganza y busca lo recto.",
+        references: "Efesios 4:31-32; Romanos 12:17-21",
+      ),
+      StudySection(
+        title: "36. La resolución de conflictos",
+        content: "La Escritura exhorta a procurar la paz en cuanto dependa de nosotros. Esto implica escuchar, hablar con verdad, corregir con mansedumbre y buscar reconciliación prudente.",
+        references: "Romanos 12:18; Mateo 5:9; Mateo 18:15",
+      ),
+      StudySection(
+        title: "37. La paz y la fidelidad doctrinal",
+        content: "La paz no justifica aceptar enseñanzas contrarias al evangelio. La iglesia debe mantener la verdad apostólica y tratar a las personas con mansedumbre.",
+        references: "Gálatas 1:6-9; Efesios 4:14-15",
+      ),
+      StudySection(
+        title: "38. La paz en medio de la oposición",
+        content: "Jesús advirtió que sus discípulos enfrentarían aflicción. La paz en Cristo permanece aun cuando exista oposición, porque se funda en su victoria.",
+        references: "Juan 16:33; 1 Pedro 3:14-16",
+      ),
+      StudySection(
+        title: "39. La paz y el sufrimiento",
+        content: "La Biblia no enseña que el creyente nunca sufrirá. Enseña que Dios sostiene a los suyos y que el sufrimiento no puede separarlos de su amor en Cristo.",
+        references: "Romanos 8:18,28-39; 2 Corintios 4:16-18",
+      ),
+      StudySection(
+        title: "40. La esperanza de la paz futura",
+        content: "La esperanza cristiana mira hacia la consumación del reino. La paz presente es real, pero espera su expresión plena cuando el Señor haga nuevas todas las cosas.",
+        references: "Apocalipsis 21:1-5; Romanos 8:23-25",
+      ),
+      StudySection(
+        title: "41. La paz y el reino de Dios",
+        content: "El reino de Dios se caracteriza por justicia, paz y gozo en el Espíritu Santo. No se reduce a prosperidad material ni tranquilidad política.",
+        references: "Romanos 14:17-19",
+      ),
+      StudySection(
+        title: "42. La iglesia como comunidad reconciliada",
+        content: "Cristo derribó la separación entre judíos y gentiles para formar un solo pueblo. La iglesia debe mostrar la reconciliación que ha recibido por medio de Él.",
+        references: "Efesios 2:11-22; Gálatas 3:26-29",
+      ),
+      StudySection(
+        title: "43. La misión del evangelio de paz",
+        content: "El evangelio anuncia la paz por medio de Jesucristo. Los mensajeros proclaman la reconciliación que Dios ha realizado mediante su Hijo.",
+        references: "Hechos 10:36; Romanos 10:14-15; Efesios 6:15",
+      ),
+      StudySection(
+        title: "44. La bendición sacerdotal y la paz",
+        content: "La bendición de Números pide que el Señor conceda paz a su pueblo. La paz es presentada como favor de Dios y expresión de su cuidado.",
+        references: "Números 6:22-27",
+      ),
+      StudySection(
+        title: "45. La paz en los Salmos",
+        content: "Los salmos relacionan la paz con confianza, justicia y protección del Señor. Enseñan a buscar a Dios como fuente de seguridad y no a absolutizar las circunstancias.",
+        references: "Salmo 29:11; Salmo 34:14; Salmo 37:37",
+      ),
+      StudySection(
+        title: "46. La paz prometida por los profetas",
+        content: "Los profetas anuncian restauración bajo el gobierno justo de Dios. Estas promesas encuentran cumplimiento decisivo en el Mesías y apuntan a la renovación final.",
+        references: "Isaías 9:6-7; Isaías 32:17; Ezequiel 37:26",
+      ),
+      StudySection(
+        title: "47. La responsabilidad de procurar la paz",
+        content: "La paz recibida debe reflejarse en acciones concretas: buscar el bien, hablar con verdad, evitar la venganza y promover reconciliación. La gracia no elimina la responsabilidad moral.",
+        references: "Salmo 34:14; 1 Pedro 3:10-11",
+      ),
+      StudySection(
+        title: "48. La paz no encubre la injusticia",
+        content: "Buscar la paz no exige tolerar abusos ni encubrir el mal. La paz bíblica camina junto a justicia, verdad y protección del prójimo.",
+        references: "Isaías 1:17; Miqueas 6:8; Santiago 3:18",
+      ),
+      StudySection(
+        title: "49. La paz como testimonio del carácter de Dios",
+        content: "Una comunidad que practica humildad, verdad, perdón y justicia ofrece testimonio visible del evangelio. Su conducta señala al Dios que reconcilia.",
+        references: "Juan 13:34-35; Filipenses 2:1-5",
+      ),
+      StudySection(
+        title: "50. La plenitud de la paz en la consumación",
+        content: "La paz alcanzará su plenitud cuando desaparezcan el pecado, la muerte y toda oposición al reino de Dios. La esperanza descansa en la promesa fiel del Señor.",
+        references: "Isaías 11:6-9; Apocalipsis 21:3-4",
+      )
+    ],
+    conclusion: "La paz pertenece al carácter perfecto del único Dios y no debe confundirse con una emoción pasajera ni con la ausencia de dificultades. En la salvación, el Padre reconcilia por medio del Hijo y el Espíritu Santo aplica esa obra, dando acceso al Padre y formando en los creyentes una vida de paz. Por eso, la iglesia está llamada a unir verdad, justicia, perdón, santidad y amor. La paz presente es un don real, aunque todavía esperamos su plenitud cuando el reino de Dios sea consumado. Toda gloria pertenece al Padre, al Hijo y al Espíritu Santo, un solo Dios en tres personas.",
+  )
 ];
 
 @override
