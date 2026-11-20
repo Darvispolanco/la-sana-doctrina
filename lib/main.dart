@@ -15077,8 +15077,6 @@ references: "Mateo 28:19; Juan 1:1-14; Juan 4:24; 2 Corintios 13:14."
 ],
 conclusion: "La espiritualidad de Dios enseña que el Señor existe eternamente como espíritu y que su naturaleza no depende de la materia ni está limitada por el espacio. Él es el Creador y no forma parte de la creación; es invisible en su esencia, aunque se revela mediante sus obras, su Palabra y sus manifestaciones. Esta verdad no convierte a Dios en una fuerza impersonal, porque las Escrituras lo presentan como el Dios vivo y personal. Desde la perspectiva trinitaria, el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina. La encarnación del Hijo no anuló su divinidad, sino que unió en su persona la naturaleza divina y la humana. Por tanto, la espiritualidad de Dios conduce a rechazar la idolatría, comprender correctamente las manifestaciones bíblicas y ofrecer una adoración sincera, conforme a la verdad revelada en Jesucristo."
 ),
-,
-
 Study(
   number: '62',
   title: 'La trascendencia e inmanencia de Dios: su grandeza sobre la creación y su presencia activa en ella',
@@ -15337,7 +15335,7 @@ Study(
     )
   ],
   conclusion: 'La trascendencia y la inmanencia de Dios son verdades complementarias. Dios es infinitamente superior a su creación: no depende de ella, no está limitado por el espacio y no puede ser encerrado en ninguna estructura. Sin embargo, está presente y activo en todo cuanto existe: sostiene la vida, gobierna la historia y se relaciona con su pueblo. La doctrina de la Trinidad muestra la obra del único Dios en las personas del Padre, del Hijo y del Espíritu Santo. El creyente debe vivir con reverencia ante la grandeza de Dios y con confianza en su cercanía.'
-),,
+),
 
 Study(
   number: '63',
@@ -15597,7 +15595,7 @@ Study(
     )
   ],
   conclusion: 'Dios es absolutamente autosuficiente: existe por sí mismo, posee vida en sí mismo y no necesita que la creación complete su plenitud. La adoración, el servicio y las ofrendas no satisfacen una carencia divina; son respuestas humanas a su dignidad y generosidad. Esta independencia no convierte a Dios en un ser distante: Él crea, sostiene, ama y salva por voluntad libre. El Padre, el Hijo y el Espíritu Santo comparten la única esencia divina eterna. Por tanto, la autosuficiencia nos llama a la humildad, la gratitud, la confianza y una vida de servicio que depende de la gracia de Dios.',
-),,
+),
 
 Study(
   number: '64',
@@ -15857,7 +15855,7 @@ Study(
     )
   ],
   conclusion: 'La gloria pertenece eternamente a Dios y revela su excelencia, santidad, majestad y amor. La creación la anuncia, la historia de la redención la manifiesta y Jesucristo, el Hijo eterno encarnado, revela al Padre. El Espíritu Santo glorifica al Hijo y transforma a los creyentes para reflejar su carácter. El Padre, el Hijo y el Espíritu Santo no son tres dioses ni tres fuentes separadas de gloria, sino las tres personas del único Dios. Por eso, la respuesta correcta es adorarlo con reverencia, vivir en santidad, servir con humildad y hacer todas las cosas para su gloria.',
-),,
+),
 
 Study(
   number: '65',
@@ -16635,7 +16633,7 @@ Study(
     ),
     ],
     conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
-  ),,
+  ),
   Study(
     number: '68',
     title: "La paz de Dios: su perfecta armonía, plenitud y obra reconciliadora en Jesucristo",
@@ -17130,7 +17128,7 @@ const terms = [
 ('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
 ('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
 ('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),,
+('Revelación', 'Acción por la que Dios se da a conocer.'),
 Study(
   number: '69',
   title: "La Iglesia de Jesucristo: su identidad, fundamento, naturaleza y misión en la comunión del Dios trino",
@@ -17507,8 +17505,7 @@ Study(
       StudySection(title: "49. Síntesis: el bautismo como obediencia y confesión de fe", content: "El bautismo cristiano es una ordenanza instituida por Jesús, practicada por la Iglesia apostólica y vinculada a la confesión de fe, el arrepentimiento y la identificación con Cristo. Se realiza en el nombre del Padre, del Hijo y del Espíritu Santo, y debe conducir a una vida de discipulado, unidad y fidelidad.", references: "Mateo 28:19-20; Hechos 2:38-42; Romanos 6:3-11")
     ],
     conclusion: "El bautismo cristiano es una ordenanza del Señor Jesús que expresa públicamente la fe y la identificación del discípulo con su muerte y resurrección. Se administra en el nombre del Padre, del Hijo y del Espíritu Santo y pertenece a la misión de hacer discípulos. El agua no es un poder independiente ni el bautismo compra la salvación: la salvación es por gracia, mediante la fe en Jesucristo. Sin embargo, la gracia recibida llama a la obediencia, y el bautismo es una respuesta importante a la autoridad de Cristo. Por tanto, la Iglesia debe enseñarlo con fidelidad bíblica, acompañar pastoralmente a quienes lo reciben y recordar que la vida bautismal continúa en santidad, comunión y perseverancia, para gloria del Dios trino."
-  )
-,
+  ),
   Study(
     number: '72',
     title: "Los dones espirituales en la Iglesia: diversidad, propósito, discernimiento y edificación bajo la obra del Espíritu Santo",
@@ -18180,11 +18177,11 @@ Study(
     number: '83',
     title: 'La inspiración de las Escrituras: origen divino, autores humanos y autoridad de la Palabra',
     subtitle: 'La inspiración divina, la participación de los autores humanos y la autoridad de la Palabra para la fe y la vida cristiana.',
-    introduction: 'La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
+    introduction: '''La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
 
 La doctrina de la inspiración afirma que las Escrituras proceden de Dios y que el Espíritu Santo obró mediante autores humanos para comunicar su mensaje. Esta afirmación no elimina la historia, la personalidad, el idioma ni el estilo de los escritores. Tampoco significa que toda interpretación humana sea infalible. Es necesario distinguir entre el texto inspirado y nuestras explicaciones, traducciones y aplicaciones.
 
-Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.',
+Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.''',
     sections: [
       StudySection(title: '1. Origen divino', content: 'La Escritura afirma que su mensaje procede de Dios. Su autoridad no descansa solo en la antigüedad o prestigio de sus escritores, sino en Aquel que se da a conocer por medio de ella.', references: '2 Timoteo 3:16; 2 Pedro 1:20-21.'),
       StudySection(title: '2. Significado de inspiración', content: 'Inspiración expresa que Dios es la fuente de la Escritura. No equivale a creatividad humana extraordinaria ni a entusiasmo religioso subjetivo, sino a la acción divina en la comunicación escrita de su mensaje.', references: '2 Timoteo 3:16; 2 Samuel 23:2.'),
@@ -18237,9 +18234,9 @@ Este estudio examina la inspiración, la autoridad, la transmisión, la interpre
       StudySection(title: '49. Fidelidad de la Iglesia', content: 'La Iglesia está llamada a conservar, enseñar y practicar la verdad recibida. Esto exige rechazar la manipulación de los textos y el desprecio por su autoridad; la fidelidad produce una comunidad humilde y justa.', references: '1 Timoteo 3:15; Judas 3; Apocalipsis 22:18-19.'),
       StudySection(title: '50. Lectura comunitaria', content: 'La Escritura forma también al pueblo reunido. Leerla y explicarla en comunidad permite corregir interpretaciones aisladas, aprender unos de otros y fortalecer la unidad; esto complementa, no reemplaza, el estudio personal.', references: 'Colosenses 3:16; 1 Timoteo 4:13; Hechos 2:42.'),
     ],
-    conclusion: 'La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
+    conclusion: '''La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
 
-Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.',
+Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.''',
   ),
   Study(
     number: '84',
@@ -18358,6 +18355,47 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "50. Una vida entera bajo el señorío de Jesús", content: "El seguimiento de Cristo abarca todas las áreas de la existencia. El discípulo busca honrar al Señor con pensamiento, relaciones, trabajo, servicio y esperanza.", references: "Col 3:17; Ro 14:7-9"),
     ],
     conclusion: "El discipulado cristiano es una vida entera de seguimiento a Jesucristo. Comienza por la gracia de Dios, se recibe mediante la fe y se expresa en arrepentimiento, obediencia, amor, santidad, servicio y perseverancia. El Padre llama y adopta, el Hijo redime y enseña, y el Espíritu Santo habita y transforma al creyente; el único Dios obra para formar un pueblo que refleje el carácter de Cristo.\n\nLa madurez no se demuestra por títulos, popularidad o conocimiento aislado, sino por una fe que actúa mediante el amor y permanece fiel a la Palabra. La Iglesia tiene la responsabilidad de enseñar, acompañar y formar discípulos sin manipulación ni dominio humano. Cada creyente está llamado a crecer y ayudar a otros a conocer y obedecer a Jesús. Así, el discipulado une la doctrina con la vida y convierte el evangelio recibido en testimonio cotidiano para la gloria de Dios.",
+  ),
+  Study(
+    number: '86',
+    title: "La iluminación del Espíritu Santo: comprensión, recepción y aplicación de las Escrituras",
+    subtitle: 'La obra del Espíritu Santo para comprender, recibir y vivir conforme a la verdad revelada en la Palabra de Dios.',
+    introduction: "La inspiración de las Escrituras, estudiada anteriormente, trata de la obra divina por la que la Palabra fue comunicada mediante autores humanos. Este estudio aborda una cuestión relacionada, pero distinta: cómo el Espíritu Santo ayuda a las personas a comprender y recibir esa Palabra. La Biblia enseña que el ser humano necesita la acción de Dios para discernir las verdades espirituales, y también manda leer, examinar, comparar y obedecer las Escrituras con responsabilidad.\\n\\nLa iluminación no convierte las impresiones privadas en nueva revelación normativa, no reemplaza el estudio cuidadoso y no concede infalibilidad a ningún intérprete. El Espíritu glorifica a Jesucristo, conduce a la verdad y aplica la Palabra al corazón. Desde una perspectiva trinitaria, veremos la obra del Padre que concede sabiduría, del Hijo que revela al Padre y del Espíritu Santo que enseña y transforma, sin confundir sus personas ni dividir la esencia del único Dios.",
+    sections: [
+      StudySection(title: "1. La diferencia entre inspiración e iluminación", content: "La inspiración se refiere a la obra por la que Dios guio a los autores humanos para comunicar su Palabra. La iluminación describe la obra del Espíritu Santo al ayudar a los lectores a comprender y recibir correctamente esa Palabra. Son doctrinas relacionadas, pero no idénticas.", references: "2 Ti 3:16; 2 P 1:20-21; 1 Co 2:12-14"),
+      StudySection(title: "2. La Palabra inspirada sigue siendo la autoridad", content: "La iluminación no añade nuevos libros a la Biblia ni convierte las impresiones personales en Escritura. El Espíritu ayuda a comprender el texto que Dios ya ha dado; por eso, toda enseñanza debe someterse a la autoridad bíblica.", references: "2 Ti 3:16-17; Sal 119:160"),
+      StudySection(title: "3. El Espíritu Santo es el maestro divino", content: "Jesús prometió que el Espíritu enseñaría y recordaría a sus discípulos lo que Él había dicho. Esta promesa se relaciona de manera especial con el testimonio apostólico y muestra que el Espíritu no dirige a una verdad contraria a Cristo.", references: "Jn 14:26; Jn 16:13-14"),
+      StudySection(title: "4. El propósito cristocéntrico de la iluminación", content: "El Espíritu glorifica al Hijo y conduce a comprender su enseñanza. Una supuesta revelación que desplaza a Jesucristo, contradice su evangelio o niega la Palabra no puede atribuirse al Espíritu de verdad.", references: "Jn 15:26; Jn 16:14"),
+      StudySection(title: "5. La necesidad humana de comprender", content: "La dificultad para recibir la verdad no se resuelve solo con capacidad intelectual. El pecado afecta el entendimiento y las inclinaciones humanas; por eso necesitamos que Dios obre en nosotros para recibir con humildad lo que comunica.", references: "1 Co 2:14; Ef 4:17-18"),
+      StudySection(title: "6. El Espíritu y la mente renovada", content: "La obra del Espíritu no anula la mente, sino que transforma la manera de pensar. El creyente aprende a evaluar sus ideas, deseos y decisiones a la luz de la voluntad revelada de Dios.", references: "Ro 12:2; Ef 4:23"),
+      StudySection(title: "7. El Padre concede sabiduría", content: "La Escritura presenta al Padre como aquel a quien se pide sabiduría y conocimiento espiritual. La iluminación ocurre dentro de la obra del único Dios: el Padre concede, el Hijo revela y el Espíritu enseña y aplica la verdad.", references: "Ef 1:17-18; Stg 1:5"),
+      StudySection(title: "8. El Hijo revela al Padre", content: "Jesucristo es la revelación culminante de Dios. Leer la Biblia correctamente requiere atender a la manera en que toda la historia de la redención encuentra su cumplimiento en la persona y obra del Hijo.", references: "Mt 11:27; Lc 24:27; Heb 1:1-3"),
+      StudySection(title: "9. El Espíritu escudriña las profundidades de Dios", content: "Pablo enseña que el Espíritu conoce las cosas profundas de Dios y que los creyentes reciben el Espíritu para conocer lo que Dios ha concedido. Esto no significa que el ser humano alcance omnisciencia, sino que depende de la revelación divina.", references: "1 Co 2:10-12"),
+      StudySection(title: "10. Iluminación y lectura responsable", content: "La dependencia del Espíritu no justifica leer versículos aislados ni ignorar el contexto. La oración debe acompañar el estudio cuidadoso de las palabras, el argumento, el género literario y el lugar del pasaje en el conjunto bíblico.", references: "Neh 8:8; Lc 24:32; Hch 17:11"),
+      StudySection(title: "11. El contexto histórico y literario", content: "Comprender quién habla, a quién se dirige, qué situación enfrenta y qué tipo de texto se está leyendo ayuda a evitar interpretaciones arbitrarias. El Espíritu no necesita que descuidemos los medios razonables de estudio.", references: "Lc 1:1-4; 1 Co 10:11"),
+      StudySection(title: "12. La unidad de toda la Escritura", content: "Los pasajes deben interpretarse considerando el testimonio completo de la Biblia. Ninguna interpretación válida puede hacer que un texto contradiga la verdad enseñada claramente en otros pasajes.", references: "Sal 119:160; 2 P 1:20"),
+      StudySection(title: "13. La oración antes y durante el estudio", content: "El creyente puede pedir que Dios abra su entendimiento, le conceda humildad y le permita obedecer lo aprendido. La oración no sustituye la lectura; expresa dependencia del Señor mientras se estudia.", references: "Sal 119:18; Ef 1:16-19"),
+      StudySection(title: "14. El Espíritu y la memoria de la enseñanza de Cristo", content: "El Espíritu recordó a los apóstoles las palabras de Jesús conforme a la promesa del Señor. La Iglesia recibe ese testimonio apostólico en las Escrituras y vuelve continuamente a él para aprender de Cristo.", references: "Jn 14:26; 1 Jn 1:1-4"),
+      StudySection(title: "15. Iluminación no significa nuevas doctrinas", content: "Ninguna experiencia privada tiene autoridad para corregir, completar o reemplazar la enseñanza bíblica. Las impresiones deben examinarse y nunca imponerse a otros como si tuvieran el mismo rango que la Escritura.", references: "Gá 1:8; 1 Co 4:6"),
+      StudySection(title: "16. El discernimiento de las enseñanzas", content: "La Iglesia debe examinar lo que escucha, comparar las afirmaciones con la Palabra y retener lo que es bueno. La sinceridad de quien enseña no garantiza que su interpretación sea correcta.", references: "Hch 17:11; 1 Ts 5:21; 1 Jn 4:1"),
+      StudySection(title: "17. La iluminación y la humildad", content: "El conocimiento bíblico no debe alimentar orgullo ni desprecio. Quien reconoce que depende de la gracia de Dios escucha, aprende, acepta corrección y evita presentarse como dueño infalible de la verdad.", references: "1 Co 8:1-2; Stg 1:19-21"),
+      StudySection(title: "18. El Espíritu produce obediencia", content: "Comprender la Escritura no es acumular datos. La verdad recibida debe conducir a obedecer a Dios, abandonar el pecado y practicar la justicia, el amor y la misericordia.", references: "Jn 14:21; Stg 1:22-25"),
+      StudySection(title: "19. La iluminación y la santificación", content: "El Espíritu usa la verdad de Dios para apartar al creyente para Él y formar un carácter semejante al de Cristo. La transformación cristiana no se separa de la Palabra que el Señor ha dado.", references: "Jn 17:17; 2 Co 3:18"),
+      StudySection(title: "20. La comprensión del evangelio", content: "El Espíritu convence de pecado y dirige hacia la verdad acerca de Jesucristo. La comprensión salvadora del evangelio no es motivo de superioridad, sino razón para agradecer la misericordia de Dios.", references: "Jn 16:8-11; 1 Co 12:3"),
+      StudySection(title: "21. La iluminación y la lectura comunitaria", content: "Dios también edifica a su pueblo mediante la enseñanza, la exhortación y el intercambio responsable entre creyentes. La comunidad no reemplaza la Escritura, sino que aprende junta bajo su autoridad.", references: "Col 3:16; Ef 4:11-16"),
+      StudySection(title: "22. La función de quienes enseñan", content: "Los maestros de la Iglesia deben explicar fielmente el texto y formar a otros para manejar correctamente la Palabra. Su autoridad es ministerial y está limitada por la verdad bíblica.", references: "2 Ti 2:15; Tit 2:1"),
+      StudySection(title: "23. La responsabilidad de cada creyente", content: "La dependencia del Espíritu no exime a nadie de leer y aprender. Cada creyente debe crecer en conocimiento, comprobar lo que recibe y estar preparado para dar razón de su esperanza con respeto.", references: "1 P 3:15; Heb 5:12-14"),
+      StudySection(title: "24. La iluminación y los pasajes difíciles", content: "Algunos textos requieren estudio paciente, comparación y reconocimiento de los límites propios. No se debe fabricar una explicación segura cuando la información disponible no permite afirmarla.", references: "2 P 3:15-16; Pr 18:13"),
+      StudySection(title: "25. El peligro de sacar textos de contexto", content: "Usar una frase bíblica para justificar una idea previa puede distorsionar el mensaje. La interpretación responsable busca lo que el pasaje comunica en su contexto, no lo que el lector desea encontrar.", references: "Mt 4:5-7; 2 Co 4:2"),
+      StudySection(title: "26. El Espíritu no contradice la Escritura", content: "El Espíritu Santo es el autor divino de la Escritura y no puede guiar a una conclusión que niegue su propio testimonio. Por ello, las supuestas direcciones espirituales deben evaluarse a la luz de la Palabra.", references: "2 P 1:21; Jn 17:17"),
+      StudySection(title: "27. La iluminación y la Trinidad", content: "El Padre concede sabiduría y abre el entendimiento; el Hijo es la verdad revelada y el centro del mensaje; el Espíritu Santo enseña, recuerda y aplica esa verdad. No son tres dioses ni tres modos de una sola persona, sino las tres personas del único Dios obrando inseparablemente según su relación personal.", references: "Ef 1:17-18; Jn 14:26; Jn 16:13-14"),
+      StudySection(title: "28. La diferencia entre convicción y preferencia personal", content: "Una idea puede parecernos intensa o convincente sin proceder de Dios. La convicción cristiana debe estar formada por la verdad bíblica, la conciencia instruida y una evaluación humilde, no solo por emociones o deseos.", references: "Jer 17:9; Sal 19:12-14"),
+      StudySection(title: "29. La iluminación y la libertad cristiana", content: "En asuntos donde la Escritura no establece un mandato específico, el creyente debe aplicar principios bíblicos con conciencia responsable, amor y sabiduría, sin convertir preferencias personales en reglas universales.", references: "Ro 14:1-13; 1 Co 10:23-24"),
+      StudySection(title: "30. La Palabra como lámpara para el camino", content: "La Escritura guía las decisiones y muestra el camino de fidelidad. La iluminación permite reconocer y aplicar sus principios, pero no promete conocer anticipadamente cada detalle del futuro.", references: "Sal 119:105; 2 P 1:19"),
+      StudySection(title: "31. Perseverar en el aprendizaje", content: "El crecimiento en comprensión es progresivo. El creyente debe continuar en la enseñanza apostólica, corregir errores y crecer en la gracia y el conocimiento de Jesucristo.", references: "2 P 3:18; Col 1:9-10"),
+      StudySection(title: "32. La finalidad: conocer y glorificar a Dios", content: "El propósito de la iluminación no es la fama del intérprete ni la discusión interminable, sino conocer mejor a Dios, amarle, obedecerle y edificar a la Iglesia mediante la verdad.", references: "Ef 1:17-19; Col 1:9-12; 1 Co 10:31")
+    ],
+    conclusion: "La iluminación del Espíritu Santo es la ayuda divina por la cual los creyentes comprenden y reciben la verdad de las Escrituras. No agrega autoridad a la Biblia ni permite contradecirla; impulsa a leer con atención, interpretar en contexto, examinar toda enseñanza y obedecer lo que Dios ha revelado. La dependencia del Espíritu y el estudio responsable no compiten: se complementan.\\n\\nEsta obra pertenece al único Dios trino: el Padre concede sabiduría y abre el entendimiento, el Hijo es la revelación culminante y el centro del mensaje, y el Espíritu Santo enseña, recuerda y aplica la verdad. El resultado esperado es una fe más firme, un carácter transformado, amor por Cristo y edificación de la Iglesia para la gloria de Dios."
   ),
 ];
 
