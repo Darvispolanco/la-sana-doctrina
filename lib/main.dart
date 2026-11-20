@@ -15077,8 +15077,6 @@ references: "Mateo 28:19; Juan 1:1-14; Juan 4:24; 2 Corintios 13:14."
 ],
 conclusion: "La espiritualidad de Dios enseña que el Señor existe eternamente como espíritu y que su naturaleza no depende de la materia ni está limitada por el espacio. Él es el Creador y no forma parte de la creación; es invisible en su esencia, aunque se revela mediante sus obras, su Palabra y sus manifestaciones. Esta verdad no convierte a Dios en una fuerza impersonal, porque las Escrituras lo presentan como el Dios vivo y personal. Desde la perspectiva trinitaria, el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina. La encarnación del Hijo no anuló su divinidad, sino que unió en su persona la naturaleza divina y la humana. Por tanto, la espiritualidad de Dios conduce a rechazar la idolatría, comprender correctamente las manifestaciones bíblicas y ofrecer una adoración sincera, conforme a la verdad revelada en Jesucristo."
 ),
-,
-
 Study(
   number: '62',
   title: 'La trascendencia e inmanencia de Dios: su grandeza sobre la creación y su presencia activa en ella',
@@ -15337,7 +15335,7 @@ Study(
     )
   ],
   conclusion: 'La trascendencia y la inmanencia de Dios son verdades complementarias. Dios es infinitamente superior a su creación: no depende de ella, no está limitado por el espacio y no puede ser encerrado en ninguna estructura. Sin embargo, está presente y activo en todo cuanto existe: sostiene la vida, gobierna la historia y se relaciona con su pueblo. La doctrina de la Trinidad muestra la obra del único Dios en las personas del Padre, del Hijo y del Espíritu Santo. El creyente debe vivir con reverencia ante la grandeza de Dios y con confianza en su cercanía.'
-),,
+),
 
 Study(
   number: '63',
@@ -15597,7 +15595,7 @@ Study(
     )
   ],
   conclusion: 'Dios es absolutamente autosuficiente: existe por sí mismo, posee vida en sí mismo y no necesita que la creación complete su plenitud. La adoración, el servicio y las ofrendas no satisfacen una carencia divina; son respuestas humanas a su dignidad y generosidad. Esta independencia no convierte a Dios en un ser distante: Él crea, sostiene, ama y salva por voluntad libre. El Padre, el Hijo y el Espíritu Santo comparten la única esencia divina eterna. Por tanto, la autosuficiencia nos llama a la humildad, la gratitud, la confianza y una vida de servicio que depende de la gracia de Dios.',
-),,
+),
 
 Study(
   number: '64',
@@ -15857,7 +15855,7 @@ Study(
     )
   ],
   conclusion: 'La gloria pertenece eternamente a Dios y revela su excelencia, santidad, majestad y amor. La creación la anuncia, la historia de la redención la manifiesta y Jesucristo, el Hijo eterno encarnado, revela al Padre. El Espíritu Santo glorifica al Hijo y transforma a los creyentes para reflejar su carácter. El Padre, el Hijo y el Espíritu Santo no son tres dioses ni tres fuentes separadas de gloria, sino las tres personas del único Dios. Por eso, la respuesta correcta es adorarlo con reverencia, vivir en santidad, servir con humildad y hacer todas las cosas para su gloria.',
-),,
+),
 
 Study(
   number: '65',
@@ -16635,7 +16633,7 @@ Study(
     ),
     ],
     conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
-  ),,
+  ),
   Study(
     number: '68',
     title: "La paz de Dios: su perfecta armonía, plenitud y obra reconciliadora en Jesucristo",
@@ -17130,7 +17128,7 @@ const terms = [
 ('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
 ('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
 ('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),,
+('Revelación', 'Acción por la que Dios se da a conocer.'),
 Study(
   number: '69',
   title: "La Iglesia de Jesucristo: su identidad, fundamento, naturaleza y misión en la comunión del Dios trino",
@@ -17508,7 +17506,6 @@ Study(
     ],
     conclusion: "El bautismo cristiano es una ordenanza del Señor Jesús que expresa públicamente la fe y la identificación del discípulo con su muerte y resurrección. Se administra en el nombre del Padre, del Hijo y del Espíritu Santo y pertenece a la misión de hacer discípulos. El agua no es un poder independiente ni el bautismo compra la salvación: la salvación es por gracia, mediante la fe en Jesucristo. Sin embargo, la gracia recibida llama a la obediencia, y el bautismo es una respuesta importante a la autoridad de Cristo. Por tanto, la Iglesia debe enseñarlo con fidelidad bíblica, acompañar pastoralmente a quienes lo reciben y recordar que la vida bautismal continúa en santidad, comunión y perseverancia, para gloria del Dios trino."
   )
-,
   Study(
     number: '72',
     title: "Los dones espirituales en la Iglesia: diversidad, propósito, discernimiento y edificación bajo la obra del Espíritu Santo",
@@ -18180,11 +18177,11 @@ Study(
     number: '83',
     title: 'La inspiración de las Escrituras: origen divino, autores humanos y autoridad de la Palabra',
     subtitle: 'La inspiración divina, la participación de los autores humanos y la autoridad de la Palabra para la fe y la vida cristiana.',
-    introduction: 'La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
+    introduction: '''La Biblia ocupa un lugar fundamental en la fe cristiana porque por medio de ella Dios ha dado testimonio de su carácter, sus obras y su propósito redentor. La Iglesia no puede construir su doctrina sobre impresiones personales, costumbres cambiantes o razonamientos separados de la revelación divina.
 
 La doctrina de la inspiración afirma que las Escrituras proceden de Dios y que el Espíritu Santo obró mediante autores humanos para comunicar su mensaje. Esta afirmación no elimina la historia, la personalidad, el idioma ni el estilo de los escritores. Tampoco significa que toda interpretación humana sea infalible. Es necesario distinguir entre el texto inspirado y nuestras explicaciones, traducciones y aplicaciones.
 
-Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.',
+Este estudio examina la inspiración, la autoridad, la transmisión, la interpretación y el uso de las Escrituras. También considera la obra del Padre, del Hijo y del Espíritu Santo en la revelación, manteniendo la confesión de un solo Dios en tres personas.''',
     sections: [
       StudySection(title: '1. Origen divino', content: 'La Escritura afirma que su mensaje procede de Dios. Su autoridad no descansa solo en la antigüedad o prestigio de sus escritores, sino en Aquel que se da a conocer por medio de ella.', references: '2 Timoteo 3:16; 2 Pedro 1:20-21.'),
       StudySection(title: '2. Significado de inspiración', content: 'Inspiración expresa que Dios es la fuente de la Escritura. No equivale a creatividad humana extraordinaria ni a entusiasmo religioso subjetivo, sino a la acción divina en la comunicación escrita de su mensaje.', references: '2 Timoteo 3:16; 2 Samuel 23:2.'),
@@ -18237,9 +18234,9 @@ Este estudio examina la inspiración, la autoridad, la transmisión, la interpre
       StudySection(title: '49. Fidelidad de la Iglesia', content: 'La Iglesia está llamada a conservar, enseñar y practicar la verdad recibida. Esto exige rechazar la manipulación de los textos y el desprecio por su autoridad; la fidelidad produce una comunidad humilde y justa.', references: '1 Timoteo 3:15; Judas 3; Apocalipsis 22:18-19.'),
       StudySection(title: '50. Lectura comunitaria', content: 'La Escritura forma también al pueblo reunido. Leerla y explicarla en comunidad permite corregir interpretaciones aisladas, aprender unos de otros y fortalecer la unidad; esto complementa, no reemplaza, el estudio personal.', references: 'Colosenses 3:16; 1 Timoteo 4:13; Hechos 2:42.'),
     ],
-    conclusion: 'La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
+    conclusion: '''La inspiración de las Escrituras enseña que la Biblia procede de Dios y fue comunicada mediante autores humanos bajo la obra del Espíritu Santo. Su diversidad literaria e histórica no elimina la unidad de su mensaje ni su autoridad para la fe y la vida cristiana. La Iglesia debe leerla en contexto, reconocer sus géneros, comparar pasajes y distinguir el texto inspirado de las interpretaciones humanas.
 
-Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.',
+Jesucristo es la revelación culminante del Padre y el centro del testimonio bíblico; el Espíritu Santo actuó en la comunicación de la Palabra y ayuda a comprenderla, sin conducir a enseñanzas contrarias a ella. Recibir la Biblia exige fe, discernimiento, obediencia, justicia y amor. La comunidad honra a Dios cuando conserva el mensaje recibido, lo enseña con fidelidad y permite que transforme su conducta.''',
   ),
   Study(
     number: '84',
