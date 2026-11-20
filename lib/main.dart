@@ -17508,7 +17508,7 @@ Study(
     ],
     conclusion: "El bautismo cristiano es una ordenanza del Señor Jesús que expresa públicamente la fe y la identificación del discípulo con su muerte y resurrección. Se administra en el nombre del Padre, del Hijo y del Espíritu Santo y pertenece a la misión de hacer discípulos. El agua no es un poder independiente ni el bautismo compra la salvación: la salvación es por gracia, mediante la fe en Jesucristo. Sin embargo, la gracia recibida llama a la obediencia, y el bautismo es una respuesta importante a la autoridad de Cristo. Por tanto, la Iglesia debe enseñarlo con fidelidad bíblica, acompañar pastoralmente a quienes lo reciben y recordar que la vida bautismal continúa en santidad, comunión y perseverancia, para gloria del Dios trino."
   )
-
+,
   Study(
     number: '72',
     title: "Los dones espirituales en la Iglesia: diversidad, propósito, discernimiento y edificación bajo la obra del Espíritu Santo",
