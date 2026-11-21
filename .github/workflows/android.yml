@@ -6,6 +6,7 @@ on:
   pull_request:
     branches:
       - main
+      - fix/restore-study-catalog-dictionary-2026-11-21
   push:
     branches:
       - main
