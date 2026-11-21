@@ -83,7 +83,12 @@ FeatureTile(
 icon: Icons.shield_outlined,
 title: 'Defensa de la Sana Doctrina',
 subtitle: 'Examina y responde enseñanzas a la luz de las Escrituras.',
-onTap: () => onNavigate(1),
+onTap: () => Navigator.push(
+  context,
+  MaterialPageRoute(
+    builder: (_) => const DefensaSanaDoctrinaPage(),
+  ),
+),
 ),
 const SizedBox(height: 12),
 const Text(

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'defensa_sana_doctrina.dart';
 
 part 'app/app_shell.dart';
 part 'screens/inicio/inicio_tab.dart';

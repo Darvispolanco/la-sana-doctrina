@@ -11,12 +11,12 @@ return ListView(
 padding: const EdgeInsets.all(16),
 children: [
 const Text(
-'Biblioteca de formación bíblica',
+'150 estudios bíblicos',
 style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
 ),
 const SizedBox(height: 6),
 const Text(
-'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
+'Catálogo principal de 150 estudios bíblicos. La defensa doctrinal y los 100 temas apologéticos se encuentran en su apartado independiente.',
 ),
 const SizedBox(height: 14),
 for (final study in studies)
