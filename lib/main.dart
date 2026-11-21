@@ -19516,79 +19516,565 @@ La perspectiva trinitaria distingue al Padre, al Hijo y al Espíritu Santo en la
   Study(
     number: '97',
     title: "Los sacrificios del Antiguo Testamento: expiación, comunión y consagración",
-    subtitle: "Las distintas ofrendas levíticas y su función dentro del sistema sacrificial de Israel.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Las distintas ofrendas de Israel, su función dentro del pacto y su relación con el sacrificio perfecto de Jesucristo.",
+    introduction: '''
+El sistema sacrificial de Israel no fue una colección indiferenciada de matanzas rituales. Levítico presenta ofrendas con propósitos y procedimientos distintos: holocaustos, ofrendas vegetales, sacrificios de paz, sacrificios por el pecado y sacrificios por la culpa. Algunas expresaban entrega y adoración; otras incluían comunión o trataban la impureza y la culpa dentro del pacto. Por eso no debe afirmarse que cada sacrificio cumplía exactamente la misma función.
+
+La ley relaciona la sangre con la vida y con el altar (Levítico 17:11). El sacrificio era una provisión divina para el pueblo, no una necesidad que Dios tuviera ni un intento humano de controlar a la divinidad. El sistema debía realizarse conforme a la palabra de Dios y unido a la fe y obediencia.
+
+El Nuevo Testamento presenta a Jesucristo como la ofrenda única y suficiente. Su entrega no es simplemente un sacrificio más dentro de la serie levítica: cumple y supera el sistema antiguo. A partir de esa obra, los creyentes ofrecen sacrificios espirituales de alabanza, servicio y una vida consagrada.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 97. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Sacrificio es una ofrenda presentada a Dios conforme a las disposiciones del pacto. Ofrenda no es sinónimo automático de expiación: la ley distingue actos de adoración, gratitud, comunión, purificación y reparación. El holocausto era consumido sobre el altar; la ofrenda vegetal expresaba reconocimiento y dedicación; el sacrificio de paz incluía una comida de comunión; las ofrendas por el pecado y por la culpa trataban situaciones de culpa e impureza según las normas establecidas.
+
+La palabra expiación describe el tratamiento de la culpa o impureza ante Dios, pero cada rito debe interpretarse por su contexto. No se debe trasladar sin matices el lenguaje de una ofrenda a todas las demás. Tampoco debe confundirse el sacrificio levítico con prácticas paganas de manipulación de los dioses: Israel recibía instrucciones del Dios del pacto y debía obedecerlas.
+
+El Día de la Expiación posee un desarrollo particular en Levítico 16 y será estudiado específicamente en el tema 98. Aquí se consideran las categorías ordinarias de sacrificios y sus funciones dentro del culto de Israel.
+''',
+        references: "Levítico 1:1-17; Romanos 12:1; Hebreos 10:1-14.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Levítico pertenece al marco del pacto sinaítico y ofrece instrucciones para la vida de Israel después de la liberación de Egipto. Sus leyes regulan el santuario, el sacerdocio, la pureza, las fiestas y la relación del pueblo con la presencia santa de Dios. Los sacrificios no eran prácticas aisladas: se realizaban en un sistema donde el altar, los sacerdotes, las ofrendas y la comunidad tenían funciones definidas.
+
+En el antiguo Cercano Oriente existían sacrificios en diferentes culturas, pero la semejanza externa no permite equiparar sus teologías. En Israel, el Señor prohíbe la idolatría y rechaza el sacrificio humano. El culto debía responder a su revelación, no a la imaginación religiosa de los pueblos vecinos.
+
+Levítico 1–7 reúne instrucciones dirigidas tanto al oferente como al sacerdote. Los capítulos distinguen tipos de ofrenda y explican qué partes se quemaban, cuáles correspondían a los sacerdotes y, en ciertos casos, cuáles podían comerse. La ubicación de estas normas dentro del libro ayuda a comprender que la santidad debía abarcar la adoración y la vida cotidiana.
+''',
+        references: "Levítico 1–7; Éxodo 20:1-6; Deuteronomio 12:1-14.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Levítico 1 describe el holocausto, que se quemaba enteramente sobre el altar, con las disposiciones correspondientes al tipo de animal. Levítico 2 regula la ofrenda vegetal, elaborada con flor de harina, aceite e incienso, y prohíbe la levadura y la miel en la ofrenda quemada sobre el altar, mientras prescribe sal. Levítico 3 presenta el sacrificio de paz, del cual ciertas partes se ofrecían a Dios y otras se compartían conforme a las normas.
+
+Levítico 4–5 trata diversas situaciones de pecado y culpa, diferenciando casos y responsabilidades. Levítico 6–7 amplía las instrucciones para los sacerdotes, incluyendo el manejo del altar, las porciones sacerdotales y las condiciones para comer de las ofrendas. Estas diferencias impiden reducir todo el sistema a una sola fórmula.
+
+La ley también establece que la sangre no debía consumirse. Levítico 17:11 explica su relación con la vida y con la expiación sobre el altar. Esta enseñanza debe leerse dentro del pacto y de la función que Dios asignó a la sangre, sin convertirla en una sustancia mágica.
+''',
+        references: "Levítico 1–7; 8–10; 17:10-14; 1 Samuel 15:22.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento interpreta la obra de Jesús a la luz del lenguaje sacrificial. Juan el Bautista lo llama el Cordero de Dios que quita el pecado del mundo (Juan 1:29). Pablo afirma que Cristo fue presentado como sacrificio de expiación por medio de la fe en su sangre (Romanos 3:25) y que se entregó como ofrenda y sacrificio de olor fragante (Efesios 5:2).
+
+Hebreos 9–10 compara los sacrificios repetidos con la entrega de Cristo, realizada una vez para siempre. La repetición de las ofrendas antiguas mostraba que no producían por sí mismas la perfección definitiva de la conciencia. Cristo, en cambio, entró con su propia sangre y ofreció un sacrificio suficiente. Primera de Pedro 1:18-19 habla de su sangre preciosa, y 2:24 relaciona su entrega con el llevar nuestros pecados.
+
+La respuesta cristiana no consiste en repetir sacrificios expiatorios, sino en ofrecer sacrificios espirituales: alabanza, generosidad, servicio y la presentación de la vida a Dios (Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:5).
+''',
+        references: "Juan 1:29; Romanos 3:24-26; Efesios 5:2; Hebreos 9:11-28; 10:1-18; 1 Pedro 1:18-19; 2:24.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Levítico 1:3-9 describe el holocausto voluntario y establece que el oferente debía presentar un animal aceptable, imponer su mano y realizar el procedimiento indicado. El rito expresaba entrega completa, pero el texto no autoriza a afirmar que todas las ofrendas tenían idéntico sentido expiatorio. La función de cada sacrificio se determina por las instrucciones específicas.
+
+Levítico 3:1-5 describe el sacrificio de paz. La grasa señalada se quemaba como ofrenda al Señor, y el desarrollo de Levítico 7 explica la participación permitida en la comida sacrificial. El rito expresa comunión y gratitud dentro del pacto. Levítico 4, por otra parte, prescribe sacrificios por pecados cometidos en determinadas condiciones y distingue según la posición o responsabilidad de quien pecó.
+
+Levítico 17:11 fundamenta la prohibición de comer sangre en que la vida de la carne está en ella y Dios la ha dado sobre el altar para hacer expiación. La sangre no posee poder independiente: su función deriva de la disposición divina. Hebreos 9:22 retoma el principio en su argumento sobre la purificación, y Hebreos 10 explica por qué la sangre de animales no constituye la solución final.
+
+En Hebreos 10:5-10, el autor cita el Salmo 40 para mostrar la obediencia del Hijo al cumplir la voluntad del Padre. El pasaje no presenta al Hijo como una víctima involuntaria ni confunde al Hijo con el Padre: Cristo se ofrece voluntariamente en obediencia.
+''',
+        references: "Levítico 1:3-9; 3:1-5; 4:1-35; 17:11; Salmo 40:6-8; Hebreos 9:14; 10:5-10.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El sistema sacrificial se relaciona con el sacerdocio, el santuario y el pacto. Los sacrificios no pueden estudiarse sin Levítico 8–10, donde se consagra a los sacerdotes y se subraya la santidad del servicio. Tampoco deben separarse de los llamados proféticos a la obediencia: Samuel declara que obedecer es mejor que los sacrificios (1 Samuel 15:22), y Oseas 6:6 destaca la misericordia y el conocimiento de Dios.
+
+Salmo 51:16-17 no contradice Levítico: David reconoce que ningún rito externo puede sustituir un corazón quebrantado. Los profetas reprenden sacrificios ofrecidos mientras el pueblo practica injusticia (Isaías 1:11-17; Amós 5:21-24). Dios no rechaza la adoración que Él mismo ordenó cuando se ofrece con fe y obediencia; rechaza la hipocresía que usa el rito para encubrir rebelión.
+
+Hebreos relaciona los sacrificios con la obra de Cristo y enseña que las ofrendas antiguas eran sombra de los bienes venideros. La relación bíblica no consiste en identificar cada detalle como una predicción independiente, sino en reconocer el desarrollo del pacto hacia la entrega definitiva del Hijo y la adoración espiritual de su pueblo.
+''',
+        references: "Salmos 40:6-8; 51:16-17; Isaías 1:11-17; Oseas 6:6; Amós 5:21-24; Hebreos 10:1-18.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+La perspectiva trinitaria reconoce la acción del único Dios en la salvación. El Padre establece el propósito redentor y envía al Hijo; el Hijo se encarna y se ofrece voluntariamente en obediencia; el Espíritu eterno participa en la presentación de Cristo, según Hebreos 9:14. Estas distinciones personales no dividen la esencia divina.
+
+Hebreos 10:5-10 presenta al Hijo diciendo que viene para hacer la voluntad de Dios. Juan 10:17-18 afirma que Jesús entrega su vida voluntariamente y tiene autoridad para ponerla y volverla a tomar. El Padre y el Hijo no son la misma persona: el envío, la obediencia y la entrega describen una relación real. Al mismo tiempo, la obra salvadora no enfrenta a un Padre misericordioso con un Hijo que lo convence a serlo; la salvación procede del amor y propósito de Dios.
+
+El Espíritu Santo no es una fuerza impersonal separada de Dios. Hebreos 9:14 lo menciona en relación con la ofrenda de Cristo. La obra trinitaria es una sola obra divina, realizada con la participación personal del Padre, del Hijo y del Espíritu.
+''',
+        references: "Juan 10:17-18; Hebreos 9:14; 10:5-10; Gálatas 4:4-6.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Dios necesita sangre para sentirse satisfecho? No. Dios es perfecto y no depende de la creación. Levítico 17:11 presenta la sangre como provisión que Él asigna al altar dentro del pacto; no como alimento o necesidad divina.
+
+¿Todos los sacrificios expiaban? No. El holocausto, la ofrenda vegetal y el sacrificio de paz tienen funciones diferenciadas. Algunas ofrendas trataban culpa e impureza; otras expresaban dedicación, gratitud o comunión. La clasificación debe seguir el texto de Levítico.
+
+¿Los sacrificios antiguos perdonaban realmente? La ley habla de perdón en el marco del pacto, pero Hebreos 10 enseña que la sangre de toros y machos cabríos no podía quitar definitivamente los pecados ni perfeccionar la conciencia. El sistema tenía una función real y pedagógica, pero apuntaba más allá de sí mismo.
+
+¿Por qué se repetían? Porque eran ritos regulares y porque no constituían el sacrificio definitivo. La repetición contrasta con la entrega única de Cristo (Hebreos 9:25-28; 10:11-14).
+
+¿Dios contradice Levítico cuando dice que no quiere sacrificios? No. Salmos y profetas reprenden el ritual separado de la obediencia. El Señor rechaza la hipocresía, no su propia instrucción cultual.
+
+¿El sacrificio de Jesús equivale a sacrificios humanos paganos? No. La Escritura prohíbe el sacrificio humano (Levítico 18:21; Deuteronomio 12:31). Cristo entrega voluntariamente su vida, en obediencia y dentro del propósito redentor único de Dios; su muerte no legitima ritos humanos ni violencia religiosa.
+''',
+        references: "Levítico 17:11; 18:21; Deuteronomio 12:31; Salmo 51:16-17; Hebreos 10:1-14.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Por qué se imponía la mano sobre la ofrenda? Respuesta: En los ritos donde se prescribe, el gesto identifica al oferente con la ofrenda dentro del procedimiento establecido. No debe atribuirse automáticamente el mismo significado detallado a cada sacrificio.
+
+Pregunta: ¿Qué diferencia hay entre sacrificio de paz y sacrificio por el pecado? Respuesta: Levítico 3 y 7 describe la ofrenda de paz vinculada con comunión y participación; Levítico 4–5 regula sacrificios relacionados con pecados y situaciones de culpa. Sus propósitos y procedimientos no son intercambiables.
+
+Pregunta: ¿Por qué no se podía comer sangre? Respuesta: Porque Dios reservó la sangre para el altar y la relacionó con la vida (Levítico 17:10-14). La prohibición enseñaba reverencia por la vida y por la función sagrada que Dios había asignado a la sangre.
+
+Pregunta: ¿Los cristianos deben ofrecer animales? Respuesta: No. Hebreos 10 enseña que Cristo ofreció un sacrificio único y suficiente. La Iglesia ofrece sacrificios espirituales de alabanza y servicio, no sacrificios expiatorios repetidos.
+
+Pregunta: ¿Qué enseña Romanos 12:1 sobre el sacrificio? Respuesta: Pablo utiliza el lenguaje sacrificial para llamar a los creyentes a presentar sus cuerpos como sacrificio vivo, santo y agradable a Dios. La vida entera se convierte en servicio consagrado, como respuesta a la misericordia recibida.
+''',
+        references: "Levítico 3; 4–7; 17:10-14; Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:5.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El estudio de los sacrificios enseña que la adoración debe obedecer la revelación de Dios y no las ideas humanas. Las ofrendas tenían funciones distintas y estaban reguladas por el pacto; por eso es necesario leer cada instrucción en su contexto y no reducir toda la ley sacrificial a una sola explicación.
+
+El sistema revelaba la gravedad del pecado, la santidad de Dios y la necesidad de una provisión para acercarse a Él. También mostraba sus propios límites: las ofrendas se repetían y no perfeccionaban definitivamente la conciencia. Hebreos dirige la mirada a Jesucristo, cuya entrega voluntaria y única cumple la obra redentora.
+
+La respuesta de la Iglesia es una vida ofrecida a Dios: alabanza sincera, generosidad, servicio, justicia y obediencia. El Padre, el Hijo y el Espíritu Santo actúan en la única obra de salvación; sus personas son distintas y comparten la única naturaleza divina.
+''',
+        references: "Romanos 12:1-2; Hebreos 10:10-18; 13:15-16; 1 Pedro 2:4-5.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Los sacrificios del Antiguo Testamento deben estudiarse según sus categorías y propósitos. El holocausto, la ofrenda vegetal, el sacrificio de paz y las ofrendas por el pecado y la culpa no eran ritos idénticos. Dios los estableció para la vida cultual de Israel, y la sangre recibió una función particular en el altar porque Él así lo dispuso.
+
+Los profetas no anularon la ley sacrificial: denunciaron la adoración hipócrita que separaba las ceremonias de la justicia y la obediencia. El Nuevo Testamento muestra que el sistema antiguo no era la solución final. Jesucristo se ofreció una vez para siempre, y su sacrificio es suficiente. Por eso, la Iglesia no repite expiaciones animales, sino que responde con una vida de alabanza, santidad y servicio.
+
+El Padre envía al Hijo, el Hijo se entrega voluntariamente y el Espíritu eterno participa en la obra redentora. Así, el estudio conduce a reconocer la santidad de Dios, la gravedad del pecado y la suficiencia de Cristo.
+''',
   ),
+
   Study(
     number: '98',
     title: "El Día de la Expiación: purificación y acceso a la presencia de Dios",
-    subtitle: "El rito de Levítico 16, su contexto sacerdotal y su relación con la obra de Cristo en Hebreos.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "El rito anual de Levítico 16, la purificación del santuario y su cumplimiento en la obra sacerdotal de Cristo.",
+    introduction: '''
+Levítico 16 describe el Día de la Expiación, una jornada solemne en la que el sumo sacerdote realizaba ritos específicos por sí mismo, por su casa, por el santuario y por el pueblo. El capítulo no debe confundirse con los sacrificios ordinarios de Levítico 1–7: presenta un procedimiento anual particular, con acceso restringido al Lugar Santísimo, sangre, incienso y dos machos cabríos con funciones diferenciadas.
+
+El rito enseñaba que la presencia santa de Dios no podía tratarse con ligereza y que la impureza y el pecado afectaban la relación del pueblo con el santuario. La purificación no era un acto mágico ni una ceremonia que permitiera continuar deliberadamente en rebelión. Levítico 16 une el rito con la humillación del pueblo y el descanso sabático.
+
+Hebreos 9–10 utiliza este trasfondo para explicar la superioridad de Jesucristo. Cristo entra en el santuario celestial, no con sangre ajena, sino mediante su propia entrega, y obtiene redención definitiva. El estudio debe distinguir el rito histórico, su significado en el pacto y la interpretación cristológica del Nuevo Testamento.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 98. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+El Día de la Expiación era la ceremonia anual descrita en Levítico 16. Se distinguía de las ofrendas regulares porque el sumo sacerdote entraba al Lugar Santísimo bajo instrucciones estrictas. Expiación en este contexto incluye la purificación del santuario y el tratamiento de los pecados e impurezas del pueblo dentro del pacto.
+
+El macho cabrío cuya sangre era llevada al santuario y el macho cabrío enviado al desierto no cumplen la misma acción ritual. Uno participa en la purificación mediante sangre; el otro representa la remoción de las iniquidades del pueblo fuera del campamento. No debe confundirse el rito con una simple ceremonia de arrepentimiento privado.
+
+El término chivo expiatorio se usa comúnmente para el segundo macho cabrío, pero la interpretación debe partir del texto de Levítico y no de usos modernos de la expresión. Este estudio se limita al Día de la Expiación y no repite la clasificación general de sacrificios abordada en el estudio 97.
+''',
+        references: "Levítico 16:1-34; Levítico 23:26-32; Hebreos 9:1-14.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Levítico 16 sitúa el rito después de la muerte de los hijos de Aarón, Nadab y Abiú, quienes se acercaron indebidamente a la presencia de Dios (Levítico 10). La conexión literaria es importante: el capítulo enseña cómo puede acercarse el sumo sacerdote sin repetir aquella transgresión. La santidad de Dios exige obediencia precisa.
+
+El santuario israelita estaba organizado en espacios con acceso diferenciado. El Lugar Santísimo era el ámbito más restringido y el sumo sacerdote entraba allí en el día señalado, llevando incienso y sangre. El rito se realizaba en el contexto de la vida nacional del pacto, no como una ceremonia privada.
+
+Levítico 23:26-32 establece la fecha y el carácter de aflicción del alma y reposo. El pueblo debía participar mediante humildad y abstención del trabajo. La jornada anual formaba parte del calendario sagrado de Israel y recordaba que la comunidad necesitaba purificación.
+''',
+        references: "Levítico 10:1-3; 16:1-34; 23:26-32; Números 29:7-11.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Levítico 16:1-10 establece las instrucciones iniciales. Aarón debía presentarse con un becerro para ofrenda por el pecado y un carnero para holocausto. Se vestía con las vestiduras de lino prescritas, y se echaban suertes sobre los dos machos cabríos: uno para el Señor y otro para Azazel, según el lenguaje del pasaje.
+
+En Levítico 16:11-19, el sumo sacerdote realiza expiación por sí mismo y por su casa, entra con incienso y lleva sangre para purificar el santuario. El texto subraya que incluso el lugar santo requería purificación debido a las impurezas y transgresiones del pueblo. Esto no significa que Dios fuera moralmente contaminado, sino que el santuario, como centro del culto pactal, debía ser purificado ritualmente.
+
+En Levítico 16:20-28, el macho cabrío vivo recibe la confesión de las iniquidades y es enviado al desierto. Luego el sumo sacerdote se cambia las vestiduras y completa los holocaustos. Levítico 16:29-34 establece la observancia anual. El capítulo distingue claramente las fases y no permite reducir el rito a un solo gesto.
+''',
+        references: "Levítico 16:1-34; 23:26-32; Números 29:7-11.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Hebreos 9 utiliza el Día de la Expiación como parte de su explicación del ministerio sacerdotal de Cristo. El sumo sacerdote entraba repetidamente en el santuario terrenal con sangre ajena, mientras Cristo entró una vez para siempre en el santuario celestial mediante su propia sangre, obteniendo eterna redención (Hebreos 9:11-12).
+
+Hebreos 9:23-28 explica que Cristo no se ofrece repetidamente. Su sacrificio aparece una vez en la consumación de los siglos para quitar el pecado por medio de su entrega. Hebreos 10 continúa el argumento: la repetición anual recordaba la necesidad de purificación, pero no podía perfeccionar definitivamente a quienes se acercaban.
+
+La aplicación cristiana no consiste en reproducir el rito del sumo sacerdote ni en buscar un nuevo sacrificio. Cristo es el mediador y sumo sacerdote suficiente. El acceso a Dios se recibe por su obra, y la comunidad es llamada a acercarse con fe y conciencia purificada.
+''',
+        references: "Hebreos 4:14-16; 9:11-28; 10:1-22; Romanos 3:23-26; 1 Juan 2:1-2.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Levítico 16:2 prohíbe a Aarón entrar en cualquier momento al Lugar Santísimo, para que no muera. La frase establece el principio rector del capítulo: el acceso está regulado por Dios. El incienso cubría el propiciatorio y la sangre se aplicaba conforme a las instrucciones. No era el sacerdote quien decidía cómo acercarse.
+
+La expresión sobre el macho cabrío para Azazel (Levítico 16:8-10) ha recibido distintas explicaciones históricas. El texto sí deja claro que uno era presentado al Señor y el otro era enviado vivo al desierto después de cargar simbólicamente con las iniquidades confesadas. Una interpretación responsable reconoce lo que el pasaje afirma sin presentar como certeza aquello que es debatido.
+
+Hebreos 9:7-14 contrapone la entrada anual del sumo sacerdote con la entrada de Cristo mediante el Espíritu eterno. El argumento no consiste en decir que el rito carecía de todo valor, sino que su alcance era temporal y tipológico, mientras la obra de Cristo limpia la conciencia para servir al Dios vivo.
+''',
+        references: "Levítico 16:2, 8-10, 14-22; Hebreos 9:7-14, 24-28.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El Día de la Expiación debe relacionarse con Levítico 10, donde se narra el juicio sobre Nadab y Abiú, y con Levítico 11–15, que trata diversas condiciones de impureza. Estos capítulos explican por qué el santuario y la comunidad necesitaban purificación. Levítico 16 concentra la solución ritual anual.
+
+Levítico 23 y Números 29 ubican la jornada dentro del calendario de Israel. El pueblo debía humillarse y cesar de sus labores. La ceremonia no sustituía la vida de obediencia: los profetas muestran que la humillación externa carece de valor cuando se mantiene la injusticia y la idolatría.
+
+Hebreos 4–10 desarrolla el sacerdocio de Cristo, su entrada al santuario celestial y la eficacia de su sacrificio. La comparación debe respetar tanto las continuidades como las diferencias: Jesús es sacerdote y ofrenda, pero no repite el rito levítico; su obra inaugura el acceso definitivo. Romanos 3:25 y 1 Juan 2:2 también relacionan la muerte de Cristo con la expiación, dentro de sus argumentos propios.
+''',
+        references: "Levítico 10–16; 23:26-32; Números 29:7-11; Hebreos 4–10.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+La obra de salvación se comprende trinitariamente. El Padre es aquel ante quien Cristo ejerce su ministerio sacerdotal y cuyo propósito de redención se cumple. El Hijo se encarna, se ofrece voluntariamente y entra como sumo sacerdote, no siendo la misma persona que el Padre. El Espíritu eterno aparece en Hebreos 9:14 en relación con la entrega de Cristo.
+
+Hebreos 9:14 pregunta cuánto más la sangre de Cristo limpiará la conciencia para servir al Dios vivo, pues Cristo se ofreció a sí mismo sin mancha a Dios mediante el Espíritu eterno. El texto distingue al Hijo que se ofrece, a Dios como aquel a quien se ofrece y al Espíritu eterno en cuya relación se realiza la entrega. No describe tres dioses ni tres sacrificios.
+
+El Padre no es el Hijo y el Espíritu no es una fuerza impersonal. La salvación es obra del único Dios, con distinción personal: el Padre envía, el Hijo se entrega y el Espíritu participa en la obra redentora y aplica sus beneficios al pueblo.
+''',
+        references: "Hebreos 9:14; Juan 3:16-17; Gálatas 4:4-6; Efesios 2:18.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿El rito limpiaba a Dios? No. Levítico 16 habla de la purificación del santuario dentro del sistema cultual. Dios no se vuelve impuro; el espacio dedicado al culto requería purificación ritual debido a las impurezas del pueblo.
+
+¿El segundo macho cabrío era un sacrificio a otro dios? Levítico 16 distingue al macho cabrío para el Señor y al enviado vivo al desierto. El segundo no es presentado como una ofrenda a una divinidad rival; su función en el rito es la remoción simbólica de las iniquidades confesadas.
+
+¿El Día de la Expiación perdonaba de manera definitiva? El rito tenía una función real dentro del pacto, pero Hebreos enseña que la perfección de la conciencia y la redención definitiva se cumplen en Cristo. No se debe negar el valor histórico del rito ni atribuirle la eficacia final que el Nuevo Testamento reserva a Cristo.
+
+¿Hebreos contradice Levítico? No. Hebreos interpreta el sistema levítico desde la obra de Cristo y explica su carácter provisional y anticipatorio. La revelación posterior aclara el alcance del rito sin afirmar que Dios se contradijo.
+
+¿Puede un ministro actual repetir el oficio del sumo sacerdote? No en el sentido expiatorio levítico. Hebreos presenta a Cristo como sumo sacerdote suficiente y su sacrificio como único. Los ministros cristianos sirven y enseñan, pero no añaden sacrificios redentores a la obra de Jesús.
+''',
+        references: "Levítico 16:8-10, 20-22; Hebreos 9:7-14; 10:1-14.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Por qué el sumo sacerdote debía ofrecer primero por sí mismo? Respuesta: Porque era un ser humano sujeto a debilidad y necesitaba purificación. Hebreos 5:1-3 utiliza este hecho para contrastar la superioridad de Cristo, que no tuvo pecado.
+
+Pregunta: ¿Por qué se usaba incienso? Respuesta: Levítico 16:12-13 lo prescribe para cubrir el propiciatorio con la nube. El texto presenta una instrucción litúrgica vinculada al acceso seguro; otras asociaciones bíblicas del incienso con la oración no deben borrar el sentido inmediato del rito.
+
+Pregunta: ¿Qué significaban los dos machos cabríos? Respuesta: El primero era sacrificado y su sangre se empleaba en la purificación; el segundo permanecía vivo, recibía la confesión de las iniquidades y era enviado al desierto. Ambos actos forman parte de un mismo rito, pero no son idénticos.
+
+Pregunta: ¿Por qué Cristo no repite la ceremonia? Respuesta: Porque su sacrificio es suficiente y se realizó una vez para siempre (Hebreos 9:24-28; 10:10-14).
+
+Pregunta: ¿Qué significa tener acceso a Dios? Respuesta: Por Cristo, los creyentes pueden acercarse con confianza y conciencia purificada, sin depender de un nuevo sacrificio anual (Hebreos 10:19-22).
+''',
+        references: "Levítico 16:1-34; Hebreos 5:1-10; 9:11-28; 10:19-22.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El Día de la Expiación enseñaba a Israel que el pecado y la impureza no podían tratarse con ligereza y que el acceso al Dios santo dependía de la provisión establecida por Él. El rito anual incluía purificación del santuario, sacrificio y remoción simbólica de las iniquidades, bajo la mediación del sumo sacerdote.
+
+Hebreos no desprecia el texto de Levítico; muestra su lugar dentro de la historia de la redención. Cristo es el sumo sacerdote perfecto y la ofrenda suficiente. Su entrega no se repite y abre el acceso a Dios. La Iglesia responde con fe, santidad y servicio, no con la reproducción de sacrificios expiatorios.
+
+El Padre, el Hijo y el Espíritu Santo participan distintamente en la única obra salvadora. El estudio conduce a reverencia, gratitud y confianza en la obra completa de Jesucristo.
+''',
+        references: "Hebreos 9:11-14, 24-28; 10:10-22; 1 Pedro 1:18-21.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Levítico 16 establece el Día de la Expiación como una jornada anual de purificación del santuario y del pueblo, realizada por el sumo sacerdote bajo instrucciones precisas. El rito expresaba la santidad de Dios, la gravedad del pecado y la necesidad de una mediación provista por el Señor.
+
+Hebreos interpreta este rito a la luz de Jesucristo. El Hijo es el sumo sacerdote perfecto que se ofrece una vez para siempre y obtiene redención definitiva. La obra del Padre, del Hijo y del Espíritu se distingue personalmente sin dividir al único Dios. Por tanto, la Iglesia no repite el Día de la Expiación, sino que se acerca a Dios por Cristo con fe, gratitud y una conciencia purificada.
+''',
   ),
+
   Study(
     number: '99',
     title: "Las fiestas solemnes de Israel: memoria, adoración y esperanza",
-    subtitle: "El calendario festivo de Israel, su contexto agrícola e histórico y su significado en la vida del pacto.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "El calendario sagrado, sus convocaciones y su lugar en la historia del pacto y la esperanza bíblica.",
+    introduction: '''
+Las fiestas solemnes de Israel organizaban el calendario de adoración y recordaban las obras de Dios en la historia del pueblo. Levítico 23 reúne convocaciones como la Pascua, los panes sin levadura, las primicias, las semanas, las trompetas, el Día de la Expiación y los tabernáculos. Otras instrucciones aparecen en Éxodo, Números y Deuteronomio.
+
+Estas celebraciones no eran simples tradiciones culturales: tenían fundamento en el pacto y enseñaban memoria, gratitud, descanso, dependencia y esperanza. Algunas estaban relacionadas con la cosecha; otras recordaban la liberación de Egipto o la peregrinación por el desierto. Deben estudiarse en sus contextos israelitas antes de considerar su relación con Cristo.
+
+El Nuevo Testamento muestra cómo Jesús cumple la esperanza de la Pascua y cómo la comunidad cristiana vive a la luz de su muerte y resurrección. Sin embargo, no se debe convertir cada detalle de cada fiesta en una profecía individual sin apoyo textual, ni imponer a la Iglesia el calendario ceremonial de Israel como requisito de salvación.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 99. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Fiesta o convocación solemne es una reunión sagrada establecida en el calendario de Israel. El término no significa necesariamente una celebración alegre en el sentido moderno: el Día de la Expiación, por ejemplo, era una jornada de humillación y reposo. Las fiestas combinaban culto, memoria histórica y ritmos agrícolas.
+
+Pascua conmemoraba la liberación de Egipto; panes sin levadura recordaba la salida apresurada; primicias reconocía a Dios como proveedor; semanas celebraba la cosecha; trompetas marcaba una convocación; el Día de la Expiación incluía purificación; tabernáculos recordaba la vida en tiendas durante el desierto. Las listas y detalles varían según el libro y el propósito del pasaje.
+
+Este estudio examina el calendario como conjunto. El Día de la Expiación se analiza con mayor detalle en el estudio 98, y aquí se considera como una de las fechas del calendario.
+''',
+        references: "Levítico 23:1-44; Éxodo 12:1-28; Colosenses 2:16-17.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Israel vivía en una sociedad agrícola, por lo que varias celebraciones coincidían con etapas de la cosecha. La Pascua y panes sin levadura estaban asociadas con la primavera; las primicias y semanas con la cosecha; tabernáculos con la recolección de los frutos. Estas fechas unían la vida cotidiana con la memoria de la liberación y la provisión divina.
+
+Éxodo 12 presenta la Pascua en el contexto de la salida de Egipto. Levítico 23 organiza las convocaciones en una lista litúrgica. Deuteronomio 16 destaca la celebración en el lugar que Dios escogiera, relacionando las fiestas con la centralización del culto. Números 28–29 ofrece instrucciones sobre las ofrendas correspondientes.
+
+La historia posterior muestra que las fiestas podían convertirse en ceremonias vacías cuando se separaban de la fidelidad. Los profetas denunciaron la celebración sin justicia. En el período del Segundo Templo, las fiestas también eran momentos de peregrinación y memoria nacional, contexto que aparece en los Evangelios y Hechos.
+''',
+        references: "Éxodo 12–13; Levítico 23; Deuteronomio 16; Números 28–29.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Éxodo 12 establece la Pascua antes de la salida de Egipto: la familia debía recordar la liberación y explicar su significado a las generaciones siguientes. Éxodo 13 vincula los panes sin levadura con la memoria de aquella salida. Levítico 23 amplía el calendario y añade las primicias, semanas, trompetas, expiación y tabernáculos.
+
+Deuteronomio 16 vuelve a las fiestas principales y enfatiza la celebración en el lugar escogido por Dios. La instrucción también incluye justicia social: levitas, extranjeros, huérfanos y viudas debían participar de la alegría de la fiesta. Esto impide reducir las celebraciones a una experiencia privada.
+
+Números 28–29 detalla las ofrendas regulares y especiales asociadas con las convocaciones. Los textos deben armonizarse observando que cada libro organiza las instrucciones con énfasis propio: Levítico presenta el calendario, Deuteronomio la vida del pueblo en el lugar de culto y Números los sacrificios correspondientes.
+''',
+        references: "Éxodo 12–13; Levítico 23; Deuteronomio 16; Números 28–29.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Los Evangelios sitúan la muerte de Jesús en el contexto de la Pascua. Los relatos destacan la última cena, la entrega de Jesús y la interpretación que él da a su muerte. Pablo declara que Cristo, nuestra Pascua, fue sacrificado (1 Corintios 5:7), usando el lenguaje pascual para explicar la vida de la comunidad.
+
+Hechos 2 ocurre en Pentecostés, la fiesta de las semanas, cuando judíos de diversas regiones se encuentran en Jerusalén y el Espíritu Santo es derramado sobre los discípulos. El relato presenta el acontecimiento como cumplimiento de la promesa del Espíritu, no como una mera repetición agrícola de la fiesta.
+
+Colosenses 2:16-17 enseña que las fiestas y calendarios pueden funcionar como sombra, mientras la realidad pertenece a Cristo. El pasaje no autoriza despreciar las Escrituras de Israel; enseña que la observancia de fechas no debe convertirse en criterio para juzgar la aceptación de los creyentes. La comunidad vive en Cristo, quien cumple la esperanza anunciada.
+''',
+        references: "Mateo 26–27; Juan 19; Hechos 2:1-36; 1 Corintios 5:6-8; Colosenses 2:16-17.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Levítico 23:2 llama a las fiestas «santas convocaciones». El capítulo presenta primero el sábado, luego las fechas anuales. La secuencia muestra que el tiempo entero pertenece a Dios y que el calendario de Israel debía organizarse en torno a la adoración.
+
+Éxodo 12:14 ordena recordar la Pascua como estatuto perpetuo para las generaciones de Israel. La expresión se refiere al pacto y a la memoria de la liberación; no debe utilizarse sin considerar el desarrollo posterior del Nuevo Testamento. En 1 Corintios 5:7-8, Pablo aplica la imagen de la Pascua a Cristo y llama a vivir sin la levadura de malicia y maldad.
+
+Colosenses 2:16-17 debe leerse en el contexto de la advertencia contra enseñanzas que sometían a los creyentes a reglas humanas. Pablo afirma que nadie debe juzgarlos por comida, bebida, fiesta, luna nueva o sábados. La sombra tenía su lugar en la historia, pero la sustancia se encuentra en Cristo.
+''',
+        references: "Levítico 23:2, 4-8; Éxodo 12:14, 24-27; 1 Corintios 5:7-8; Colosenses 2:16-17.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Las fiestas deben relacionarse con el éxodo, el pacto y la provisión de Dios. La Pascua recuerda que Israel fue liberado por intervención divina; las primicias y semanas reconocen que la cosecha pertenece al Señor; tabernáculos recuerda la dependencia durante el desierto. Deuteronomio 16 muestra que la celebración debía incluir a los miembros vulnerables de la sociedad.
+
+Los profetas denuncian la separación entre culto y justicia (Isaías 1:11-17; Amós 5:21-24). Por eso, la fidelidad no se mide solamente por asistir a una fiesta, sino por vivir bajo la voluntad de Dios. El calendario no era permiso para ignorar al prójimo.
+
+En el Nuevo Testamento, Cristo es el centro de la esperanza y la comunidad recibe el Espíritu. La Pascua y Pentecostés aparecen en contextos decisivos de la obra de Jesús y del nacimiento público de la Iglesia. No obstante, no todas las fiestas reciben una interpretación explícita de cumplimiento en el Nuevo Testamento; la prudencia exige distinguir afirmaciones textuales de inferencias.
+''',
+        references: "Deuteronomio 16:1-17; Isaías 1:11-17; Amós 5:21-24; Hechos 2:1-33; Romanos 14:5-6.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el Dios que libera, sostiene y convoca a su pueblo. Las fiestas recordaban sus obras y su fidelidad al pacto. El Hijo participa del cumplimiento de la historia redentora: Jesús es presentado como la Pascua sacrificada y como aquel en quien las sombras encuentran su realidad. El Espíritu Santo es derramado en Pentecostés conforme a la promesa del Padre y a la exaltación de Cristo (Hechos 2:32-33).
+
+Hechos 2:33 distingue al Cristo exaltado, al Padre que cumple la promesa y al Espíritu que es derramado. Este texto no confunde las personas ni divide la esencia divina. La historia de la salvación es una obra del único Dios, en la que las personas actúan de manera personal y coordinada.
+
+La celebración cristiana no debe convertir las fiestas de Israel en una fórmula para obtener salvación. La Iglesia recuerda la muerte y resurrección de Cristo y vive por el Espíritu, dando gracias al Padre. Las fiestas ayudan a comprender la historia bíblica y el cumplimiento en Cristo, pero la observancia ceremonial no reemplaza la fe.
+''',
+        references: "Hechos 2:32-33; 1 Corintios 5:7; Gálatas 4:4-6; Efesios 2:18.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Todas las fiestas eran agrícolas? No. Algunas estaban vinculadas con cosechas, pero Pascua recordaba el éxodo y tabernáculos combinaba memoria del desierto con la recolección. El calendario tenía dimensiones históricas, agrícolas y teológicas.
+
+¿La Iglesia está obligada a celebrar las fiestas levíticas? Colosenses 2:16-17 prohíbe juzgar a los creyentes por esas observancias y presenta las fiestas como sombra cuya realidad está en Cristo. Romanos 14:5-6 también enseña que hay diferencias de conciencia respecto a días, sin convertirlas en requisito de salvación.
+
+¿Pentecostés cristiano es simplemente la fiesta judía? Hechos 2 sucede en la fecha de Pentecostés y utiliza el contexto de peregrinación, pero el acontecimiento central es el derramamiento del Espíritu conforme a la promesa profética. No es una mera repetición del calendario agrícola.
+
+¿Cada fiesta corresponde a un evento futuro específico? Algunos pasajes establecen relaciones claras, como Cristo nuestra Pascua y Pentecostés en Hechos 2. Otras correspondencias detalladas pueden ser propuestas como lecturas tipológicas, pero no deben presentarse como afirmaciones bíblicas explícitas cuando el texto no las establece.
+
+¿Celebrar una fiesta es incorrecto? No necesariamente. Puede tener valor educativo o cultural si se hace con conciencia y sin imponerla como condición de aceptación delante de Dios. El problema surge cuando una práctica se convierte en criterio de superioridad espiritual o se mezcla con doctrinas contrarias al evangelio.
+''',
+        references: "Colosenses 2:16-17; Romanos 14:5-6; Isaías 1:11-17; Amós 5:21-24.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Cuál era el propósito principal de la Pascua? Respuesta: Recordar la liberación de Israel de Egipto y enseñar a las generaciones que Dios rescató a su pueblo (Éxodo 12:24-27).
+
+Pregunta: ¿Por qué se presentaban primicias? Respuesta: Para reconocer que la cosecha y el sustento provenían de Dios, y expresar gratitud y dependencia (Levítico 23:9-14; Deuteronomio 26:1-11).
+
+Pregunta: ¿Qué relación tiene Cristo con la Pascua? Respuesta: Pablo lo identifica como nuestra Pascua sacrificada, y los Evangelios narran su muerte en el marco pascual (1 Corintios 5:7; Mateo 26–27).
+
+Pregunta: ¿Qué ocurrió en Pentecostés? Respuesta: El Espíritu Santo fue derramado sobre los discípulos, y Pedro explicó el acontecimiento a la luz de la promesa profética (Hechos 2:1-36).
+
+Pregunta: ¿Las fiestas son necesarias para ser salvo? Respuesta: La salvación se recibe por la gracia de Dios mediante la fe en Cristo; no por la observancia de calendarios ceremoniales (Efesios 2:8-10; Colosenses 2:16-17).
+''',
+        references: "Éxodo 12:24-27; Levítico 23:9-22; Hechos 2:1-36; 1 Corintios 5:7; Efesios 2:8-10.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Las fiestas solemnes enseñaban a Israel a ordenar el tiempo alrededor de la memoria de la salvación, la gratitud por la provisión y la adoración al Señor. Su significado se comprende al leerlas dentro del éxodo, el pacto y la vida comunitaria. No eran ceremonias desligadas de la justicia ni simples costumbres agrícolas.
+
+El Nuevo Testamento sitúa a Cristo en el centro de la historia redentora: nuestra Pascua fue sacrificada, y el Espíritu fue derramado en Pentecostés. Las fiestas ofrecen un marco para comprender la obra de Dios, pero no deben transformarse en obligación salvífica ni en un calendario profético especulativo.
+
+El Padre convoca y cumple sus promesas, el Hijo lleva a cabo la redención y el Espíritu capacita a la Iglesia para testificar. La respuesta cristiana es memoria agradecida, fe, unidad y vida obediente.
+''',
+        references: "1 Corintios 5:7-8; Hechos 2:1-36; Colosenses 2:16-17; Romanos 14:5-6.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Las fiestas solemnes de Israel eran convocaciones del pacto que unían memoria histórica, adoración, gratitud y esperanza. Su calendario recordaba la liberación de Egipto, la provisión de la cosecha y la peregrinación del pueblo. La Escritura también exigía que la celebración estuviera acompañada de justicia y fidelidad.
+
+El Nuevo Testamento presenta a Cristo como nuestra Pascua y relaciona Pentecostés con el derramamiento del Espíritu. La realidad de las fiestas se comprende a la luz de la obra de Jesús, pero no debe imponerse la observancia ceremonial como condición de salvación ni atribuirse a cada fiesta un cumplimiento que el texto no afirma.
+
+El Padre cumple sus promesas, el Hijo realiza la redención y el Espíritu capacita a la Iglesia. La respuesta es vivir con gratitud, recordar el evangelio y caminar en obediencia.
+''',
   ),
+
   Study(
     number: '100',
     title: "El sacerdocio levítico: servicio, mediación y santidad",
-    subtitle: "El origen, las funciones y los límites del sacerdocio aarónico, distinguiéndolo del sacerdocio de Cristo.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "El llamado de Aarón y sus descendientes, las funciones sacerdotales y la superioridad del sacerdocio de Cristo.",
+    introduction: '''
+El sacerdocio levítico fue establecido para el servicio del santuario y el ministerio relacionado con los sacrificios, la enseñanza de la ley y la atención de asuntos de pureza. Aarón y sus descendientes fueron apartados para este oficio, mientras que los levitas desempeñaban otras tareas vinculadas al culto. La Biblia distingue estas funciones y no presenta a todos los levitas como sacerdotes.
+
+El sacerdocio recordaba que el acercamiento al Dios santo estaba regulado por su palabra y que los mediadores humanos también necesitaban purificación. La función sacerdotal no convertía a sus integrantes en seres divinos ni les otorgaba autoridad independiente de Dios. Su servicio estaba sujeto a instrucciones, límites y responsabilidades.
+
+Hebreos presenta a Jesucristo como sumo sacerdote según el orden de Melquisedec, superior al sacerdocio levítico por su persona, vida indestructible y sacrificio definitivo. Los creyentes participan de un sacerdocio espiritual como pueblo consagrado, pero no reemplazan ni repiten el ministerio expiatorio único de Cristo.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 100. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Sacerdote es el ministro apartado para realizar tareas sagradas en nombre del pueblo conforme a las disposiciones de Dios. El sumo sacerdote tenía responsabilidades especiales, entre ellas la entrada anual al Lugar Santísimo en el Día de la Expiación. Los levitas, en sentido más amplio, pertenecían a la tribu apartada para el servicio del santuario, pero no todos podían ejercer las funciones sacerdotales reservadas a Aarón y sus descendientes.
+
+Mediación describe el servicio por el cual se facilita el acercamiento del pueblo a Dios dentro del pacto. No significa que el sacerdote fuera una fuente independiente de perdón ni que pudiera reemplazar a Dios. Santidad sacerdotal implicaba consagración, pureza ritual y conducta conforme a la ley.
+
+Este estudio aborda el sacerdocio levítico en conjunto. Las particularidades del Día de la Expiación se desarrollan en el estudio 98 y las funciones del sacrificio en el 97.
+''',
+        references: "Éxodo 28:1-43; Levítico 8–10; Hebreos 4:14-16; 7:23-28.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Éxodo 28–29 contiene las instrucciones para las vestiduras y consagración de Aarón y sus hijos. Levítico 8–10 relata la ordenación y el comienzo del servicio, incluyendo la muerte de Nadab y Abiú por ofrecer fuego no ordenado. La narración subraya que el ministerio sagrado no podía realizarse según la voluntad privada del ministro.
+
+Números 3–4 asigna tareas a las familias levíticas en el transporte y cuidado del tabernáculo. Números 18 distingue las responsabilidades de los sacerdotes y de los demás levitas. Deuteronomio 18 describe la porción sacerdotal y la provisión para quienes servían.
+
+En la historia de Israel hubo corrupción sacerdotal, como muestran los relatos de los hijos de Elí (1 Samuel 2). Los profetas y libros históricos denuncian el desprecio de la ley y la falta de fidelidad. Malaquías 2 reprende a los sacerdotes por apartarse del pacto y no instruir al pueblo correctamente.
+''',
+        references: "Éxodo 28–29; Levítico 8–10; Números 3–4; 18; Malaquías 2:1-9.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Éxodo 28 presenta las vestiduras sacerdotales, incluyendo el pectoral, el efod, la túnica y la lámina de oro. El texto relaciona las vestiduras con la dignidad y responsabilidad del oficio. Éxodo 29 establece el procedimiento de consagración mediante lavamiento, vestiduras, unción y sacrificios.
+
+Levítico 8 describe cómo Moisés consagró a Aarón y a sus hijos. Levítico 9 narra el inicio del servicio y la manifestación de la gloria del Señor. Levítico 10 muestra el juicio sobre Nadab y Abiú, que actuaron fuera de la instrucción recibida. El pasaje enseña que el culto requiere reverencia y obediencia.
+
+Números 18 distingue la responsabilidad de los sacerdotes en el altar y el santuario de las tareas asignadas a los levitas. La distinción evita confundir la pertenencia tribal con la autorización para realizar todo oficio sacerdotal. El sacerdocio era un encargo recibido, no una función que cualquiera podía apropiarse.
+''',
+        references: "Éxodo 28–29; Levítico 8–10; Números 18:1-7; Deuteronomio 18:1-8.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Hebreos 4:14-16 presenta a Jesús como el gran sumo sacerdote que atravesó los cielos y puede compadecerse de nuestras debilidades, aunque sin pecado. Hebreos 5 explica que el sumo sacerdote es tomado de entre los seres humanos y llamado por Dios, pero Cristo no se glorificó a sí mismo: fue designado por el Padre.
+
+Hebreos 7 compara el sacerdocio de Cristo con el de Melquisedec y muestra que el cambio de sacerdocio implica un cambio en el marco legal. Jesús permanece para siempre y tiene un sacerdocio inmutable. A diferencia de los sacerdotes levíticos, no necesita ofrecer sacrificios primero por sus propios pecados.
+
+Hebreos 8–10 desarrolla el ministerio de Cristo en el santuario celestial y su sacrificio único. Primera de Pedro 2:5, 9 llama a los creyentes sacerdocio santo y real, pero el lenguaje se refiere a su identidad comunitaria y a sus sacrificios espirituales, no a una repetición del oficio expiatorio de Cristo.
+''',
+        references: "Hebreos 4:14-16; 5:1-10; 7:1-28; 8:1-6; 9:11-14; 1 Pedro 2:4-10.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Éxodo 28:1 afirma que Aarón y sus hijos fueron apartados para ejercer el sacerdocio. La iniciativa procede de Dios y no de una auto designación. Éxodo 29:1-9 detalla la consagración y las vestiduras, mientras Levítico 8 narra su ejecución.
+
+Levítico 10:10-11 resume una tarea sacerdotal esencial: distinguir entre lo santo y lo profano, entre lo inmundo y lo limpio, y enseñar los estatutos al pueblo. La enseñanza de la ley era parte de la responsabilidad sacerdotal; no se trataba únicamente de manipular sacrificios.
+
+Hebreos 7:23-28 señala el contraste entre muchos sacerdotes que morían y Cristo que permanece para siempre. El argumento se apoya en la permanencia del Hijo y en la suficiencia de su entrega. No significa que el sacerdocio antiguo fuera una invención inútil, sino que tenía límites que la obra de Cristo supera.
+''',
+        references: "Éxodo 28:1; Levítico 10:10-11; Números 18:1-7; Hebreos 7:23-28.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El sacerdocio levítico se relaciona con la ley, el santuario, los sacrificios y la pureza. Levítico 21–22 regula la santidad de los sacerdotes y de las ofrendas. Números 18 establece la distribución de responsabilidades y provisiones. Malaquías 2 recuerda que los labios del sacerdote debían guardar conocimiento y que el pueblo buscaba instrucción de su boca.
+
+El Antiguo Testamento también muestra los fracasos del sacerdocio humano. Los hijos de Elí despreciaron las ofrendas y abusaron de su posición (1 Samuel 2:12-17, 22-25). Malaquías denuncia a sacerdotes que ofrecían animales defectuosos y quebrantaban el pacto. Estos textos no anulan la institución, sino que exponen la responsabilidad de quienes la ejercían.
+
+Hebreos 7–10 explica que Cristo cumple de manera superior la mediación sacerdotal. Primera de Pedro 2 aplica el lenguaje de sacerdocio a la Iglesia como pueblo que anuncia las virtudes de Dios y ofrece sacrificios espirituales. La comunidad no sustituye a Cristo como mediador único (1 Timoteo 2:5), sino que vive por su obra.
+''',
+        references: "Levítico 21–22; Números 18; 1 Samuel 2:12-25; Malaquías 2:1-9; Hebreos 7–10.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El sacerdocio se comprende dentro de la obra del único Dios. El Padre llama y establece el pacto; el Hijo es enviado y constituido sumo sacerdote, ofreciendo su vida; el Espíritu Santo participa en la obra redentora y habita en los creyentes. Hebreos 9:14 relaciona la entrega de Cristo con el Espíritu eterno, mientras Hebreos 5:5-6 muestra que Cristo no se glorificó a sí mismo, sino que fue llamado por Dios.
+
+El Hijo no es el Padre: el Padre designa y el Hijo obedece y se ofrece. Tampoco el Espíritu es una mera energía del Hijo: el texto lo menciona en su relación propia con la ofrenda. La distinción personal no divide a Dios en tres seres.
+
+El sacerdocio de Cristo es la base de la confianza cristiana. Los creyentes acceden al Padre por medio del Hijo y en el Espíritu (Efesios 2:18). El lenguaje trinitario debe mantenerse fiel a estos textos, sin asignar a cada persona una naturaleza o poder separado.
+''',
+        references: "Hebreos 5:5-10; 9:14; Efesios 2:18; 1 Timoteo 2:5.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Todos los levitas eran sacerdotes? No. Números 3–4 y 18 distinguen las tareas de los levitas de las funciones reservadas a Aarón y sus descendientes.
+
+¿El sacerdote podía perdonar pecados por autoridad propia? No. El sacerdote administraba los ritos que Dios había establecido; el perdón pertenecía al Señor. Los ministros no poseen poder autónomo para sustituir la gracia divina.
+
+¿Por qué los sacerdotes necesitaban sacrificios por sus propios pecados? Porque eran humanos y estaban sujetos a debilidad. Hebreos 5:1-3 explica esta limitación, mientras Hebreos 7:26-28 presenta la superioridad de Cristo, santo y sin pecado.
+
+¿La Iglesia tiene sacerdotes como los levitas? El Nuevo Testamento llama a toda la comunidad sacerdocio santo y real (1 Pedro 2:5, 9), pero no restablece el sistema genealógico levítico ni un ministerio que repita sacrificios expiatorios. Cristo es el mediador único (1 Timoteo 2:5).
+
+¿Hebreos desprecia el sacerdocio antiguo? No. Lo utiliza como marco de comparación para mostrar su función histórica y sus límites. La obra de Cristo cumple de manera definitiva lo que el sistema anterior no podía perfeccionar.
+''',
+        references: "Números 3–4; 18; Levítico 10:10-11; Hebreos 5:1-3; 7:26-28.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Quién podía ser sumo sacerdote? Respuesta: El oficio estaba ligado a la familia de Aarón dentro del orden establecido por Dios (Éxodo 28:1; Números 18:1-7).
+
+Pregunta: ¿Qué diferencia había entre sacerdotes y levitas? Respuesta: Los sacerdotes descendientes de Aarón realizaban las funciones sacerdotales específicas; los demás levitas servían en tareas asignadas al santuario (Números 3–4; 18).
+
+Pregunta: ¿Por qué debían enseñar la ley? Respuesta: Porque el sacerdocio incluía instruir al pueblo y distinguir entre lo santo y lo profano (Levítico 10:10-11; Malaquías 2:7).
+
+Pregunta: ¿Quién es el sumo sacerdote de los creyentes? Respuesta: Jesucristo, que permanece para siempre y ejerce un sacerdocio inmutable (Hebreos 7:23-28).
+
+Pregunta: ¿Qué sacrificios ofrece hoy la Iglesia? Respuesta: Sacrificios espirituales como alabanza, servicio y generosidad, no nuevas ofrendas para expiar pecados (Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:5).
+''',
+        references: "Éxodo 28:1; Números 18:1-7; Levítico 10:10-11; Hebreos 7:23-28; 1 Pedro 2:5,9.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El sacerdocio levítico fue una institución establecida por Dios para servir en el santuario, administrar los ritos del pacto, enseñar la ley y cuidar la distinción entre lo santo y lo profano. Sus funciones estaban reguladas y no podían ser asumidas arbitrariamente. Los sacerdotes eran humanos y necesitaban purificación; su servicio tenía límites.
+
+Hebreos presenta a Jesucristo como sumo sacerdote perfecto, llamado por el Padre y capaz de salvar plenamente porque permanece para siempre. Su sacrificio es único y suficiente. La Iglesia participa de un sacerdocio espiritual ofreciendo alabanza, servicio y una vida consagrada, sin desplazar la mediación de Cristo.
+
+El Padre, el Hijo y el Espíritu Santo obran en la salvación con distinción personal y unidad divina. Por ello, el creyente puede acercarse a Dios con confianza, no por méritos de un ministro humano, sino por la obra completa de Jesucristo.
+''',
+        references: "Hebreos 7:23-28; 9:11-14; Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:4-10.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El sacerdocio levítico fue establecido para el servicio del santuario y la enseñanza de la ley. Sus integrantes debían obedecer instrucciones precisas, distinguir lo santo y lo profano y servir con reverencia. La distinción entre sacerdotes aarónicos y otros levitas es esencial para comprender el sistema.
+
+La historia muestra las limitaciones y fallas de los ministros humanos. Hebreos presenta a Cristo como sumo sacerdote permanente, sin pecado y suficiente, cuya entrega no necesita repetirse. La Iglesia es un sacerdocio espiritual que ofrece alabanza y servicio, pero mantiene a Jesucristo como único mediador y fundamento del acceso a Dios.
+
+El Padre llama y envía, el Hijo se ofrece como sumo sacerdote y el Espíritu participa en la obra redentora y habita en el pueblo. La respuesta es servir con santidad, humildad y confianza en Cristo.
+''',
   ),
+
   Study(
     number: '101',
     title: "La literatura sapiencial: sabiduría, temor de Dios y vida cotidiana",
