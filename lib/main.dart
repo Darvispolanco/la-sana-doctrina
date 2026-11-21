@@ -18890,20 +18890,148 @@ La Iglesia debe leer estos textos con respeto a su contexto, reconocer su lugar 
     number: '93',
     title: "El pacto de Dios con David: la promesa del reino y del Mesías",
     subtitle: "La promesa dinástica a David y su desarrollo profético hasta Jesucristo.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    introduction: '''
+El pacto de Dios con David constituye un momento decisivo en la historia bíblica del reino. En 2 Samuel 7, cuando David desea construir una casa para el Señor, Dios invierte la iniciativa: anuncia que Él mismo edificará una casa para David, es decir, una dinastía, y promete afirmar el trono de su descendencia. La promesa tiene una dimensión histórica inmediata relacionada con la continuidad de la casa real y con Salomón, pero su lenguaje y desarrollo posterior abren una expectativa que supera a cualquier monarca ordinario.
+
+Este estudio examina el pasaje en su contexto, lo compara con 1 Crónicas 17, escucha la reflexión del Salmo 89 y del Salmo 110, y sigue la esperanza del rey prometido en los profetas y en el Nuevo Testamento. La interpretación debe respetar tanto el cumplimiento histórico como la consumación mesiánica en Jesucristo. También debe distinguir al Padre del Hijo: el hecho de que Jesús sea el Mesías davídico y el Hijo de Dios no significa que sea la misma persona que el Padre. La promesa procede del propósito del Padre, se cumple en el Hijo encarnado y es anunciada y aplicada por el Espíritu Santo, en la unidad del único Dios.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 93. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición del pacto davídico",
+        content: '''
+El pacto davídico es la promesa divina de establecer la casa, el reino y el trono de David. En 2 Samuel 7:8-16, Dios recuerda que tomó a David del redil, lo acompañó y le dio un nombre; después promete hacerle una casa y levantar a uno de sus descendientes para afirmar su reino. La palabra «casa» tiene aquí un sentido dinástico: no se refiere principalmente a un edificio, sino a una línea familiar y real que Dios se compromete a sostener.
+
+Es importante distinguir este pacto de otros pactos bíblicos. No es idéntico al pacto con Noé, que trata de la preservación de la creación, ni al pacto del Sinaí, que constituyó a Israel como pueblo bajo la ley. La promesa a David se concentra en la realeza, la continuidad de su descendencia y la esperanza de un gobierno establecido por Dios. Estos pactos se relacionan dentro de la historia de la redención, pero cada uno conserva su contexto y propósito.
+
+La promesa tiene un referente histórico inmediato: un hijo de David, identificado en el contexto con la construcción del templo y con Salomón. Sin embargo, la afirmación de un trono establecido para siempre, junto con el desarrollo profético posterior, conduce a una expectativa mesiánica que alcanza su cumplimiento definitivo en Jesucristo. No se debe forzar cada detalle para que se refiera exclusivamente al Mesías, ni reducir toda la promesa a Salomón.
+''',
+        references: "2 S 7:8-16; 1 Cr 17:7-14; Sal 89:3-4,19-37; Lc 1:32-33"
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario de 2 Samuel 7",
+        content: '''
+El relato aparece después de que David llega a consolidar su reino, establece Jerusalén como centro político y traslada allí el arca del pacto. El capítulo 6 narra el traslado del arca; el capítulo 7 presenta el deseo de David de construir una casa para el Señor. La secuencia literaria contrasta el palacio del rey con la tienda donde se encontraba el arca y prepara la respuesta divina.
+
+David expresa su intención al profeta Natán, pero Natán recibe posteriormente la palabra de Dios y corrige la iniciativa inicial. El Señor recuerda que no había exigido a David una casa de cedro y que había acompañado a su pueblo durante su historia. La estabilidad del reino no se funda en la capacidad arquitectónica del monarca, sino en la iniciativa y fidelidad de Dios.
+
+La expresión «casa» sostiene el centro del pasaje: David piensa en una casa para Dios, pero Dios promete una casa para David. El texto contiene una palabra profética dirigida a una persona concreta dentro de una etapa determinada de Israel. Su lectura debe considerar la monarquía antigua, la relación entre rey y pueblo, la sucesión dinástica y la función del templo, sin convertir la narración en una promesa genérica de éxito político para cualquier gobernante.
+''',
+        references: "2 S 5:1-12; 6:1-19; 7:1-17; 1 Cr 17:1-15"
+      ),
+      StudySection(
+        title: "3. La promesa divina y la descendencia de David",
+        content: '''
+En 2 Samuel 7:8-11, Dios presenta primero lo que ya ha hecho por David: lo tomó del pastoreo, estuvo con él, derrotó a sus enemigos y le dio un lugar. La promesa futura se apoya en la gracia y fidelidad demostradas, no en una supuesta superioridad moral del rey. David no se hizo rey por su propio poder; fue llamado y sostenido por Dios.
+
+En los versículos 12-13 se anuncia que, después de la muerte de David, Dios levantará a su descendiente y afirmará su reino. Ese descendiente edificará una casa para el nombre del Señor. La referencia inmediata apunta a Salomón, quien efectivamente construyó el templo. El texto no exige negar ese cumplimiento histórico para reconocer un horizonte mesiánico posterior.
+
+Los versículos 14-15 emplean lenguaje de relación paternal y filial: Dios será padre para el descendiente y este será hijo para Dios. En el contexto de la monarquía, esta relación expresa la adopción real y la responsabilidad del rey como representante del gobierno divino. El pasaje también contempla la posibilidad de disciplina por la iniquidad del rey, pero declara que la misericordia de Dios no será retirada de David como fue retirada de Saúl.
+
+La promesa culmina con la afirmación de que la casa, el reino y el trono serán afirmados para siempre. El desarrollo bíblico mostrará que ningún rey humano posterior a David agotó esa promesa. La línea histórica sirve como vehículo de una esperanza que encuentra su plenitud en el Mesías.
+''',
+        references: "2 S 7:8-16; 1 R 8:17-20; 1 Cr 22:6-10; 28:5-7"
+      ),
+      StudySection(
+        title: "4. Desarrollo de la esperanza davídica en el Antiguo Testamento",
+        content: '''
+La promesa no desaparece después de Salomón. El Salmo 89 recuerda el pacto con David y proclama que su descendencia y su trono serían establecidos. Sin embargo, el mismo salmo lamenta la humillación del rey y la aparente ruptura de la promesa. Esta tensión no debe ocultarse: el texto bíblico permite que la comunidad lamente la crisis histórica y, al mismo tiempo, se aferre a la fidelidad de Dios.
+
+El Salmo 132 también recuerda el juramento hecho a David y relaciona la elección de Sion con la esperanza de un descendiente que se siente en el trono. Isaías 9:6-7 anuncia un gobierno de paz sobre el trono de David, sostenido con juicio y justicia. Jeremías 23:5-6 promete un renuevo justo que reinará sabiamente y traerá salvación. Ezequiel 34:23-24 y 37:24-25 presenta la esperanza de un pastor-rey de la línea de David.
+
+Estos pasajes no son copias idénticas de 2 Samuel 7; cada uno habla a una situación histórica y desarrolla un aspecto de la esperanza: justicia, paz, pastoreo, restauración y fidelidad al pacto. Su convergencia permite reconocer una expectativa mesiánica sin borrar la diversidad literaria ni el contexto de cada profecía.
+''',
+        references: "Sal 89:3-4,19-37; 132:11-18; Is 9:6-7; Jer 23:5-6; Ez 34:23-24; 37:24-25"
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+En 2 Samuel 7:12, la frase «tu descendencia después de ti» señala una continuidad posterior a David. El versículo 13 identifica al descendiente como constructor de la casa para el nombre de Dios, referencia que corresponde a Salomón. En los versículos 14-15, la disciplina por el pecado y la permanencia de la misericordia muestran que la promesa no convierte a los reyes en personas incapaces de pecar ni elimina la responsabilidad moral de la dinastía.
+
+En 1 Crónicas 17, el relato paralelo conserva el núcleo de la promesa, pero enfatiza la continuidad del reino y el lugar de la descendencia de David. La comparación ayuda a ver que el pacto no se limita al proyecto de construcción del templo. Dios promete una línea real y un reino cuya estabilidad depende de Él.
+
+El Salmo 110 comienza con la declaración: «Jehová dijo a mi Señor». David habla de alguien a quien reconoce como su Señor y que recibe un lugar de autoridad junto a Dios. Jesús utiliza este salmo para preguntar cómo el Mesías puede ser solamente hijo de David si David mismo lo llama Señor (Mt 22:41-46). La pregunta no niega la descendencia humana del Mesías; muestra que su identidad y autoridad superan la de un heredero ordinario.
+
+En Lucas 1:32-33, el anuncio a María reúne explícitamente la promesa davídica: Jesús recibirá el trono de David, reinará sobre la casa de Jacob y su reino no tendrá fin. Hechos 2:29-36 relaciona la promesa hecha a David con la resurrección y exaltación de Jesús. El argumento apostólico no dice que David resucitó para ocupar el trono, sino que Dios levantó a Jesús y lo exaltó como Señor y Mesías.
+''',
+        references: "2 S 7:12-16; 1 Cr 17:11-14; Sal 110:1-4; Mt 22:41-46; Lc 1:26-33; Hch 2:25-36"
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La promesa davídica se relaciona con la esperanza de un rey justo que gobierna en nombre de Dios. Génesis 49:10 presenta una expectativa de autoridad vinculada a Judá; 2 Samuel 7 concreta una promesa real en la casa de David; los salmos y profetas mantienen viva esa esperanza; y los evangelios presentan a Jesús como el Hijo de David y el Mesías.
+
+Romanos 1:1-4 anuncia el evangelio acerca del Hijo, quien según la carne procede del linaje de David y fue declarado Hijo de Dios con poder por su resurrección. El texto mantiene juntas dos dimensiones: su verdadera pertenencia a la historia humana de David y su identidad divina manifestada poderosamente en la resurrección. No enseña que Jesús comenzó a existir como Hijo en ese momento; habla de su manifestación como Hijo de Dios con poder.
+
+Hebreos 1 presenta al Hijo como superior a los ángeles y aplica a Él textos relacionados con el reinado y la filiación. La lectura cristiana del pacto davídico, por tanto, no depende de un versículo aislado: surge de la trayectoria que va de la promesa histórica a la esperanza profética y a la proclamación apostólica de la resurrección y exaltación de Cristo.
+
+La relación entre los textos tampoco autoriza a confundir sus referentes. Salomón fue un cumplimiento histórico real y limitado; Jesús es el Mesías definitivo cuyo reino no termina. La promesa conserva su continuidad y alcanza en Cristo una dimensión que los reyes anteriores no pudieron realizar.
+''',
+        references: "Gn 49:8-10; 2 S 7:12-16; Sal 2:6-12; Is 11:1-10; Ro 1:1-4; Heb 1:1-13"
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: el Padre, el Hijo y el Espíritu Santo",
+        content: '''
+El pacto davídico debe leerse dentro de la revelación del único Dios, sin confundir a las personas divinas. El Padre es quien promete y establece el propósito del reino. En el anuncio del nacimiento de Jesús, el Altísimo le dará el trono de David y su reino no tendrá fin. El lenguaje distingue al que concede del Hijo que recibe el reino en su misión mesiánica.
+
+El Hijo es el descendiente davídico según la carne y, al mismo tiempo, el Señor exaltado. Su encarnación lo inserta verdaderamente en la historia de Israel; su resurrección manifiesta su victoria y autoridad. No es correcto afirmar que Jesús es el Padre: en los evangelios, el Hijo habla con el Padre, recibe de Él la misión y cumple su voluntad. La distinción personal no divide la única naturaleza divina.
+
+El Espíritu Santo participa en la historia profética y en la proclamación del Mesías. David habló por el Espíritu, según la enseñanza de Jesús sobre el Salmo 110, y Pedro explica que David, siendo profeta, habló anticipadamente de la resurrección del Cristo. En Lucas, el Espíritu Santo viene sobre María en el anuncio de la concepción de Jesús. La obra salvadora es una, pero las Escrituras distinguen la acción y relación del Padre, del Hijo y del Espíritu.
+
+Por tanto, el pacto no presenta una fórmula trinitaria explícita en 2 Samuel 7. La lectura trinitaria surge al relacionar ese pasaje con la revelación más amplia del Nuevo Testamento. Debemos evitar tanto imponer al texto palabras que no contiene como ignorar la revelación posterior que identifica al Mesías y describe la obra del Dios trino.
+''',
+        references: "2 S 23:1-2; Mt 22:43-45; Lc 1:32-35; Jn 5:19-23; Hch 2:30-36; 1 P 1:10-12"
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+Una dificultad importante es la caída de Jerusalén y el fin de la monarquía davídica visible. Si Dios prometió un trono para siempre, ¿por qué hubo exilio y ausencia de un rey davídico sentado en Jerusalén? El Salmo 89 expresa precisamente ese dolor. La respuesta bíblica no consiste en negar la crisis: los reyes fueron responsables de su infidelidad y recibieron juicio. Sin embargo, el juicio histórico no demuestra que Dios haya abandonado su propósito. Los profetas mantuvieron la esperanza de un renuevo davídico, y el Nuevo Testamento identifica a Jesús como el rey resucitado cuyo reino no termina.
+
+Otra pregunta es si el descendiente prometido es Salomón o Cristo. El contexto inmediato señala a Salomón, especialmente por la construcción del templo y la posibilidad de disciplina por su pecado. La promesa, no obstante, incluye una permanencia que la historia de Salomón y de sus sucesores no realizó plenamente. La interpretación más completa reconoce un cumplimiento histórico inicial y una consumación mesiánica.
+
+También se pregunta si llamar «hijo» al rey significa que el Mesías es una criatura. En el contexto real, la filiación expresa una relación de representación y elección. En el Nuevo Testamento, la identidad eterna del Hijo no se reduce a ese título real. Los textos deben leerse en sus respectivos contextos y en relación con la enseñanza bíblica más amplia sobre Cristo.
+
+El Salmo 110 tampoco enseña que el Mesías sea el Padre. Distingue al Señor que habla de aquel a quien David llama su Señor. Jesús usa esta distinción para mostrar la grandeza del Mesías. Finalmente, no debe usarse la promesa davídica para legitimar gobiernos humanos, dinastías actuales o ambiciones políticas: su cumplimiento mesiánico pertenece a Jesucristo.
+''',
+        references: "2 R 24:10-17; 25:1-12; Sal 89:38-52; Is 11:1-10; Jer 23:5-6; Mt 22:41-46"
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+**¿Qué prometió Dios a David?** Prometió establecer su casa o dinastía, levantar a su descendiente y afirmar su reino. La promesa se apoya en la fidelidad divina y no en el poder autónomo del rey (2 S 7:8-16).
+
+**¿Se cumplió la promesa en Salomón?** Sí, de manera histórica y parcial: Salomón fue descendiente de David y construyó el templo. Pero la promesa de un reino sin fin supera la duración del reinado de Salomón (1 R 8:17-20; Lc 1:32-33).
+
+**¿Por qué el reino davídico sufrió una caída?** La historia de los reyes muestra desobediencia, idolatría e injusticia, por lo que vino juicio sobre la monarquía. Los profetas, sin embargo, conservaron la esperanza de un rey justo de la línea de David (2 R 17:7-23; 25:1-12; Jer 23:5-6).
+
+**¿Cómo demuestra el Nuevo Testamento que Jesús cumple esta promesa?** El ángel anuncia que Jesús recibirá el trono de David; Pedro conecta la promesa con la resurrección y exaltación del Mesías (Lc 1:32-33; Hch 2:29-36).
+
+**Si Jesús es Hijo de David, ¿cómo puede ser Señor de David?** Su humanidad lo vincula realmente con la descendencia davídica, mientras que su autoridad y dignidad son superiores a las de un rey humano. Jesús plantea esta cuestión al interpretar el Salmo 110 (Mt 22:41-46).
+
+**¿Jesús es el Padre porque comparte el reino y la autoridad divina?** No. El Padre y el Hijo son personas distintas. El Hijo recibe del Padre la misión mesiánica y reina con autoridad divina; compartir la única naturaleza divina no significa ser la misma persona (Jn 5:19-23; 17:1-5).
+
+**¿El pacto garantiza que cualquier gobernante que invoque a Dios tendrá éxito?** No. La promesa se refiere a la casa de David y alcanza su cumplimiento en el Mesías. No es una garantía de prosperidad política para dirigentes contemporáneos (2 S 7:12-16; Hch 2:30-36).
+
+**¿Qué enseña el pacto sobre la fidelidad de Dios?** Enseña que Dios dirige la historia de acuerdo con su propósito y mantiene su promesa aun cuando los seres humanos fallan. Esa fidelidad alcanza su manifestación decisiva en Jesucristo (Sal 89:1-4; Ro 15:8-12).
+''',
+        references: "2 S 7:8-16; Sal 89:1-4; 110:1; Lc 1:32-33; Mt 22:41-46; Hch 2:29-36; Jn 5:19-23"
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El pacto davídico enseña que el reino pertenece a Dios y que la esperanza del pueblo no puede descansar definitivamente en gobernantes humanos. David fue escogido y sostenido por gracia; Salomón recibió una responsabilidad real; los reyes posteriores mostraron los límites y pecados de la monarquía. La promesa, sin embargo, condujo a la esperanza de un rey justo cuyo gobierno no tendría fin.
+
+Para la Iglesia, Jesucristo es el centro de esa esperanza. Confesarlo como Hijo de David significa reconocer su verdadera humanidad y su relación con la historia de Israel; confesarlo como Señor significa reconocer su autoridad incomparable y su exaltación. La Iglesia no debe apropiarse de la promesa para justificar poder político, privilegios personales o proyectos de dominio. Debe anunciar el reino de Cristo, vivir bajo su enseñanza y practicar justicia, fidelidad y servicio.
+
+La lectura trinitaria mantiene la distinción personal: el Padre promete y envía, el Hijo viene como Mesías davídico y reina, y el Espíritu Santo inspira la palabra profética y da testimonio de Cristo. No son tres dioses ni una sola persona que cambia de nombre, sino el único Dios revelado como Padre, Hijo y Espíritu Santo. La promesa a David encuentra así su cumplimiento definitivo en Jesucristo, el Rey resucitado cuyo reino no tendrá fin.
+''',
+        references: "Sal 72:1-19; Is 9:6-7; Lc 1:32-33; Hch 2:32-36; Ef 1:20-23; Ap 11:15; 22:16"
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El pacto davídico muestra que Dios, por iniciativa y fidelidad propias, prometió establecer la casa y el reino de David. La promesa tuvo una expresión histórica en Salomón y en la dinastía, pero la caída de la monarquía reveló que ningún rey humano podía realizar plenamente la esperanza de un trono eterno. Los salmos y profetas mantuvieron viva la expectativa de un descendiente justo, y el Nuevo Testamento identifica a Jesucristo como ese Mesías.
+
+Jesús es verdaderamente descendiente de David según la carne y, a la vez, el Señor exaltado que David reconoce en el Salmo 110. El Padre no es el Hijo: el Padre promete y envía, el Hijo encarnado cumple la misión mesiánica y el Espíritu Santo inspira y da testimonio de esta obra. La promesa no legitima proyectos políticos humanos; dirige la fe hacia el reino eterno de Cristo y llama a su pueblo a vivir con justicia, fidelidad y esperanza.
+''',
   ),
   Study(
     number: '94',
