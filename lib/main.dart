@@ -20748,79 +20748,529 @@ La interpretación fiel evita tanto el literalismo que ignora las figuras como l
   Study(
     number: '109',
     title: "La interpretación bíblica: principios para comprender fielmente las Escrituras",
-    subtitle: "Métodos de lectura responsable que consideran contexto, autor, audiencia, género y propósito.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Hermenéutica, exégesis, contexto y aplicación responsable de la Palabra de Dios.",
+    introduction: '''
+Interpretar la Biblia significa buscar y comprender el sentido que el texto comunica en su contexto, atendiendo a las palabras, la estructura, el género, los destinatarios y el propósito del autor. La aplicación debe surgir de una interpretación responsable, no de impresiones aisladas ni de la utilización de versículos como frases independientes.
+
+La Escritura es inspirada por Dios y fue comunicada mediante autores humanos en circunstancias históricas concretas. Por eso, estudiar su mensaje requiere atención al contexto original y a la unidad del canon. Los pasajes difíciles deben examinarse a la luz de los más claros, sin forzar armonizaciones ni ignorar tensiones reales.
+
+Este estudio presenta principios básicos de hermenéutica y exégesis para que la doctrina, incluida la enseñanza trinitaria, se construya a partir del testimonio completo de las Escrituras y no de palabras aisladas o argumentos preconcebidos.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 109. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Hermenéutica es el conjunto de principios que orientan la interpretación; exégesis es el trabajo de extraer del texto su sentido mediante el análisis cuidadoso. Eiségesis, en cambio, consiste en introducir en el pasaje ideas que no surgen de él. La aplicación pregunta cómo la verdad comprendida debe orientar la vida actual.
+
+Una lectura responsable distingue observación, interpretación y aplicación. Primero se identifica qué dice el texto; después se pregunta qué significa para sus primeros destinatarios; finalmente se considera cómo se aplica a la Iglesia y al creyente. Ninguna aplicación debe contradecir el sentido establecido por el contexto.
+''',
+        references: "Nehemías 8:1-8; Lucas 24:25-27; Hechos 17:11; 2 Timoteo 2:15; 3:16-17.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los textos bíblicos fueron escritos en hebreo, arameo y griego, en épocas y contextos diversos. Los lectores originales conocían costumbres, instituciones y expresiones que pueden requerir explicación actual. La distancia histórica no impide comprender el mensaje, pero obliga a estudiar con diligencia.
+
+La Biblia contiene distintos géneros literarios y cada uno debe leerse conforme a su forma. La narración, la poesía, la ley, la profecía, la parábola, la epístola y la apocalíptica no utilizan el lenguaje de idéntica manera. La interpretación también debe atender a la estructura del libro y al argumento de cada sección.
+''',
+        references: "Deuteronomio 6:6-9; Nehemías 8; prácticas de lectura y enseñanza en Israel.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Deuteronomio 6:6-9 ordena conservar y enseñar las palabras del pacto. Nehemías 8:1-8 relata la lectura pública de la ley y la explicación para que el pueblo comprendiera. Los levitas ayudaban a entender el sentido de la lectura, mostrando que la instrucción y la comprensión son parte de la vida comunitaria.
+
+Los profetas interpretaron acontecimientos a la luz de la ley; los sabios enseñaron discernimiento; los escribas copiaron y estudiaron los textos. La Escritura presenta un pueblo llamado no solo a oír, sino a comprender y obedecer la palabra de Dios. El estudio cuidadoso no es una invención moderna, sino una responsabilidad presente en la historia bíblica.
+''',
+        references: "Deuteronomio 6:4-9; Nehemías 8:1-8; Salmo 119; Esdras 7:10.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús interpretó las Escrituras y corrigió lecturas equivocadas. En Mateo 22:29 reprochó a quienes no conocían las Escrituras ni el poder de Dios. En Lucas 24:27 explicó lo que las Escrituras decían acerca de Él. Los apóstoles argumentaban a partir del texto y llamaban a examinar la enseñanza (Hechos 17:11).
+
+Segunda de Timoteo 2:15 exhorta a manejar correctamente la palabra de verdad. Segunda de Timoteo 3:16-17 afirma que toda Escritura es inspirada por Dios y útil para enseñar, corregir e instruir. La autoridad bíblica exige interpretación fiel, no uso descuidado. La Iglesia debe distinguir el texto inspirado de sus propias explicaciones, que pueden ser corregidas.
+''',
+        references: "Mateo 22:29; Lucas 24:25-27; Hechos 17:11; 2 Timoteo 2:15; 3:16-17; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Nehemías 8:8 une lectura, explicación y comprensión: el pueblo escuchó la ley y recibió el sentido para entenderla. El pasaje no describe un método técnico exhaustivo, pero muestra que la lectura pública debe buscar comprensión real.
+
+Lucas 24:27 presenta a Jesús explicando desde Moisés y los Profetas lo que se refería a Él. El contexto es la conversación con los discípulos de Emaús, que no habían comprendido el significado de los acontecimientos. Jesús no utiliza un versículo aislado; recorre el testimonio de las Escrituras.
+
+Hechos 17:11 elogia a los bereanos porque recibieron la palabra con solicitud y examinaban diariamente las Escrituras para comprobar la enseñanza de Pablo. El texto promueve una actitud abierta y examinadora, no sospecha permanente ni aceptación acrítica. La autoridad apostólica y el examen bíblico aparecen juntos.
+''',
+        references: "Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 2:15.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La interpretación debe respetar el contexto inmediato, el libro completo, el contexto histórico y la relación canónica. Un pasaje no debe utilizarse para contradecir otro cuando ambos pueden comprenderse en sus propios términos. Las aparentes contradicciones deben examinarse preguntando si los autores hablan del mismo asunto, desde el mismo marco y con el mismo propósito.
+
+Los géneros literarios determinan cómo se comunica el sentido. Las metáforas son verdaderas como imágenes, las parábolas enseñan mediante relatos y las visiones utilizan símbolos. La interpretación también debe distinguir entre descripción y mandato, entre promesa específica y principio general, y entre una situación del pacto antiguo y su aplicación en el nuevo pacto.
+
+El centro de la lectura cristiana es Cristo, pero no debe imponerse una alegoría arbitraria en cada frase. El propio Nuevo Testamento muestra cómo las Escrituras dan testimonio de Él.
+''',
+        references: "Salmo 119; Lucas 24:25-47; Hechos 17:11; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es la fuente de la revelación y el Dios que habló por los profetas; el Hijo es la Palabra encarnada y el centro del testimonio bíblico; el Espíritu Santo inspiró a los autores y guía a la Iglesia en la verdad. Segunda de Pedro 1:20-21 enseña que los profetas hablaron de parte de Dios impulsados por el Espíritu Santo.
+
+Juan 1:1, 14 distingue al Verbo que estaba con Dios y era Dios, y que se hizo carne. El Padre no es el Hijo, y el Espíritu no es una fuerza creada. La interpretación trinitaria debe surgir de la lectura conjunta de los textos que afirman la unidad divina y la distinción personal.
+
+No se debe utilizar una supuesta iluminación espiritual para justificar una interpretación que contradiga el texto. El Espíritu de verdad no guía a la Iglesia a negar la Palabra que inspiró.
+''',
+        references: "Juan 1:1,14; 14:16-17; 2 Pedro 1:20-21; 2 Timoteo 3:16-17.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿El sentido literal significa que todo debe leerse palabra por palabra sin figuras? No. Significa comprender el sentido comunicado por el autor según el género; la poesía utiliza metáforas y sigue comunicando verdad.
+
+¿Puede un texto significar cualquier cosa para cada lector? No. Las aplicaciones pueden variar, pero el sentido debe controlarse por el texto, el contexto y la intención comunicativa.
+
+¿Los pasajes difíciles deben descartarse? No. Deben estudiarse con paciencia, comparando traducciones, contexto y textos relacionados. Cuando una cuestión permanece debatida, debe reconocerse el límite de la conclusión.
+
+¿La tradición o experiencia puede corregir la Biblia? No. Las tradiciones y experiencias deben evaluarse a la luz de la Escritura, no ocupar su lugar.
+
+¿La doctrina trinitaria se demuestra con una sola palabra? No. Debe estudiarse el conjunto del testimonio bíblico sobre el único Dios, el Padre, el Hijo y el Espíritu Santo.
+''',
+        references: "Mateo 22:29; Hechos 17:11; 2 Timoteo 2:15; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Por dónde comienza una interpretación? Respuesta: Por observar cuidadosamente el texto, su contexto inmediato, estructura y género.
+
+Pregunta: ¿Qué diferencia hay entre exégesis y eiségesis? Respuesta: La exégesis busca el sentido del texto; la eiségesis introduce ideas externas que el pasaje no sostiene.
+
+Pregunta: ¿Por qué comparar pasajes? Respuesta: Porque la Biblia ofrece un testimonio unido y los textos relacionados ayudan a comprender afirmaciones difíciles.
+
+Pregunta: ¿Cómo se aplica un texto antiguo? Respuesta: Se identifica primero su sentido para los destinatarios originales y después se establece el principio que corresponde a la vida actual.
+
+Pregunta: ¿Qué autoridad tiene la interpretación humana? Respuesta: Es secundaria y corregible; la autoridad normativa pertenece a la Escritura inspirada (2 Timoteo 3:16-17).
+''',
+        references: "Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 3:16-17.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La interpretación fiel exige humildad, diligencia y disposición a ser corregidos por la Palabra. El lector debe observar el texto, comprender su contexto, reconocer su género, seguir el argumento y comparar pasajes relacionados antes de formular una doctrina o aplicación.
+
+La inspiración de la Escritura no elimina la responsabilidad de estudiarla. Tampoco autoriza a imponer sentidos personales. La Iglesia debe examinar toda enseñanza y distinguir entre lo que el texto afirma y las conclusiones humanas.
+
+El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró las Escrituras. Interpretar correctamente es escuchar la voz de Dios en su Palabra y obedecerla con fe.
+''',
+        references: "Salmo 119:9-16; Lucas 24:27; 2 Timoteo 2:15; 3:16-17.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La interpretación bíblica responsable busca el sentido del texto según su contexto, género y propósito. La exégesis evita introducir ideas ajenas y permite que la aplicación surja de una comprensión correcta. Los pasajes difíciles deben examinarse con paciencia y en relación con el conjunto de la Escritura.
+
+Jesús enseñó que las Escrituras daban testimonio de Él, y los apóstoles llamaron a examinar la enseñanza. La autoridad pertenece a la Palabra inspirada, mientras que las interpretaciones humanas son corregibles. El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró a los autores.
+
+Estudiar la Biblia es una responsabilidad de toda la Iglesia y debe producir fe, discernimiento y obediencia.
+''',
   ),
+
   Study(
     number: '110',
     title: "El canon de las Escrituras: reconocimiento y autoridad de los libros bíblicos",
-    subtitle: "El significado de canon, la recepción de los escritos y la distinción entre autoridad divina y reconocimiento eclesial.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La formación, recepción y autoridad del conjunto de libros reconocidos como Escritura.",
+    introduction: '''
+El canon bíblico es el conjunto de libros reconocidos por la comunidad de fe como Escritura normativa. La cuestión del canon no consiste en que una autoridad humana convierta un escrito ordinario en palabra de Dios, sino en cómo el pueblo de Dios reconoció los escritos que daban testimonio autorizado de su revelación.
+
+El Antiguo Testamento fue recibido por Israel y citado por Jesús y los apóstoles. El Nuevo Testamento surgió del testimonio apostólico acerca de Jesucristo y fue recibido por las iglesias. El proceso histórico incluyó lectura pública, circulación, comparación y discernimiento. No todos los escritos religiosos antiguos fueron considerados canónicos.
+
+Este estudio distingue autoridad divina, reconocimiento histórico y decisiones eclesiales. También explica por qué deben evitarse tanto la idea de que el canon apareció completo sin historia como la afirmación de que la Iglesia creó la autoridad de los libros.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 110. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Canon significa regla o norma y, en el uso cristiano, designa los libros recibidos como Escritura. Inspiración se refiere al origen divino de la Escritura; reconocimiento canónico describe el proceso histórico por el que la comunidad identificó esos escritos como normativos. Estas ideas están relacionadas, pero no son idénticas.
+
+El canon protestante contiene los libros del Antiguo y Nuevo Testamento recibidos en esa tradición. Las tradiciones cristianas difieren en el tratamiento de ciertos libros del período intertestamentario, por lo que es importante explicar qué colección se está utilizando. La Reina-Valera 1960 presenta el canon protestante de 66 libros.
+''',
+        references: "Lucas 24:44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21; 3:15-16.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Israel conservó y transmitió la Ley, los Profetas y los Escritos. Jesús se refiere a la Ley de Moisés, los Profetas y los Salmos como el conjunto de las Escrituras (Lucas 24:44). En el judaísmo del Segundo Templo circularon otros escritos religiosos, con diferentes grados de autoridad y recepción.
+
+Los escritos apostólicos circularon entre congregaciones y fueron leídos públicamente. Las iglesias comparaban su enseñanza con el testimonio apostólico y distinguían textos recibidos de otros escritos edificantes. La persecución, la distancia geográfica y las diferencias de lengua hicieron que el reconocimiento fuera un proceso histórico, no un único acto simultáneo.
+''',
+        references: "Judaísmo del Segundo Templo; circulación de escritos apostólicos; recepción en las iglesias antiguas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento da testimonio de la autoridad de la Ley y de los Profetas. Deuteronomio 31:24-26 habla del libro de la ley; Josué 1:7-8 llama a meditar en ella; Daniel 9:2 se refiere a los libros proféticos. Jesús y los apóstoles citan las Escrituras como autoridad.
+
+El canon hebreo se organiza tradicionalmente en Ley, Profetas y Escritos. Las divisiones y el orden pueden variar entre ediciones, pero el testimonio de los libros es fundamental. La autoridad no depende de que un libro sea más antiguo o popular, sino de su relación con la revelación de Dios y su recepción como Escritura.
+''',
+        references: "Deuteronomio 31:24-26; Josué 1:7-8; Daniel 9:2; Lucas 24:44.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento presenta la enseñanza apostólica como fundamento doctrinal. Efesios 2:20 describe a la Iglesia edificada sobre el fundamento de apóstoles y profetas, con Cristo como piedra principal. Segunda de Pedro 3:15-16 menciona las cartas de Pablo junto con «las otras Escrituras», mostrando que algunos escritos apostólicos ya eran reconocidos con autoridad escritural.
+
+Primera de Timoteo 5:18 cita una enseñanza del Evangelio junto con Deuteronomio bajo la fórmula «la Escritura dice». Lucas 1:1-4 explica la investigación ordenada de los testimonios sobre Jesús. Estos pasajes muestran que la recepción de los escritos apostólicos se desarrolló dentro de la vida de las iglesias.
+''',
+        references: "Lucas 1:1-4; Efesios 2:19-20; 1 Timoteo 5:18; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Lucas 24:44 presenta la división «la ley de Moisés, los profetas y los salmos». Jesús utiliza el conjunto de las Escrituras para explicar que el Mesías debía padecer y resucitar. El pasaje demuestra que los textos antiguos eran recibidos como testimonio autorizado, aunque no ofrece una lista moderna de todos los libros.
+
+Segunda de Pedro 3:15-16 reconoce las cartas de Pablo y las coloca junto a las demás Escrituras. El texto advierte que personas indoctas e inconstantes tuercen esos escritos. Esto presupone que la enseñanza apostólica tenía autoridad y debía interpretarse correctamente.
+
+Apocalipsis 22:18-19 advierte contra añadir o quitar de las palabras de la profecía de ese libro. No debe aplicarse sin explicación como si describiera por sí solo el cierre del canon completo; en su contexto se refiere a la profecía de Apocalipsis y expresa la seriedad de alterar el mensaje revelado.
+''',
+        references: "Lucas 24:44; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El canon se relaciona con la historia de la revelación, la transmisión textual y la vida de la Iglesia. Los libros fueron escritos en circunstancias concretas y recibidos por comunidades que reconocieron su autoridad. El reconocimiento histórico no debe confundirse con la inspiración misma.
+
+La Iglesia utilizó criterios como el vínculo apostólico, la coherencia con la fe recibida, el uso extendido en las congregaciones y la recepción histórica. Estos criterios describen el discernimiento eclesial, pero no deben presentarse como una fórmula mecánica capaz de crear autoridad divina.
+
+La autoridad de la Escritura orienta la doctrina y corrige a la Iglesia. El canon no está abierto a nuevas obras que puedan colocarse al mismo nivel normativo que los escritos apostólicos. Las tradiciones deben ser evaluadas por el testimonio bíblico.
+''',
+        references: "Deuteronomio 31:24-26; Lucas 24:44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21; 3:15-16.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el Dios que se revela y habla por medio de los profetas; el Hijo es la revelación culminante y el centro del testimonio; el Espíritu Santo inspiró a los autores de la Escritura. Segunda de Pedro 1:20-21 enseña que la profecía no surgió por voluntad humana, sino que los hombres hablaron de parte de Dios impulsados por el Espíritu.
+
+Juan 16:13-15 presenta al Espíritu guiando a los discípulos a la verdad y glorificando al Hijo. Hebreos 1:1-2 distingue la palabra antigua por los profetas y la revelación por el Hijo. Estas personas son distintas y actúan en la única obra de revelación del Dios trino.
+
+La Iglesia recibe y reconoce las Escrituras; no crea la deidad del Hijo ni la autoridad del Espíritu. La doctrina trinitaria debe fundarse en los libros canónicos y en el testimonio completo de ellos.
+''',
+        references: "Hebreos 1:1-2; Juan 16:13-15; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La Iglesia creó el canon? No. La Iglesia reconoció y recibió los escritos que consideró inspirados y apostólicos; no otorgó por decisión humana su autoridad divina.
+
+¿El canon cayó del cielo como una lista ya encuadernada? No. Los libros fueron escritos, circularon y fueron reconocidos históricamente. La providencia de Dios no elimina el proceso histórico.
+
+¿Todos los escritos antiguos sobre Jesús son canónicos? No. La antigüedad o el título de un escrito no garantizan autoridad apostólica. Debe evaluarse su origen, contenido y recepción.
+
+¿La advertencia de Apocalipsis 22 cierra por sí sola la Biblia completa? En su contexto inmediato se refiere a las palabras de la profecía de Apocalipsis. No debe utilizarse como único argumento histórico para el canon completo.
+
+¿Por qué existen diferencias entre tradiciones cristianas sobre algunos libros? Las tradiciones han seguido historias distintas de recepción del conjunto veterotestamentario. Debe describirse esa diferencia con precisión y sin caricaturizar a otras comunidades.
+''',
+        references: "Lucas 24:44; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué significa canon? Respuesta: La colección de libros recibidos como norma de fe y práctica.
+
+Pregunta: ¿Quién inspiró las Escrituras? Respuesta: Dios, por medio del Espíritu Santo que impulsó a los autores humanos (2 Timoteo 3:16; 2 Pedro 1:20-21).
+
+Pregunta: ¿Cómo reconoció la Iglesia los escritos apostólicos? Respuesta: Mediante su vínculo con el testimonio apostólico, su recepción y uso en las congregaciones y su coherencia con la fe recibida.
+
+Pregunta: ¿La Iglesia tiene autoridad por encima de la Escritura? Respuesta: No. La Escritura instruye, corrige y equipa a la Iglesia (2 Timoteo 3:16-17).
+
+Pregunta: ¿Qué lugar ocupa Cristo? Respuesta: Es el centro de la revelación y aquel a quien dan testimonio la Ley, los Profetas y los Salmos (Lucas 24:44-47).
+''',
+        references: "2 Timoteo 3:16-17; Lucas 24:44-47; 2 Pedro 1:20-21; 3:15-16.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El canon de las Escrituras es el conjunto de libros que la comunidad de fe reconoce como norma inspirada. Su historia incluye composición, circulación, lectura y discernimiento; reconocer la autoridad de un libro no equivale a crearla. Jesús y los apóstoles recibieron las Escrituras de Israel como autoridad y los escritos apostólicos fueron reconocidos en las iglesias.
+
+La Iglesia debe someter su doctrina a la Escritura y no colocar tradiciones o escritos posteriores al nivel de autoridad de los libros canónicos. La lectura responsable considera las diferencias históricas entre tradiciones cristianas y explica con claridad qué canon utiliza.
+
+El Padre se revela, el Hijo es el centro de la revelación y el Espíritu inspira la Escritura. La autoridad final para la fe y la práctica corresponde a la Palabra de Dios.
+''',
+        references: "2 Timoteo 3:16-17; Hebreos 1:1-2; Lucas 24:44-47.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El canon de las Escrituras fue reconocido históricamente por el pueblo de Dios y las iglesias, pero su autoridad procede de la inspiración divina. La Iglesia recibió y discernió los libros; no los convirtió en Palabra de Dios por una decisión humana. Los escritos apostólicos fueron leídos, transmitidos y reconocidos conforme a su vínculo con el testimonio de Cristo.
+
+La Escritura es norma para la fe y la práctica y debe corregir toda tradición. El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspira a los autores. El estudio del canon fortalece la confianza responsable en los libros recibidos y llama a leerlos con diligencia.
+''',
   ),
+
   Study(
     number: '111',
     title: "La transmisión del texto bíblico: manuscritos, copias y preservación",
-    subtitle: "La historia de la transmisión textual y los principios básicos para comprender las variantes manuscritas.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Cómo se copiaron, conservaron y compararon los textos de la Biblia a través de la historia.",
+    introduction: '''
+La transmisión del texto bíblico estudia cómo los escritos inspirados fueron copiados, conservados y transmitidos a lo largo de generaciones. Los manuscritos antiguos presentan variantes de copia, como ocurre con cualquier tradición textual extensa. La crítica textual compara testimonios manuscritos, versiones antiguas y citas para establecer con la mayor precisión posible el texto que se encontraba en los ejemplares más antiguos recuperables.
+
+La existencia de variantes no significa que el mensaje bíblico haya desaparecido ni que todas las lecturas tengan el mismo peso. La mayoría son diferencias ortográficas o de forma; algunas afectan palabras o frases y deben analizarse con métodos transparentes. Las traducciones modernas y las ediciones críticas suelen indicar los casos relevantes.
+
+Este estudio distingue inspiración, preservación, copia y traducción. La confianza cristiana no requiere negar la historia material de los manuscritos, sino reconocer que Dios ha preservado su Palabra mediante una transmisión histórica examinable.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 111. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Manuscrito es un documento escrito a mano. Testigo textual es un manuscrito, versión antigua o cita que conserva una forma del texto. Variante textual es una diferencia entre testimonios. Crítica textual es la disciplina que compara esos testigos para evaluar cuál lectura explica mejor las demás.
+
+Inspiración se refiere al origen divino de los escritos originales; preservación describe su conservación a través de la historia; traducción es la transferencia del sentido a otra lengua. No deben confundirse estos procesos. Una variante de copia no significa automáticamente una alteración doctrinal ni que la Escritura carezca de autoridad.
+''',
+        references: "Jeremías 36:1-32; Lucas 1:1-4; 2 Pedro 1:20-21; 3:15-16.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los textos del Antiguo Testamento se copiaron en rollos y códices. Los manuscritos del mar Muerto, descubiertos en el siglo XX, aportaron testimonios antiguos de numerosos libros hebreos y permitieron comparar tradiciones textuales con manuscritos medievales. La tradición masorética conservó el texto hebreo con sistemas de vocalización y notas.
+
+El Nuevo Testamento fue copiado en papiros y pergaminos, en códices y posteriormente en manuscritos minúsculos. Las iglesias utilizaron también traducciones antiguas, como la Septuaginta y versiones latinas, siríacas y coptas. La multiplicidad de testigos permite comparar lecturas y rastrear la historia de transmisión.
+''',
+        references: "Manuscritos del mar Muerto; tradición masorética; papiros y códices del Nuevo Testamento; versiones antiguas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento muestra preocupación por conservar y leer la ley (Deuteronomio 31:24-26; Josué 1:8). Esdras es presentado como escriba diligente en la ley de Moisés (Esdras 7:6,10). Los escribas tenían responsabilidades de copiar y enseñar los textos.
+
+Los Salmos celebran la permanencia de la palabra de Dios (Salmo 119:89, 160), pero estas afirmaciones teológicas no describen un método técnico de copia sin errores humanos. La historia bíblica muestra transmisión, lectura pública y cuidado por el contenido recibido. La confianza en la preservación divina puede convivir con el estudio de las variantes manuscritas.
+''',
+        references: "Deuteronomio 31:24-26; Esdras 7:6,10; Salmo 119:89,160; Jeremías 36.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús y los apóstoles citaron las Escrituras de Israel, a veces siguiendo formas de la Septuaginta. Los escritos apostólicos fueron copiados y distribuidos entre iglesias (Colosenses 4:16; 1 Tesalonicenses 5:27). Segunda de Pedro 3:15-16 reconoce las cartas de Pablo como textos de autoridad y advierte contra su distorsión.
+
+El Nuevo Testamento no ofrece un catálogo de todos los manuscritos futuros, pero sí muestra que los escritos eran leídos, compartidos y reconocidos. La transmisión textual posterior se puede estudiar mediante papiros, códices, versiones antiguas y citas patrísticas. La existencia de variantes es una consecuencia esperable de la copia manual a gran escala.
+''',
+        references: "Lucas 1:1-4; Colosenses 4:16; 1 Tesalonicenses 5:27; 2 Pedro 3:15-16.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+En Jeremías 36, el rollo de las palabras proféticas es destruido por el rey, y Jeremías recibe la orden de escribir nuevamente las palabras. El relato no describe la transmisión completa de la Biblia, pero muestra la continuidad del mensaje profético aun cuando un ejemplar material fue destruido.
+
+Lucas 1:1-4 explica que el evangelista investigó cuidadosamente los testimonios para escribir un relato ordenado. Colosenses 4:16 manda intercambiar cartas entre congregaciones. Estos textos muestran circulación y uso de escritos, no una preservación automática sin intervención humana.
+
+Las variantes deben evaluarse por antigüedad, distribución geográfica, relación entre manuscritos, dificultad de lectura y hábitos de los copistas. Ningún criterio aislado resuelve todos los casos. La decisión debe considerar el conjunto de evidencia, y las ediciones críticas muestran dónde existen lecturas alternativas.
+''',
+        references: "Jeremías 36:1-32; Lucas 1:1-4; Colosenses 4:16.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La transmisión del texto se relaciona con la inspiración y la autoridad de la Escritura, pero no debe confundirse con ellas. El hecho de que los manuscritos contengan variantes no invalida la inspiración de los escritos originales ni significa que el contenido central dependa de una conjetura arbitraria.
+
+La comparación de testigos permite detectar errores de copia y recuperar lecturas antiguas con alto grado de confianza. Cuando una variante es relevante, debe reconocerse en lugar de ocultarse. La traducción también requiere decisiones: ninguna versión agota todos los matices del idioma original, por lo que el estudio serio consulta notas y herramientas confiables.
+
+La preservación bíblica se aprecia en la abundancia y diversidad de testigos antiguos. La fe no debe basarse en afirmaciones exageradas de que nunca existió una variante, sino en la fidelidad de Dios y en la evidencia histórica disponible.
+''',
+        references: "Deuteronomio 31:24-26; Salmo 119:89,160; Jeremías 36; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el Dios que habla y conserva su propósito; el Hijo es la Palabra encarnada y el centro de la revelación; el Espíritu Santo inspiró a los autores bíblicos. Segunda de Pedro 1:20-21 relaciona la profecía con hombres impulsados por el Espíritu Santo, y Juan 16:13-15 presenta al Espíritu guiando a los discípulos a la verdad y glorificando al Hijo.
+
+La doctrina trinitaria no depende de una variante textual aislada. Se fundamenta en el testimonio amplio y estable de las Escrituras sobre el único Dios y la distinción entre Padre, Hijo y Espíritu. Los pasajes con variantes deben estudiarse con transparencia y sin utilizar una lectura discutida como único apoyo de una doctrina central.
+
+La preservación de la Palabra forma parte de la providencia de Dios, realizada mediante procesos históricos y humanos. La Iglesia recibe la Escritura con gratitud, la estudia y la transmite fielmente.
+''',
+        references: "Juan 16:13-15; 2 Pedro 1:20-21; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Las variantes manuscritas prueban que la Biblia fue corrompida? No. Demuestran que los copistas produjeron diferencias que pueden estudiarse comparando los testigos. La existencia de variantes no equivale a que el texto completo sea irrecuperable.
+
+¿Todas las variantes tienen la misma importancia? No. Muchas son ortográficas o menores; otras afectan frases y requieren evaluación. Debe consultarse el aparato crítico y las notas de las ediciones responsables.
+
+¿La crítica textual es enemiga de la fe? No. Es una disciplina que examina evidencia histórica. Negar las variantes conocidas no fortalece la confianza; la transparencia permite comprender mejor la transmisión.
+
+¿Una traducción es idéntica al manuscrito original? No. Toda traducción implica decisiones lingüísticas. Por eso conviene identificar la versión utilizada y consultar otras traducciones cuando una cuestión depende de un matiz.
+
+¿Una variante discutida puede sostener por sí sola la Trinidad? No debería. La doctrina debe fundamentarse en el conjunto del testimonio bíblico, no en un único pasaje textualmente debatido.
+''',
+        references: "Jeremías 36; Lucas 1:1-4; 2 Pedro 3:15-16.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué es una variante textual? Respuesta: Una diferencia de lectura entre manuscritos u otros testigos del texto.
+
+Pregunta: ¿Cómo se decide entre variantes? Respuesta: Comparando antigüedad, distribución, calidad de los testigos y explicación de cómo surgieron las lecturas.
+
+Pregunta: ¿Qué aportaron los manuscritos del mar Muerto? Respuesta: Testimonios antiguos de textos del Antiguo Testamento que permiten comparar la transmisión hebrea.
+
+Pregunta: ¿Por qué existen varias traducciones? Respuesta: Porque traducir exige decisiones lingüísticas y cada versión puede priorizar equivalencia formal o claridad de lectura.
+
+Pregunta: ¿La existencia de variantes destruye la confianza bíblica? Respuesta: No. La transmisión es examinable y el mensaje bíblico cuenta con numerosos testigos. La confianza debe ser informada y no depender de afirmaciones históricas falsas.
+''',
+        references: "Jeremías 36:1-32; Lucas 1:1-4; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La transmisión del texto bíblico fue un proceso histórico de copia, lectura, traducción y conservación. Los manuscritos contienen variantes, pero estas pueden estudiarse mediante comparación crítica. La mayoría no altera el sentido central de la fe; los casos relevantes deben reconocerse y explicarse con transparencia.
+
+La inspiración divina, la preservación y la traducción son realidades relacionadas, pero distintas. La Iglesia no necesita negar la historia manuscrita para confiar en la Escritura. El estudio responsable fortalece la lectura y evita argumentos exagerados.
+
+El Padre se revela, el Hijo es el centro de la Palabra y el Espíritu inspiró a los autores. La comunidad cristiana recibe el texto con gratitud y tiene la responsabilidad de estudiarlo, enseñarlo y transmitirlo fielmente.
+''',
+        references: "2 Timoteo 3:16-17; 2 Pedro 1:20-21; Colosenses 4:16.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La transmisión bíblica fue una historia de manuscritos, copias, traducciones y lectura comunitaria. Las variantes existen y deben estudiarse con criterios textuales, sin ocultarlas ni exagerar sus consecuencias. La abundancia de testigos permite comparar lecturas y comprender mejor la forma antigua del texto.
+
+La inspiración pertenece al origen divino de la Escritura; la preservación se observa en su transmisión histórica; y la traducción comunica su mensaje a nuevas lenguas. La Iglesia debe utilizar ediciones responsables y explicar con honestidad las variantes relevantes.
+
+El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró a los autores. La responsabilidad de la comunidad es recibir, estudiar y transmitir fielmente la Palabra.
+''',
   ),
+
   Study(
     number: '112',
     title: "La confiabilidad histórica de la Biblia: hechos, testimonio y evaluación de fuentes",
-    subtitle: "Cómo valorar los datos históricos y arqueológicos sin atribuir a la evidencia más de lo que demuestra.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Criterios para examinar el contexto histórico, los testimonios y las afirmaciones bíblicas con rigor.",
+    introduction: '''
+La confiabilidad histórica de la Biblia se estudia examinando sus afirmaciones, contextos, géneros y relación con otras fuentes antiguas. La Biblia no es un manual moderno de arqueología ni todos sus libros fueron escritos con el mismo propósito historiográfico. Sin embargo, contiene narraciones sobre personas, pueblos, lugares y acontecimientos que pueden investigarse históricamente.
+
+Una evaluación responsable distingue lo que el texto afirma, lo que otras fuentes confirman, lo que permanece debatido y lo que no puede demostrarse con la evidencia disponible. La arqueología puede iluminar contextos, pero no siempre identifica con certeza cada personaje o acontecimiento. La ausencia de evidencia no equivale automáticamente a evidencia de ausencia.
+
+La fe cristiana no exige inventar datos ni negar preguntas históricas. La confianza se fortalece mediante una investigación honesta, que reconoce límites y evita tanto el escepticismo automático como la defensa acrítica.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 112. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Confiabilidad histórica se refiere a la credibilidad de los testimonios bíblicos sobre acontecimientos y contextos históricos. No significa que cada pasaje tenga el mismo género o propósito, ni que toda afirmación pueda verificarse mediante arqueología. Una narración debe evaluarse según sus características literarias y las fuentes disponibles.
+
+Arqueología estudia restos materiales; epigrafía analiza inscripciones; crítica histórica examina fuentes y contextos; y geografía histórica ayuda a ubicar lugares. Estas disciplinas aportan información, pero sus conclusiones pueden ser provisionales. Debe distinguirse evidencia directa, inferencia razonable y especulación.
+''',
+        references: "Lucas 1:1-4; Hechos 18:12; 1 Corintios 15:3-8; Juan 19:35.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los libros bíblicos surgieron en sociedades antiguas del Cercano Oriente y del mundo grecorromano. Sus autores utilizaron calendarios, nombres, rutas, instituciones y formas narrativas propias de esos contextos. Las fuentes extrabíblicas incluyen inscripciones reales, documentos administrativos, monedas, restos urbanos y obras literarias.
+
+La arqueología moderna ha aportado información sobre ciudades, imperios, prácticas y lenguas mencionadas en la Biblia. Sin embargo, muchos hallazgos tienen interpretaciones discutidas. Una inscripción puede confirmar la existencia de un rey o pueblo sin demostrar cada detalle de un relato religioso. La investigación debe mantener precisión en el alcance de cada evidencia.
+''',
+        references: "Contexto del Cercano Oriente antiguo y mundo grecorromano; inscripciones y fuentes antiguas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento presenta relatos de creación, patriarcas, éxodo, monarquía, exilio y retorno. Algunos períodos tienen abundante documentación externa; otros cuentan con evidencia más limitada. Los libros históricos deben leerse considerando su propósito teológico y narrativo, sin exigirles los criterios de una crónica contemporánea.
+
+Los relatos de reyes y conflictos pueden compararse con inscripciones de imperios como Asiria y Babilonia. Los textos proféticos también mencionan acontecimientos políticos verificables en su contexto. Cuando la evidencia externa es escasa, se debe reconocer el límite en lugar de inventar confirmaciones. La ausencia de un hallazgo específico no resuelve por sí sola una cuestión histórica.
+''',
+        references: "2 Reyes 18–19; Jeremías 39; Esdras 1; fuentes históricas del período.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Los Evangelios presentan a Jesús dentro de un contexto judío del siglo I bajo dominio romano. Lucas 1:1-4 explica su intención de ofrecer un relato ordenado basado en testimonios; Juan 19:35 destaca el testimonio del narrador. Hechos sitúa la expansión de la Iglesia en ciudades y rutas del Imperio romano.
+
+Las cartas apostólicas contienen referencias a gobernantes, comunidades, conflictos y prácticas sociales. Estos datos pueden compararse con fuentes antiguas, aunque la finalidad de las cartas es pastoral y teológica. La resurrección de Jesús es una afirmación histórica central de la fe cristiana y debe examinarse mediante los testimonios apostólicos y las explicaciones alternativas propuestas.
+''',
+        references: "Lucas 1:1-4; Juan 19:35; Hechos 18:12; 19:23-41; 1 Corintios 15:3-8.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Lucas 1:1-4 declara que el autor investigó cuidadosamente los acontecimientos y organizó su relato para ofrecer certeza a Teófilo. El prólogo revela preocupación por la transmisión de testimonios y el orden de la narración. No equivale a una afirmación moderna de neutralidad absoluta, pero sí presenta una intención histórica deliberada.
+
+Hechos 18:12 menciona a Galión como procónsul de Acaya y Hechos 19 describe el contexto de Éfeso. Estos detalles ayudan a ubicar la narración en el mundo romano. Su precisión debe examinarse en relación con fuentes externas cuando están disponibles.
+
+Primera de Corintios 15:3-8 conserva una fórmula temprana sobre la muerte, sepultura y apariciones de Jesús. El pasaje es fundamental para estudiar la proclamación de la resurrección en la comunidad apostólica. La evaluación histórica debe distinguir el dato textual, su fecha aproximada y las interpretaciones sobre el acontecimiento.
+''',
+        references: "Lucas 1:1-4; Hechos 18:12; 1 Corintios 15:3-8.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La Biblia debe estudiarse junto con la evidencia histórica, sin convertir las fuentes externas en autoridad teológica superior ni ignorar su valor contextual. La arqueología puede confirmar ciertos nombres, ciudades y prácticas, pero no demuestra por sí sola una doctrina ni resuelve todas las preguntas sobre milagros.
+
+La investigación también debe reconocer los géneros: poesía, parábola y visión no se evalúan igual que un relato histórico. Los textos pueden utilizar convenciones antiguas de narración y discurso. La pregunta no es si se ajustan a todos los estándares modernos, sino qué tipo de afirmación hacen y cómo se sostiene.
+
+La resurrección constituye el centro del testimonio apostólico. La fe no se reduce a una demostración arqueológica, pero tampoco debe basarse en datos inventados. La honestidad intelectual y la confianza cristiana pueden coexistir.
+''',
+        references: "2 Reyes 18–19; Lucas 1:1-4; Hechos 18–19; 1 Corintios 15.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el Dios que actúa en la historia y dirige su propósito; el Hijo entra en la historia mediante la encarnación, muerte y resurrección; el Espíritu Santo inspira el testimonio apostólico y da convicción. Lucas presenta una investigación de los acontecimientos sobre Jesús, mientras los apóstoles anuncian lo que vieron y oyeron.
+
+La doctrina trinitaria no depende de un hallazgo arqueológico particular. Su fundamento está en el testimonio de la Escritura: el Padre envía al Hijo y el Espíritu da testimonio de Cristo. La investigación histórica puede iluminar el contexto de estos acontecimientos, pero no reemplaza el análisis teológico del texto.
+
+El Hijo no es el Padre; su encarnación es un acontecimiento real. El Espíritu no es una invención literaria, sino la persona divina que actúa en la revelación y la vida de la Iglesia.
+''',
+        references: "Lucas 1:1-4; Juan 15:26-27; Hechos 2:32-33; 1 Pedro 1:10-12.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La arqueología ha confirmado cada relato bíblico? No. Algunos aspectos reciben apoyo externo, otros permanecen debatidos y otros no cuentan con evidencia directa disponible. No debe afirmarse una confirmación total.
+
+¿La ausencia de restos prueba que un acontecimiento no ocurrió? No necesariamente. La conservación arqueológica es desigual y muchos lugares no han sido excavados o identificados con certeza. Pero tampoco debe usarse esa limitación para afirmar cualquier hipótesis.
+
+¿La Biblia debe leerse como un libro moderno de historia? No. Sus libros tienen propósitos y géneros diversos. Debe evaluarse cada texto según su forma y contexto.
+
+¿La resurrección puede demostrarse con arqueología? La arqueología no puede verificar directamente un milagro. La investigación histórica examina testimonios tempranos, contexto y explicaciones alternativas; la afirmación cristiana se apoya en el testimonio apostólico.
+
+¿La fe exige ignorar las dificultades? No. Una fe responsable reconoce preguntas, distingue certeza de hipótesis y no inventa evidencias.
+''',
+        references: "Lucas 1:1-4; 1 Corintios 15:3-8; Juan 19:35.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué aporta la arqueología? Respuesta: Contexto material sobre lugares, costumbres, inscripciones, cronologías y pueblos antiguos.
+
+Pregunta: ¿Qué diferencia hay entre evidencia y conclusión? Respuesta: La evidencia son los datos disponibles; la conclusión es una interpretación que debe justificarse y puede ser revisada.
+
+Pregunta: ¿Por qué importa Lucas 1:1-4? Respuesta: Porque explica la investigación de testimonios y el propósito de ofrecer un relato ordenado.
+
+Pregunta: ¿Cuál es el testimonio temprano sobre la resurrección? Respuesta: Primera de Corintios 15:3-8 conserva una proclamación sobre muerte, sepultura, resurrección y apariciones.
+
+Pregunta: ¿Qué hacer cuando una cuestión permanece debatida? Respuesta: Reconocerlo con honestidad, presentar las hipótesis y no convertir una inferencia en certeza.
+''',
+        references: "Lucas 1:1-4; 1 Corintios 15:3-8; Hechos 18:12.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La confiabilidad histórica debe examinarse con rigor, distinguiendo el texto, su contexto, las fuentes externas y el alcance real de cada hallazgo. La arqueología ilumina el mundo bíblico, pero no confirma cada afirmación ni resuelve por sí sola las cuestiones teológicas. Los géneros literarios y los propósitos de los autores deben respetarse.
+
+La fe cristiana se apoya en el testimonio de las Escrituras y, de manera central, en la muerte y resurrección de Jesucristo. La investigación honesta no necesita exageraciones ni negación de preguntas. El Padre actúa en la historia, el Hijo se encarna y resucita, y el Espíritu inspira el testimonio apostólico.
+
+La Iglesia debe presentar razones con humildad, reconocer los límites de la evidencia y anunciar fielmente el evangelio.
+''',
+        references: "Lucas 1:1-4; 1 Corintios 15:3-8; 2 Timoteo 4:5.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La confiabilidad histórica de la Biblia debe estudiarse mediante el análisis del texto, su género, contexto y relación con otras fuentes. La arqueología aporta información valiosa, pero no confirma cada detalle ni debe utilizarse para afirmar más de lo que la evidencia permite. La honestidad exige distinguir datos, inferencias y cuestiones debatidas.
+
+El testimonio apostólico sobre la muerte y resurrección de Jesús es central para la fe cristiana. La investigación histórica puede examinar su antigüedad y contexto, mientras la confesión cristiana reconoce la acción de Dios. El Padre actúa en la historia, el Hijo se encarna y resucita, y el Espíritu inspira el testimonio.
+
+La Iglesia debe defender la fe sin exageraciones, responder preguntas con rigor y mantener su confianza en la verdad revelada.
+''',
   ),
+
   Study(
     number: '113',
     title: "La teología bíblica: unidad, desarrollo y revelación progresiva",
