@@ -19620,147 +19620,48 @@ El Padre envía al Hijo por amor (Juan 3:16-17); el Hijo entrega voluntariamente
     ],
     conclusion: '''El Día de la Expiación enseñaba que el pecado y la impureza no podían tratarse como asuntos triviales y que el acceso al santuario requería la mediación prescrita por Dios. La repetición anual del rito señalaba sus límites. Hebreos presenta a Jesucristo como el sumo sacerdote que obtiene redención eterna mediante una entrega única. El Hijo se ofrece al Padre mediante el Espíritu eterno; por eso la esperanza cristiana descansa en la obra suficiente de Cristo y no en la repetición de ceremonias.''',
   ),
-number: '99',
-    title: "Las fiestas solemnes de Israel: memoria, adoración y esperanza",
-    subtitle: "El calendario sagrado, sus convocaciones y su lugar en la historia del pacto y la esperanza bíblica.",
-    introduction: '''
-Las fiestas solemnes de Israel organizaban el calendario de adoración y recordaban las obras de Dios en la historia del pueblo. Levítico 23 reúne convocaciones como la Pascua, los panes sin levadura, las primicias, las semanas, las trompetas, el Día de la Expiación y los tabernáculos. Otras instrucciones aparecen en Éxodo, Números y Deuteronomio.
-
-Estas celebraciones no eran simples tradiciones culturales: tenían fundamento en el pacto y enseñaban memoria, gratitud, descanso, dependencia y esperanza. Algunas estaban relacionadas con la cosecha; otras recordaban la liberación de Egipto o la peregrinación por el desierto. Deben estudiarse en sus contextos israelitas antes de considerar su relación con Cristo.
-
-El Nuevo Testamento muestra cómo Jesús cumple la esperanza de la Pascua y cómo la comunidad cristiana vive a la luz de su muerte y resurrección. Sin embargo, no se debe convertir cada detalle de cada fiesta en una profecía individual sin apoyo textual, ni imponer a la Iglesia el calendario ceremonial de Israel como requisito de salvación.
-''',
-    sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Fiesta o convocación solemne es una reunión sagrada establecida en el calendario de Israel. El término no significa necesariamente una celebración alegre en el sentido moderno: el Día de la Expiación, por ejemplo, era una jornada de humillación y reposo. Las fiestas combinaban culto, memoria histórica y ritmos agrícolas.
-
-Pascua conmemoraba la liberación de Egipto; panes sin levadura recordaba la salida apresurada; primicias reconocía a Dios como proveedor; semanas celebraba la cosecha; trompetas marcaba una convocación; el Día de la Expiación incluía purificación; tabernáculos recordaba la vida en tiendas durante el desierto. Las listas y detalles varían según el libro y el propósito del pasaje.
-
-Este estudio examina el calendario como conjunto. El Día de la Expiación se analiza con mayor detalle en el estudio 98, y aquí se considera como una de las fechas del calendario.
-''',
-        references: "Levítico 23:1-44; Éxodo 12:1-28; Colosenses 2:16-17.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Israel vivía en una sociedad agrícola, por lo que varias celebraciones coincidían con etapas de la cosecha. La Pascua y panes sin levadura estaban asociadas con la primavera; las primicias y semanas con la cosecha; tabernáculos con la recolección de los frutos. Estas fechas unían la vida cotidiana con la memoria de la liberación y la provisión divina.
-
-Éxodo 12 presenta la Pascua en el contexto de la salida de Egipto. Levítico 23 organiza las convocaciones en una lista litúrgica. Deuteronomio 16 destaca la celebración en el lugar que Dios escogiera, relacionando las fiestas con la centralización del culto. Números 28–29 ofrece instrucciones sobre las ofrendas correspondientes.
-
-La historia posterior muestra que las fiestas podían convertirse en ceremonias vacías cuando se separaban de la fidelidad. Los profetas denunciaron la celebración sin justicia. En el período del Segundo Templo, las fiestas también eran momentos de peregrinación y memoria nacional, contexto que aparece en los Evangelios y Hechos.
-''',
-        references: "Éxodo 12–13; Levítico 23; Deuteronomio 16; Números 28–29.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Éxodo 12 establece la Pascua antes de la salida de Egipto: la familia debía recordar la liberación y explicar su significado a las generaciones siguientes. Éxodo 13 vincula los panes sin levadura con la memoria de aquella salida. Levítico 23 amplía el calendario y añade las primicias, semanas, trompetas, expiación y tabernáculos.
-
-Deuteronomio 16 vuelve a las fiestas principales y enfatiza la celebración en el lugar escogido por Dios. La instrucción también incluye justicia social: levitas, extranjeros, huérfanos y viudas debían participar de la alegría de la fiesta. Esto impide reducir las celebraciones a una experiencia privada.
-
-Números 28–29 detalla las ofrendas regulares y especiales asociadas con las convocaciones. Los textos deben armonizarse observando que cada libro organiza las instrucciones con énfasis propio: Levítico presenta el calendario, Deuteronomio la vida del pueblo en el lugar de culto y Números los sacrificios correspondientes.
-''',
-        references: "Éxodo 12–13; Levítico 23; Deuteronomio 16; Números 28–29.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Los Evangelios sitúan la muerte de Jesús en el contexto de la Pascua. Los relatos destacan la última cena, la entrega de Jesús y la interpretación que él da a su muerte. Pablo declara que Cristo, nuestra Pascua, fue sacrificado (1 Corintios 5:7), usando el lenguaje pascual para explicar la vida de la comunidad.
-
-Hechos 2 ocurre en Pentecostés, la fiesta de las semanas, cuando judíos de diversas regiones se encuentran en Jerusalén y el Espíritu Santo es derramado sobre los discípulos. El relato presenta el acontecimiento como cumplimiento de la promesa del Espíritu, no como una mera repetición agrícola de la fiesta.
-
-Colosenses 2:16-17 enseña que las fiestas y calendarios pueden funcionar como sombra, mientras la realidad pertenece a Cristo. El pasaje no autoriza despreciar las Escrituras de Israel; enseña que la observancia de fechas no debe convertirse en criterio para juzgar la aceptación de los creyentes. La comunidad vive en Cristo, quien cumple la esperanza anunciada.
-''',
-        references: "Mateo 26–27; Juan 19; Hechos 2:1-36; 1 Corintios 5:6-8; Colosenses 2:16-17.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Levítico 23:2 llama a las fiestas «santas convocaciones». El capítulo presenta primero el sábado, luego las fechas anuales. La secuencia muestra que el tiempo entero pertenece a Dios y que el calendario de Israel debía organizarse en torno a la adoración.
-
-Éxodo 12:14 ordena recordar la Pascua como estatuto perpetuo para las generaciones de Israel. La expresión se refiere al pacto y a la memoria de la liberación; no debe utilizarse sin considerar el desarrollo posterior del Nuevo Testamento. En 1 Corintios 5:7-8, Pablo aplica la imagen de la Pascua a Cristo y llama a vivir sin la levadura de malicia y maldad.
-
-Colosenses 2:16-17 debe leerse en el contexto de la advertencia contra enseñanzas que sometían a los creyentes a reglas humanas. Pablo afirma que nadie debe juzgarlos por comida, bebida, fiesta, luna nueva o sábados. La sombra tenía su lugar en la historia, pero la sustancia se encuentra en Cristo.
-''',
-        references: "Levítico 23:2, 4-8; Éxodo 12:14, 24-27; 1 Corintios 5:7-8; Colosenses 2:16-17.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Las fiestas deben relacionarse con el éxodo, el pacto y la provisión de Dios. La Pascua recuerda que Israel fue liberado por intervención divina; las primicias y semanas reconocen que la cosecha pertenece al Señor; tabernáculos recuerda la dependencia durante el desierto. Deuteronomio 16 muestra que la celebración debía incluir a los miembros vulnerables de la sociedad.
-
-Los profetas denuncian la separación entre culto y justicia (Isaías 1:11-17; Amós 5:21-24). Por eso, la fidelidad no se mide solamente por asistir a una fiesta, sino por vivir bajo la voluntad de Dios. El calendario no era permiso para ignorar al prójimo.
-
-En el Nuevo Testamento, Cristo es el centro de la esperanza y la comunidad recibe el Espíritu. La Pascua y Pentecostés aparecen en contextos decisivos de la obra de Jesús y del nacimiento público de la Iglesia. No obstante, no todas las fiestas reciben una interpretación explícita de cumplimiento en el Nuevo Testamento; la prudencia exige distinguir afirmaciones textuales de inferencias.
-''',
-        references: "Deuteronomio 16:1-17; Isaías 1:11-17; Amós 5:21-24; Hechos 2:1-33; Romanos 14:5-6.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el Dios que libera, sostiene y convoca a su pueblo. Las fiestas recordaban sus obras y su fidelidad al pacto. El Hijo participa del cumplimiento de la historia redentora: Jesús es presentado como la Pascua sacrificada y como aquel en quien las sombras encuentran su realidad. El Espíritu Santo es derramado en Pentecostés conforme a la promesa del Padre y a la exaltación de Cristo (Hechos 2:32-33).
-
-Hechos 2:33 distingue al Cristo exaltado, al Padre que cumple la promesa y al Espíritu que es derramado. Este texto no confunde las personas ni divide la esencia divina. La historia de la salvación es una obra del único Dios, en la que las personas actúan de manera personal y coordinada.
-
-La celebración cristiana no debe convertir las fiestas de Israel en una fórmula para obtener salvación. La Iglesia recuerda la muerte y resurrección de Cristo y vive por el Espíritu, dando gracias al Padre. Las fiestas ayudan a comprender la historia bíblica y el cumplimiento en Cristo, pero la observancia ceremonial no reemplaza la fe.
-''',
-        references: "Hechos 2:32-33; 1 Corintios 5:7; Gálatas 4:4-6; Efesios 2:18.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Todas las fiestas eran agrícolas? No. Algunas estaban vinculadas con cosechas, pero Pascua recordaba el éxodo y tabernáculos combinaba memoria del desierto con la recolección. El calendario tenía dimensiones históricas, agrícolas y teológicas.
-
-¿La Iglesia está obligada a celebrar las fiestas levíticas? Colosenses 2:16-17 prohíbe juzgar a los creyentes por esas observancias y presenta las fiestas como sombra cuya realidad está en Cristo. Romanos 14:5-6 también enseña que hay diferencias de conciencia respecto a días, sin convertirlas en requisito de salvación.
-
-¿Pentecostés cristiano es simplemente la fiesta judía? Hechos 2 sucede en la fecha de Pentecostés y utiliza el contexto de peregrinación, pero el acontecimiento central es el derramamiento del Espíritu conforme a la promesa profética. No es una mera repetición del calendario agrícola.
-
-¿Cada fiesta corresponde a un evento futuro específico? Algunos pasajes establecen relaciones claras, como Cristo nuestra Pascua y Pentecostés en Hechos 2. Otras correspondencias detalladas pueden ser propuestas como lecturas tipológicas, pero no deben presentarse como afirmaciones bíblicas explícitas cuando el texto no las establece.
-
-¿Celebrar una fiesta es incorrecto? No necesariamente. Puede tener valor educativo o cultural si se hace con conciencia y sin imponerla como condición de aceptación delante de Dios. El problema surge cuando una práctica se convierte en criterio de superioridad espiritual o se mezcla con doctrinas contrarias al evangelio.
-''',
-        references: "Colosenses 2:16-17; Romanos 14:5-6; Isaías 1:11-17; Amós 5:21-24.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Cuál era el propósito principal de la Pascua? Respuesta: Recordar la liberación de Israel de Egipto y enseñar a las generaciones que Dios rescató a su pueblo (Éxodo 12:24-27).
-
-Pregunta: ¿Por qué se presentaban primicias? Respuesta: Para reconocer que la cosecha y el sustento provenían de Dios, y expresar gratitud y dependencia (Levítico 23:9-14; Deuteronomio 26:1-11).
-
-Pregunta: ¿Qué relación tiene Cristo con la Pascua? Respuesta: Pablo lo identifica como nuestra Pascua sacrificada, y los Evangelios narran su muerte en el marco pascual (1 Corintios 5:7; Mateo 26–27).
-
-Pregunta: ¿Qué ocurrió en Pentecostés? Respuesta: El Espíritu Santo fue derramado sobre los discípulos, y Pedro explicó el acontecimiento a la luz de la promesa profética (Hechos 2:1-36).
-
-Pregunta: ¿Las fiestas son necesarias para ser salvo? Respuesta: La salvación se recibe por la gracia de Dios mediante la fe en Cristo; no por la observancia de calendarios ceremoniales (Efesios 2:8-10; Colosenses 2:16-17).
-''',
-        references: "Éxodo 12:24-27; Levítico 23:9-22; Hechos 2:1-36; 1 Corintios 5:7; Efesios 2:8-10.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Las fiestas solemnes enseñaban a Israel a ordenar el tiempo alrededor de la memoria de la salvación, la gratitud por la provisión y la adoración al Señor. Su significado se comprende al leerlas dentro del éxodo, el pacto y la vida comunitaria. No eran ceremonias desligadas de la justicia ni simples costumbres agrícolas.
-
-El Nuevo Testamento sitúa a Cristo en el centro de la historia redentora: nuestra Pascua fue sacrificada, y el Espíritu fue derramado en Pentecostés. Las fiestas ofrecen un marco para comprender la obra de Dios, pero no deben transformarse en obligación salvífica ni en un calendario profético especulativo.
-
-El Padre convoca y cumple sus promesas, el Hijo lleva a cabo la redención y el Espíritu capacita a la Iglesia para testificar. La respuesta cristiana es memoria agradecida, fe, unidad y vida obediente.
-''',
-        references: "1 Corintios 5:7-8; Hechos 2:1-36; Colosenses 2:16-17; Romanos 14:5-6.",
-      ),
-    ],
-    conclusion: '''
-Las fiestas solemnes de Israel eran convocaciones del pacto que unían memoria histórica, adoración, gratitud y esperanza. Su calendario recordaba la liberación de Egipto, la provisión de la cosecha y la peregrinación del pueblo. La Escritura también exigía que la celebración estuviera acompañada de justicia y fidelidad.
-
-El Nuevo Testamento presenta a Cristo como nuestra Pascua y relaciona Pentecostés con el derramamiento del Espíritu. La realidad de las fiestas se comprende a la luz de la obra de Jesús, pero no debe imponerse la observancia ceremonial como condición de salvación ni atribuirse a cada fiesta un cumplimiento que el texto no afirma.
-
-El Padre cumple sus promesas, el Hijo realiza la redención y el Espíritu capacita a la Iglesia. La respuesta es vivir con gratitud, recordar el evangelio y caminar en obediencia.
-''',
-  ),
-
   Study(
-    number: '100',
+    number: '99',
+    title: "Las fiestas solemnes de Israel: memoria, adoración y esperanza",
+    subtitle: "El calendario sagrado, la memoria de la redención y la provisión de Dios.",
+    introduction: '''Levítico 23 reúne las convocaciones sagradas de Israel y organiza el calendario alrededor del reposo semanal y de las fiestas anuales. Estas celebraciones recordaban la liberación de Egipto, la provisión de Dios, la cosecha y la relación de pacto. No eran simples festividades culturales: incluían asambleas, reposo, ofrendas y prácticas comunitarias reguladas por la palabra divina.
+
+El Nuevo Testamento relaciona algunas imágenes festivas con la obra de Cristo y con la vida de la Iglesia. Sin embargo, es necesario evitar atribuir a cada detalle un significado que el texto no declara. El estudio distingue el sentido original de las fiestas, sus conexiones canónicas y su lectura cristológica y trinitaria.''',
+    sections: [
+      StudySection(title: "1. Delimitación y clasificación del calendario", content: '''Levítico 23 reúne las convocaciones sagradas de Israel: el sábado, la Pascua y los panes sin levadura, las primicias, la fiesta de las semanas, la conmemoración de trompetas, el Día de la Expiación y los tabernáculos. Deuteronomio 16 vuelve sobre varias celebraciones y destaca la peregrinación del pueblo al lugar que Dios escogiera.
+
+Las fiestas tenían dimensiones históricas, agrícolas, litúrgicas y comunitarias. Recordaban las obras de Dios, reconocían que la tierra y sus frutos procedían de Él y reunían al pueblo para adorarlo. El Día de la Expiación se desarrolla en el estudio 98; aquí se considera únicamente como parte del calendario.''', references: "Levítico 23:1-44; Deuteronomio 16:1-17."),
+      StudySection(title: "2. Contexto histórico y agrícola", content: '''El calendario israelita se relacionaba con las estaciones agrícolas. La Pascua y los panes sin levadura coincidían con la primavera; la fiesta de las semanas estaba vinculada con la cosecha; y los tabernáculos coincidían con la recolección final. La vida económica quedaba integrada en la memoria de la acción de Dios.
+
+La dependencia de la lluvia, la cosecha y la tierra recordaba que Israel no era autosuficiente. Deuteronomio 8 advierte que la prosperidad no debía conducir al olvido del Señor, quien daba al pueblo capacidad para obtener bienes.''', references: "Éxodo 23:14-17; Deuteronomio 8:10-18; 16:1-17."),
+      StudySection(title: "3. La Pascua y los panes sin levadura", content: '''La Pascua recordaba la liberación de Israel de Egipto y la noche en que Dios protegió las casas señaladas con sangre conforme a su mandato. Los panes sin levadura recordaban la salida apresurada y se celebraban durante siete días. La memoria debía transmitirse a las generaciones siguientes mediante enseñanza familiar y celebración comunitaria.
+
+La sangre no era un objeto mágico: la protección y liberación procedían de Dios, quien dio las instrucciones. La celebración enseñaba memoria, obediencia y gratitud por la redención.''', references: "Éxodo 12:1-28; 13:3-10; Levítico 23:4-8; Deuteronomio 16:1-8."),
+      StudySection(title: "4. Primicias y fiesta de las semanas", content: '''La presentación de las primicias reconocía que la tierra y sus frutos pertenecían al Señor. Levítico 23:9-14 describe la presentación de una gavilla; la fiesta de las semanas se celebraba después de contar siete semanas y comprendía ofrendas y una convocación santa.
+
+Levítico 23:22 ordena dejar parte de la cosecha para el pobre y el extranjero. Así, la celebración no se limitaba a un acto ritual: la gratitud por la provisión debía expresarse en generosidad y justicia. La adoración verdadera toma en cuenta las necesidades del prójimo.''', references: "Levítico 23:9-22; Deuteronomio 16:9-12; 26:1-11."),
+      StudySection(title: "5. Trompetas, expiación y tabernáculos", content: '''Levítico 23:23-25 establece una conmemoración con sonido de trompetas y reposo. Luego aparece el Día de la Expiación, con humillación y abstención del trabajo ordinario. Finalmente, la fiesta de los tabernáculos recordaba que Israel había habitado en tiendas durante su salida de Egipto y celebraba la provisión recibida.
+
+La secuencia reúne memoria, arrepentimiento, purificación y alegría. Los tabernáculos no debían convertirse en celebración de autosuficiencia: recordaban la dependencia del pueblo durante la peregrinación y la fidelidad de Dios.''', references: "Levítico 16; 23:23-44; Números 29:1-40; Deuteronomio 16:13-17."),
+      StudySection(title: "6. Análisis literario y relación de los mandatos", content: '''Levítico 23 repite la expresión convocación santa y regula los períodos de reposo. Éxodo 23:14-17 relaciona las fiestas con la comparecencia delante del Señor; Deuteronomio 16 añade instrucciones sobre alegría, participación familiar y atención al necesitado.
+
+No hay contradicción entre esos énfasis: Levítico presenta el calendario y sus normas, Éxodo conecta las celebraciones con la liberación, y Deuteronomio resalta la justicia y la unidad del pueblo. La lectura conjunta evita reducir las fiestas a fechas o ceremonias aisladas.''', references: "Éxodo 23:14-17; Levítico 23:1-44; Deuteronomio 16:1-17."),
+      StudySection(title: "7. Relación con Jesucristo en el Nuevo Testamento", content: '''Pablo llama a Cristo nuestra Pascua, sacrificado por nosotros, y conecta esa verdad con una vida libre de la vieja levadura de malicia y maldad. También llama a Cristo primicias de los que durmieron, relacionando su resurrección con la esperanza de los creyentes.
+
+Colosenses 2:16-17 enseña que los días y las fiestas no deben utilizarse para juzgar la aceptación espiritual de otros creyentes: eran sombra y Cristo es la realidad señalada. Esto no desprecia el Antiguo Testamento; lo interpreta a la luz de su cumplimiento en Jesús.''', references: "Juan 1:29; 1 Corintios 5:6-8; 15:20-23; Colosenses 2:16-17."),
+      StudySection(title: "8. Pentecostés y la obra del Espíritu Santo", content: '''Hechos 2 sitúa el derramamiento del Espíritu Santo en el día de Pentecostés, cuando judíos de diversas regiones estaban reunidos en Jerusalén. Lucas presenta el acontecimiento como cumplimiento de la promesa de Jesús y como capacitación para el testimonio apostólico.
+
+La coincidencia con la fiesta de las semanas permite observar la continuidad histórica del calendario, pero no autoriza a inventar significados para cada detalle que el texto no explica. La interpretación responsable distingue lo que Lucas afirma explícitamente de las asociaciones teológicas que pueden proponerse con cautela.''', references: "Levítico 23:15-22; Juan 14:16-17, 26; Hechos 1:4-8; 2:1-21."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''Las fiestas proclamaban la obra del único Dios de Israel. El Padre envía al Hijo para redimir; el Hijo cumple la esperanza anunciada y resucita como primicias; y el Espíritu Santo es derramado sobre la Iglesia para capacitarla como testigo. Las personas se distinguen sin dividir al único Dios.
+
+¿Deben los cristianos observar obligatoriamente todas las fiestas? El Nuevo Testamento no impone el calendario como requisito de aceptación delante de Dios. ¿Carecen entonces de valor? No: forman parte de la revelación y ayudan a comprender la historia de la redención. ¿Pentecostés prueba que cada elemento de la fiesta predijera Hechos 2? No; debe afirmarse únicamente lo que la Escritura sustenta.''', references: "Juan 3:16-17; 14:16-17; Hechos 2:1-4; 1 Corintios 15:20-23; Colosenses 2:16-17."),
+      StudySection(title: "10. Aplicación, síntesis y vida de la Iglesia", content: '''Las fiestas enseñan a recordar la redención, agradecer la provisión, reunir a la comunidad y compartir con quienes tienen necesidad. La Iglesia no necesita copiar el calendario de Israel como condición de salvación, pero sí debe aprender de sus principios bíblicos: memoria, gratitud, generosidad, adoración y esperanza.
+
+La libertad cristiana tampoco debe convertirse en desprecio por las Escrituras hebreas. El creyente estudia las fiestas en su contexto, reconoce su lugar en el pacto con Israel y comprende su relación con Cristo sin imponer interpretaciones que excedan el texto.''', references: "Deuteronomio 8:10-18; 16:11-15; Romanos 14:5-6; 1 Corintios 5:7-8; Hebreos 13:15-16.")
+    ],
+    conclusion: '''Las fiestas solemnes de Israel ordenaban el tiempo alrededor de la memoria de la redención, la gratitud por la provisión y la adoración comunitaria. Su sentido no puede reducirse a costumbres agrícolas ni convertirse en obligación legal para la Iglesia. El Nuevo Testamento presenta a Cristo como nuestra Pascua y primicias de la resurrección, y relata el derramamiento del Espíritu en Pentecostés. La Iglesia aprende a recordar, agradecer, compartir y vivir en la esperanza del cumplimiento de las promesas de Dios.''',
+  ),
+number: '100',
     title: "El sacerdocio levítico: servicio, mediación y santidad",
     subtitle: "El llamado de Aarón y sus descendientes, las funciones sacerdotales y la superioridad del sacerdocio de Cristo.",
     introduction: '''
