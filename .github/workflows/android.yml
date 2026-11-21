@@ -10,6 +10,7 @@ on:
     branches:
       - main
       - fix/restore-study-catalog-dictionary-2026-11-21
+      - feature/integrar-100-defensa-doctrinal
 
 permissions:
   contents: read
