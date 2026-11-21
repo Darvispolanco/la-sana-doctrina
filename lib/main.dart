@@ -19579,7 +19579,6 @@ La perspectiva trinitaria reconoce al Padre que envía, al Hijo que se entrega v
 El Nuevo Testamento presenta a Jesucristo como la ofrenda definitiva. El Hijo se entrega voluntariamente al Padre mediante el Espíritu eterno y obtiene una redención que no necesita repetirse. Por tanto, la Iglesia no ofrece sacrificios para completar el perdón, sino una vida de adoración, servicio y amor como fruto de la obra consumada de Cristo.''',
   ),
   Study(
-      Study(
     number: '98',
     title: "El Día de la Expiación: purificación y acceso a la presencia de Dios",
     subtitle: "El rito anual de Levítico 16 y su relación con la obra definitiva de Jesucristo.",
