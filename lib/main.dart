@@ -21434,79 +21434,515 @@ La fe se demuestra en el servicio al prójimo. Seguir a Cristo es detenerse ante
   Study(
     number: '117',
     title: "La resurrección futura de los creyentes: cuerpo, transformación y esperanza",
-    subtitle: "La enseñanza bíblica sobre la resurrección corporal de los creyentes, distinta de la resurrección de Cristo.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La promesa bíblica de la resurrección corporal y la renovación de la creación.",
+    introduction: '''
+La esperanza cristiana no consiste en una existencia desencarnada para siempre, sino en la resurrección futura de los creyentes y la transformación de su cuerpo. La Biblia enseña que la muerte es un enemigo real, pero no tendrá la última palabra: Jesucristo resucitó como primicia de quienes le pertenecen y garantiza la resurrección final.
+
+Primera de Corintios 15 desarrolla la naturaleza del cuerpo resucitado, su continuidad con el cuerpo presente y su transformación por el poder de Dios. Primera de Tesalonicenses 4 consuela a la Iglesia ante la muerte de creyentes y afirma que los muertos en Cristo resucitarán. La esperanza no se basa en especulaciones sobre detalles no revelados, sino en la victoria de Cristo.
+
+Este estudio distingue resurrección, inmortalidad, transformación y nueva creación, y considera su fundamento trinitario.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 117. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Resurrección futura es la restauración de la vida corporal por el poder de Dios. No es simplemente la supervivencia del alma ni la reanimación temporal de un cadáver. El cuerpo será transformado e incorruptible, conforme al modelo de la resurrección de Cristo.
+
+La esperanza cristiana mantiene continuidad personal y corporal, pero también transformación. «Cuerpo espiritual» en 1 Corintios 15 no significa cuerpo hecho de espíritu, sino cuerpo vivificado y gobernado por el Espíritu. La Biblia no revela todos los detalles físicos, por lo que se deben evitar especulaciones.
+''',
+        references: "Juan 5:28-29; 1 Corintios 15:20-58; Filipenses 3:20-21; Romanos 8:11.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+En el mundo antiguo existían diversas ideas sobre la muerte y la vida futura. Algunos grupos judíos afirmaban la resurrección, mientras otros la rechazaban (Hechos 23:6-8). Los Evangelios presentan controversias de Jesús con saduceos que negaban la resurrección.
+
+Pablo escribe a Corinto para corregir confusiones sobre la resurrección corporal. Algunos aceptaban que Cristo resucitó, pero negaban la resurrección de los muertos. Su argumento muestra que la resurrección de Jesús y la esperanza de los creyentes están inseparablemente conectadas.
+''',
+        references: "Judaísmo del Segundo Templo; debate entre fariseos y saduceos; comunidad de Corinto.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento contiene expresiones de esperanza ante la muerte. Job 19:25-27 habla de la confianza en el Redentor; Salmo 16 expresa confianza en que Dios no abandonará a su fiel en el Seol; Isaías 26:19 anuncia que los muertos vivirán; Daniel 12:2 habla de resurrección para vida o vergüenza.
+
+Estos textos tienen contextos y grados de claridad diferentes. La doctrina completa se desarrolla con mayor claridad en el Nuevo Testamento, pero la esperanza no aparece sin raíces en la revelación anterior.
+''',
+        references: "Job 19:25-27; Salmo 16:9-11; Isaías 26:19; Daniel 12:2.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús declara que los muertos oirán su voz y saldrán a resurrección de vida o de condenación (Juan 5:28-29). Pablo enseña que Cristo es primicia de los que durmieron y que, así como en Adán todos mueren, en Cristo serán vivificados (1 Corintios 15:20-23).
+
+Primera de Tesalonicenses 4:13-18 consuela a los creyentes: los muertos en Cristo resucitarán y los vivos serán reunidos con el Señor. Filipenses 3:20-21 afirma que Cristo transformará el cuerpo de humillación para hacerlo semejante a su cuerpo glorioso. La esperanza se relaciona con la venida de Cristo y la consumación del Reino.
+''',
+        references: "Juan 5:21-29; 11:25-26; 1 Corintios 15; 1 Tesalonicenses 4:13-18; Filipenses 3:20-21.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+1 Corintios 15:20 llama a Cristo primicias de los que durmieron. En el contexto agrícola, las primicias anticipan la cosecha completa. La resurrección de Jesús no es un caso aislado: inaugura y garantiza la resurrección de quienes le pertenecen.
+
+En 15:42-44, Pablo contrasta corrupción e incorrupción, deshonra y gloria, debilidad y poder. «Se siembra cuerpo animal, resucitará cuerpo espiritual» no elimina la corporeidad; describe un cuerpo transformado por el poder del Espíritu. La analogía de la semilla muestra continuidad y diferencia.
+
+Filipenses 3:20-21 señala que Cristo transformará nuestro cuerpo conforme al suyo. La esperanza no depende de la capacidad humana de reconstruir el cuerpo, sino del poder soberano del Señor.
+''',
+        references: "1 Corintios 15:20-23, 42-44; Filipenses 3:20-21.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La resurrección se relaciona con la creación y la caída: Dios creó al ser humano corporal y promete redimirlo plenamente. También se relaciona con la resurrección de Jesús, la venida del Señor, el juicio y la nueva creación. No debe separarse de la esperanza de que Dios renovará todas las cosas.
+
+La muerte de los creyentes se describe como sueño en sentido de descanso y expectativa de despertar; no debe utilizarse la metáfora para negar la realidad de la muerte. Los textos apostólicos consuelan a quienes lloran y orientan su esperanza a la reunión con Cristo.
+
+Apocalipsis 21–22 presenta la consumación con Dios habitando con su pueblo. La esperanza es corporal, comunitaria y cósmica, no una huida definitiva de la creación.
+''',
+        references: "Génesis 1–3; Isaías 26:19; Daniel 12:2; Juan 11; 1 Corintios 15; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre resucitó a Jesús y dará vida a los creyentes; el Hijo es la resurrección y la vida, y transformará el cuerpo de los suyos; el Espíritu que levantó a Jesús vivificará también los cuerpos mortales. Romanos 8:11 relaciona explícitamente la obra del Espíritu con la resurrección futura.
+
+Juan 5:21-29 presenta la autoridad del Hijo para dar vida y ejecutar juicio, en relación con el Padre que lo envió. La distinción personal no divide la acción divina: la resurrección es obra del único Dios. El Padre no es el Hijo y el Espíritu no es una fuerza creada.
+
+La esperanza trinitaria descansa en el Dios que crea, redime y vivifica. El creyente pertenece a Cristo y recibe vida por el Espíritu para la gloria del Padre.
+''',
+        references: "Juan 5:21-29; Romanos 8:11; 1 Corintios 15:20-23.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La resurrección es solo espiritual? No. Los textos hablan de resurrección corporal y transformación, no de una mera continuidad de ideas o recuerdos.
+
+¿El cuerpo resucitado será idéntico en condición al actual? Habrá continuidad personal, pero transformación: será incorruptible y glorioso. La Escritura no detalla cada aspecto físico.
+
+¿Los muertos en Cristo están olvidados hasta la venida? Primera de Tesalonicenses 4 consuela afirmando que Dios traerá con Jesús a quienes durmieron en Él y que resucitarán. No se debe construir una teoría completa sobre el estado intermedio con un solo término figurado.
+
+¿La resurrección es solo para creyentes? Juan 5:28-29 habla de resurrección de vida y de juicio. La resurrección y el destino final deben estudiarse con el conjunto de la enseñanza bíblica.
+
+¿La esperanza cristiana desprecia el cuerpo? No. Dios creó al ser humano corporal y promete redimirlo; el cuerpo tiene dignidad y debe honrarse.
+''',
+        references: "Juan 5:28-29; 1 Corintios 15:42-44; 1 Tesalonicenses 4:13-18.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Quién es la primicia de la resurrección? Respuesta: Jesucristo, cuya resurrección garantiza la de quienes le pertenecen (1 Corintios 15:20-23).
+
+Pregunta: ¿Qué significa cuerpo espiritual? Respuesta: Un cuerpo real transformado y vivificado por el Espíritu, no una existencia sin cuerpo (1 Corintios 15:42-44).
+
+Pregunta: ¿Qué sucederá con los creyentes muertos? Respuesta: Resucitarán cuando venga el Señor y serán reunidos con Él (1 Tesalonicenses 4:13-18).
+
+Pregunta: ¿Quién vivificará nuestros cuerpos? Respuesta: El Espíritu de Dios que levantó a Jesús dará vida a los cuerpos mortales (Romanos 8:11).
+
+Pregunta: ¿Cuál es el destino final? Respuesta: La vida con Dios en la nueva creación, donde la muerte y el dolor serán quitados (Apocalipsis 21:1-4).
+''',
+        references: "1 Corintios 15:20-23,42-44; 1 Tesalonicenses 4:13-18; Romanos 8:11.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La resurrección futura afirma la dignidad del cuerpo y la victoria definitiva de Dios sobre la muerte. Jesucristo resucitado es la primicia y garantía de la transformación de los creyentes. La esperanza no se basa en especulaciones, sino en la promesa de que el Señor levantará a los suyos.
+
+El Padre da vida, el Hijo es la resurrección y el Espíritu vivificará nuestros cuerpos. La muerte sigue siendo dolorosa, pero no es el destino final de quienes pertenecen a Cristo. La Iglesia debe consolar, perseverar y vivir con esperanza, sabiendo que la obra del Señor no es en vano.
+''',
+        references: "Romanos 8:11; 1 Corintios 15:58; 1 Tesalonicenses 4:13-18; Apocalipsis 21:1-4.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La resurrección futura es la esperanza de que Dios levantará y transformará corporalmente a quienes pertenecen a Cristo. Jesús resucitado es la primicia y garantía; su pueblo será revestido de incorruptibilidad y vivirá en la nueva creación. La muerte es real y dolorosa, pero no tendrá la última palabra.
+
+El Padre da vida, el Hijo ejerce autoridad para resucitar y el Espíritu vivificará los cuerpos mortales. La Iglesia debe consolar a quienes lloran, perseverar y honrar el cuerpo, esperando la consumación prometida.
+''',
   ),
+
   Study(
     number: '118',
     title: "La seguridad de la salvación: fundamento, evidencias y confianza en Dios",
-    subtitle: "La base bíblica de la seguridad cristiana y la diferencia entre confianza en Cristo y presunción.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La confianza del creyente en la obra de Cristo y las señales de una fe viva.",
+    introduction: '''
+La seguridad de la salvación es la confianza fundamentada en la promesa de Dios y en la obra suficiente de Jesucristo. No debe confundirse con presunción, indiferencia moral o la idea de que una decisión pasada permite vivir deliberadamente en el pecado. La Biblia ofrece consuelo a quienes confían en Cristo y también llama a examinar la fe y perseverar.
+
+La seguridad se apoya en la gracia, la muerte y resurrección de Jesús, la fidelidad del Padre y el testimonio del Espíritu. Las evidencias de una fe viva incluyen confianza en Cristo, arrepentimiento, amor, obediencia y perseverancia. Estas evidencias no compran la salvación; manifiestan la obra de Dios en la persona.
+
+Este estudio examina los textos de promesa y advertencia, evitando tanto la desesperación del creyente sincero como la falsa tranquilidad de quien rechaza el llamado a la santidad.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 118. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Seguridad de salvación es la confianza de que Dios cumple su promesa de salvar a quienes están en Cristo. La certeza no se fundamenta en la perfección personal, sino en la fidelidad de Dios y la suficiencia de la obra de Jesús.
+
+Presunción es afirmar seguridad mientras se rechaza la fe y la obediencia. Duda puede surgir en creyentes que luchan por comprender su condición. La Escritura ofrece promesas para consolar y advertencias para despertar. Ambas deben leerse juntas, sin cancelar una con la otra.
+''',
+        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:13-14; 1 Juan 5:11-13.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Las comunidades del Nuevo Testamento enfrentaban persecución, falsos maestros y tentaciones de abandonar la fe. Las cartas pastorales y generales combinan afirmaciones de confianza con exhortaciones a perseverar. Juan escribe para que los creyentes sepan que tienen vida eterna (1 Juan 5:13), mientras Hebreos advierte contra la apostasía.
+
+La seguridad cristiana no es una técnica psicológica ni una conclusión basada únicamente en emociones. Está vinculada con el evangelio recibido, la comunión con Cristo y el testimonio del Espíritu. La vida cristiana incluye crecimiento y lucha, por lo que la evaluación debe considerar la dirección de la vida y no exigir perfección instantánea.
+''',
+        references: "Comunidades cristianas ante persecución, falsos maestros y exhortaciones apostólicas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento presenta a Dios como fiel a su pacto y refugio de quienes confían en Él. Salmo 23 expresa confianza en el cuidado del Señor; Isaías 43 promete su presencia en medio de las aguas y el fuego; Jeremías 31 anuncia perdón y un nuevo pacto.
+
+Estas promesas no significan que el pueblo nunca enfrentaría disciplina o sufrimiento. La seguridad descansa en el carácter de Dios y en su fidelidad, mientras los profetas llaman al arrepentimiento y a la obediencia. El Nuevo Testamento muestra cómo las promesas alcanzan su cumplimiento en Cristo.
+''',
+        references: "Salmos 23; 46; Isaías 43:1-7; Jeremías 31:31-34.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Juan 10:27-30 presenta a las ovejas que oyen la voz de Jesús y reciben vida eterna; nadie las arrebata de su mano ni de la mano del Padre. Romanos 8:31-39 afirma que nada puede separar al creyente del amor de Dios en Cristo. Efesios 1:13-14 habla del Espíritu como sello y garantía de la herencia.
+
+Primera de Juan 5:11-13 declara que quien tiene al Hijo tiene la vida. A la vez, 1 Juan 2:3-6 y 3:14 relacionan el conocimiento de Dios con obediencia y amor. Hebreos 3:12-14 advierte contra un corazón malo de incredulidad y llama a retener firme la confianza hasta el fin.
+
+La seguridad bíblica, por tanto, tiene fundamento objetivo en Cristo y produce evidencias en la vida. No se sostiene en una emoción cambiante ni en una obra humana que compre el favor de Dios.
+''',
+        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:3-14; 1 Juan 2:3-6; 5:11-13; Hebreos 3:12-14.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Juan 10:27-30 vincula vida eterna con escuchar y seguir a Jesús. La seguridad descansa en la mano del Hijo y del Padre. El contexto presenta a Jesús como el buen pastor que conoce a sus ovejas y entrega su vida por ellas. La afirmación no debe separarse de la descripción de sus ovejas como quienes oyen y siguen.
+
+Romanos 8:31-39 presenta una cadena de preguntas retóricas: si Dios es por nosotros, quién contra nosotros; quién acusará a los escogidos; quién separará del amor de Cristo. La conclusión no niega la tribulación, sino que afirma que ninguna de esas realidades puede separar al creyente del amor de Dios en Cristo.
+
+1 Juan 5:13 explica que el propósito de escribir es que los creyentes sepan que tienen vida eterna. La certeza se apoya en el testimonio acerca del Hijo. Las advertencias de Hebreos deben leerse sin reducirlas a amenazas vacías ni utilizarlas para negar las promesas explícitas.
+''',
+        references: "Juan 10:27-30; Romanos 8:31-39; 1 Juan 5:13.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La seguridad se relaciona con la justificación, adopción, santificación y perseverancia. La justificación descansa en la obra de Cristo; la adopción describe la nueva relación filial; la santificación muestra el fruto progresivo de la gracia; la perseverancia llama a permanecer en la fe.
+
+Las advertencias bíblicas son medios reales para exhortar al pueblo a no endurecerse. No contradicen las promesas, sino que impiden convertirlas en licencia para la incredulidad. Las evidencias no son una lista para medir a otros con dureza, sino una ayuda para examinar la propia vida con humildad.
+
+La seguridad también debe expresarse pastoralmente: consolar al débil, corregir la falsa confianza y animar al creyente a mirar a Cristo, no a depender de su estado emocional.
+''',
+        references: "Romanos 6; 8; Efesios 2:8-10; Hebreos 3:12-14; 1 Juan 2–5.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre guarda a los suyos y los adopta; el Hijo da vida eterna y sostiene a sus ovejas; el Espíritu sella y da testimonio de que pertenecen a Dios. Efesios 1:3-14 presenta al Padre que elige, al Hijo en quien hay redención y al Espíritu como sello y garantía.
+
+Romanos 8:15-17 relaciona el Espíritu de adopción con el clamor «Abba, Padre» y la condición de coherederos con Cristo. La distinción personal es clara: el Padre adopta, el Hijo es el Hijo y el Espíritu da testimonio. La salvación es obra del único Dios, no de tres agentes independientes.
+
+La seguridad trinitaria no se basa en una experiencia extraordinaria, sino en el evangelio y en la presencia del Espíritu que produce fe, amor y obediencia.
+''',
+        references: "Efesios 1:3-14; Romanos 8:15-17; Juan 10:27-30.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La seguridad significa que puedo vivir como quiera? No. Romanos 6 rechaza usar la gracia como permiso para permanecer en el pecado. La fe viva produce una nueva orientación.
+
+¿Las dudas prueban que alguien no es salvo? No necesariamente. La Biblia consuela a creyentes débiles y llama a mirar las promesas de Dios. Debe distinguirse una lucha sincera de un rechazo deliberado y persistente de Cristo.
+
+¿Las advertencias de Hebreos contradicen Juan 10? No. Las promesas aseguran el poder de Cristo y las advertencias llaman a perseverar. No deben separarse ni simplificarse; los debates teológicos sobre la relación exacta se deben abordar con respeto al texto.
+
+¿Las obras son la base de la seguridad? No. Son fruto y evidencia de la fe, no mérito que compra la salvación (Efesios 2:8-10).
+
+¿Puede una persona confiar solo en una oración pasada? Una experiencia pasada debe evaluarse a la luz de la fe presente en Cristo y sus frutos. La Escritura llama a permanecer en Él.
+''',
+        references: "Juan 10:27-30; Romanos 6; Hebreos 3:12-14; Efesios 2:8-10.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿En qué se fundamenta la seguridad? Respuesta: En la promesa de Dios y la obra suficiente de Jesucristo (Juan 10:27-30; Romanos 8:31-39).
+
+Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Sella a los creyentes y da testimonio de su adopción (Efesios 1:13-14; Romanos 8:15-16).
+
+Pregunta: ¿Las obras salvan? Respuesta: No; la salvación es por gracia mediante la fe, y las buenas obras son fruto de esa gracia (Efesios 2:8-10).
+
+Pregunta: ¿Por qué hay advertencias? Respuesta: Para llamar a perseverar y no endurecer el corazón ante Dios (Hebreos 3:12-14).
+
+Pregunta: ¿Qué debe hacer quien duda? Respuesta: Volver a las promesas de Cristo, examinar su fe con humildad y buscar acompañamiento bíblico, sin basar su confianza únicamente en emociones.
+''',
+        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:13-14; Hebreos 3:12-14.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La seguridad de la salvación descansa en el carácter fiel de Dios y en la obra completa de Jesucristo. El creyente no necesita alcanzar perfección para acercarse a Cristo, pero tampoco debe utilizar la gracia como permiso para vivir en rebelión. Las promesas consuelan y las advertencias llaman a perseverar.
+
+El Padre adopta y guarda, el Hijo da vida eterna y el Espíritu sella y da testimonio. Las obras no compran la salvación, pero la fe viva produce amor, obediencia y perseverancia. La Iglesia debe consolar a los que luchan y llamar al arrepentimiento a quienes presumen sin fruto.
+
+La mirada debe permanecer en Cristo, fundamento de la esperanza y fuente de vida eterna.
+''',
+        references: "Romanos 8:31-39; Efesios 2:8-10; 1 Juan 5:11-13.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La seguridad de la salvación se fundamenta en la fidelidad del Padre y la obra suficiente del Hijo, y es confirmada por el Espíritu. Las promesas bíblicas consuelan al creyente; las advertencias lo llaman a perseverar. No hay contradicción entre confianza y exhortación cuando ambas se leen en su contexto.
+
+Las obras no compran la salvación, pero la fe viva produce amor y obediencia. La Iglesia debe evitar tanto la condenación de quien lucha sinceramente como la falsa tranquilidad de quien rechaza la verdad. La confianza cristiana mira a Cristo y permanece en Él.
+''',
   ),
+
   Study(
     number: '119',
     title: "La perseverancia en la fe: permanecer en Cristo hasta el fin",
-    subtitle: "Las advertencias y promesas bíblicas sobre la perseverancia, la dependencia de Dios y la responsabilidad del creyente.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La constancia del creyente, las advertencias bíblicas y la fidelidad de Dios.",
+    introduction: '''
+La perseverancia en la fe es la continuidad de la confianza en Cristo y la fidelidad a su palabra a lo largo de la vida. La Biblia presenta la vida cristiana como un camino que requiere permanecer, resistir la tentación, crecer en amor y no abandonar la esperanza. La perseverancia no es autosuficiencia ni mérito humano: depende de la gracia y del poder de Dios.
+
+Las Escrituras contienen promesas de que Dios sostiene a su pueblo y advertencias contra la incredulidad, el engaño y el abandono. Ambas clases de textos deben escucharse. Las promesas fortalecen la confianza; las advertencias despiertan y llaman a la comunidad a permanecer fiel.
+
+Este estudio distingue perseverancia de perfección sin pecado y de una seguridad presuntuosa. La meta es una fe madura que continúa mirando a Jesús hasta el fin.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 119. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Perseverancia es permanecer en la fe y obediencia a Cristo a través de pruebas y tentaciones. No significa ausencia de caídas, dudas o debilidades, sino una orientación sostenida hacia el Señor, con arrepentimiento y dependencia de su gracia.
+
+Apostasía describe el abandono de la fe recibida. Las advertencias apostólicas llaman a no endurecer el corazón. La perseverancia es fruto de la gracia y también una responsabilidad exhortada por la Escritura; no debe reducirse ni a esfuerzo autónomo ni a pasividad.
+''',
+        references: "Juan 15:1-10; Hebreos 3:12-14; Filipenses 1:6; 1 Juan 1:8-9.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Las primeras comunidades cristianas enfrentaban persecución, presión social, falsos maestros y conflictos internos. Hebreos exhorta a no retroceder; las cartas de Pedro fortalecen a creyentes bajo prueba; Pablo utiliza imágenes de carrera y combate para describir la constancia.
+
+La perseverancia se vive en comunidad: los creyentes se exhortan mutuamente, se reúnen, sirven y se ayudan a resistir el engaño. El aislamiento puede aumentar la vulnerabilidad espiritual, por lo que la exhortación bíblica incluye comunión y cuidado mutuo.
+''',
+        references: "Comunidades cristianas ante persecución, presión social y falsos maestros.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento presenta a Dios como fiel a su pacto y llama a Israel a permanecer en obediencia. Deuteronomio 8 advierte que la abundancia puede llevar al olvido; Josué 23 llama a aferrarse al Señor; los Salmos describen la confianza en medio de la aflicción.
+
+La historia de Israel también muestra generaciones que se apartaron y sufrieron las consecuencias. Los profetas llaman al retorno y anuncian que Dios puede renovar el corazón. La fidelidad divina no convierte la infidelidad humana en algo irrelevante; llama al arrepentimiento.
+''',
+        references: "Deuteronomio 8; Josué 23; Salmos 37; 73.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús llama a permanecer en Él como los pámpanos en la vid (Juan 15:1-10). Sus discípulos deben guardar sus palabras y permanecer en su amor. Pablo exhorta a estar firmes en la fe y completar la carrera (1 Corintios 16:13; 2 Timoteo 4:7).
+
+Hebreos 3:12-14 advierte contra un corazón malo de incredulidad y llama a exhortarse cada día. Santiago 1:2-4 relaciona las pruebas con la madurez. Primera de Pedro 1:3-9 presenta la esperanza viva y la fe probada. La perseverancia mira a Cristo y se sostiene en la gracia.
+''',
+        references: "Juan 15:1-10; Romanos 8:13-16; Filipenses 1:6,27; Hebreos 3:12-14; 10:24-25; Santiago 1:2-4.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Juan 15:4-5 utiliza la imagen de la vid: el pámpano no puede llevar fruto por sí mismo si no permanece unido a la vid. La imagen enseña dependencia de Cristo, no autosuficiencia moral. El fruto procede de permanecer en Él.
+
+Hebreos 3:12-14 une advertencia y perseverancia. El autor llama a cuidarse de la incredulidad y a exhortarse mutuamente mientras se dice «hoy». La participación en Cristo se relaciona con retener firme hasta el fin la confianza inicial. El texto tiene propósito pastoral y comunitario.
+
+Filipenses 1:6 expresa confianza en que Dios completará la buena obra que comenzó. El versículo consuela, pero no debe utilizarse para anular las exhortaciones de la misma carta a vivir dignamente y mantenerse firmes (Filipenses 1:27; 2:12-13).
+''',
+        references: "Juan 15:4-5; Hebreos 3:12-14; Filipenses 1:6.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La perseverancia se relaciona con la elección, la gracia, la santificación, la comunidad y la esperanza futura. Dios inicia y sostiene la obra, y llama al creyente a responder con fe y obediencia. Las advertencias son parte de los medios mediante los cuales la comunidad es exhortada a permanecer.
+
+La Biblia no enseña perfección sin pecado en esta vida. Primera de Juan 1:8-9 reconoce que los creyentes necesitan confesar sus pecados. La perseverancia incluye arrepentimiento continuo y confianza en la intercesión de Cristo.
+
+La comunidad fortalece la fe mediante enseñanza, oración, comunión y cuidado mutuo. La perseverancia no debe utilizarse para juzgar superficialmente a otros, sino para animar y corregir con verdad y amor.
+''',
+        references: "Deuteronomio 8; Josué 23; Juan 15; Romanos 6; Hebreos 3; 10; 1 Juan 1.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre guarda y completa su obra en los creyentes; el Hijo es la vid y el mediador cuya vida sostiene a los suyos; el Espíritu fortalece, santifica y da testimonio. Filipenses 1:6 presenta la confianza en la obra de Dios; Juan 15 destaca la dependencia de Cristo; Romanos 8:13-16 relaciona la vida por el Espíritu con la condición de hijos de Dios.
+
+La perseverancia es obra del único Dios y responsabilidad real del creyente. El Padre no es el Hijo, y el Espíritu no es una energía impersonal. La distinción personal aparece en el testimonio de Jesús y de los apóstoles, mientras la unidad divina se mantiene en la salvación.
+''',
+        references: "Juan 15:1-10; Filipenses 1:6; Romanos 8:13-16.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Perseverar significa nunca caer? No. Los creyentes pueden pecar y necesitan arrepentimiento; la perseverancia se expresa en volver a Cristo y continuar en la fe.
+
+¿La seguridad de Dios elimina las advertencias? No. Las advertencias son parte de la enseñanza bíblica y llaman a no endurecerse. Deben leerse junto con las promesas de Dios.
+
+¿La perseverancia depende solo de la fuerza humana? No. Dios sostiene y capacita, pero la Escritura llama a permanecer y obedecer. No es pasividad.
+
+¿Una persona puede usar la gracia como excusa para pecar? No. Romanos 6 rechaza esa conclusión; la gracia conduce a una vida nueva.
+
+¿La perseverancia es individual? No exclusivamente. Hebreos 3:13 ordena exhortarse mutuamente; la comunidad tiene responsabilidad de acompañar y fortalecer.
+''',
+        references: "Romanos 6; Hebreos 3:12-14; 1 Juan 1:8-9.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué significa permanecer en Cristo? Respuesta: Depender de Él, guardar su palabra y vivir en su amor (Juan 15:4-10).
+
+Pregunta: ¿Por qué se exhorta diariamente? Respuesta: Para que nadie se endurezca por el engaño del pecado (Hebreos 3:12-14).
+
+Pregunta: ¿Quién completa la obra de salvación? Respuesta: Dios, que comenzó la buena obra y la llevará a cumplimiento (Filipenses 1:6).
+
+Pregunta: ¿Qué papel tiene la comunidad? Respuesta: Exhortar, animar y ayudar a permanecer en la fe (Hebreos 3:13; 10:24-25).
+
+Pregunta: ¿Cómo se enfrenta una caída? Respuesta: Confesando el pecado, recibiendo el perdón y caminando de nuevo en obediencia (1 Juan 1:8-9).
+''',
+        references: "Juan 15:4-10; Filipenses 1:6; Hebreos 3:12-14; 10:24-25.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La perseverancia es permanecer en Cristo mediante la gracia de Dios, con fe, arrepentimiento y obediencia. No significa perfección sin pecado ni confianza en la fuerza propia. Las promesas fortalecen y las advertencias llaman a permanecer; ambas forman parte de la enseñanza apostólica.
+
+El Padre completa su obra, el Hijo sostiene a los suyos y el Espíritu fortalece la vida nueva. La comunidad debe exhortar y cuidar, evitando tanto la presunción como la condenación precipitada. La fe madura sigue mirando a Jesús y continúa fiel hasta el fin.
+''',
+        references: "Juan 15:4-10; Filipenses 1:6; Hebreos 3:12-14.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La perseverancia consiste en permanecer en Cristo a través de pruebas, tentaciones y temporadas de debilidad. No significa perfección sin pecado, sino una fe que continúa dependiendo de Jesús, se arrepiente y obedece. Las promesas de Dios sostienen y las advertencias despiertan a la comunidad.
+
+El Padre completa su obra, el Hijo es la vid que sostiene a los suyos y el Espíritu fortalece la vida nueva. La Iglesia debe exhortarse mutuamente, permanecer en comunión y ayudar a quienes atraviesan dificultades. La meta es una fe que mira a Cristo hasta el fin.
+''',
   ),
+
   Study(
     number: '120',
     title: "La glorificación: consumación de la salvación en el pueblo de Dios",
-    subtitle: "La transformación final de los redimidos y su relación con la resurrección y la esperanza eterna.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La transformación final de los creyentes y la plena conformidad con Cristo.",
+    introduction: '''
+La glorificación es la etapa final de la salvación, cuando Dios transforme plenamente a quienes pertenecen a Cristo y los conforme a la imagen de su Hijo. La obra que comienza con el llamado, la justificación y la santificación llegará a su consumación en la resurrección y la vida en la nueva creación.
+
+La glorificación no es un logro humano ni una evolución natural hacia la divinidad. Es un acto de gracia por el cual los creyentes reciben una condición incorruptible y participan de la comunión plena con Dios. La Biblia habla de gloria futura, transformación del cuerpo y liberación de la creación.
+
+Este estudio distingue glorificación de santificación presente y examina su relación con la venida de Cristo, la resurrección, el juicio y la nueva creación.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 120. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Glorificación es la consumación de la salvación en la que Dios transforma a los creyentes para que participen plenamente de la vida incorruptible y sean conformados a Cristo. No significa convertirse en dioses ni compartir la esencia divina. La criatura permanece criatura, aunque recibe una condición gloriosa por gracia.
+
+Santificación es la obra presente por la que el creyente crece en santidad; glorificación es la transformación final y completa. La esperanza no depende de méritos ni de capacidades humanas, sino de la promesa y el poder de Dios.
+''',
+        references: "Romanos 8:18-30; Filipenses 3:20-21; 1 Juan 3:1-3; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La esperanza de gloria se expresó en el judaísmo del Segundo Templo mediante expectativas de resurrección, juicio y restauración. Los primeros cristianos proclamaron que Jesús ya había resucitado y que su pueblo participaría de esa victoria cuando Él regresara.
+
+Las cartas apostólicas fueron escritas a comunidades que sufrían persecución, conflictos y debilidad. La promesa futura no era una especulación para distraerlos, sino un fundamento para perseverar y vivir en santidad. La glorificación se relaciona con la esperanza de la nueva creación.
+''',
+        references: "Esperanza de resurrección y nueva creación en el judaísmo del Segundo Templo y las iglesias apostólicas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento anuncia que Dios quitará la muerte, restaurará a su pueblo y manifestará su gloria. Isaías 25:6-9 promete que el Señor destruirá la muerte; Daniel 12:2 habla de resurrección; Isaías 65–66 presenta la esperanza de cielos nuevos y tierra nueva.
+
+Estos textos contienen horizontes proféticos que se desarrollan en el Nuevo Testamento. La glorificación no aparece como un concepto técnico completo en la ley, pero la esperanza de restauración, vida y victoria divina prepara su comprensión.
+''',
+        references: "Isaías 25:6-9; 65:17-25; Daniel 12:1-3.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Romanos 8:18-30 relaciona el sufrimiento presente con la gloria futura. Pablo enseña que la creación gime y espera ser liberada, y que los creyentes esperan la redención de su cuerpo. Filipenses 3:20-21 afirma que Cristo transformará nuestro cuerpo de humillación conforme a su cuerpo glorioso.
+
+Primera de Corintios 15 describe la transformación de corruptibilidad a incorrupción. Primera de Juan 3:2 declara que seremos semejantes a Cristo cuando Él se manifieste, aunque todavía no se ha manifestado plenamente lo que seremos. Apocalipsis 21–22 presenta la consumación de la comunión con Dios.
+''',
+        references: "Romanos 8:18-30; 1 Corintios 15; Filipenses 3:20-21; 1 Juan 3:1-3; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Romanos 8:29-30 presenta la secuencia del propósito salvador: a quienes Dios conoció, predestinó para ser conformes a la imagen de su Hijo; también los llamó, justificó y glorificó. El uso verbal de «glorificó» contempla la certeza del propósito divino, aunque la consumación todavía se espera.
+
+Filipenses 3:20-21 señala que nuestra ciudadanía está en los cielos y que esperamos al Salvador, quien transformará nuestro cuerpo. La esperanza es corporal y depende del poder con que Cristo somete todas las cosas. No se trata de despreciar el cuerpo actual, sino de esperar su redención.
+
+1 Juan 3:2 une certeza y misterio: somos hijos de Dios, pero lo que seremos no se ha manifestado plenamente. Cuando Cristo aparezca, seremos semejantes a Él. El texto no explica cada detalle de la condición glorificada y llama a vivir en esperanza y pureza.
+''',
+        references: "Romanos 8:29-30; Filipenses 3:20-21; 1 Juan 3:2.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La glorificación se relaciona con la resurrección de Cristo, la redención del cuerpo, la liberación de la creación, el juicio final y la nueva Jerusalén. No debe reducirse a una experiencia individual: incluye la restauración de la comunidad y de la creación bajo el gobierno de Dios.
+
+Romanos 8 vincula la gloria de los hijos de Dios con la liberación de la creación. Apocalipsis 21 anuncia nuevos cielos y nueva tierra, y describe a Dios habitando con su pueblo. La esperanza cristiana no consiste en escapar de toda realidad material, sino en recibir la creación renovada por Dios.
+
+La glorificación completa la santificación: el creyente será plenamente conformado a Cristo y ya no estará sujeto al pecado, corrupción ni muerte.
+''',
+        references: "Isaías 25:6-9; Daniel 12:2; Romanos 8:18-30; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre predestina a los creyentes para ser conformes a la imagen del Hijo; el Hijo resucitado transformará sus cuerpos; el Espíritu es primicia y garantía de la redención futura. Romanos 8:11, 15-17, 23-30 une la obra del Espíritu, la adopción y la esperanza de gloria.
+
+La salvación es obra del único Dios. El Padre no es el Hijo; el Hijo es quien se encarnó y resucitó; el Espíritu habita en los creyentes y los vivifica. La distinción personal no divide la esencia divina. La glorificación manifiesta el propósito del Padre, la victoria del Hijo y la obra vivificadora del Espíritu.
+''',
+        references: "Romanos 8:11,15-17,23-30; Filipenses 3:20-21.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La glorificación significa que los creyentes se convierten en dioses? No. Participan de la vida incorruptible por gracia, pero no adquieren la esencia divina ni dejan de ser criaturas.
+
+¿La glorificación ocurre al morir? La Biblia relaciona la transformación corporal con la resurrección y la manifestación de Cristo. El estado intermedio y la consumación final deben distinguirse.
+
+¿La gloria futura elimina la importancia de la vida presente? No. La esperanza futura impulsa a vivir en santidad y servicio ahora (1 Juan 3:2-3).
+
+¿La creación será destruida y abandonada? Romanos 8 y Apocalipsis 21 hablan de liberación y renovación. Los detalles de cómo ocurrirá deben tratarse con cautela.
+
+¿La glorificación depende de obras humanas? No. Es resultado del propósito y la gracia de Dios, aunque las obras evidencian la fe y la vida transformada.
+''',
+        references: "Romanos 8:18-23; Filipenses 3:20-21; 1 Juan 3:2-3.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué significa ser conformados a la imagen del Hijo? Respuesta: Ser transformados para reflejar plenamente el carácter y la gloria de Cristo (Romanos 8:29; 1 Juan 3:2).
+
+Pregunta: ¿Qué ocurrirá con el cuerpo? Respuesta: Cristo lo transformará conforme a su cuerpo glorioso (Filipenses 3:20-21).
+
+Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Habita en los creyentes como primicia y garantía de la redención futura y vivificará sus cuerpos (Romanos 8:11,23).
+
+Pregunta: ¿La gloria futura incluye la creación? Respuesta: Sí. La creación espera ser liberada de la corrupción (Romanos 8:19-23).
+
+Pregunta: ¿Cómo debe vivir quien espera la glorificación? Respuesta: En esperanza, pureza y fidelidad, porque verá a Cristo (1 Juan 3:2-3).
+''',
+        references: "Romanos 8:29-30; Filipenses 3:20-21; 1 Juan 3:2-3.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La glorificación es la consumación de la salvación: Dios transformará a los creyentes, redimirá sus cuerpos y los conformará plenamente a Cristo. No significa convertirse en dioses, sino recibir por gracia una vida incorruptible en comunión con Dios. La esperanza incluye la liberación de la creación y la nueva Jerusalén.
+
+El Padre lleva a cumplimiento su propósito, el Hijo transformará a los suyos y el Espíritu es garantía y agente de vida. Esta esperanza no invita a despreciar el presente, sino a vivir en santidad, servicio y perseverancia mientras esperamos la venida del Señor.
+''',
+        references: "Romanos 8:18-30; Filipenses 3:20-21; Apocalipsis 21–22.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La glorificación es la consumación de la salvación y la transformación plena de los creyentes conforme a la imagen de Cristo. Incluye la redención del cuerpo, la victoria sobre la corrupción y la comunión definitiva con Dios en la nueva creación. No significa que la criatura se convierta en Dios, sino que recibe vida incorruptible por gracia.
+
+El Padre lleva a cumplimiento su propósito, el Hijo transformará a los suyos y el Espíritu es primicia y garantía de la vida futura. La esperanza de gloria fortalece la santidad y la perseverancia en el presente.
+''',
   ),
+
   Study(
     number: '121',
     title: "La iglesia local: membresía, responsabilidad y vida congregacional",
