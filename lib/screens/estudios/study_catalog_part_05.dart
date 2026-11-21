@@ -723,5 +723,4 @@ Study(
     ],
     conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
   ),
-  ),
 ];
