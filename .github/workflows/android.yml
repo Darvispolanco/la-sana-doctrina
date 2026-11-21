@@ -1,5 +1,6 @@
 
 name: Build Android APK
+# CI validates the modular Dart source on each PR update.
 
 on:
   workflow_dispatch:
