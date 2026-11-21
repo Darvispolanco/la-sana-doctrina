@@ -22177,6 +22177,8 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
   int? selectedAnswer;
   int correctAnswers = 0;
   bool answered = false;
+  bool showReview = false;
+  List<int?> answerHistory = [];
 
   void _start(QuizPack pack) {
     setState(() {
@@ -22185,6 +22187,8 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
       selectedAnswer = null;
       correctAnswers = 0;
       answered = false;
+      showReview = false;
+      answerHistory = List<int?>.filled(pack.questions.length, null);
     });
   }
 
@@ -22193,6 +22197,7 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
     setState(() {
       selectedAnswer = index;
       answered = true;
+      answerHistory[questionIndex] = index;
       if (index == selectedPack!.questions[questionIndex].correctIndex) {
         correctAnswers++;
       }
@@ -22211,6 +22216,42 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
         answered = false;
       });
     }
+  }
+
+  Widget _buildReviewCard(QuizPack pack, int index) {
+    final question = pack.questions[index];
+    final selected = answerHistory[index];
+    final selectedText = selected == null
+        ? 'Sin responder'
+        : question.options[selected];
+    return Card(
+      margin: const EdgeInsets.only(bottom: 10),
+      child: Padding(
+        padding: const EdgeInsets.all(14),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              'Pregunta ${index + 1}: ${question.question}',
+              style: const TextStyle(fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 8),
+            Text('Tu respuesta: $selectedText'),
+            Text('Respuesta correcta: ${question.options[question.correctIndex]}'),
+            const SizedBox(height: 8),
+            Text(question.explanation),
+            const SizedBox(height: 6),
+            Text(
+              'Lee: ${question.references}',
+              style: const TextStyle(
+                fontWeight: FontWeight.w600,
+                color: Color(0xFF14243A),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 
   @override
@@ -22261,6 +22302,15 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
                 style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
               ),
               Text('Resultado: ' + percent.toString() + '%'),
+              TextButton(
+                onPressed: () => setState(() => showReview = !showReview),
+                child: Text(showReview ? 'Ocultar revisión' : 'Revisar respuestas'),
+              ),
+              if (showReview) ...[
+                const SizedBox(height: 8),
+                for (var i = 0; i < pack.questions.length; i++)
+                  _buildReviewCard(pack, i),
+              ],
               const SizedBox(height: 20),
               FilledButton(onPressed: () => _start(pack), child: const Text('Repetir evaluación')),
               TextButton(onPressed: () => setState(() => selectedPack = null), child: const Text('Volver a evaluaciones')),
