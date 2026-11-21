@@ -18261,6 +18261,7 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "32. La finalidad: conocer y glorificar a Dios", content: "El propósito de la iluminación no es la fama del intérprete ni la discusión interminable, sino conocer mejor a Dios, amarle, obedecerle y edificar a la Iglesia mediante la verdad.", references: "Ef 1:17-19; Col 1:9-12; 1 Co 10:31")
     ],
     conclusion: "La iluminación del Espíritu Santo es la ayuda divina por la cual los creyentes comprenden y reciben la verdad de las Escrituras. No agrega autoridad a la Biblia ni permite contradecirla; impulsa a leer con atención, interpretar en contexto, examinar toda enseñanza y obedecer lo que Dios ha revelado. La dependencia del Espíritu y el estudio responsable no compiten: se complementan.\\n\\nEsta obra pertenece al único Dios trino: el Padre concede sabiduría y abre el entendimiento, el Hijo es la revelación culminante y el centro del mensaje, y el Espíritu Santo enseña, recuerda y aplica la verdad. El resultado esperado es una fe más firme, un carácter transformado, amor por Cristo y edificación de la Iglesia para la gloria de Dios."
+  ),
   Study(
     number: '87',
     title: "La regeneración espiritual: el nuevo nacimiento y la obra vivificadora del Espíritu Santo",
@@ -18381,7 +18382,7 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "32. El juicio y la consumación del Reino", content: "Al final, Dios juzgará con justicia y el reinado de Cristo será manifestado sin oposición. Esta consumación está relacionada con la segunda venida, el juicio final y la nueva creación, temas que se estudian de manera específica en otras lecciones.", references: "Mt 13:40-43; 25:31-34; 1 Co 15:24-28; Ap 21:1-4")
     ],
     conclusion: "El Reino de Dios es su gobierno soberano, anunciado en las Escrituras, manifestado decisivamente en Jesucristo y esperado en su plenitud. Jesús es el Rey prometido: su enseñanza, autoridad, servicio, muerte y resurrección revelan el carácter del Reino. El Espíritu Santo obra en quienes reciben el evangelio, y el Padre conduce su propósito hasta el cumplimiento.\\n\\nEl Reino no debe confundirse con una institución humana, un proyecto político ni la Iglesia considerada en todos sus límites visibles. La Iglesia pertenece a Cristo, anuncia el evangelio y vive como comunidad bajo su señorío. El Reino ya ha sido inaugurado por la venida del Hijo, pero su consumación aguarda el regreso de Cristo. Por eso los discípulos oran, sirven, practican la justicia, anuncian el evangelio y perseveran con esperanza, dando gloria al Padre, al Hijo y al Espíritu Santo.",
-  ),,
+  ),
 
   Study(
     number: '90',
