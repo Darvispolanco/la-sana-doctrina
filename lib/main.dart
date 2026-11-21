@@ -19948,269 +19948,89 @@ La esperanza profética encuentra su centro en Jesucristo y orienta al pueblo de
     ],
     conclusion: '''La literatura profética debe leerse respetando su contexto, género y destinatarios. Sus advertencias muestran la seriedad del pecado; sus promesas proclaman la fidelidad de Dios y la esperanza mesiánica. En Cristo se cumplen las promesas centrales y el Espíritu capacita al pueblo de Dios para perseverar. La Iglesia recibe estos libros con reverencia, discernimiento y esperanza.''',
   ),
-number: '107',
+  Study(
+    number: '107',
     title: "La tipología bíblica: figuras, patrones y cumplimiento en Cristo",
-    subtitle: "Cómo reconocer correspondencias bíblicas sin imponer simbolismos ajenos al texto.",
-    introduction: '''
-La tipología bíblica estudia personas, acontecimientos e instituciones del Antiguo Testamento que, dentro de la historia de la revelación, anticipan o prefiguran realidades que alcanzan su cumplimiento en Cristo y en el pueblo de Dios. No es una licencia para asignar significados ocultos a cada objeto o detalle narrativo. Las correspondencias deben estar apoyadas por el propio desarrollo de la Escritura.
+    subtitle: "Cómo reconocer correspondencias bíblicas legítimas sin interpretaciones arbitrarias.",
+    introduction: '''La tipología bíblica estudia personas, acontecimientos, instituciones y patrones históricos que anticipan o encuentran una correspondencia más plena en el desarrollo de la revelación, especialmente en la obra de Cristo. No es una búsqueda libre de semejanzas: requiere conexiones justificadas por el texto bíblico y por el desarrollo canónico.
 
-El Nuevo Testamento identifica a Adán como figura del que había de venir, relaciona la Pascua con Cristo y presenta el tabernáculo y los sacrificios como sombras de realidades superiores. Estas relaciones se establecen mediante argumentos apostólicos y deben estudiarse en sus contextos originales.
-
-Una interpretación responsable distingue tipología, profecía directa, alegoría y aplicación moral. Así se evita tanto ignorar la unidad de la Biblia como inventar equivalencias que el texto no enseña.
-''',
+Una figura conserva su realidad histórica. El éxodo fue una liberación real; el tabernáculo fue un santuario real; David fue un rey histórico. La tipología no elimina su significado original, sino que observa cómo la Escritura posterior los relaciona con una realidad mayor.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Tipo es una realidad histórica que funciona como patrón o figura de una realidad posterior dentro del plan de Dios. Antitipo es el cumplimiento correspondiente. La tipología no niega la historicidad del acontecimiento antiguo; parte de ella y reconoce una relación que la revelación posterior hace explícita.
+      StudySection(title: "1. Definición y propósito de la tipología bíblica", content: '''La tipología bíblica estudia personas, acontecimientos, instituciones y patrones históricos que, dentro del desarrollo de la revelación, anticipan o encuentran una correspondencia más plena en acontecimientos posteriores, especialmente en la obra de Cristo. No es una búsqueda libre de semejanzas: requiere conexiones justificadas por el texto bíblico y por el desarrollo canónico.
 
-Debe distinguirse de la alegoría libre, que atribuye sentidos simbólicos sin control textual. También se distingue de una profecía verbal directa: en la tipología, la correspondencia puede surgir de una persona, institución o acontecimiento que anticipa una obra posterior. El criterio fundamental es el apoyo canónico, especialmente las conexiones explícitas del Nuevo Testamento.
-''',
-        references: "Romanos 5:12-21; 1 Corintios 5:7; Hebreos 8:5; 9:23-24; Lucas 24:25-27.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-La lectura tipológica se desarrolla dentro de la unidad de la Biblia y de la revelación progresiva. Israel vivió acontecimientos históricos que después fueron recordados y reinterpretados por los profetas y apóstoles. El éxodo, el sacerdocio, el templo, el sacrificio y el reinado davídico se convierten en marcos para comprender la obra de Cristo.
+Una figura o tipo conserva su realidad histórica. El éxodo fue una liberación real; el tabernáculo fue un santuario real; David fue un rey histórico. La tipología no elimina su significado original, sino que observa cómo la Escritura posterior los relaciona con una realidad mayor.''', references: "Romanos 5:14; 1 Corintios 10:1-11; Colosenses 2:16-17; Hebreos 8:5."),
+      StudySection(title: "2. Diferencia entre tipo, símbolo, alegoría y profecía", content: '''Un tipo es una realidad histórica que anticipa otra en el desarrollo del plan divino. Un símbolo comunica una verdad mediante una imagen o señal; una alegoría desarrolla correspondencias figuradas; una profecía anuncia una palabra de Dios sobre el futuro o sobre una situación presente. Las categorías pueden relacionarse, pero no son intercambiables.
 
-En el judaísmo del Segundo Templo existían formas de interpretación que relacionaban textos antiguos con la situación presente. Sin embargo, la tipología cristiana debe seguir los argumentos del Nuevo Testamento, no asumir que cualquier semejanza literaria constituye un tipo inspirado. La historia de Israel conserva su sentido propio aun cuando anticipa una realidad mayor.
-''',
-        references: "Éxodo 12; Levítico 16; Segundo Templo; lectura apostólica del Antiguo Testamento.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Romanos 5:12-21 compara a Adán y Cristo: por un hombre entró el pecado y por un hombre viene la justificación y la vida. El argumento no convierte a Adán en una alegoría; reconoce su lugar histórico y lo presenta como figura en una comparación teológica.
+La interpretación debe evitar llamar tipo a cualquier detalle que parezca similar a otro texto. La conexión necesita apoyo bíblico, un patrón reconocible o una explicación explícita en el Nuevo Testamento. La imaginación del intérprete no puede crear doctrina.''', references: "Gálatas 4:21-31; Colosenses 2:16-17; Hebreos 9:8-9; 1 Pedro 3:20-21."),
+      StudySection(title: "3. Adán como figura y Cristo como último Adán", content: '''Romanos 5:12-21 compara a Adán y Cristo: por un hombre entró el pecado y la muerte, mientras que por la obediencia de uno viene la justificación y la vida. La comparación no significa que Adán y Cristo sean iguales en poder o resultado; Pablo destaca el contraste entre la desobediencia y la obediencia.
 
-Éxodo 12 narra la Pascua, y Pablo afirma que Cristo, nuestra Pascua, fue sacrificado (1 Corintios 5:7). El Nuevo Testamento establece la relación, pero no obliga a asignar un simbolismo independiente a cada utensilio o detalle de la comida pascual.
+1 Corintios 15:45-49 llama a Cristo último Adán y segundo hombre. La tipología conserva la historia de la creación y la caída, pero muestra que la obra de Cristo inaugura una humanidad renovada.''', references: "Génesis 2:7; 3:1-19; Romanos 5:12-21; 1 Corintios 15:21-22, 45-49."),
+      StudySection(title: "4. El éxodo y la redención", content: '''El éxodo fue la liberación histórica de Israel de la esclavitud en Egipto. Pablo utiliza el paso por el mar y la experiencia del pueblo en el desierto como advertencia para la Iglesia: los acontecimientos antiguos sirven de ejemplo y enseñanza, pero no garantizan fidelidad automática.
 
-El sacerdocio y los sacrificios se relacionan con Cristo en Hebreos 7–10. El tabernáculo y sus servicios se describen como figura y sombra de las realidades celestiales (Hebreos 8:5; 9:23-24). El rey David y sus promesas anticipan al Mesías, según el desarrollo de los Evangelios y Hechos.
-''',
-        references: "Génesis 1–3; Éxodo 12; 1 Corintios 10:1-11; Romanos 5:12-21; Hebreos 8–10.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús interpreta las Escrituras como testimonio de su misión (Lucas 24:25-27, 44-47). Los apóstoles explican que la historia de Israel encuentra su sentido redentor en la muerte y resurrección del Mesías. Primera de Pedro 3:20-21 relaciona el diluvio con el bautismo mediante una correspondencia explícita, y Hebreos utiliza el sacerdocio antiguo para explicar el ministerio superior de Cristo.
+La Pascua y la liberación permiten comprender el lenguaje de redención aplicado a Cristo. Pablo llama a Jesús nuestra Pascua, pero la relación debe apoyarse en el argumento apostólico y no en asociaciones arbitrarias de cada detalle del relato de Éxodo.''', references: "Éxodo 12–14; 1 Corintios 5:7-8; 10:1-11; 1 Pedro 1:18-19."),
+      StudySection(title: "5. El tabernáculo y el sacerdocio como figuras", content: '''El tabernáculo fue el lugar de culto de Israel y estaba organizado según instrucciones divinas. Hebreos 8:5 lo describe como figura y sombra de las cosas celestiales. El texto no afirma que el tabernáculo careciera de realidad, sino que su servicio señalaba una realidad superior.
 
-La tipología también puede orientar la comprensión de la Iglesia. Israel es descrito como pueblo llamado a anunciar las virtudes de Dios, y los creyentes son piedras vivas edificadas como casa espiritual (1 Pedro 2:4-10). Estas conexiones deben leerse cuidadosamente para no borrar las diferencias históricas entre Israel, Cristo y la Iglesia.
-''',
-        references: "Lucas 24:25-47; Romanos 5:12-21; 1 Corintios 5:7; 10:1-11; Hebreos 8–10; 1 Pedro 3:20-21; 2:4-10.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Romanos 5:14 llama a Adán figura del que había de venir. Pablo desarrolla una comparación entre la transgresión de uno y la obediencia de Cristo. El tipo y su cumplimiento no son idénticos en todos los aspectos: la gracia de Cristo supera la consecuencia del pecado.
+El sacerdocio levítico y sus sacrificios tenían una función dentro del pacto antiguo, pero Hebreos los compara con el sacerdocio y la ofrenda superiores de Cristo. La tipología debe respetar tanto la función histórica del santuario como los límites que el Nuevo Testamento identifica.''', references: "Éxodo 25:8-9; 40:34-38; Levítico 16; Hebreos 8:1-6; 9:1-14."),
+      StudySection(title: "6. Jonás y otros patrones de la Escritura", content: '''Jesús menciona la señal de Jonás al hablar de su muerte y resurrección. La conexión se centra en el patrón de Jonás y en la señal que Jesús anuncia a su generación. No es necesario convertir cada elemento del relato del profeta en un código oculto para entender la enseñanza.
 
-Hebreos 8:5 describe el servicio terrenal como figura y sombra de las cosas celestiales. El contexto trata del sacerdocio y del santuario; por tanto, la afirmación no autoriza a convertir cada detalle de la arquitectura en un código secreto. Hebreos 9:24 aclara que Cristo entró en el cielo mismo, no en un santuario hecho por manos humanas.
+Otros patrones, como el rey davídico, el éxodo y el siervo sufriente, se relacionan con la esperanza mesiánica. Cada caso debe examinarse de acuerdo con la forma en que la Escritura lo desarrolla.''', references: "Jonás 1:17; 2:1-10; Mateo 12:38-41; 2 Samuel 7:12-16; Isaías 52:13–53:12."),
+      StudySection(title: "7. Reglas para reconocer una tipología legítima", content: '''Una tipología sólida respeta el contexto original, identifica una correspondencia significativa y cuenta con apoyo en el desarrollo bíblico. Las conexiones explícitas del Nuevo Testamento tienen prioridad. Cuando la relación es una inferencia, debe presentarse con cautela y no como certeza doctrinal.
 
-1 Corintios 10:1-11 presenta los acontecimientos del éxodo como ejemplos para la Iglesia. Pablo extrae advertencias sobre idolatría, incredulidad y murmuración. La historia conserva su realidad y se convierte en instrucción para el pueblo de Dios.
-''',
-        references: "Romanos 5:14-19; Hebreos 8:5; 9:23-24; 1 Corintios 10:1-11.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La tipología conecta la creación, los pactos, el éxodo, el sacerdocio, el reino y la esperanza profética. No sustituye el sentido histórico original; muestra cómo Dios conduce la historia hacia su propósito redentor. La lectura tipológica debe armonizar con la enseñanza explícita y no contradecir el contexto.
+No todo número, color, objeto o personaje tiene un significado profético escondido. Convertir detalles incidentales en códigos produce interpretaciones que no pueden verificarse y desvía la atención del mensaje del pasaje. La tipología debe iluminar el texto, no reemplazarlo.''', references: "Romanos 5:14; 1 Corintios 10:6, 11; Hebreos 8:5; 10:1."),
+      StudySection(title: "8. La tipología y el cumplimiento en Cristo", content: '''El Nuevo Testamento identifica a Cristo como cumplimiento de promesas, patrones e instituciones: es descendiente de David, verdadero Cordero pascual, sumo sacerdote y mediador del nuevo pacto. Estas conexiones se establecen mediante argumentos apostólicos concretos.
 
-La Pascua apunta a Cristo; Adán sirve como figura en Romanos 5; el sacerdocio y el santuario preparan el lenguaje de Hebreos; y los acontecimientos del desierto instruyen a la Iglesia en 1 Corintios 10. Estas correspondencias tienen apoyo apostólico. Otras propuestas pueden ser útiles como ilustraciones, pero no deben elevarse a doctrina obligatoria sin fundamento.
+El cumplimiento no significa que cada figura se repita de manera idéntica. Cristo lleva a su plenitud lo que las figuras señalaban y, al mismo tiempo, supera las limitaciones de las instituciones antiguas. El intérprete debe distinguir continuidad, contraste y consumación.''', references: "Mateo 1:1; Juan 1:29; 1 Corintios 5:7; Hebreos 7:22-28; 9:11-15."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''La tipología pertenece al desarrollo del plan del único Dios. El Padre establece y promete la redención; el Hijo cumple las figuras y promesas; el Espíritu inspira las Escrituras y aplica la obra de Cristo. No se debe atribuir a cada tipo una representación separada de cada persona divina si el texto no lo enseña.
 
-La tipología también preserva la unidad de la Biblia: el mismo Dios que actuó en la historia de Israel lleva a cumplimiento sus promesas en Cristo.
-''',
-        references: "Génesis 1–3; Éxodo 12; Levítico 16; Romanos 5; 1 Corintios 5; 10; Hebreos 8–10.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre ordena la historia de la salvación y cumple sus promesas; el Hijo es el centro y cumplimiento de las figuras que el Nuevo Testamento identifica; el Espíritu Santo inspira las Escrituras y ayuda a comprender su testimonio. Lucas 24 presenta a Jesús explicando cómo la Ley, los Profetas y los Salmos daban testimonio de Él.
+¿Cada personaje bíblico es tipo de Cristo? No. ¿Todo detalle del tabernáculo tiene un significado oculto? No; deben seguirse las conexiones bíblicas. ¿Una tipología puede contradecir el sentido histórico? No; depende de él y lo desarrolla. ¿La figura tiene el mismo valor que el cumplimiento? No; Hebreos destaca la superioridad de Cristo.''', references: "Lucas 24:25-27; Juan 5:39; 1 Pedro 1:10-12; Hebreos 8:5-6; 10:1."),
+      StudySection(title: "10. Aplicación hermenéutica y síntesis", content: '''La tipología ayuda a reconocer la unidad de la Biblia y la centralidad de Cristo, siempre que se practique con disciplina. El estudiante debe comenzar por el sentido histórico y literario, examinar las conexiones explícitas y distinguir entre afirmación bíblica e inferencia.
 
-La tipología no debe convertirse en un método para descubrir tres personas en cada objeto del tabernáculo. La doctrina trinitaria se fundamenta en textos que distinguen al Padre, al Hijo y al Espíritu. La lectura tipológica sirve para comprender la obra del Hijo dentro del propósito del único Dios y no para construir alegorías trinitarias arbitrarias.
-
-La unidad divina y la distinción personal permanecen: el Padre envía, el Hijo cumple la redención y el Espíritu aplica la obra y conduce a la verdad.
-''',
-        references: "Lucas 24:25-47; Juan 14:16-17; 1 Pedro 1:10-12; Efesios 1:3-14.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Todo personaje bíblico es un tipo de Cristo? No. La correspondencia debe estar apoyada por el texto bíblico y no por semejanzas imaginadas.
-
-¿La tipología niega la historia de Israel? No. El tipo es una realidad histórica que conserva su significado original y además participa en un patrón redentor.
-
-¿Tipología y alegoría son lo mismo? No. La tipología parte de correspondencias históricas y canónicas; la alegoría libre puede asignar sentidos sin apoyo textual.
-
-¿Cada detalle del tabernáculo representa algo específico de Jesús? No debe afirmarse sin evidencia bíblica. Hebreos identifica el santuario como figura y sombra, pero no ofrece un código individual para cada medida y material.
-
-¿La tipología reemplaza el sentido literal? No. Primero se estudia el contexto y el sentido histórico; luego se considera el desarrollo que la Escritura misma establece.
-''',
-        references: "Romanos 5:14; 1 Corintios 5:7; Hebreos 8:5; 9:23-24.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué relación establece Romanos 5 entre Adán y Cristo? Respuesta: Adán es figura del que había de venir; Pablo contrasta la transgresión con la obediencia y el don de gracia de Cristo.
-
-Pregunta: ¿Por qué Pablo llama a Cristo nuestra Pascua? Respuesta: Para explicar la relación entre la liberación pascual y la muerte redentora de Jesús (1 Corintios 5:7).
-
-Pregunta: ¿Qué significa que el santuario era sombra? Respuesta: Que su servicio terrenal anticipaba realidades superiores cumplidas en el ministerio de Cristo (Hebreos 8:5; 9:23-24).
-
-Pregunta: ¿Cómo evitar interpretaciones inventadas? Respuesta: Examinando el contexto original y exigiendo apoyo canónico para cada correspondencia.
-
-Pregunta: ¿Cuál es el centro de la tipología cristiana? Respuesta: Jesucristo y el cumplimiento de las promesas de Dios, según Lucas 24:25-27 y 44-47.
-''',
-        references: "Romanos 5:12-21; 1 Corintios 5:7; Hebreos 8:5; Lucas 24:25-47.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La tipología bíblica ayuda a reconocer la unidad de la historia de la redención. Adán, la Pascua, el éxodo, el sacerdocio y el santuario ofrecen patrones que el Nuevo Testamento relaciona con Cristo. Estas correspondencias no eliminan la historicidad ni el sentido original de los acontecimientos.
-
-La interpretación responsable evita alegorías libres y no convierte cada detalle en una doctrina. Primero estudia el contexto; luego reconoce las relaciones que la propia Escritura establece. Cristo es el centro del cumplimiento, dentro del propósito del Padre y de la obra del Espíritu.
-
-Leer tipológicamente es contemplar la fidelidad de Dios a lo largo de la historia, sin añadir significados que el texto no sostiene.
-''',
-        references: "Lucas 24:25-47; Romanos 5:12-21; Hebreos 8–10.",
-      ),
+La Iglesia anuncia a Cristo como cumplimiento del plan de Dios sin convertir la Escritura en un conjunto de acertijos. La tipología bien aplicada fortalece la lectura canónica, protege contra interpretaciones arbitrarias y muestra que la redención avanza hacia su consumación en Jesús.''', references: "Lucas 24:44-47; Romanos 15:4; 1 Corintios 10:11; 2 Timoteo 3:16-17.")
     ],
-    conclusion: '''
-La tipología bíblica reconoce patrones históricos que la propia Escritura relaciona con el cumplimiento en Cristo. Adán, la Pascua, el éxodo y el sacerdocio son ejemplos explícitos. La tipología no elimina el sentido original ni autoriza a inventar significados ocultos en cada detalle.
-
-El método exige contexto, coherencia canónica y atención a los argumentos apostólicos. Cristo es el centro del cumplimiento y la historia de Israel conserva su lugar dentro del plan de Dios. El Padre cumple sus promesas, el Hijo las lleva a plenitud y el Espíritu inspira el testimonio bíblico.
-
-La tipología fortalece la comprensión de la unidad de las Escrituras cuando se practica con rigor y humildad.
-''',
+    conclusion: '''La tipología ayuda a reconocer la unidad de la Biblia y la centralidad de Cristo, siempre que se practique con disciplina. El estudiante comienza por el sentido histórico y literario, examina las conexiones explícitas y distingue entre afirmación bíblica e inferencia. La tipología bien aplicada fortalece la lectura canónica y muestra que la redención avanza hacia su consumación en Jesús.''',
   ),
-
   Study(
     number: '108',
     title: "Los géneros literarios de la Biblia: cómo reconocerlos e interpretarlos",
-    subtitle: "La importancia de identificar narración, poesía, ley, profecía, sabiduría, evangelio, epístola y apocalíptica.",
-    introduction: '''
-La Biblia contiene una diversidad de géneros literarios: narración, ley, poesía, sabiduría, profecía, evangelio, parábola, epístola y literatura apocalíptica. Cada género comunica la verdad de manera propia. Leer un poema como si fuera una crónica, o una parábola como si cada detalle fuera una descripción histórica, puede conducir a conclusiones equivocadas.
+    subtitle: "Principios para leer narración, ley, poesía, profecía, evangelios, cartas y apocalíptica.",
+    introduction: '''La Biblia contiene narración, ley, poesía, sabiduría, profecía, evangelio, parábola, carta y literatura apocalíptica. Cada género comunica de manera particular y requiere preguntas de interpretación adecuadas. Leer poesía como informe técnico o una parábola como crónica puede producir conclusiones equivocadas.
 
-Reconocer el género no reduce la autoridad de la Escritura; permite escuchar correctamente lo que el texto afirma. La interpretación debe considerar vocabulario, estructura, contexto histórico, propósito del autor y relación con el conjunto bíblico. La Biblia es Palabra de Dios y también literatura comunicada mediante autores humanos y formas reconocibles.
-
-Este estudio ofrece principios para leer responsablemente, evitando tanto el literalismo que ignora las figuras como la interpretación alegórica que inventa sentidos sin fundamento.
-''',
+Reconocer el género no reduce la autoridad de la Escritura; ayuda a comprender cómo el autor comunica el mensaje. La interpretación busca el sentido del texto en su contexto, no imponerle una forma de lectura ajena.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Género literario es una forma reconocible de comunicación con convenciones propias. La narración cuenta acontecimientos; la ley establece instrucciones; la poesía utiliza imágenes y paralelismos; la sabiduría forma el discernimiento; la profecía anuncia y exhorta; las epístolas argumentan y corrigen; la apocalíptica comunica mediante visiones y símbolos.
+      StudySection(title: "1. Qué son los géneros literarios bíblicos", content: '''La Biblia contiene narración, ley, poesía, sabiduría, profecía, evangelio, parábola, carta y literatura apocalíptica. Cada género comunica de manera particular y requiere preguntas de interpretación adecuadas. Leer poesía como si fuera un informe técnico o una parábola como si fuera una crónica puede producir conclusiones equivocadas.
 
-El sentido literal no significa leer cada palabra de manera plana. En poesía, el sentido literal incluye metáforas; en parábolas, la enseñanza se comunica mediante una historia ilustrativa; en apocalíptica, los símbolos forman parte de la comunicación intencional. La pregunta correcta es qué quiso comunicar el texto en su forma literaria.
-''',
-        references: "Salmo 23; Marcos 4:30-32; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los libros bíblicos surgieron en contextos históricos diversos: monarquía, exilio, retorno, vida de Jesús y expansión de la Iglesia. Los autores utilizaron formas de escritura conocidas en su época, pero su mensaje se integra en el canon de las Escrituras.
+Reconocer el género no reduce la autoridad de la Escritura; ayuda a comprender cómo el autor comunica el mensaje. La interpretación busca el sentido del texto en su contexto, no imponerle una forma de lectura ajena.''', references: "Lucas 1:1-4; Salmo 19; Proverbios 1:1-7; Apocalipsis 1:1-3."),
+      StudySection(title: "2. Narración histórica y relatos bíblicos", content: '''La narración presenta personajes, acontecimientos, diálogos, conflictos y consecuencias. Para interpretarla se examinan el contexto, la secuencia, la voz del narrador y el propósito teológico. No toda acción narrada es aprobada por Dios; los relatos pueden mostrar pecados y errores sin convertirlos en modelos a imitar.
 
-La narración histórica puede incluir discursos y genealogías; los profetas combinan poesía y relato; los Evangelios presentan acontecimientos y enseñanzas; las cartas responden a problemas de comunidades concretas. Conocer el contexto evita trasladar directamente una instrucción local a todos los tiempos sin considerar su fundamento y alcance.
-''',
-        references: "Contextos históricos de los géneros bíblicos; Salmos; profetas; Evangelios; cartas; Apocalipsis.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-La Biblia muestra variedad desde Génesis hasta los profetas. Génesis utiliza narración; Levítico contiene legislación cultual; Salmos presenta poesía y oración; Proverbios reúne dichos; Isaías y Jeremías combinan oráculos y narraciones; Daniel incluye relato y visión apocalíptica.
+Los libros históricos cuentan la obra de Dios en la vida de Israel y de la Iglesia. La lectura debe distinguir entre descripción y mandato: que un personaje haya hecho algo no significa que el lector deba repetirlo.''', references: "Génesis 12–22; 2 Samuel 11–12; Hechos 5:1-11; 1 Corintios 10:6-11."),
+      StudySection(title: "3. Ley y literatura legal", content: '''La ley contiene mandatos, prohibiciones, regulaciones de culto, normas civiles y principios morales dentro del pacto con Israel. Para interpretarla es necesario identificar a quién fue dada, qué situación regula y cómo el Nuevo Testamento explica su relación con el nuevo pacto.
 
-El Antiguo Testamento debe leerse atendiendo a la forma y al propósito de cada libro. Las leyes del pacto tienen un contexto histórico específico, aunque revelan principios teológicos que el resto de la Biblia desarrolla. Los poemas expresan verdad mediante imágenes y no deben tratarse como manuales técnicos.
-''',
-        references: "Génesis; Levítico; Salmos; Proverbios; Isaías; Daniel.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-El Nuevo Testamento contiene cuatro Evangelios, Hechos, cartas y Apocalipsis. Los Evangelios narran la vida, muerte y resurrección de Jesús con énfasis teológicos propios. Hechos relata la expansión de la Iglesia; las epístolas argumentan y aplican la enseñanza apostólica a comunidades; Apocalipsis utiliza visiones y símbolos para exhortar y anunciar la victoria de Dios.
+No todos los mandatos tienen idéntica función ni se aplican sin mediación a la Iglesia. La ley revela la santidad de Dios y la necesidad de obediencia, mientras que el Nuevo Testamento muestra el cumplimiento de la redención en Cristo y la vida guiada por el Espíritu.''', references: "Éxodo 20:1-17; Levítico 19; Deuteronomio 6:1-9; Mateo 5:17-20; Gálatas 3:19-25."),
+      StudySection(title: "4. Poesía hebrea y paralelismo", content: '''La poesía hebrea utiliza paralelismo, imágenes, repetición, contraste y lenguaje figurado. En muchos salmos, una línea complementa, amplía o contrasta con otra. La interpretación debe atender a la estructura poética y al movimiento emocional del poema.
 
-Las parábolas de Jesús no deben convertirse en alegorías ilimitadas. Las cartas deben leerse atendiendo a sus destinatarios y argumentos. Apocalipsis debe interpretarse dentro de su lenguaje simbólico y de sus referencias al Antiguo Testamento, sin convertir cada imagen en una equivalencia moderna automática.
-''',
-        references: "Lucas 24:27,44-47; Marcos 4:1-34; Gálatas 4:21-31; Apocalipsis 1:1-20; 2 Timoteo 3:16-17.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Salmo 23 utiliza la imagen del pastor para expresar el cuidado de Dios. La metáfora comunica una verdad real, aunque Dios no sea literalmente un pastor humano con rebaño físico. Marcos 4:30-32 presenta la parábola de la semilla de mostaza; su propósito es ilustrar el crecimiento del reino, no ofrecer una clasificación botánica exhaustiva.
+El lenguaje figurado no es falso por no ser literal. Decir que Dios es roca o pastor comunica estabilidad y cuidado mediante imágenes. El lector debe reconocer el recurso y preguntar qué verdad expresa en el contexto.''', references: "Salmos 1; 23; 42; 103; Isaías 55:10-13."),
+      StudySection(title: "5. Literatura sapiencial y proverbios", content: '''Los libros sapienciales utilizan máximas, diálogos, poemas y reflexiones para enseñar discernimiento. Un proverbio suele describir un patrón general, no una promesa sin excepciones para cada situación. Job y Eclesiastés amplían la perspectiva al mostrar los límites de las fórmulas simplistas.
 
-Gálatas 4:21-31 utiliza una lectura figurada en un argumento específico sobre los pactos. Ese uso apostólico no autoriza a convertir cualquier narración en alegoría. Apocalipsis 1:20 ofrece una clave interpretativa explícita para ciertos símbolos: las estrellas y candeleros representan realidades identificadas por el propio texto.
+La sabiduría debe interpretarse como formación para vivir delante de Dios. La pregunta no es solamente qué regla contiene una frase, sino qué tipo de carácter y conducta busca producir.''', references: "Job 1–42; Proverbios 1:1-7; Eclesiastés 12:9-14."),
+      StudySection(title: "6. Profecía y oráculos", content: '''La profecía comunica la palabra de Dios mediante denuncia, exhortación, juicio, consuelo y esperanza. Los oráculos pueden emplear poesía, imágenes cósmicas y acciones simbólicas. El intérprete debe identificar el destinatario original y los acontecimientos históricos relacionados.
 
-La regla es atender a las señales del pasaje: comparaciones, paralelismos, fórmulas proféticas, destinatarios, estructura y explicaciones internas. El género guía la lectura sin eliminar el sentido histórico ni la autoridad del mensaje.
-''',
-        references: "Salmo 23; Marcos 4:30-32; Gálatas 4:21-31; Apocalipsis 1:20.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Los géneros deben relacionarse con la unidad de la Biblia. Una narración puede describir un acto sin aprobarlo; una ley puede pertenecer al pacto de Israel y requerir interpretación a la luz del Nuevo Testamento; una promesa profética puede tener cumplimiento histórico y horizonte mesiánico. La lectura canónica permite armonizar sin borrar las diferencias.
+No toda profecía es una predicción distante. Muchas advertencias se dirigían a decisiones presentes del pueblo. La lectura cristiana examina además cómo Jesús y los apóstoles utilizan esos textos, sin borrar el contexto original.''', references: "Isaías 1:1-20; Jeremías 1:1-10; Amós 5:18-24; Lucas 4:16-21."),
+      StudySection(title: "7. Evangelios, parábolas y cartas", content: '''Los evangelios presentan la identidad, las palabras, las obras, la muerte y la resurrección de Jesús. Las parábolas comunican verdades del reino mediante historias e imágenes; su punto central debe determinarse a partir del contexto y la explicación de Jesús cuando la ofrece.
 
-La poesía expresa doctrina mediante imágenes; las epístolas desarrollan argumentos; la apocalíptica utiliza símbolos que remiten a textos anteriores. Los Evangelios muestran a Cristo como centro del testimonio bíblico (Lucas 24:27, 44-47). El intérprete debe permitir que los pasajes claros iluminen los difíciles, sin forzar contradicciones ni inventar armonizaciones.
-''',
-        references: "Génesis–Apocalipsis; Lucas 24:27,44-47; 2 Timoteo 3:16-17.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el Dios que se revela mediante las Escrituras; el Hijo es la Palabra encarnada y el centro del testimonio bíblico; el Espíritu Santo inspiró a los autores y guía a la Iglesia a la verdad. Segunda de Timoteo 3:16-17 afirma la inspiración y utilidad de la Escritura; 2 Pedro 1:20-21 explica que la profecía no surgió por voluntad humana, sino que los hombres hablaron de parte de Dios impulsados por el Espíritu Santo.
+Las cartas apostólicas responden a situaciones concretas de iglesias y personas. Deben leerse atendiendo al argumento completo, al destinatario, a las preguntas que resuelven y a la relación entre enseñanza doctrinal y aplicación práctica.''', references: "Mateo 13:1-23; Marcos 4:1-20; Lucas 1:1-4; Romanos 1:1-7; 1 Corintios 1:1-10."),
+      StudySection(title: "8. Literatura apocalíptica y simbolismo", content: '''La literatura apocalíptica utiliza visiones, números, animales, colores y escenas celestiales para revelar la soberanía de Dios y el desenlace de la historia. Daniel y Apocalipsis deben leerse dentro de sus contextos históricos y de su lenguaje simbólico.
 
-Juan 1:1, 14 distingue al Verbo que estaba con Dios y era Dios, y que se hizo carne. El Padre no es el Hijo, y el Espíritu no es una fuerza creada. La doctrina trinitaria se establece por el testimonio completo de la Biblia, no por atribuir artificialmente cada género a una persona divina.
-''',
-        references: "Juan 1:1,14; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Reconocer géneros significa negar la inspiración? No. La inspiración divina no elimina las formas literarias humanas; las utiliza para comunicar la verdad.
+No todo símbolo tiene una interpretación obvia ni debe conectarse automáticamente con titulares contemporáneos. El propósito pastoral incluye fortalecer la fidelidad y la esperanza de comunidades bajo presión, recordando que Dios reina y juzga con justicia.''', references: "Daniel 7:1-28; 8:1-27; Apocalipsis 1:1-20; 12:1-17."),
+      StudySection(title: "9. Principios de interpretación y preguntas difíciles", content: '''El intérprete debe observar el género, el contexto inmediato, el contexto histórico, la estructura, las palabras clave y la relación con el conjunto bíblico. También debe distinguir lo que el texto afirma, lo que implica y lo que el lector infiere.
 
-¿Todo lo narrado en la Biblia es aprobado por Dios? No. La narración puede registrar acciones pecaminosas para enseñar sus consecuencias. Debe distinguirse descripción de aprobación.
+¿El lenguaje figurado niega la verdad? No. ¿Todo relato es ejemplo moral? No; algunos muestran advertencias. ¿Todo símbolo apocalíptico debe leerse literalmente? No; el propio género utiliza imágenes. ¿Una carta antigua carece de aplicación actual? No; sus principios deben aplicarse respetando el contexto y la enseñanza apostólica.''', references: "Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 2:15; 2 Pedro 3:15-16."),
+      StudySection(title: "10. Perspectiva trinitaria y aplicación", content: '''El único Dios es autor de la revelación: el Padre habla y envía, el Hijo es la Palabra encarnada y centro del testimonio bíblico, y el Espíritu Santo inspira y guía a la verdad. La doctrina trinitaria debe surgir de la lectura conjunta de las Escrituras, no de imponer a cada género una fórmula que el pasaje no contiene.
 
-¿El sentido literal excluye metáforas? No. El sentido literal es el sentido comunicado por el autor según el género; en poesía, incluye imágenes y comparaciones.
-
-¿Las parábolas son relatos históricos? Su función principal es ilustrativa y didáctica. No se debe exigir que cada detalle corresponda a un hecho histórico independiente.
-
-¿Apocalipsis debe leerse todo literalmente? El libro señala su carácter de revelación mediante visiones y símbolos. La interpretación debe atender a sus claves internas y a su uso del Antiguo Testamento.
-''',
-        references: "Marcos 4:30-32; 2 Timoteo 3:16-17; Apocalipsis 1:1-20.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Por qué identificar el género? Respuesta: Para comprender qué tipo de afirmación realiza el texto y evitar interpretaciones que contradigan su forma literaria.
-
-Pregunta: ¿Cómo se interpreta la poesía? Respuesta: Prestando atención al paralelismo, las imágenes, el contexto y el propósito del poema.
-
-Pregunta: ¿Cómo se interpreta una epístola? Respuesta: Siguiendo el argumento, los destinatarios, la situación y la aplicación de la enseñanza.
-
-Pregunta: ¿Qué hacer con los símbolos apocalípticos? Respuesta: Buscar las explicaciones que el propio libro ofrece y sus referencias al resto de la Escritura.
-
-Pregunta: ¿Quién es el centro del testimonio bíblico? Respuesta: Jesucristo, a quien la Ley, los Profetas y los Salmos señalan según Lucas 24:27, 44-47.
-''',
-        references: "Salmo 23; Marcos 4:1-34; Lucas 24:27,44-47; 2 Timoteo 3:16-17.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La diversidad literaria de la Biblia requiere una lectura atenta. Identificar el género permite distinguir narración, mandato, poesía, parábola, argumento y visión simbólica. No se debe convertir una metáfora en descripción física ni una narración de pecado en aprobación moral.
-
-La inspiración divina no elimina la forma literaria; la utiliza. El contexto histórico, el propósito del autor y la relación canónica orientan la interpretación. Cristo es el centro del testimonio bíblico, y el Espíritu inspiró las Escrituras para instruir al pueblo de Dios.
-
-Leer fielmente exige humildad, estudio y disposición a obedecer lo que el texto realmente enseña, sin añadir sentidos arbitrarios ni ignorar su autoridad.
-''',
-        references: "Lucas 24:27,44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
-      ),
+La Iglesia debe enseñar a leer la Biblia con atención, humildad y rigor. Reconocer el género protege de interpretaciones superficiales, mientras que comparar pasajes y respetar el contexto ayuda a presentar fielmente la sana doctrina.''', references: "Juan 1:1-14; 14:16-17, 26; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.")
     ],
-    conclusion: '''
-La Biblia comunica la verdad mediante diversos géneros literarios. Cada forma requiere atención a su vocabulario, estructura, contexto y propósito. Reconocer el género no reduce la inspiración ni la autoridad de las Escrituras; permite comprenderlas correctamente.
-
-La narración describe acontecimientos, la poesía utiliza imágenes, las epístolas desarrollan argumentos y la apocalíptica comunica mediante símbolos. Cristo es el centro del testimonio bíblico, y el Espíritu inspiró a los autores humanos para transmitir la palabra de Dios.
-
-La interpretación fiel evita tanto el literalismo que ignora las figuras como la alegoría arbitraria. El objetivo es escuchar y obedecer lo que Dios ha comunicado en el texto.
-''',
+    conclusion: '''Reconocer los géneros literarios permite comprender cómo comunica la Biblia y evita imponer al texto una forma de lectura inadecuada. La Iglesia debe examinar el contexto, la estructura y el argumento de cada pasaje, comparar las Escrituras y distinguir afirmación de inferencia. Esta disciplina sirve a la enseñanza fiel de la sana doctrina y a una lectura centrada en Cristo.''',
   ),
-
-  Study(
-    number: '109',
+number: '109',
     title: "La interpretación bíblica: principios para comprender fielmente las Escrituras",
     subtitle: "Hermenéutica, exégesis, contexto y aplicación responsable de la Palabra de Dios.",
     introduction: '''
