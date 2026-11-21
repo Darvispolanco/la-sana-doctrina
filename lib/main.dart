@@ -20920,79 +20920,517 @@ La Iglesia debe defender la fe sin exageraciones, responder preguntas con rigor 
   Study(
     number: '113',
     title: "La teología bíblica: unidad, desarrollo y revelación progresiva",
-    subtitle: "El seguimiento de los grandes temas bíblicos a través de sus etapas históricas y literarias.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "El desarrollo de los temas bíblicos a través de la historia de la redención.",
+    introduction: '''
+La teología bíblica estudia cómo la revelación de Dios se desarrolla a lo largo de la historia narrada en las Escrituras. Examina temas, pactos, promesas, instituciones y acontecimientos en su contexto original y observa cómo se relacionan con el conjunto de la Biblia. No debe confundirse con una colección de doctrinas aisladas ni con la simple organización de versículos por temas.
+
+La revelación progresiva significa que Dios comunicó su propósito a través de etapas históricas, sin que ello implique que cambiara de carácter o se contradijera. Las promesas y figuras anteriores encuentran desarrollo y cumplimiento en Cristo. Para comprender ese proceso es necesario respetar tanto la continuidad como las diferencias entre los pactos y sus destinatarios.
+
+Este estudio presenta la unidad de la Escritura, la centralidad de Cristo y la obra del Padre, del Hijo y del Espíritu Santo en la historia de la salvación.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 113. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Teología bíblica es el estudio de los temas y estructuras teológicas conforme se desarrollan en el canon y en la historia de la redención. Revelación progresiva describe la comunicación de Dios en etapas, desde los patriarcas y profetas hasta la revelación culminante en el Hijo (Hebreos 1:1-2).
+
+Debe distinguirse de la teología sistemática, que organiza doctrinas por temas, aunque ambas disciplinas se complementan. La teología bíblica pregunta cómo un tema aparece, se desarrolla y alcanza su cumplimiento en la Escritura. La unidad canónica no elimina la diversidad histórica y literaria de los libros.
+''',
+        references: "Hebreos 1:1-2; Lucas 24:27,44-47; Efesios 1:3-14.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La Biblia reúne escritos producidos en épocas y contextos diversos. La historia de Israel, los pactos, el exilio, la restauración y el ministerio de Jesús forman parte del desarrollo narrativo. Los autores bíblicos interpretan acontecimientos anteriores y anuncian promesas futuras.
+
+La revelación progresiva no significa que los creyentes antiguos fueran abandonados a la ignorancia ni que Dios cambiara de identidad. Significa que ciertos aspectos de su propósito fueron revelados con mayor claridad a medida que avanzó la historia. El Nuevo Testamento lee las Escrituras de Israel a la luz de la muerte y resurrección de Cristo.
+''',
+        references: "Contexto de los pactos y etapas de la historia bíblica.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Génesis presenta la creación, la caída y las promesas a Abraham. Éxodo muestra la liberación y el pacto; la ley organiza la vida de Israel; la monarquía introduce la promesa davídica; los profetas anuncian juicio y restauración. Estos momentos no son episodios desconectados: forman una historia que avanza hacia el propósito redentor de Dios.
+
+Jeremías 31 anuncia un nuevo pacto; Ezequiel 36 promete un corazón nuevo y el Espíritu; Isaías presenta al siervo y al rey justo. Los textos deben estudiarse primero en su contexto y después en su relación con el desarrollo posterior de la revelación.
+''',
+        references: "Génesis 1–3; 12; Éxodo 19–24; 2 Samuel 7; Jeremías 31; Ezequiel 36.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús enseña que las Escrituras dan testimonio de Él (Lucas 24:27, 44-47). Los apóstoles interpretan la muerte y resurrección de Cristo como cumplimiento de las promesas y anuncian la inclusión de las naciones. Hechos muestra la expansión del evangelio y la obra del Espíritu.
+
+Hebreos 1:1-2 presenta al Hijo como la revelación culminante. Gálatas 3 explica la relación entre la promesa a Abraham y la fe en Cristo; Efesios 1 resume el propósito de reunir todas las cosas en Él. La teología bíblica examina estos vínculos sin borrar el sentido histórico de las promesas antiguas.
+''',
+        references: "Lucas 24:27,44-47; Gálatas 3; Efesios 1; Hebreos 1:1-2; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Hebreos 1:1-2 establece una secuencia: Dios habló antiguamente por los profetas y en estos últimos tiempos ha hablado por el Hijo. La continuidad está en el mismo Dios que se revela; la culminación está en la persona y obra del Hijo. El pasaje no afirma que la revelación anterior fuera falsa, sino que era preparatoria y ahora alcanza su expresión culminante.
+
+Lucas 24:44-47 muestra a Jesús interpretando la Ley, los Profetas y los Salmos en relación con su padecimiento, resurrección y la proclamación del arrepentimiento a las naciones. La lectura cristiana debe seguir esa conexión canónica y no limitarse a asociaciones arbitrarias.
+
+Gálatas 3:15-29 explica que la promesa a Abraham precede a la ley y encuentra su cumplimiento en Cristo. Pablo no afirma que la ley fuera mala; explica su función temporal y su relación con la promesa. El argumento muestra desarrollo, no contradicción.
+''',
+        references: "Hebreos 1:1-2; Lucas 24:44-47; Gálatas 3:15-29.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La teología bíblica debe integrar creación, caída, pacto, éxodo, reino, exilio, restauración, Mesías, Iglesia y nueva creación. Cada etapa tiene su contexto y función. La continuidad del propósito de Dios no significa que todos los mandatos de un pacto se apliquen de idéntica manera a todos los pueblos y épocas.
+
+El tema del templo se desarrolla desde el tabernáculo hasta Cristo y la comunidad como morada de Dios. El sacrificio pasa de las ofrendas levíticas a la entrega única de Jesús. El reino se anuncia en la promesa a David y se proclama en el reinado del Mesías. Estos desarrollos deben demostrarse con textos, no suponerse por semejanza superficial.
+
+Apocalipsis presenta la consumación: Dios habita con su pueblo y la creación es renovada. La historia bíblica tiene dirección y finalidad.
+''',
+        references: "Génesis 1–3; 12; Éxodo 19–24; 2 Samuel 7; Jeremías 31; Hebreos 1; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el autor del propósito redentor; el Hijo es la revelación culminante y el mediador por quien se cumplen las promesas; el Espíritu Santo inspira a los profetas y es derramado sobre el pueblo de Dios. Efesios 1:3-14 describe la obra salvadora con referencias al Padre, al Hijo y al Espíritu.
+
+La teología bíblica trinitaria debe distinguir las personas sin dividir la obra del único Dios. El Padre elige y envía, el Hijo redime y el Espíritu sella y vivifica. Estas descripciones no significan que cada persona actúe separada de las otras, sino que la Escritura revela relaciones personales dentro de la única obra divina.
+''',
+        references: "Efesios 1:3-14; Hebreos 1:1-2; Juan 14:16-17.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿La revelación progresiva significa que Dios cambió? No. Cambian las etapas de la historia y la claridad de lo revelado, no el carácter de Dios.
+
+¿El Nuevo Testamento cancela el Antiguo? No. Lo recibe como Escritura y explica su cumplimiento en Cristo. Deben distinguirse los pactos y su aplicación, sin despreciar la revelación anterior.
+
+¿Todo texto del Antiguo Testamento habla directamente de Jesús? No. Cada pasaje tiene un contexto histórico; algunos son relacionados explícitamente con Cristo por el Nuevo Testamento y otros contribuyen al marco general de la historia redentora.
+
+¿Teología bíblica y sistemática se contradicen? No necesariamente. La primera sigue el desarrollo canónico; la segunda organiza doctrinas. Deben dialogar y corregirse mutuamente cuando una síntesis ignora el contexto.
+''',
+        references: "Hebreos 1:1-2; Lucas 24:27; Gálatas 3:15-29.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué estudia la teología bíblica? Respuesta: El desarrollo de temas y estructuras teológicas a lo largo de la historia y del canon.
+
+Pregunta: ¿Qué significa revelación progresiva? Respuesta: Que Dios comunicó su propósito en etapas, hasta la revelación culminante en el Hijo (Hebreos 1:1-2).
+
+Pregunta: ¿Cuál es el centro de la historia redentora? Respuesta: Jesucristo, en quien las promesas encuentran cumplimiento (Lucas 24:27; Efesios 1:10).
+
+Pregunta: ¿El Antiguo Testamento sigue siendo Escritura? Respuesta: Sí. Jesús y los apóstoles lo recibieron como testimonio inspirado y lo interpretaron a la luz de Cristo.
+
+Pregunta: ¿Cómo se reconoce la unidad bíblica? Respuesta: Siguiendo temas, pactos y promesas en su contexto, observando sus conexiones canónicas y respetando sus diferencias.
+''',
+        references: "Lucas 24:27,44-47; Hebreos 1:1-2; Efesios 1:3-14.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La teología bíblica muestra que la Escritura presenta una historia unificada de creación, redención y nueva creación. Dios se revela en etapas y conduce las promesas hacia su cumplimiento en Jesucristo. La revelación progresiva no significa cambio en Dios ni contradicción entre los autores inspirados.
+
+El estudio debe respetar los contextos, los pactos y los géneros literarios. La unidad de la Biblia no se construye mediante asociaciones arbitrarias, sino siguiendo los vínculos que el propio canon establece. El Padre propone y realiza su propósito, el Hijo es su revelación culminante y el Espíritu inspira y aplica la verdad.
+
+Leer teología bíblica fortalece la comprensión de la historia de la salvación y orienta a la Iglesia a vivir conforme al evangelio.
+''',
+        references: "Génesis 12:1-3; Lucas 24:44-47; Efesios 1:3-14; Apocalipsis 21–22.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La teología bíblica sigue el desarrollo de la revelación y muestra la unidad de la historia redentora. Los pactos, las promesas y las instituciones del Antiguo Testamento deben leerse en su contexto y en relación con el cumplimiento en Cristo. La revelación progresiva no implica que Dios cambie, sino que su propósito se comunica y despliega en etapas.
+
+El Padre, el Hijo y el Espíritu Santo participan distintamente en la única obra divina. La Iglesia debe leer toda la Escritura con atención al contexto, evitando tanto separar los Testamentos como borrar sus diferencias. La meta es comprender el evangelio en su amplitud y vivir conforme al propósito de Dios.
+''',
   ),
+
   Study(
     number: '114',
     title: "Jesucristo, Profeta y Maestro: autoridad, enseñanza y revelación",
-    subtitle: "El ministerio profético y docente de Jesús, distinguiéndolo de los estudios sobre su persona y su realeza.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "El ministerio de Jesús como revelador del Padre, maestro del Reino y profeta prometido.",
+    introduction: '''
+Jesucristo es presentado en los Evangelios como Maestro con autoridad, anunciador del Reino y profeta en quien se cumple la esperanza de Moisés y de los profetas. Su enseñanza no es una opinión religiosa entre otras: revela la voluntad de Dios y llama a una respuesta de fe, arrepentimiento y obediencia.
+
+Llamar a Jesús Profeta no significa reducir su identidad a la de un mensajero humano. El Nuevo Testamento también lo presenta como Hijo eterno, Señor y revelación culminante del Padre. Las categorías de Profeta y Maestro describen aspectos reales de su ministerio, pero deben estudiarse junto con su divinidad, encarnación, muerte y resurrección.
+
+Este estudio examina cómo enseñó Jesús, cómo utilizó las Escrituras y cómo su autoridad se relaciona con el Padre y el Espíritu Santo.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 114. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Profeta es quien comunica la palabra de Dios; maestro es quien instruye y forma discípulos. Jesús cumple ambas funciones, pero su identidad no se agota en ellas. Es el Hijo enviado por el Padre y el Verbo hecho carne (Juan 1:1,14). Su enseñanza revela al Padre y tiene autoridad propia.
+
+El Reino de Dios es el gobierno salvador de Dios anunciado y manifestado en el ministerio de Jesús. Parábolas, discursos, milagros y encuentros personales forman parte de su enseñanza. La autoridad de Jesús se reconoce en su relación única con el Padre y en el cumplimiento de las Escrituras.
+''',
+        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Jesús desarrolló su ministerio en Galilea y Judea durante el dominio romano, en el contexto del judaísmo del Segundo Templo. Enseñó en sinagogas, casas, caminos y en el templo. Sus oyentes conocían la Ley, los Profetas, las tradiciones y las expectativas sobre el Reino y el Mesías.
+
+Los Evangelios conservan distintos énfasis: Mateo presenta a Jesús como cumplimiento de las Escrituras; Marcos destaca la autoridad y el servicio del Hijo del Hombre; Lucas subraya el alcance de la salvación; Juan desarrolla la identidad del Verbo y su relación con el Padre. La diversidad de énfasis no significa contradicción automática.
+''',
+        references: "Judaísmo del Segundo Templo; sinagogas; expectativas mesiánicas y dominio romano.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Deuteronomio 18:15-19 promete un profeta semejante a Moisés, a quien el pueblo debía escuchar. El pasaje forma parte de las instrucciones sobre profetas y discernimiento. Hechos 3:22-26 aplica esta promesa a Jesús y lo presenta como el enviado que trae bendición y llama al arrepentimiento.
+
+Isaías 61 anuncia buenas nuevas, libertad y restauración. Jesús lee este texto en la sinagoga de Nazaret y declara que se cumple en su ministerio (Lucas 4:16-21). Los profetas también anunciaron al siervo del Señor y al rey justo, marcos que ayudan a comprender la misión de Jesús.
+''',
+        references: "Deuteronomio 18:15-19; Isaías 61:1-3; promesas proféticas.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Los Evangelios muestran a Jesús enseñando con autoridad y llamando a sus discípulos a seguirlo. Mateo 5–7 recoge el Sermón del Monte; Marcos 1:21-28 relata la reacción ante su enseñanza; Lucas 4 presenta la lectura de Isaías; Juan 7:14-18 explica que su doctrina procede de quien lo envió.
+
+En Hechos, los apóstoles anuncian a Jesús como el Profeta prometido y Señor resucitado. Hebreos 1:1-2 presenta al Hijo como la revelación culminante. La Iglesia continúa enseñando lo que Cristo mandó, pero no posee autoridad para añadir una nueva revelación que contradiga el evangelio apostólico.
+''',
+        references: "Mateo 5–7; Lucas 4:16-21; Hechos 3:22-26; Juan 7:14-18; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Deuteronomio 18:15-19 llama a escuchar al profeta que Dios levantaría. El contexto inmediato prohíbe prácticas de adivinación y establece la necesidad de discernir a los mensajeros. Hechos 3:22-23 cita la promesa y la aplica a Jesús, vinculándola con la responsabilidad de escucharle.
+
+Lucas 4:16-21 relata que Jesús lee Isaías 61 y aplica el anuncio a su misión. La expresión «hoy se ha cumplido esta Escritura» indica que su ministerio inaugura el tiempo de cumplimiento. No significa que todos los aspectos de la restauración estén consumados en ese momento; la historia bíblica mantiene una dimensión futura.
+
+Juan 7:16-18 muestra que la enseñanza de Jesús procede del Padre que lo envió. La distinción entre el que envía y el enviado es personal y real. Jesús no es el Padre, aunque comparte la naturaleza divina según el testimonio completo del Evangelio.
+''',
+        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El ministerio de Jesús se relaciona con Moisés, los profetas, el Reino davídico y la esperanza de restauración. Él interpreta la ley con autoridad, llama al arrepentimiento y revela el carácter del Padre. Su enseñanza no cancela el Antiguo Testamento, sino que lo lleva a su cumplimiento.
+
+Los apóstoles enseñan a guardar lo que Jesús mandó y a permanecer en la doctrina recibida. El Espíritu recuerda y guía a los discípulos en el testimonio de Cristo (Juan 14:26; 16:13-14). La autoridad de la Iglesia es ministerial: anuncia y explica la palabra, no reemplaza al Maestro ni inventa un evangelio distinto.
+''',
+        references: "Deuteronomio 18; Isaías 61; Mateo 5–7; Lucas 24:25-27; Hechos 3:22-26.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre envía al Hijo y da testimonio de Él; el Hijo enseña con autoridad y revela al Padre; el Espíritu desciende sobre Jesús y capacita su ministerio, y después guía el testimonio apostólico. En el bautismo de Jesús aparecen el Hijo en el agua, el Espíritu descendiendo y la voz del Padre desde los cielos (Mateo 3:16-17).
+
+Juan 7:16-18 distingue al Hijo enviado del Padre que lo envió. Juan 14:16-17 distingue al Hijo que pide y al Padre que da otro Consolador, el Espíritu de verdad. Estos pasajes sostienen la distinción personal sin dividir la esencia divina. Jesús no es simplemente una manifestación temporal del Padre: mantiene relación filial real con Él.
+''',
+        references: "Mateo 3:16-17; Juan 7:16-18; 14:16-17,26; 16:13-14.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Jesús fue solamente un profeta? No. Es Profeta y Maestro, pero también Hijo eterno, Señor y Verbo encarnado. Reducirlo a un mensajero humano ignora el testimonio de Juan 1 y Hebreos 1.
+
+¿Jesús enseñaba por autoridad propia o recibida? Juan 7:16 afirma que su enseñanza procede del Padre que lo envió. Esto no niega su autoridad divina; expresa su relación filial y misión.
+
+¿Deuteronomio 18 se refiere a Jesús? Hechos 3:22-26 aplica explícitamente la promesa a Jesús, por lo que la conexión no es una especulación independiente.
+
+¿La Iglesia puede tener una autoridad igual a la de Cristo? No. La Iglesia sirve bajo la autoridad del Señor y debe conservar la enseñanza apostólica.
+
+¿El Espíritu reemplaza las palabras de Jesús? No. El Espíritu glorifica al Hijo y guía a los discípulos a la verdad, no los conduce a negar su enseñanza.
+''',
+        references: "Juan 1:1,14; 7:16-18; Hechos 3:22-26; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué profeta prometió Moisés? Respuesta: Uno que Dios levantaría y a quien el pueblo debía escuchar; Hechos 3 aplica la promesa a Jesús.
+
+Pregunta: ¿Qué revela Lucas 4 sobre la misión de Jesús? Respuesta: Que su ministerio cumple el anuncio de buenas nuevas, libertad y restauración de Isaías 61.
+
+Pregunta: ¿De dónde procede la enseñanza de Jesús? Respuesta: Del Padre que lo envió, según Juan 7:16-18.
+
+Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Desciende sobre Jesús y guía a los discípulos en el testimonio de Cristo (Mateo 3:16-17; Juan 14:26; 16:13-14).
+
+Pregunta: ¿Qué debe enseñar la Iglesia? Respuesta: Lo que Cristo mandó y la doctrina apostólica recibida, sin añadir un evangelio diferente.
+''',
+        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18; Mateo 3:16-17.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Jesucristo es el Profeta prometido y el Maestro con autoridad, pero su identidad es mayor que la de un mensajero humano. Él es el Hijo enviado por el Padre, el Verbo encarnado y la revelación culminante de Dios. Su enseñanza anuncia el Reino, llama al arrepentimiento y revela el carácter del Padre.
+
+El Padre envía y da testimonio, el Hijo enseña y cumple la misión, y el Espíritu desciende y capacita el testimonio. La Iglesia debe escuchar a Cristo, conservar la enseñanza apostólica y enseñar con fidelidad y humildad.
+
+La respuesta correcta al Maestro no es admiración superficial, sino fe, obediencia y discipulado.
+''',
+        references: "Mateo 3:16-17; Lucas 4:16-21; Juan 14:26; Hebreos 1:1-2.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Jesús cumple la promesa del Profeta semejante a Moisés y enseña con autoridad. Su ministerio anuncia el Reino, revela al Padre y llama a la fe y al arrepentimiento. Sin embargo, no debe reducirse su identidad a la de un profeta humano: es el Hijo eterno y la revelación culminante de Dios.
+
+El Padre lo envía, el Espíritu desciende y capacita el testimonio, y el Hijo cumple su misión. La Iglesia está llamada a escuchar a Cristo, conservar la enseñanza apostólica y formar discípulos que pongan en práctica su palabra.
+''',
   ),
+
   Study(
     number: '115',
     title: "Los milagros de Jesucristo: señales, compasión y autoridad del Mesías",
-    subtitle: "El propósito de las señales de Jesús en los Evangelios y su relación con la fe y el Reino.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Las obras poderosas de Jesús como señales del Reino y testimonio de su identidad.",
+    introduction: '''
+Los Evangelios narran milagros de Jesús como obras poderosas que revelan su autoridad, compasión y misión mesiánica. Sanidades, liberaciones, provisión de alimento, dominio sobre la naturaleza y resurrecciones de muertos no aparecen como espectáculos aislados, sino como señales vinculadas con el Reino de Dios y con la identidad del Hijo.
+
+Los milagros deben leerse dentro de cada relato: quién recibe la ayuda, qué problema se presenta, qué revela Jesús y cómo responden los testigos. No todos los relatos enfatizan el mismo aspecto. Tampoco debe afirmarse que la fe humana controla el poder de Dios o que toda enfermedad será sanada inmediatamente.
+
+Este estudio examina el propósito de las señales, su relación con las profecías y la autoridad de Cristo. La obra del Hijo se realiza en unidad con el Padre y en el poder del Espíritu Santo.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 115. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Milagro es una obra extraordinaria de Dios que manifiesta su poder y propósito. En los Evangelios, las señales de Jesús revelan su identidad y anticipan la restauración del Reino. No son trucos ni medios de entretenimiento, y no deben separarse del mensaje que Jesús anuncia.
+
+Los relatos incluyen curaciones, expulsión de demonios, provisión, dominio sobre la naturaleza y resurrección. «Señal» enfatiza lo que la obra revela; «maravilla» destaca la reacción de asombro; «poder» resalta la autoridad divina. Los términos se relacionan, pero cada relato conserva su énfasis.
+''',
+        references: "Mateo 11:2-6; Marcos 2:1-12; Hechos 10:38; Juan 20:30-31.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Jesús ejerció su ministerio en Galilea, Judea y otras regiones del mundo judío del siglo I. Las enfermedades, discapacidades y posesiones eran interpretadas en marcos religiosos y sociales diversos. Los Evangelios muestran que las personas enfermas podían enfrentar exclusión, pobreza o dependencia, además de sufrimiento físico.
+
+Los relatos de milagros se integran en la proclamación del Reino y en el conflicto con autoridades que cuestionaban la autoridad de Jesús. Los Evangelios no presentan una lista neutral de prodigios, sino testimonios teológicos que explican quién es Jesús y cómo actúa Dios en su ministerio.
+''',
+        references: "Judaísmo del siglo I; enfermedad, exclusión y expectativas mesiánicas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento relata milagros mediante los cuales Dios libera, sostiene y juzga: el éxodo, el paso del mar, el alimento en el desierto y las obras de Elías y Eliseo. Estas acciones muestran que el Señor tiene autoridad sobre la naturaleza, la vida y la historia.
+
+Isaías 35 anuncia señales de restauración: ojos abiertos, oídos que oyen y personas que saltan de alegría. Isaías 61 anuncia buenas nuevas a los pobres y libertad. Los Evangelios relacionan el ministerio de Jesús con estas expectativas, pero cada pasaje debe leerse en su contexto profético y no como una lista de predicciones aisladas.
+''',
+        references: "Éxodo 7–14; 1 Reyes 17–18; 2 Reyes 4–5; Isaías 35; 61.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Mateo, Marcos, Lucas y Juan presentan milagros como parte del ministerio de Jesús. En Mateo 11:2-6, Jesús responde a la pregunta de Juan señalando las obras que corresponden a la esperanza profética. Juan llama «señales» a obras que conducen a reconocer la identidad de Jesús (Juan 20:30-31).
+
+Los apóstoles anuncian que Dios acreditó a Jesús mediante señales y prodigios (Hechos 2:22). Hebreos 2:3-4 también menciona señales que acompañaron el testimonio. La Iglesia primitiva pide valentía para anunciar la palabra y Dios confirma su testimonio (Hechos 4:29-31). Los milagros apostólicos no reemplazan el evangelio; sirven al testimonio de Cristo.
+''',
+        references: "Mateo 11:2-6; Marcos 2:1-12; Juan 20:30-31; Hechos 2:22; 10:38; Hebreos 2:3-4.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Mateo 11:4-5 enumera obras de Jesús: ciegos ven, cojos andan, leprosos son limpiados, sordos oyen y a los pobres se anuncia el evangelio. La respuesta evoca las promesas de Isaías y muestra que el ministerio de Jesús corresponde a la esperanza mesiánica. No se limita a demostrar poder: revela restauración y compasión.
+
+Marcos 2:1-12 narra la sanidad del paralítico y la declaración de perdón. La controversia se centra en la autoridad de Jesús para perdonar pecados. La sanidad visible confirma la autoridad del Hijo del Hombre, pero el relato no enseña que toda enfermedad sea consecuencia de un pecado personal.
+
+Juan 20:30-31 explica el propósito del libro: las señales fueron escritas para que los lectores crean que Jesús es el Cristo, el Hijo de Dios, y tengan vida en su nombre. Las señales apuntan a su identidad y misión; no son un fin en sí mismas.
+''',
+        references: "Mateo 11:4-5; Marcos 2:1-12; Juan 20:30-31.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Los milagros de Jesús se relacionan con la creación, el éxodo, las promesas proféticas y la esperanza de la resurrección. Sus obras manifiestan que el Reino se ha acercado y que la autoridad de Dios actúa por medio del Mesías. Sin embargo, la presencia de milagros no significa que toda aflicción desaparezca antes de la consumación.
+
+Los relatos deben leerse junto con la enseñanza sobre la fe, el sufrimiento y la cruz. Jesús no utiliza su poder para evitar toda dificultad ni para obtener prestigio; rechaza la tentación de convertir la señal en espectáculo. La resurrección es la señal decisiva de su victoria y fundamento de la esperanza futura.
+
+El Nuevo Testamento también enseña que los dones y obras extraordinarias deben edificar a la Iglesia y glorificar a Dios, no exaltar al ministro.
+''',
+        references: "Éxodo 7–14; Isaías 35; 61; Mateo 11:2-6; 1 Corintios 15.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre obra por medio del Hijo y da testimonio de Él; el Hijo realiza las señales como enviado y revela el carácter del Padre; el Espíritu Santo unge y capacita el ministerio de Jesús. Lucas 4:18 presenta a Jesús leyendo la promesa del Espíritu sobre el ungido. Hechos 10:38 resume que Dios ungió a Jesús de Nazaret con el Espíritu Santo y poder.
+
+Juan 5:19-23 enseña la unidad de obra entre Padre e Hijo, manteniendo su relación personal. Mateo 3:16-17 muestra al Hijo bautizado, al Espíritu descendiendo y la voz del Padre. Los milagros no prueban que Jesús sea el Padre; revelan al Hijo en relación con el Padre y el Espíritu.
+
+La obra es del único Dios. No debe dividirse como si cada persona realizara una parte independiente de la salvación, ni confundirse como si fueran una sola persona sin distinción.
+''',
+        references: "Mateo 3:16-17; Lucas 4:18; Juan 5:19-23; Hechos 10:38.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Todo milagro demuestra que quien lo realiza enseña doctrina verdadera? No. La Biblia advierte que señales pueden acompañar engaño y que la fidelidad a Dios es esencial (Deuteronomio 13:1-5; Mateo 7:21-23).
+
+¿La falta de sanidad demuestra falta de fe? No. Los Evangelios no enseñan que toda enfermedad persista por falta de fe. Pablo menciona debilidades y una aflicción que no fue retirada (2 Corintios 12:7-10; 1 Timoteo 5:23).
+
+¿Por qué Jesús no sanó a todos en cada lugar? Los Evangelios presentan una selección de señales con propósito teológico y muestran que Jesús actuaba conforme a su misión, no bajo exigencia humana.
+
+¿Los milagros sustituyen la enseñanza? No. Las señales apuntan a la identidad de Jesús y acompañan el anuncio del Reino. La fe debe responder a Cristo y su palabra.
+
+¿Las señales prueban que Jesús es el Padre? No. Los textos muestran al Hijo actuando en relación con el Padre y el Espíritu; distinción personal y unidad divina deben mantenerse.
+''',
+        references: "Deuteronomio 13:1-5; Mateo 7:21-23; 2 Corintios 12:7-10.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Para qué realizó Jesús milagros? Respuesta: Para manifestar la llegada del Reino, mostrar compasión y dar testimonio de su identidad mesiánica (Mateo 11:4-6; Juan 20:30-31).
+
+Pregunta: ¿Qué enseña la sanidad del paralítico? Respuesta: Que Jesús tiene autoridad para perdonar pecados y confirma su autoridad mediante la sanidad (Marcos 2:1-12).
+
+Pregunta: ¿Qué relación tienen los milagros con el Antiguo Testamento? Respuesta: Evocan las obras de liberación de Dios y las promesas proféticas de restauración (Isaías 35; 61; Mateo 11:4-5).
+
+Pregunta: ¿Quién ungió a Jesús? Respuesta: Dios lo ungió con el Espíritu Santo y poder (Hechos 10:38).
+
+Pregunta: ¿Qué finalidad tienen las señales de Juan? Respuesta: Conducir a creer que Jesús es el Cristo, el Hijo de Dios, y recibir vida en su nombre (Juan 20:30-31).
+''',
+        references: "Mateo 11:4-6; Marcos 2:1-12; Juan 20:30-31; Hechos 10:38.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Los milagros de Jesús son señales del Reino, manifestaciones de compasión y testimonio de su autoridad mesiánica. Deben leerse dentro de sus relatos y relacionados con la enseñanza, la cruz y la resurrección. No son espectáculos ni garantías de que todo creyente será sanado inmediatamente.
+
+El Padre da testimonio del Hijo, el Hijo realiza las obras y el Espíritu lo unge y capacita. Estas distinciones personales muestran la acción del único Dios. Las señales conducen a la fe en Jesús y a la vida en su nombre.
+
+La Iglesia debe orar por los enfermos, servir con compasión, examinar las afirmaciones extraordinarias y mantener el evangelio por encima de cualquier manifestación.
+''',
+        references: "Mateo 11:4-6; Juan 20:30-31; Hechos 10:38; 1 Corintios 12:4-7.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Los milagros de Jesús revelan su autoridad y compasión, y funcionan como señales del Reino y de su identidad mesiánica. Se relacionan con las obras de Dios en el Antiguo Testamento y con las promesas proféticas de restauración. Cada relato debe leerse en su contexto, sin afirmar que toda enfermedad procede de un pecado personal ni que toda falta de sanidad demuestra falta de fe.
+
+El Padre da testimonio del Hijo, el Hijo realiza las obras y el Espíritu lo unge y capacita. Las señales conducen a creer en Jesús y a recibir vida en su nombre. La Iglesia ora, sirve y discierne, manteniendo el evangelio en el centro.
+''',
   ),
+
   Study(
     number: '116',
     title: "La compasión de Jesucristo: su trato con enfermos, pobres y marginados",
-    subtitle: "Los encuentros de Jesús con personas vulnerables y lo que revelan de su carácter y misión.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La misericordia del Mesías hacia quienes sufrían exclusión y necesidad.",
+    introduction: '''
+Los Evangelios muestran repetidamente la compasión de Jesús hacia enfermos, pobres, personas excluidas y quienes eran despreciados por su condición social o religiosa. Su trato no se limitaba a resolver una necesidad inmediata: también restauraba dignidad, llamaba a la fe y revelaba el carácter misericordioso del Reino de Dios.
+
+La compasión de Cristo no debe confundirse con aprobación indiscriminada de toda conducta ni reducirse a una emoción pasajera. Jesús se acercaba a las personas, escuchaba, sanaba, enseñaba y llamaba al arrepentimiento. Su misericordia estaba unida a la verdad y a la justicia.
+
+Este estudio examina los relatos en su contexto social y literario y considera cómo la Iglesia debe reflejar la compasión del Señor mediante el cuidado, la hospitalidad y la defensa del vulnerable.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 116. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Compasión es una disposición que se expresa en misericordia activa ante el sufrimiento. En los Evangelios, Jesús ve a las personas, se acerca, escucha y actúa. Marginado describe a quien es apartado o tratado como inferior por enfermedad, pobreza, origen, ocupación o condición social.
+
+La compasión bíblica no elimina la verdad ni la responsabilidad moral. Jesús acoge a personas necesitadas y también llama a cambiar de vida. La misericordia restaura y conduce hacia Dios; no convierte el pecado en algo indiferente ni utiliza la condición vulnerable para manipular a la persona.
+''',
+        references: "Mateo 9:35-36; Lucas 7:11-17; 10:25-37; Santiago 2:1-17.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La sociedad judía del siglo I incluía diferencias de riqueza, honor, pureza ritual y pertenencia comunitaria. Enfermedades como la lepra podían implicar aislamiento; los pobres dependían de redes familiares o ayuda; cobradores de impuestos eran despreciados por su relación con el sistema romano. Las mujeres, niños y extranjeros podían enfrentar barreras sociales específicas.
+
+Los Evangelios muestran que Jesús cruzó límites de trato y dignidad sin abandonar la santidad. Sus acciones provocaron controversia porque se acercaba a quienes otros evitaban y cuestionaba la hipocresía de quienes despreciaban al necesitado.
+''',
+        references: "Judaísmo del siglo I; pureza ritual, pobreza, honor y exclusión social.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+La ley de Israel ordena cuidar al extranjero, al huérfano y a la viuda (Deuteronomio 10:18-19; 24:17-22). Los profetas denuncian la opresión de los pobres y llaman a practicar justicia (Isaías 1:17; Amós 2:6-7). El Salmo 146 presenta al Señor como quien hace justicia a los oprimidos y sostiene al vulnerable.
+
+Estas enseñanzas forman el trasfondo del ministerio de Jesús. La compasión no aparece como innovación ajena a Israel, sino como expresión del carácter de Dios y de las exigencias del pacto. Los profetas critican el culto sin justicia, y Jesús retoma esa prioridad.
+''',
+        references: "Deuteronomio 10:18-19; 24:17-22; Salmo 146; Isaías 1:17; Amós 2:6-7.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús sana enfermos, recibe a niños, come con publicanos y pecadores, atiende a personas extranjeras y responde a quienes son rechazados. Mateo 9:35-36 lo presenta movido a compasión por las multitudes; Lucas 7:11-17 relata su compasión por una viuda; Marcos 10:13-16 muestra su acogida de los niños.
+
+La parábola del buen samaritano (Lucas 10:25-37) enseña que el prójimo se reconoce mediante la misericordia práctica. Santiago 2 condena la parcialidad hacia los ricos y el desprecio a los pobres. La Iglesia recibe el llamado a mostrar la misma coherencia entre fe y obras de misericordia.
+''',
+        references: "Mateo 9:35-36; Marcos 10:13-16; Lucas 7:11-17; 10:25-37; Santiago 2; 1 Juan 3:16-18.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Mateo 9:35-36 describe a Jesús recorriendo ciudades y aldeas, enseñando, anunciando el evangelio del Reino y sanando. Al ver a las multitudes, tiene compasión porque estaban desamparadas y dispersas como ovejas sin pastor. La imagen enlaza con las promesas del Antiguo Testamento sobre Dios como pastor y con la denuncia de líderes infieles.
+
+Lucas 7:11-17 relata que Jesús ve a una viuda que ha perdido a su único hijo. Su compasión precede a la intervención; el relato destaca la iniciativa misericordiosa de Jesús y la reacción de la multitud que glorifica a Dios. El texto no presenta el milagro como recompensa por una demostración previa de mérito.
+
+Lucas 10:25-37 responde a la pregunta sobre quién es el prójimo. La parábola contrasta a quienes pasan de largo con el samaritano que se detiene y actúa. Jesús concluye llamando a hacer lo mismo. El centro no es especular sobre la identidad étnica del personaje, sino mostrar que la misericordia rompe barreras y se expresa en ayuda concreta.
+''',
+        references: "Mateo 9:35-36; Lucas 7:11-17; 10:25-37.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La compasión de Jesús se relaciona con la ley y los profetas, que mandan proteger al vulnerable y denunciar la injusticia. También se relaciona con el Reino: la restauración de enfermos y excluidos anticipa la renovación prometida por Dios. La misericordia no se limita a obras individuales; incluye una comunidad que evita la parcialidad y comparte sus recursos.
+
+Santiago 1:27 describe la religión pura en términos de cuidado de huérfanos y viudas y de integridad moral. Primera de Juan 3:16-18 relaciona el amor con acciones concretas. La Iglesia no puede proclamar la compasión de Cristo mientras ignora necesidades que está en condiciones de atender.
+
+La misericordia debe practicarse con prudencia, respeto y sin humillar a quien recibe ayuda. El servicio cristiano reconoce la dignidad de cada persona y busca restauración, no dependencia o control.
+''',
+        references: "Deuteronomio 10:18-19; Isaías 1:17; Salmo 146; Mateo 9:35-36; Santiago 2:1-17.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es presentado como misericordioso y fuente de toda consolación (2 Corintios 1:3-4). El Hijo revela esa compasión mediante su encarnación y ministerio: ve a los necesitados, los atiende y anuncia el Reino. El Espíritu Santo produce amor y bondad en la vida de la Iglesia (Gálatas 5:22-23).
+
+La distinción trinitaria no divide la misericordia en tres acciones desconectadas. El Padre envía al Hijo; el Hijo manifiesta la misericordia divina; el Espíritu transforma a los creyentes para que vivan en amor. Jesús no es el Padre, pero revela perfectamente su carácter (Juan 14:9-10).
+
+La Iglesia debe reflejar el carácter del único Dios en la compasión concreta, sin atribuirse el lugar de Cristo ni utilizar la ayuda como medio de dominio.
+''',
+        references: "2 Corintios 1:3-4; Juan 14:9-10; Gálatas 5:22-23.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Jesús ayudaba solo a quienes tenían fe? Los relatos muestran diversas respuestas y no permiten convertir la fe en un mecanismo para obligar a Dios. Jesús actúa con compasión y autoridad soberana.
+
+¿La compasión significa aprobar todo comportamiento? No. Jesús recibe a las personas y también las llama al arrepentimiento. La misericordia y la verdad no son opuestas.
+
+¿La ayuda material basta para cumplir el evangelio? No. El cuidado material es importante, pero la misión cristiana también anuncia el Reino, llama a la fe y forma discípulos. No debe utilizarse la necesidad para forzar conversiones.
+
+¿La Iglesia debe atender solo a sus miembros? No. La enseñanza del buen samaritano llama a reconocer al prójimo más allá de fronteras sociales y religiosas.
+
+¿La pobreza siempre es señal de pecado? No. La Biblia denuncia la opresión y muestra que muchas personas vulnerables sufren por circunstancias que no deben atribuirse a culpa personal.
+''',
+        references: "Mateo 9:35-36; Lucas 10:25-37; Santiago 2:1-17.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué movía a Jesús a atender a las multitudes? Respuesta: La compasión ante su desamparo y necesidad (Mateo 9:35-36).
+
+Pregunta: ¿Qué enseña la parábola del buen samaritano? Respuesta: Que el prójimo se reconoce mediante misericordia activa, no por una etiqueta social (Lucas 10:25-37).
+
+Pregunta: ¿Cómo debe tratar la Iglesia al pobre? Respuesta: Sin parcialidad, con dignidad y ayuda concreta (Santiago 2:1-17; 1 Juan 3:17-18).
+
+Pregunta: ¿La compasión elimina el llamado al arrepentimiento? Respuesta: No. Jesús ofrece misericordia y llama a una vida transformada (Juan 8:10-11, atendiendo al texto y su contexto).
+
+Pregunta: ¿Cómo se relaciona la compasión con la Trinidad? Respuesta: El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor y bondad en el pueblo de Dios (2 Corintios 1:3-4; Juan 14:9-10; Gálatas 5:22-23).
+''',
+        references: "Mateo 9:35-36; Lucas 10:25-37; Santiago 2:1-17; 1 Juan 3:16-18.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La compasión de Jesucristo se manifestó en su trato con enfermos, pobres, niños, extranjeros y personas rechazadas. Su misericordia restauraba dignidad y anunciaba el Reino, sin separar el amor de la verdad ni del llamado al arrepentimiento.
+
+La Iglesia está llamada a reflejar esa compasión mediante cuidado, hospitalidad, justicia y ayuda concreta. Debe evitar la parcialidad, la humillación y el uso de la necesidad para controlar a otros. El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor en la comunidad.
+
+Seguir a Cristo implica ver al prójimo, acercarse con respeto y actuar con misericordia, anunciando el evangelio y sirviendo sin discriminación.
+''',
+        references: "Mateo 9:35-36; Lucas 10:25-37; Gálatas 5:22-23; Santiago 2:1-17.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La compasión de Jesucristo revela la misericordia de Dios hacia quienes sufren y son excluidos. Jesús se acerca, escucha, sana, restaura y anuncia el Reino. Su misericordia no es indiferencia ante el pecado, sino amor que dignifica y llama a una vida transformada.
+
+La Iglesia debe reflejar ese carácter mediante ayuda concreta, hospitalidad, justicia y trato sin parcialidad. El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor y bondad en el pueblo de Dios.
+
+La fe se demuestra en el servicio al prójimo. Seguir a Cristo es detenerse ante la necesidad, actuar con respeto y anunciar el evangelio sin discriminación.
+''',
   ),
+
   Study(
     number: '117',
     title: "La resurrección futura de los creyentes: cuerpo, transformación y esperanza",
