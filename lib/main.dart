@@ -4023,7 +4023,7 @@ references: 'Lucas 1:35; Mateo 1:18-20; Juan 14:16-17.'
 StudySection(
 title: '34. ¿Cómo entender los pasajes donde Jesús ora al Padre?',
 content:
-'Las oraciones de Jesús al Padre no son conversaciones teatrales. Revelan una relación personal verdadera entre el Hijo y el Padre. Además, muestran la vida humana de Cristo, quien vivió en obediencia y dependencia durante su misión terrenal. La oración de Jesús debe entenderse considerando tanto su identidad divina como su humanidad encarnada.',
+'Las oraciones de Jesús al Padre deben leerse como expresiones de una relación personal verdadera y de su humanidad encarnada. En Juan 17, el Hijo habla con el Padre y recuerda la gloria que compartían antes de la creación; en Getsemaní expresa angustia humana y obediencia; y en la cruz encomienda su espíritu al Padre (Lucas 23:46). Estos textos no enseñan que Jesús sea el Padre ni que exista una separación de esencia entre ambos. Muestran que el Hijo es una persona distinta y que asumió una humanidad completa. Hebreos 4:15-16 confirma que comprende nuestras debilidades, y Filipenses 2:6-8 explica su humillación voluntaria. Al interpretar cada oración hay que preguntar quién habla, a quién se dirige, en qué momento de la misión se encuentra y qué aspecto de su humanidad o relación personal revela. Así se evita utilizar una oración para negar la divinidad del Hijo o para confundirlo con el Padre.',
 references: 'Lucas 6:12; Juan 11:41-42; Juan 17:1-5; Hebreos 5:7.'
 ),
 StudySection(
