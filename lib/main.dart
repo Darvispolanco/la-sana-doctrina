@@ -801,6 +801,55 @@ La mejor manera de estudiar la Trinidad es examinar directamente las Escrituras,
 ''',
 references: 'Deuteronomio 6:4; Mateo 3:16-17; Juan 1:1-3; Juan 14:16-17; Juan 20:28; Hechos 5:3-4; 1 Corintios 8:4-6.',
 ),
+
+StudySection(
+title: '9. La Trinidad en el testimonio apostólico: un solo Dios y tres personas',
+content: '''
+La doctrina trinitaria no depende de una sola frase aislada. Se reconoce al reunir el testimonio de diferentes pasajes que mantienen la unidad de Dios y presentan al Padre, al Hijo y al Espíritu Santo.
+
+En 1 Corintios 8:4-6, Pablo reafirma que no hay más que un Dios y, dentro de esa confesión, menciona al Padre como aquel de quien proceden todas las cosas y para quien vivimos, y a Jesucristo como el único Señor por medio de quien son todas las cosas y nosotros por medio de Él. El apóstol no está presentando dos dioses. Está expresando la fe cristiana en el único Dios a la luz de la identidad y la obra del Padre y del Hijo. El contexto inmediato combate la idolatría y afirma que los ídolos no son dioses verdaderos.
+
+Efesios 4:4-6 presenta una secuencia de unidad: un Espíritu, un Señor y un Dios y Padre de todos. Pablo no está describiendo tres seres independientes, sino la unidad que fundamenta la vida de la Iglesia. El Espíritu, el Señor Jesucristo y el Padre aparecen distinguidos, mientras la confesión permanece monoteísta.
+
+Mateo 28:19 ordena bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. El nombre aparece en singular y las tres personas son mencionadas conjuntamente. Este dato es importante, aunque no debe utilizarse como si un solo detalle gramatical explicara por sí mismo toda la doctrina. Debe leerse junto con el bautismo de Jesús, las promesas del Consolador y las bendiciones apostólicas.
+
+En 2 Corintios 13:14, Pablo reúne la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo en una bendición para la iglesia. La presencia conjunta de las tres personas en la vida y adoración cristianas confirma que la doctrina trinitaria surge del testimonio bíblico completo.
+''',
+references: 'Mateo 3:16-17; Mateo 28:18-20; Juan 14:16-17, 26; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6.',
+),
+StudySection(
+title: '10. Cómo armonizar los textos que parecen presentar diferencias',
+content: '''
+Algunos pasajes pueden parecer contradictorios cuando se leen separados de su contexto. La interpretación responsable no debe eliminar un texto para proteger otro, sino estudiar qué afirma cada uno y cómo se relaciona con el conjunto de las Escrituras.
+
+Juan 17:3 llama al Padre «el único Dios verdadero» y presenta a Jesucristo como aquel que fue enviado. El contexto es la oración del Hijo al Padre y su misión redentora. El versículo distingue al Padre del Hijo; no debe aislarse para negar otros testimonios del mismo Evangelio, como Juan 1:1 y Juan 20:28, donde el Verbo es llamado Dios y Tomás confiesa a Jesús como Señor y Dios. La lectura conjunta conserva tanto la distinción personal como la divinidad del Hijo.
+
+Juan 14:28 registra las palabras de Jesús: «el Padre mayor es que yo». En el contexto de Juan 13–17, Jesús habla de su partida, de su misión y de su regreso al Padre. El pasaje debe estudiarse junto con Juan 1:1, Juan 5:18-23, Juan 10:30 y Filipenses 2:5-11. La misión del Hijo y su condición de siervo durante la encarnación no deben confundirse con una supuesta inferioridad de naturaleza divina.
+
+Juan 10:30 afirma: «Yo y el Padre uno somos». El contexto inmediato trata de la protección de las ovejas y de la autoridad del Hijo para darles vida eterna. La expresión de unidad no elimina la distinción entre Jesús y el Padre, porque el mismo Evangelio muestra que el Hijo habla con el Padre y es enviado por Él. Tampoco significa que sean dos dioses: la unidad debe comprenderse a la luz del monoteísmo bíblico.
+
+La regla fundamental es comparar pasajes, identificar quién habla, a quién se dirige, cuál es el asunto tratado y qué afirma el contexto. No debemos resolver una dificultad negando una enseñanza bíblica clara ni atribuyendo a un texto una conclusión que no expresa.
+''',
+references: 'Juan 1:1-3; Juan 5:18-23; Juan 10:27-38; Juan 14:28; Juan 17:1-5; Juan 20:28-31; Filipenses 2:5-11.',
+),
+StudySection(
+title: '11. Preguntas y respuestas fundamentales sobre la Trinidad',
+content: '''
+¿La Trinidad enseña que hay tres dioses? No. La Biblia afirma que Dios es uno. El Padre, el Hijo y el Espíritu Santo no son tres seres divinos independientes, sino tres personas que comparten plenamente la única naturaleza divina (Deuteronomio 6:4; 1 Corintios 8:4-6).
+
+¿El Padre es el Hijo? No. El Padre envía al Hijo, el Hijo ora al Padre y el Padre da testimonio del Hijo. La relación que presentan las Escrituras es personal y real (Mateo 3:16-17; Juan 17:1-5).
+
+¿El Espíritu Santo es solamente una fuerza? No. Habla, enseña, guía, decide y puede ser entristecido. La Escritura lo presenta como persona divina, no como energía impersonal (Juan 14:26; Hechos 13:2; Efesios 4:30).
+
+¿Jesús es Dios si también es enviado por el Padre? Sí. Ser enviado describe su misión y relación con el Padre; no demuestra por sí mismo que sea una criatura o que tenga una naturaleza inferior. Deben compararse los textos sobre su envío con los que afirman su divinidad (Juan 1:1-3, 14; Juan 5:23; Gálatas 4:4-5).
+
+¿La palabra Trinidad aparece literalmente en la Biblia? No. Es un término teológico que resume el testimonio de las Escrituras. La autoridad no está en la palabra creada por la teología, sino en la enseñanza bíblica que procura expresar.
+
+¿Podemos explicar exhaustivamente cómo existe Dios en tres personas? No. Podemos afirmar lo que Dios ha revelado y reconocer los límites de nuestra comprensión, sin inventar explicaciones ni abandonar las verdades que la Biblia enseña.
+''',
+references: 'Deuteronomio 6:4; Mateo 3:16-17; Juan 1:1-14; Juan 5:23; Juan 14:26; Juan 17:1-5; Hechos 13:2; 1 Corintios 8:4-6; Efesios 4:30.',
+),
+
 ],
 conclusion: '''
 La doctrina de la Trinidad afirma que existe un solo Dios en tres personas distintas: el Padre, el Hijo y el Espíritu Santo.
