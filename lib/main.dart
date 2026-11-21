@@ -21933,7 +21933,7 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
           term.definition.toLowerCase().contains(normalized) ||
           term.references.toLowerCase().contains(normalized) ||
           term.context.toLowerCase().contains(normalized) ||
-          (legacyDictionaryContexts[term.term]?.toLowerCase().contains(normalized) ?? false);
+          (baseDictionaryContexts[term.term]?.toLowerCase().contains(normalized) ?? false);
       return matchesCategory && matchesQuery;
     }).toList()
       ..sort((a, b) => _dictionarySortKey(a.term).compareTo(_dictionarySortKey(b.term)));
@@ -22008,14 +22008,14 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(term.definition),
-                        if (term.context.isNotEmpty || legacyDictionaryContexts.containsKey(term.term)) ...[
+                        if (term.context.isNotEmpty || baseDictionaryContexts.containsKey(term.term)) ...[
                           const SizedBox(height: 10),
                           const Text(
                             'Contexto en los estudios',
                             style: TextStyle(fontWeight: FontWeight.w700),
                           ),
                           const SizedBox(height: 4),
-                          Text(term.context.isNotEmpty ? term.context : legacyDictionaryContexts[term.term]!),
+                          Text(term.context.isNotEmpty ? term.context : baseDictionaryContexts[term.term]!),
                         ],
                         const SizedBox(height: 9),
                         Text(
