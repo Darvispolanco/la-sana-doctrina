@@ -19345,21 +19345,173 @@ La enseñanza trinitaria reconoce en esta historia la obra del único Dios: el P
   Study(
     number: '96',
     title: "El templo de Jerusalén: historia, propósito y significado bíblico",
-    subtitle: "El templo en la historia de Israel, su función y su desarrollo en el testimonio del Nuevo Testamento.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La casa dedicada al nombre de Dios, su lugar en la historia de Israel y su cumplimiento en Cristo.",
+    introduction: '''
+El templo de Jerusalén ocupó un lugar central en la vida religiosa, nacional y litúrgica de Israel. Su historia está vinculada con la promesa hecha a David, la construcción realizada por Salomón, la división del reino, la destrucción babilónica, la restauración después del exilio y la ampliación del templo durante el período herodiano. No fue simplemente un edificio monumental: representaba el lugar escogido para el culto de Israel y estaba relacionado con el pacto, el sacerdocio, los sacrificios y la identidad del pueblo.
+
+El estudio debe comenzar con una distinción esencial: Dios no puede ser contenido por un edificio. Salomón mismo lo reconoce en su oración de dedicación (1 Reyes 8:27). El templo era la casa dedicada al nombre del Señor y el lugar donde su presencia se manifestaba de manera particular, pero no limitaba su ser ni su gobierno sobre toda la creación.
+
+La historia del templo también revela las responsabilidades del pueblo. La presencia de un santuario no garantizaba automáticamente la fidelidad de Israel. Los profetas denunciaron la falsa seguridad religiosa, la injusticia y la idolatría; la destrucción de Jerusalén mostró que los símbolos sagrados no podían sustituir la obediencia al pacto.
+
+El Nuevo Testamento presenta a Jesús en relación directa con el templo: enseña allí, denuncia su corrupción, anuncia su destrucción y se identifica con el verdadero templo mediante la referencia a su cuerpo. Después de su resurrección, la comunidad unida a Cristo es descrita como morada de Dios por el Espíritu. Este desarrollo debe estudiarse sin confundir el templo histórico con Cristo ni convertir cada detalle arquitectónico en una alegoría sin fundamento.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 96. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+El término templo se refiere aquí al santuario permanente levantado en Jerusalén, especialmente al edificio construido bajo Salomón y a sus sucesivas etapas históricas. Se diferencia del tabernáculo estudiado anteriormente porque el templo fue una estructura fija vinculada a la ciudad de Jerusalén, mientras que el tabernáculo acompañó a Israel durante su peregrinación.
+
+La expresión casa de Dios no significa que el Creador necesite una vivienda. En el lenguaje bíblico señala el lugar dedicado a su nombre y al culto que Él estableció. El templo incluía áreas y espacios diferenciados, patios, el Lugar Santo y el Lugar Santísimo. En este último se encontraba el arca en la etapa del primer templo; después de la destrucción babilónica, el arca ya no aparece en el segundo templo.
+
+También deben distinguirse el templo como edificio, el monte del templo como emplazamiento y Jerusalén como ciudad. En ocasiones, los textos utilizan templo o casa para referirse al complejo sagrado o a su función religiosa, por lo que es necesario atender al contexto.
+
+Este estudio sigue la historia del santuario y su significado teológico. No pretende reconstruir cada medida arquitectónica cuando el texto no ofrece datos suficientes, ni asignar a cada objeto un simbolismo cristológico independiente sin apoyo de la Escritura.
+''',
+        references: '2 Samuel 7:1-16; 1 Reyes 6:1-38; 8:1-30; 2 Crónicas 3:1-17; 6:18.',
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La construcción del templo se sitúa en el reinado de Salomón. David había deseado edificar una casa para el Señor, pero recibió la promesa de que su hijo llevaría a cabo esa obra (2 Samuel 7; 1 Crónicas 22). El relato no presenta el proyecto como una iniciativa autónoma del rey: se integra en la promesa divina relacionada con la casa o dinastía de David.
+
+Primera de Reyes 5–8 narra los preparativos, la construcción y la dedicación. Salomón contó con materiales, trabajadores y colaboración de Hiram, rey de Tiro. El edificio fue levantado en Jerusalén y su dedicación incluyó el traslado del arca y una oración pública. Segunda de Crónicas 2–7 ofrece un relato paralelo con énfasis en la oración, el culto y la respuesta divina.
+
+Después de la división del reino, Jerusalén permaneció como centro del reino de Judá. La historia de los reyes registra reformas, reparaciones, infidelidades e idolatría relacionadas con el templo. Los profetas denunciaron que el culto externo no podía encubrir la injusticia ni la desobediencia.
+
+En 586 a. C., los babilonios destruyeron Jerusalén y el primer templo, y una parte importante de la población fue llevada al exilio. Tras el retorno, se reconstruyó el santuario, cuya obra se completó en el período persa, alrededor de 516/515 a. C. Siglos después, Herodes impulsó una gran ampliación del complejo. Este era el templo conocido en tiempos de Jesús y fue destruido por los romanos en el año 70 d. C.
+
+Los libros históricos, proféticos y del Nuevo Testamento deben leerse según sus contextos. No todos describen la misma etapa del edificio ni se refieren a un único momento histórico.
+''',
+        references: '2 Samuel 7:1-17; 1 Crónicas 22:1-19; 1 Reyes 5:1-18; 6:1-38; 8:1-66; 2 Reyes 25:8-17; Esdras 1:1-11; 3:1-13; 6:13-18; Hageo 1:1-15; Juan 2:13-22.',
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+La promesa a David establece el marco teológico del templo. En 2 Samuel 7, Dios recuerda que había acompañado a su pueblo sin pedir que se le construyera una casa como condición para su presencia. Luego promete afirmar la descendencia de David y anuncia que su hijo edificará una casa para el nombre del Señor. El pasaje relaciona la dinastía, el reino y el templo, pero no convierte el edificio en garantía automática de fidelidad.
+
+Primera de Reyes 6 describe la construcción del templo y sus espacios. El capítulo 7 relata otros edificios reales y la elaboración de los utensilios; el capítulo 8 narra el traslado del arca, la nube que llena la casa y la oración de Salomón. El rey reconoce que ni los cielos pueden contener a Dios, y pide que el Señor escuche las oraciones dirigidas hacia aquel lugar. La centralidad del templo no elimina la soberanía universal de Dios.
+
+La historia posterior muestra reformas y decadencia. Ezequías y Josías impulsaron acciones de reforma, mientras que otros reyes promovieron prácticas contrarias al pacto. Jeremías advirtió que repetir la frase «templo de Jehová» no protegería a un pueblo que practicaba injusticia e idolatría. Ezequiel, desde el contexto del exilio, contempla la salida de la gloria divina del templo profanado y anuncia restauración.
+
+Después del retorno, Esdras y Hageo describen la reconstrucción. El segundo templo fue más modesto en algunos aspectos que el primero, pero su importancia no dependía de una comparación de riqueza. Los profetas llamaron al pueblo a reconstruir y a recuperar la fidelidad al Señor. La historia del templo, por tanto, está unida tanto a la adoración como a la obediencia y la esperanza de restauración.
+''',
+        references: '2 Samuel 7:1-16; 1 Reyes 6:1-38; 7:13-51; 8:1-66; 2 Reyes 18:1-7; 22:1-20; Jeremías 7:1-15; Ezequiel 10:1-22; 11:22-25; Esdras 3:8-13; 6:13-18; Hageo 1:1-15; 2:1-9.',
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+En los Evangelios, el templo es escenario de la enseñanza y actividad pública de Jesús. Él participa de las celebraciones, enseña en sus recintos y confronta el uso corrupto del espacio destinado al culto. En Juan 2:13-22, después de la acción de Jesús en el templo, sus interlocutores entienden sus palabras como referencia al edificio; el evangelista aclara que hablaba del templo de su cuerpo y que sus discípulos lo comprendieron después de su resurrección.
+
+Jesús anuncia la destrucción del templo y advierte contra la confianza en su apariencia monumental. Los discursos de Mateo 24, Marcos 13 y Lucas 21 deben leerse atendiendo a sus preguntas y a los acontecimientos que describen. La destrucción del año 70 d. C. constituye un acontecimiento histórico decisivo, aunque los pasajes también contienen lenguaje profético y escatológico que requiere análisis cuidadoso.
+
+En Hechos, el templo continúa apareciendo como lugar de oración, enseñanza y controversia. Esteban recuerda que el Altísimo no habita en templos hechos por manos humanas (Hechos 7:48-50), citando la enseñanza profética de que el cielo es su trono. Pablo utiliza imágenes del templo para explicar que la comunidad de creyentes es edificada como morada de Dios.
+
+Efesios 2:19-22 enseña que judíos y gentiles reconciliados en Cristo forman un edificio espiritual cuya piedra principal es Jesucristo y cuya morada se realiza en el Espíritu. Primera de Pedro 2:4-10 utiliza también la imagen de piedras vivas. La enseñanza apostólica no afirma que el edificio de Jerusalén sea trasladado físicamente a la Iglesia; presenta una nueva realidad comunitaria fundada en Cristo.
+''',
+        references: 'Mateo 21:12-17; 24:1-2; Marcos 13:1-2; Lucas 21:5-6; Juan 2:13-22; Hechos 2:46; 3:1-10; 7:44-50; 17:24-25; Efesios 2:19-22; 1 Pedro 2:4-10.',
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+En 2 Samuel 7:1-16, David desea construir una casa para Dios, pero el Señor invierte la expectativa del rey: antes de recibir una casa construida por David, Dios promete hacerle una casa en el sentido de una dinastía. La promesa inmediata incluye al hijo que edificará el templo, y su horizonte también apunta a la continuidad del reino davídico. No se debe reducir todo el pasaje al edificio ni ignorar su dimensión real y mesiánica.
+
+En 1 Reyes 8:27-30, Salomón reconoce la grandeza trascendente de Dios. Si los cielos no pueden contenerlo, mucho menos la casa que el rey ha edificado. Sin embargo, pide que el Señor atienda la oración de su pueblo. La tensión es deliberada: el templo tiene una función real dentro del pacto, pero Dios no queda encerrado en él. El texto corrige tanto el desprecio del santuario como la superstición que lo convierte en garantía mágica.
+
+Jeremías 7:1-15 confronta a quienes confiaban en el templo mientras persistían en robo, violencia, idolatría e injusticia. El profeta recuerda Silo, cuyo santuario no impidió el juicio cuando el pueblo persistió en la infidelidad. El argumento no es que el templo carezca de importancia, sino que la presencia de un edificio sagrado no reemplaza el arrepentimiento ni la obediencia.
+
+Juan 2:19-22 presenta la declaración de Jesús sobre el templo de su cuerpo. La explicación del evangelista vincula la frase con la resurrección. Jesús no se identifica con el edificio de piedra ni afirma ser el Padre; el pasaje presenta su cuerpo como el lugar decisivo de la revelación y de la obra salvadora. La resurrección permite a los discípulos comprender sus palabras.
+
+Hechos 7:48-50, por su parte, no niega que Dios haya ordenado lugares de culto. Esteban argumenta que el Altísimo no depende de construcciones humanas y denuncia la resistencia del pueblo a la obra de Dios. Su cita de Isaías 66:1-2 refuerza la soberanía del Creador sobre toda la creación.
+''',
+        references: '2 Samuel 7:1-16; 1 Reyes 8:27-30; Jeremías 7:1-15; Isaías 66:1-2; Juan 2:19-22; Hechos 7:44-50.',
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El templo está conectado con el pacto davídico y la esperanza del reino. La promesa de una descendencia y un trono estable aparece en los Salmos y en los profetas, y el Nuevo Testamento presenta a Jesús como el Hijo de David cuyo reino no tendrá fin. La relación no significa que el Mesías sea simplemente un edificio, sino que el templo forma parte de la historia en la que Dios desarrolla sus promesas.
+
+El santuario también está relacionado con el sacerdocio y los sacrificios. Los servicios del templo continuaron el sistema establecido en la ley, pero los profetas insistieron en que el culto debía acompañarse de justicia, misericordia y fidelidad. Miqueas 6:6-8 resume la exigencia ética del Señor; Isaías 1:10-17 denuncia las ceremonias separadas de la rectitud.
+
+La destrucción del primer templo y el exilio demostraron que la elección de Jerusalén no autorizaba al pueblo a vivir en rebelión. Las promesas de restauración en los profetas deben leerse junto con los llamados al arrepentimiento. El segundo templo fue una etapa histórica real, pero no agotó la esperanza profética.
+
+En el Nuevo Testamento, Jesús anuncia juicio sobre el templo y se presenta como el lugar definitivo de encuentro con Dios mediante su muerte y resurrección. Hebreos explica la superioridad del sacerdocio y sacrificio de Cristo. Efesios y Primera de Pedro enseñan que los creyentes son edificados como casa espiritual. Apocalipsis 21:22 declara que en la nueva Jerusalén no se ve un templo separado, porque Dios Todopoderoso y el Cordero son su templo. La imagen culmina en la comunión plena con Dios, no en la restauración de un edificio como requisito para su presencia.
+''',
+        references: 'Salmos 2:6-12; 89:3-4, 19-37; Isaías 1:10-17; 56:6-7; Miqueas 6:6-8; Jeremías 7:1-15; Hebreos 7:23-28; 8:1-6; 10:1-18; Efesios 2:19-22; 1 Pedro 2:4-10; Apocalipsis 21:22-27.',
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El templo debe comprenderse dentro de la revelación del único Dios. En el Antiguo Testamento, el Señor escoge Jerusalén para el culto de Israel y manifiesta su gloria, pero declara que no puede ser contenido por los cielos ni por una casa construida por seres humanos. La presencia divina no debe convertirse en una representación material de la esencia de Dios.
+
+El Nuevo Testamento presenta al Hijo como aquel en quien se cumple de manera decisiva el tema del templo. Juan 1:14 afirma que el Verbo se hizo carne y habitó entre nosotros; Juan 2:19-22 identifica el templo del que habló Jesús con su cuerpo. El Hijo revela al Padre y abre el acceso a Dios mediante su muerte y resurrección. No es correcto confundir al Hijo con el Padre: el propio Evangelio distingue sus personas y describe la relación del Hijo con el Padre.
+
+El Espíritu Santo participa en la edificación de la comunidad como morada de Dios. Efesios 2:18-22 distingue el acceso al Padre, la reconciliación realizada por Cristo y la edificación en el Espíritu. Primera de Corintios 3:16 enseña que la comunidad es templo de Dios porque el Espíritu habita en ella.
+
+Por tanto, la perspectiva trinitaria no consiste en asignar una parte del edificio a cada persona divina. Consiste en reconocer la obra del único Dios: el Padre recibe y reúne a su pueblo, el Hijo es el mediador y fundamento de la nueva realidad, y el Espíritu habita en la comunidad y la constituye como morada divina. Las personas son distintas, no tres dioses ni una sola persona que adopta nombres intercambiables.
+''',
+        references: 'Juan 1:1-3, 14, 18; 2:19-22; 14:6-11, 16-17; Efesios 2:18-22; 1 Corintios 3:16-17; 2 Corintios 6:16.',
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Dios habitaba en el templo o no podía ser contenido por él? Ambas afirmaciones se refieren a aspectos distintos. Dios manifestó su presencia en el santuario conforme al pacto, pero su ser y autoridad no estaban limitados al edificio. Primera de Reyes 8:27 explica expresamente esta distinción.
+
+¿Por qué Dios permitió un templo si había ordenado el tabernáculo? La historia bíblica muestra un desarrollo: el santuario portátil acompañó a Israel en el desierto; posteriormente, el templo se estableció en Jerusalén como centro de culto. La promesa a David y la elección de Jerusalén forman parte de esa etapa. No debe suponerse que Dios necesitaba una construcción.
+
+¿La destrucción del templo significa que Dios fue derrotado? No. Los profetas interpretan la caída de Jerusalén como juicio por la infidelidad del pueblo, no como incapacidad del Señor. Dios continuó actuando durante el exilio y prometió restauración.
+
+¿Jesús enseñó que el edificio era inútil? No. Jesús enseñó en el templo y reconoció la historia de la adoración de Israel, pero denunció la corrupción y anunció el juicio. Juan 2:19-22 dirige la atención al templo de su cuerpo y a su resurrección.
+
+¿La Iglesia es ahora un edificio sagrado? En los textos apostólicos, la imagen del templo se aplica principalmente a la comunidad de creyentes unida a Cristo y habitada por el Espíritu. Un local de reunión puede dedicarse al culto, pero no es por sí mismo la morada exclusiva de Dios.
+
+¿Apocalipsis 21 contradice los anuncios proféticos de restauración del templo? Los textos deben estudiarse en sus géneros y contextos. Las visiones proféticas utilizan imágenes de restauración y presencia divina; Apocalipsis 21 presenta la consumación en la que no existe un santuario separado porque Dios y el Cordero son el templo de la ciudad. No se debe borrar la etapa histórica de Israel ni confundir las imágenes proféticas con una descripción arquitectónica literal sin argumentación.
+''',
+        references: '1 Reyes 8:27; Jeremías 7:1-15; 2 Reyes 25:8-17; Ezequiel 43:1-7; Juan 2:13-22; Hechos 7:48-50; 1 Corintios 3:16-17; Apocalipsis 21:22.',
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Quién ordenó la construcción del primer templo?
+Respuesta: La obra se desarrolló conforme a la promesa y dirección de Dios dentro del pacto davídico. David preparó materiales y Salomón realizó la construcción. Segunda de Samuel 7 y Primera de Reyes 5–8 presentan el marco de esta obra.
+
+Pregunta: ¿Por qué Salomón dijo que ni los cielos podían contener a Dios?
+Respuesta: Para reconocer que el Señor trasciende toda creación y que el templo no podía limitarlo. Aun así, Salomón pidió que Dios escuchara las oraciones relacionadas con aquel lugar. La trascendencia divina y la función pactal del santuario no se contradicen.
+
+Pregunta: ¿Por qué fue destruido el templo?
+Respuesta: Los relatos históricos y proféticos relacionan la caída de Jerusalén con la persistente idolatría, injusticia y desobediencia de Judá. La destrucción fue juicio dentro de la historia del pacto, no una derrota del Dios de Israel.
+
+Pregunta: ¿Qué relación tiene Jesús con el templo?
+Respuesta: Jesús anunció el juicio sobre el edificio y habló de su cuerpo como templo, señalando su muerte y resurrección. En Él se cumple de manera decisiva el acceso a Dios. Juan 2:19-22 y Hebreos 9–10 desarrollan esta verdad.
+
+Pregunta: ¿La Iglesia reemplaza simplemente a Israel como edificio-templo?
+Respuesta: La enseñanza apostólica afirma que los creyentes judíos y gentiles reconciliados en Cristo son edificados como morada de Dios. Efesios 2:11-22 debe leerse en su argumento completo: habla de reconciliación y unidad en Cristo, no de una transferencia arquitectónica.
+
+Pregunta: ¿Por qué Apocalipsis dice que no habrá templo en la nueva Jerusalén?
+Respuesta: Porque la presencia de Dios y del Cordero será plena y directa; no habrá necesidad de un santuario separado. Apocalipsis 21:22-23 describe la consumación de la comunión con Dios.
+''',
+        references: '2 Samuel 7:1-16; 1 Reyes 8:22-30; 2 Reyes 25:8-17; Juan 2:19-22; Hebreos 9:11-28; Efesios 2:11-22; Apocalipsis 21:22-23.',
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La historia del templo enseña que el culto debe estar unido a la fidelidad. Israel podía conservar ceremonias, sacerdotes y un edificio impresionante, pero nada de ello justificaba la idolatría ni la injusticia. Los profetas llamaron al pueblo a abandonar la falsa seguridad religiosa y a practicar la justicia, la misericordia y la obediencia.
+
+También enseña que los lugares dedicados al culto tienen una función, pero no contienen a Dios ni garantizan automáticamente la aprobación divina. La reverencia por el espacio de reunión debe acompañarse de una vida coherente con la Palabra. El edificio nunca sustituye la fe, el arrepentimiento ni la comunión con el Señor.
+
+Para la Iglesia, Cristo es el fundamento y mediador del acceso a Dios. La comunidad es llamada a vivir como morada del Espíritu, en santidad y unidad. Esta identidad no depende de la grandeza de un local, sino de la obra de Cristo y de la presencia del Espíritu en su pueblo.
+
+La esperanza final no es la perpetuación de un santuario de piedra, sino la comunión plena con Dios y el Cordero. La trayectoria del templo, desde la promesa davídica hasta la nueva Jerusalén, muestra que el propósito de Dios es habitar con su pueblo y reunirlo para su gloria.
+''',
+        references: 'Jeremías 7:1-15; Miqueas 6:6-8; Juan 2:19-22; Hebreos 10:19-25; Efesios 2:19-22; 1 Pedro 2:4-10; Apocalipsis 21:1-4, 22-27.',
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El templo de Jerusalén fue el santuario central del culto de Israel, levantado bajo Salomón dentro del marco de la promesa hecha a David. Su historia incluyó dedicación, reformas, corrupción, destrucción, reconstrucción y una nueva etapa durante el período del segundo templo. En cada fase, la Escritura enseña que el edificio tenía una función real, pero nunca podía contener al Dios que creó los cielos y la tierra.
+
+Los profetas denunciaron la confianza supersticiosa en el santuario y llamaron al pueblo a la fidelidad. Jesús anunció el juicio sobre el templo y señaló su cuerpo como el templo que sería levantado en la resurrección. Los apóstoles enseñaron que la comunidad unida a Cristo es morada de Dios por el Espíritu, y Apocalipsis presenta la consumación en la que Dios y el Cordero son el templo de la nueva Jerusalén.
+
+La perspectiva trinitaria distingue al Padre, al Hijo y al Espíritu Santo en la obra de salvación y en la formación del pueblo de Dios, sin dividir la esencia divina ni confundir las personas. El significado final del templo no está en la permanencia de una construcción, sino en la presencia de Dios con su pueblo por medio de Cristo y en la plenitud de la nueva creación.
+''',
   ),
   Study(
     number: '97',
