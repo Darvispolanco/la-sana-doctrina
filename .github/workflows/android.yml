@@ -1,9 +1,14 @@
 
 name: Build Android APK
+# CI validates the modular Dart source on each PR update.
 
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
+      - refactor/modularizacion-main-v1
+  pull_request:
     branches:
       - main
 
