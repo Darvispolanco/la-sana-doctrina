@@ -801,6 +801,55 @@ La mejor manera de estudiar la Trinidad es examinar directamente las Escrituras,
 ''',
 references: 'Deuteronomio 6:4; Mateo 3:16-17; Juan 1:1-3; Juan 14:16-17; Juan 20:28; Hechos 5:3-4; 1 Corintios 8:4-6.',
 ),
+
+StudySection(
+title: '9. La Trinidad en el testimonio apostólico: un solo Dios y tres personas',
+content: '''
+La doctrina trinitaria no depende de una sola frase aislada. Se reconoce al reunir el testimonio de diferentes pasajes que mantienen la unidad de Dios y presentan al Padre, al Hijo y al Espíritu Santo.
+
+En 1 Corintios 8:4-6, Pablo reafirma que no hay más que un Dios y, dentro de esa confesión, menciona al Padre como aquel de quien proceden todas las cosas y para quien vivimos, y a Jesucristo como el único Señor por medio de quien son todas las cosas y nosotros por medio de Él. El apóstol no está presentando dos dioses. Está expresando la fe cristiana en el único Dios a la luz de la identidad y la obra del Padre y del Hijo. El contexto inmediato combate la idolatría y afirma que los ídolos no son dioses verdaderos.
+
+Efesios 4:4-6 presenta una secuencia de unidad: un Espíritu, un Señor y un Dios y Padre de todos. Pablo no está describiendo tres seres independientes, sino la unidad que fundamenta la vida de la Iglesia. El Espíritu, el Señor Jesucristo y el Padre aparecen distinguidos, mientras la confesión permanece monoteísta.
+
+Mateo 28:19 ordena bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. El nombre aparece en singular y las tres personas son mencionadas conjuntamente. Este dato es importante, aunque no debe utilizarse como si un solo detalle gramatical explicara por sí mismo toda la doctrina. Debe leerse junto con el bautismo de Jesús, las promesas del Consolador y las bendiciones apostólicas.
+
+En 2 Corintios 13:14, Pablo reúne la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo en una bendición para la iglesia. La presencia conjunta de las tres personas en la vida y adoración cristianas confirma que la doctrina trinitaria surge del testimonio bíblico completo.
+''',
+references: 'Mateo 3:16-17; Mateo 28:18-20; Juan 14:16-17, 26; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6.',
+),
+StudySection(
+title: '10. Cómo armonizar los textos que parecen presentar diferencias',
+content: '''
+Algunos pasajes pueden parecer contradictorios cuando se leen separados de su contexto. La interpretación responsable no debe eliminar un texto para proteger otro, sino estudiar qué afirma cada uno y cómo se relaciona con el conjunto de las Escrituras.
+
+Juan 17:3 llama al Padre «el único Dios verdadero» y presenta a Jesucristo como aquel que fue enviado. El contexto es la oración del Hijo al Padre y su misión redentora. El versículo distingue al Padre del Hijo; no debe aislarse para negar otros testimonios del mismo Evangelio, como Juan 1:1 y Juan 20:28, donde el Verbo es llamado Dios y Tomás confiesa a Jesús como Señor y Dios. La lectura conjunta conserva tanto la distinción personal como la divinidad del Hijo.
+
+Juan 14:28 registra las palabras de Jesús: «el Padre mayor es que yo». En el contexto de Juan 13–17, Jesús habla de su partida, de su misión y de su regreso al Padre. El pasaje debe estudiarse junto con Juan 1:1, Juan 5:18-23, Juan 10:30 y Filipenses 2:5-11. La misión del Hijo y su condición de siervo durante la encarnación no deben confundirse con una supuesta inferioridad de naturaleza divina.
+
+Juan 10:30 afirma: «Yo y el Padre uno somos». El contexto inmediato trata de la protección de las ovejas y de la autoridad del Hijo para darles vida eterna. La expresión de unidad no elimina la distinción entre Jesús y el Padre, porque el mismo Evangelio muestra que el Hijo habla con el Padre y es enviado por Él. Tampoco significa que sean dos dioses: la unidad debe comprenderse a la luz del monoteísmo bíblico.
+
+La regla fundamental es comparar pasajes, identificar quién habla, a quién se dirige, cuál es el asunto tratado y qué afirma el contexto. No debemos resolver una dificultad negando una enseñanza bíblica clara ni atribuyendo a un texto una conclusión que no expresa.
+''',
+references: 'Juan 1:1-3; Juan 5:18-23; Juan 10:27-38; Juan 14:28; Juan 17:1-5; Juan 20:28-31; Filipenses 2:5-11.',
+),
+StudySection(
+title: '11. Preguntas y respuestas fundamentales sobre la Trinidad',
+content: '''
+¿La Trinidad enseña que hay tres dioses? No. La Biblia afirma que Dios es uno. El Padre, el Hijo y el Espíritu Santo no son tres seres divinos independientes, sino tres personas que comparten plenamente la única naturaleza divina (Deuteronomio 6:4; 1 Corintios 8:4-6).
+
+¿El Padre es el Hijo? No. El Padre envía al Hijo, el Hijo ora al Padre y el Padre da testimonio del Hijo. La relación que presentan las Escrituras es personal y real (Mateo 3:16-17; Juan 17:1-5).
+
+¿El Espíritu Santo es solamente una fuerza? No. Habla, enseña, guía, decide y puede ser entristecido. La Escritura lo presenta como persona divina, no como energía impersonal (Juan 14:26; Hechos 13:2; Efesios 4:30).
+
+¿Jesús es Dios si también es enviado por el Padre? Sí. Ser enviado describe su misión y relación con el Padre; no demuestra por sí mismo que sea una criatura o que tenga una naturaleza inferior. Deben compararse los textos sobre su envío con los que afirman su divinidad (Juan 1:1-3, 14; Juan 5:23; Gálatas 4:4-5).
+
+¿La palabra Trinidad aparece literalmente en la Biblia? No. Es un término teológico que resume el testimonio de las Escrituras. La autoridad no está en la palabra creada por la teología, sino en la enseñanza bíblica que procura expresar.
+
+¿Podemos explicar exhaustivamente cómo existe Dios en tres personas? No. Podemos afirmar lo que Dios ha revelado y reconocer los límites de nuestra comprensión, sin inventar explicaciones ni abandonar las verdades que la Biblia enseña.
+''',
+references: 'Deuteronomio 6:4; Mateo 3:16-17; Juan 1:1-14; Juan 5:23; Juan 14:26; Juan 17:1-5; Hechos 13:2; 1 Corintios 8:4-6; Efesios 4:30.',
+),
+
 ],
 conclusion: '''
 La doctrina de la Trinidad afirma que existe un solo Dios en tres personas distintas: el Padre, el Hijo y el Espíritu Santo.
@@ -1075,6 +1124,40 @@ content:
 'La Biblia ofrece consuelo y seguridad a quienes pertenecen a Cristo. Juan 10:27-30 presenta a las ovejas de Jesús escuchando su voz y recibiendo vida eterna; nadie puede arrebatarlas de su mano. Romanos 8:28-39 declara que nada podrá separar a los creyentes del amor de Dios que es en Cristo Jesús. Efesios 1:13-14 habla del Espíritu Santo como sello y garantía de la herencia. Sin embargo, la seguridad bíblica no debe confundirse con una presunción que permita vivir deliberadamente en desobediencia sin arrepentimiento. Las Escrituras también llaman a permanecer en la fe, a perseverar y a examinar la propia vida. La esperanza cristiana está puesta en la fidelidad de Dios y en el cumplimiento de sus promesas, no en la confianza orgullosa en los méritos personales.',
 references: 'Juan 10:27-30; Romanos 8:28-39; 1 Corintios 10:12-13; Efesios 1:13-14; Colosenses 1:21-23; Hebreos 3:12-14.',
 ),
+
+StudySection(
+title: '10. Lectura contextual: la obra del Padre, del Hijo y del Espíritu en Efesios 1:3-14',
+content: '''
+Efesios 1:3-14 constituye uno de los pasajes más completos para estudiar la salvación desde una perspectiva trinitaria. Pablo no presenta tres planes de salvación ni tres obras independientes. Desarrolla una sola bendición divina y muestra cómo el propósito del Padre, la redención realizada por el Hijo y el sello del Espíritu Santo están unidos.
+
+En los versículos 3-6, el apóstol bendice al Dios y Padre de nuestro Señor Jesucristo y describe su propósito de escoger y adoptar un pueblo por medio de Jesucristo. El texto identifica al Padre como quien establece el propósito, pero no presenta al Hijo como un ser externo o ajeno a la obra divina: la elección y la adopción se realizan en Cristo.
+
+En los versículos 7-12, Pablo explica que en Cristo tenemos redención por su sangre y perdón de pecados conforme a las riquezas de la gracia de Dios. El Hijo no es presentado como un segundo dios que persuade a un Padre contrario a salvar. La redención expresa el propósito misericordioso del único Dios y se realiza mediante la entrega voluntaria del Hijo encarnado.
+
+En los versículos 13-14, quienes oyen y creen el evangelio son sellados con el Espíritu Santo de la promesa, quien es garantía de la herencia. El Espíritu no añade una salvación diferente a la de Cristo: aplica y confirma en los creyentes los beneficios de la obra redentora.
+
+El movimiento del pasaje debe respetarse: el Padre es quien bendice y establece el propósito; la redención está en el Hijo; y el Espíritu sella a quienes creen. Las personas no se confunden, pero tampoco se separa la obra divina. El pasaje termina en la alabanza de la gloria de Dios, mostrando que la salvación tiene una sola fuente, un solo propósito y una sola meta.
+''',
+references: 'Efesios 1:3-14; Juan 6:37-40; Juan 15:26; 1 Pedro 1:2.',
+),
+StudySection(
+title: '11. Preguntas y respuestas sobre la salvación trinitaria',
+content: '''
+¿El Padre, el Hijo y el Espíritu Santo realizan tres salvaciones distintas? No. La Escritura anuncia una sola salvación y un solo propósito divino. Las personas actúan de manera distinta, pero no como tres dioses ni mediante planes enfrentados (Efesios 1:3-14; 1 Pedro 1:2).
+
+¿Fue el Padre quien se encarnó y murió en la cruz? No. El Hijo es quien asumió la naturaleza humana y entregó su vida. El Padre envió al Hijo, y el Hijo obedeció voluntariamente la misión recibida (Juan 3:16-17; Gálatas 4:4-5; Filipenses 2:5-8).
+
+¿El Espíritu Santo reemplaza a Jesucristo en la salvación? No. Jesús prometió al Consolador, quien daría testimonio de Él y lo glorificaría. El Espíritu aplica la obra de Cristo y conduce a los creyentes a la verdad, sin convertirse en el Hijo (Juan 15:26; Juan 16:13-15; Tito 3:5-6).
+
+Si la salvación es por gracia, ¿las buenas obras carecen de importancia? No. Efesios 2:8-10 enseña que somos salvos por gracia mediante la fe, no por obras como causa de mérito; pero también enseña que somos creados en Cristo para buenas obras. La obediencia es fruto de la salvación, no su precio.
+
+¿La fe y el arrepentimiento son méritos que obligan a Dios a salvar? No. Son la respuesta al llamado del evangelio. La salvación nace de la gracia divina y el ser humano es llamado a arrepentirse y creer en Jesucristo (Marcos 1:14-15; Hechos 20:20-21; Efesios 2:8-9).
+
+¿La distinción entre las personas divide a Dios? No. La Biblia mantiene juntas la unidad divina y las relaciones personales. El Padre envía, el Hijo redime y el Espíritu sella, pero la salvación procede del único Dios (Efesios 1:3-14; 1 Corintios 8:4-6).
+''',
+references: 'Marcos 1:14-15; Juan 3:16-17; Juan 15:26; Juan 16:13-15; Hechos 20:20-21; Efesios 1:3-14; Efesios 2:8-10; Gálatas 4:4-7; Tito 3:4-7; 1 Pedro 1:2.',
+),
+
 ],
 conclusion:
 'La salvación procede de la gracia del Padre, se fundamenta en la obra redentora del Hijo y es aplicada en la vida del creyente por el Espíritu Santo. No se obtiene por méritos humanos, sino que se recibe mediante la fe en Jesucristo. Esta salvación produce arrepentimiento, una nueva relación con Dios, transformación y perseverancia. Comprenderla desde la enseñanza bíblica también permite reconocer la unidad de la obra divina y la distinción personal del Padre, del Hijo y del Espíritu Santo.',
