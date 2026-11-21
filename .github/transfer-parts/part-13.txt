@@ -1,0 +1,1000 @@
+content:'La esperanza del creyente descansa en Dios y no en la estabilidad de los recursos humanos. El Señor no necesita condiciones favorables para permanecer fiel ni pierde su capacidad de cumplir sus promesas. Por eso, podemos confiar en Él incluso cuando nuestras circunstancias cambian.',
+references: 'Romanos 8:31-39; Filipenses 4:19; Hebreos 10:23.',
+),
+StudySection(
+title: '48. Aplicación: depender de Dios sin pasividad',
+content:
+'Depender de Dios no significa abandonar las responsabilidades personales. La Biblia llama a trabajar, servir, planificar y actuar con sabiduría, reconociendo que todo depende finalmente del Señor. La verdadera dependencia une confianza y obediencia, no pasividad ni irresponsabilidad.',
+references: 'Proverbios 16:3; Colosenses 3:23-24; Santiago 2:17.',
+),
+StudySection(
+title: '49. Síntesis bíblica de la autosuficiencia divina',
+content:
+'Dios existe por sí mismo y no depende de la creación para ser plenamente Dios. El Padre, el Hijo y el Espíritu Santo comparten eternamente la única naturaleza divina. La creación no completa a Dios, la adoración no sostiene su existencia y el servicio humano no aumenta su perfección. Todo lo que existe depende de Él, mientras que Él permanece plenamente suficiente en sí mismo.',
+references: 'Éxodo 3:14; Juan 1:1-3; Juan 5:26; Hechos 17:24-25.',
+),
+StudySection(
+title: '50. Aplicación final: vivir reconociendo nuestra dependencia de Dios',
+content:
+'La autosuficiencia divina nos llama a abandonar el orgullo y reconocer que nuestra vida procede del Señor. Debemos orar, estudiar su Palabra, servir con humildad y utilizar responsablemente los dones recibidos. No buscamos completar a Dios con nuestras acciones; respondemos con gratitud al Dios que es plenamente suficiente y que, por gracia, nos permite conocerlo por medio de Jesucristo y vivir en comunión con Él mediante el Espíritu Santo.',
+references: 'Hechos 17:27-28; Juan 15:4-5; Efesios 2:8-10; Judas 20-21.',
+),
+],
+conclusion:
+'La autosuficiencia divina enseña que Dios existe por sí mismo y que no necesita nada externo para ser plenamente Dios. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina, eterna y perfecta. Dios no creó por soledad ni necesita la adoración humana para conservar su gloria. La creación, la providencia y la salvación son manifestaciones de su voluntad y bondad. Esta doctrina nos conduce a la humildad, la gratitud y la dependencia correcta: no porque Dios necesite que lo completemos, sino porque nosotros necesitamos continuamente de Él.',
+),
+
+Study(
+number: '52',
+title: 'La gloria de Dios: su excelencia divina, su manifestación en la creación y su revelación en Jesucristo',
+subtitle: 'La majestad, santidad y excelencia del único Dios manifestadas por medio del Padre, del Hijo y del Espíritu Santo.',
+introduction:
+'La gloria de Dios representa la manifestación de su excelencia, majestad, santidad, poder y perfección. Dios posee gloria por su propia naturaleza y no depende de las criaturas para ser glorioso. Sin embargo, ha decidido manifestar su gloria en la creación, en sus obras, en su revelación y de manera suprema en Jesucristo. Las Escrituras muestran que el Padre glorifica al Hijo, el Hijo revela la gloria del Padre y el Espíritu Santo glorifica a Cristo y permite que los creyentes comprendan la verdad divina. Estudiar este atributo permite entender que la adoración, la salvación, la creación y la vida cristiana tienen como propósito reconocer y manifestar la gloria del único Dios trino.',
+sections: [
+StudySection(
+title: '1. ¿Qué significa la gloria de Dios?',
+content:
+'La gloria de Dios expresa su excelencia y majestad incomparables. Comprende su santidad, poder, sabiduría, justicia, amor y perfección. No se trata de una cualidad externa que Dios recibe de las criaturas, sino de la grandeza que pertenece a su propia naturaleza y que Él manifiesta mediante sus obras y revelación.',
+references: 'Éxodo 15:11; Salmos 19:1; Romanos 11:36.',
+),
+StudySection(
+title: '2. Dios posee gloria por su propia naturaleza',
+content:
+'Dios no necesita que los seres humanos lo reconozcan para ser glorioso. Su dignidad existe independientemente de la respuesta de la creación. La adoración humana no produce su gloria, sino que reconoce la excelencia que eternamente le pertenece.',
+references: 'Isaías 42:8; Hechos 17:24-25; Apocalipsis 4:11.',
+),
+StudySection(
+title: '3. La gloria y la santidad divina',
+content:
+'La gloria de Dios está profundamente relacionada con su santidad. Los seres celestiales proclaman su santidad y reconocen que toda la tierra está llena de su gloria. Su santidad expresa su perfección moral y su absoluta separación del pecado. La gloria manifiesta la grandeza de ese carácter santo.',
+references: 'Isaías 6:1-5; Éxodo 15:11; Apocalipsis 4:8.',
+),
+StudySection(
+title: '4. La gloria de Dios en la creación',
+content:
+'La creación manifiesta la sabiduría y el poder de su Creador. El universo no es Dios, pero da testimonio de su grandeza. La diversidad, el orden y la existencia de las cosas creadas dirigen la atención hacia aquel que las hizo. La creación debe conducir a la adoración del Creador y no a la idolatría de lo creado.',
+references: 'Salmos 19:1-6; Romanos 1:19-25.',
+),
+StudySection(
+title: '5. Los cielos cuentan la gloria de Dios',
+content:
+'Salmos 19 presenta los cielos como testimonio de la obra divina. El salmista contempla la creación y reconoce que comunica la grandeza de Dios sin depender de palabras humanas. Este testimonio es universal, aunque para conocer plenamente el carácter y el propósito redentor del Señor necesitamos su revelación.',
+references: 'Salmos 19:1-4.',
+),
+StudySection(
+title: '6. La gloria de Dios y la creación del ser humano',
+content:
+'El ser humano fue creado a imagen y semejanza de Dios y tiene la responsabilidad de reflejar su carácter mediante una vida justa y obediente. Esto no significa que posea la gloria divina por naturaleza ni que sea una parte de Dios. Es una criatura que debe honrar al Creador.',
+references: 'Génesis 1:26-28; Salmos 8:3-9; 1 Corintios 10:31.',
+),
+StudySection(
+title: '7. La gloria de Dios en la historia de Israel',
+content:
+'Dios manifestó su poder y fidelidad en la historia de Israel mediante liberaciones, juicios, pactos y actos de provisión. Estas obras no buscaban aumentar su gloria, sino revelar quién era Él ante su pueblo y las naciones. Israel debía reconocer al Señor como único Dios y vivir de acuerdo con su pacto.',
+references: 'Éxodo 14:15-18; Deuteronomio 4:5-8; Salmos 106:7-8.',
+),
+StudySection(
+title: '8. La gloria de Dios en el éxodo',
+content:
+'La liberación de Israel de Egipto manifestó el poder del Señor frente a Faraón y los dioses de Egipto. Dios actuó para liberar a su pueblo y revelar que no existe autoridad que pueda compararse con Él. El éxodo se convirtió en una referencia fundamental para comprender su poder salvador.',
+references: 'Éxodo 7:3-5; Éxodo 14:17-18; Éxodo 15:1-18.',
+),
+StudySection(
+title: '9. La gloria de Dios en el tabernáculo',
+content:
+'Cuando el tabernáculo fue levantado conforme a las instrucciones divinas, la nube cubrió la tienda de reunión y la gloria del Señor la llenó. Esta manifestación mostraba que Dios había establecido su presencia en medio de Israel. No significaba que su esencia estuviera limitada a una construcción humana.',
+references: 'Éxodo 40:34-38.',
+),
+StudySection(
+title: '10. La gloria de Dios en el templo',
+content:
+'En la dedicación del templo de Salomón, la gloria del Señor llenó la casa. La manifestación confirmó la importancia del lugar dentro de la vida religiosa de Israel, pero Salomón reconoció que ni siquiera los cielos podían contener a Dios. Su presencia no puede reducirse a un edificio.',
+references: '1 Reyes 8:10-13, 27; 2 Crónicas 7:1-3.',
+),
+StudySection(
+title: '11. La gloria de Dios y su nombre',
+content:
+'El nombre de Dios representa su identidad y reputación revelada. Las Escrituras llaman a glorificar su nombre porque Él merece reconocimiento y honor. El nombre divino no funciona como una fórmula mágica, sino que está relacionado con la persona y el carácter del Señor.',
+references: 'Salmos 29:1-2; Salmos 96:7-8; Mateo 6:9.',
+),
+StudySection(
+title: '12. La gloria de Dios y sus atributos',
+content:
+'La gloria divina no debe separarse de los atributos de Dios. Su justicia, amor, misericordia, santidad, sabiduría y poder manifiestan su excelencia. No podemos honrar verdaderamente a Dios mientras ignoramos alguno de estos aspectos de su carácter revelado.',
+references: 'Éxodo 34:5-7; Salmos 145:3-9; Romanos 11:33-36.',
+),
+StudySection(
+title: '13. La gloria del Padre',
+content:
+'El Padre es presentado como fuente de la obra salvadora y como aquel que envía al Hijo para revelar su carácter. Jesús dirige la atención hacia el Padre y vive en obediencia a su voluntad. La gloria del Padre no es una gloria distinta de la naturaleza divina, sino la gloria del único Dios.',
+references: 'Juan 5:19-23; Juan 17:1-5; Efesios 1:3-6.',
+),
+StudySection(
+title: '14. La gloria eterna del Hijo',
+content:
+'El Hijo comparte la gloria divina y existía con el Padre antes de la creación. Jesús pidió al Padre que lo glorificara con aquella gloria que había tenido con Él antes de que el mundo existiera. Este pasaje es fundamental para comprender la preexistencia y la divinidad de Jesucristo.',
+references: 'Juan 1:1-3; Juan 17:5, 24; Hebreos 1:3.',
+),
+StudySection(
+title: '15. La gloria del Espíritu Santo',
+content:
+'El Espíritu Santo es plenamente divino y participa de la obra de manifestar la gloria de Dios. Jesús enseña que el Espíritu glorificará al Hijo porque tomará de lo que es de Cristo y lo hará saber a los discípulos. Su ministerio no busca establecer una gloria independiente de Dios, sino revelar y aplicar la verdad divina.',
+references: 'Juan 16:13-15; 1 Corintios 2:10-12; 2 Corintios 3:17-18.',
+),
+StudySection(
+title: '16. La unidad de la gloria divina',
+content:
+'El Padre, el Hijo y el Espíritu Santo no poseen tres glorias correspondientes a tres dioses independientes. La gloria pertenece a la única naturaleza divina. Las personas se relacionan y actúan de manera distinta, pero comparten plenamente la misma divinidad.',
+references: 'Mateo 28:19; Juan 17:5; 2 Corintios 13:14.',
+),
+StudySection(
+title: '17. La distinción personal en la manifestación de la gloria',
+content:
+'La unidad divina no elimina las relaciones personales. El Padre glorifica al Hijo, el Hijo glorifica al Padre y el Espíritu glorifica al Hijo. Estas expresiones muestran distinción entre las personas sin dividir la esencia divina. La doctrina trinitaria mantiene juntas la unidad de Dios y la distinción personal.',
+references: 'Juan 13:31-32; Juan 17:1-5; Juan 16:13-15.',
+),
+StudySection(
+title: '18. La gloria de Dios revelada en Jesucristo',
+content:
+'Jesucristo revela de manera suprema la gloria de Dios. En Él vemos la manifestación de la gracia, la verdad, la santidad y el amor divinos. El Hijo no es simplemente un mensajero que habla acerca de Dios; es la imagen del Dios invisible y el resplandor de su gloria.',
+references: 'Juan 1:14, 18; Colosenses 1:15; Hebreos 1:1-3.',
+),
+StudySection(
+title: '19. Juan 1:14 y la gloria del Verbo encarnado',
+content:
+'Juan afirma que el Verbo se hizo carne y habitó entre nosotros, y que contemplaron su gloria. La expresión recuerda la presencia divina en medio de su pueblo. En Jesucristo, la gloria del Hijo eterno se manifestó en una verdadera vida humana, llena de gracia y de verdad.',
+references: 'Juan 1:1-14.',
+),
+StudySection(
+title: '20. La gloria de Cristo en sus milagros',
+content:
+'Los milagros de Jesús revelaban su autoridad y conducían a reconocer la gloria de Dios. En Caná, Juan señala que Jesús manifestó su gloria y sus discípulos creyeron en Él. Las señales no eran espectáculos destinados a satisfacer curiosidad, sino testimonios de su identidad y misión.',
+references: 'Juan 2:1-11; Juan 11:40; Juan 20:30-31.',
+),
+StudySection(
+title: '21. La gloria de Cristo en su enseñanza',
+content:
+'La enseñanza de Jesús manifestó una autoridad extraordinaria y reveló la verdad acerca del Padre. Sus palabras no procedían de una sabiduría humana independiente. Él habló de la relación con el Padre, del reino de Dios, del pecado, de la salvación y de la vida eterna.',
+references: 'Juan 7:16-18; Juan 12:44-50; Mateo 7:28-29.',
+),
+StudySection(
+title: '22. La gloria de Cristo en su transfiguración',
+content:
+'En la transfiguración, Jesús manifestó su majestad delante de Pedro, Jacobo y Juan. Su apariencia cambió y una voz desde la nube declaró que era el Hijo amado. El acontecimiento confirmó su identidad y anticipó la gloria relacionada con su reino, sin convertirlo en un ser divino en ese momento.',
+references: 'Mateo 17:1-8; Marcos 9:2-8; 2 Pedro 1:16-18.',
+),
+StudySection(
+title: '23. La gloria de Cristo en su humillación',
+content:
+'La encarnación y la vida humilde de Jesús no contradicen su gloria divina. El Hijo asumió voluntariamente la condición de siervo y obedeció hasta la muerte. La cruz revela que la gloria de Dios no se manifiesta mediante orgullo egoísta, sino también mediante amor sacrificial y obediencia perfecta.',
+references: 'Filipenses 2:5-8; Juan 13:1-5; Juan 17:1.',
+),
+StudySection(
+title: '24. La gloria de Dios manifestada en la cruz',
+content:
+'La cruz manifiesta la justicia y el amor de Dios. Allí se revela la gravedad del pecado y la profundidad de la misericordia divina. Jesucristo entregó su vida para realizar la obra de redención. La gloria de Dios se manifiesta en la reconciliación que Él concede por medio del sacrificio del Hijo.',
+references: 'Juan 12:23-33; Romanos 3:21-26; Gálatas 6:14.',
+),
+StudySection(
+title: '25. La gloria de Cristo en la resurrección',
+content:
+'La resurrección de Jesucristo manifiesta el poder de Dios sobre la muerte y confirma la victoria del Hijo. El Padre levantó a Jesús de entre los muertos, y la resurrección constituye el fundamento de la esperanza cristiana. La gloria del Cristo resucitado será manifestada plenamente en su reino.',
+references: 'Hechos 2:22-36; Romanos 6:4; 1 Corintios 15:3-8.',
+),
+StudySection(
+title: '26. La gloria de Cristo en su ascensión',
+content:
+'La ascensión muestra la exaltación de Jesucristo y su autoridad celestial. El Hijo resucitado fue exaltado y recibió el reconocimiento que corresponde a su señorío. Su ascensión no significa que haya abandonado su obra, pues continúa intercediendo por los suyos.',
+references: 'Hechos 1:9-11; Efesios 1:20-23; Hebreos 7:24-25.',
+),
+StudySection(
+title: '27. La gloria de Cristo en su segunda venida',
+content:
+'La Biblia anuncia que Jesucristo regresará en gloria. Su venida manifestará públicamente su autoridad y traerá la consumación de su reino. La iglesia espera este acontecimiento con fidelidad y esperanza, sin establecer fechas que las Escrituras no revelan.',
+references: 'Mateo 24:30-31; Tito 2:13; Apocalipsis 1:7.',
+),
+StudySection(
+title: '28. La gloria del Hijo y su igualdad divina',
+content:
+'La gloria que el Hijo comparte con el Padre antes de la creación constituye un testimonio importante de su divinidad. No se trata de una criatura que recibe una dignidad creada, sino del Hijo eterno que comparte la gloria divina. La encarnación no anuló su naturaleza divina.',
+references: 'Juan 1:1-3; Juan 17:5; Colosenses 2:9.',
+),
+StudySection(
+title: '29. La gloria del Espíritu en la revelación',
+content:
+'El Espíritu Santo guía a los creyentes a la verdad y revela las profundidades de Dios. Su obra permite comprender la revelación divina y reconocer la gloria de Cristo. No presenta una enseñanza contraria al Hijo ni desarrolla un mensaje independiente de la verdad que Dios ha revelado.',
+references: 'Juan 14:26; Juan 16:13-15; 1 Corintios 2:10-13.',
+),
+StudySection(
+title: '30. La gloria de Dios en la salvación',
+content:
+'La salvación tiene como propósito manifestar la gracia y la gloria de Dios. El Padre establece el propósito, el Hijo realiza la redención y el Espíritu Santo aplica la obra salvadora. Esta participación no divide la divinidad, sino que muestra la obra del único Dios trino en favor de su pueblo.',
+references: 'Efesios 1:3-14; 1 Pedro 1:2; Tito 3:4-7.',
+),
+StudySection(
+title: '31. La gloria de Dios en la justificación',
+content:
+'La justificación por la fe muestra que la salvación no se obtiene mediante méritos humanos. Dios declara justo al pecador que cree en Jesucristo, sobre la base de la obra redentora del Hijo. Así queda manifiesta la gracia divina y se excluye toda jactancia humana.',
+references: 'Romanos 3:23-28; Romanos 4:1-8; Gálatas 2:16.',
+),
+StudySection(
+title: '32. La gloria de Dios en la santificación',
+content:
+'La santificación transforma la vida del creyente para que refleje el carácter de Cristo. El Espíritu Santo obra en la persona y produce fruto espiritual. Esta transformación no convierte al ser humano en divino, sino que lo conduce a vivir de acuerdo con la voluntad santa de Dios.',
+references: 'Romanos 8:9-14; Gálatas 5:22-25; 2 Corintios 3:18.',
+),
+StudySection(
+title: '33. La gloria de Dios en la vida de la iglesia',
+content:
+'La iglesia debe manifestar el carácter de Dios mediante la verdad, el amor, la unidad y la santidad. Su misión no consiste en construir una reputación humana independiente, sino en anunciar el evangelio y mostrar la obra de Cristo. La gloria pertenece al Señor y la iglesia debe servir con humildad.',
+references: 'Mateo 5:14-16; Efesios 3:20-21; 1 Pedro 2:9-12.',
+),
+StudySection(
+title: '34. La gloria de Dios en la unidad cristiana',
+content:
+'Jesús oró por la unidad de sus discípulos para que el mundo creyera en Él. La unidad cristiana debe reflejar el amor y la verdad, no una uniformidad superficial ni la aceptación de errores doctrinales. Cuando los creyentes viven en comunión conforme a la Palabra, manifiestan la obra de Dios.',
+references: 'Juan 17:20-23; Efesios 4:1-6; Filipenses 2:1-4.',
+),
+StudySection(
+title: '35. La gloria de Dios en el servicio',
+content:
+'Servir al prójimo con amor y responsabilidad puede manifestar el carácter de Dios. El servicio cristiano no debe convertirse en una búsqueda de reconocimiento personal. La motivación correcta es honrar al Señor y procurar el bien de los demás.',
+references: 'Mateo 20:25-28; Juan 13:12-17; 1 Pedro 4:10-11.',
+),
+StudySection(
+title: '36. La gloria de Dios en la conducta diaria',
+content:
+'La vida cotidiana también debe orientarse a honrar a Dios. Las decisiones, palabras, relaciones y responsabilidades pueden expresar gratitud y obediencia. Glorificar al Señor no se limita a las reuniones religiosas, sino que incluye toda la vida del creyente.',
+references: '1 Corintios 10:31; Colosenses 3:17, 23-24.',
+),
+StudySection(
+title: '37. La gloria de Dios y la adoración cristiana',
+content:
+'La adoración cristiana reconoce la dignidad del Padre, del Hijo y del Espíritu Santo. El creyente se acerca al Padre por medio del Hijo y en el Espíritu. La adoración debe estar fundamentada en la verdad bíblica y expresarse con reverencia, gratitud y obediencia.',
+references: 'Juan 4:23-24; Efesios 2:18; Filipenses 3:3.',
+),
+StudySection(
+title: '38. ¿Puede el ser humano robar la gloria de Dios?',
+content:
+'Una persona puede apropiarse del reconocimiento que corresponde al Señor y buscar exaltarse mediante sus capacidades o logros. La Biblia condena el orgullo y llama a reconocer que todo don procede de Dios. La gloria divina no puede ser destruida, pero el ser humano puede actuar con ingratitud al no reconocer su fuente.',
+references: 'Deuteronomio 8:17-18; Hechos 12:21-23; 1 Corintios 4:7.',
+),
+StudySection(
+title: '39. La gloria de Dios y la idolatría',
+content:
+'La idolatría ocurre cuando la criatura recibe el honor que pertenece al Creador. Romanos 1 describe cómo la humanidad cambió la gloria del Dios incorruptible por imágenes de criaturas. El problema no consiste únicamente en fabricar estatuas, sino en colocar cualquier realidad creada en el lugar que corresponde exclusivamente a Dios.',
+references: 'Éxodo 20:1-6; Romanos 1:21-25; 1 Juan 5:21.',
+),
+StudySection(
+title: '40. La gloria de Dios y el sufrimiento humano',
+content:
+'La Biblia enseña que Dios puede manifestar su poder y fidelidad incluso en medio del sufrimiento. Esto no significa que todo dolor deba interpretarse como castigo directo o que debamos minimizar las dificultades de las personas. El creyente puede confiar en el Señor mientras busca consuelo, ayuda y esperanza.',
+references: 'Juan 9:1-3; Romanos 8:18-28; 2 Corintios 4:16-18.',
+),
+StudySection(
+title: '41. La gloria de Dios y la esperanza futura',
+content:
+'La esperanza cristiana incluye la manifestación plena de la gloria de Dios. Los creyentes esperan la resurrección, la renovación de la creación y la comunión eterna con el Señor. Las dificultades presentes no tienen la última palabra, porque Dios llevará su propósito a cumplimiento.',
+references: 'Romanos 8:18-25; Colosenses 3:4; 1 Pedro 5:10.',
+),
+StudySection(
+title: '42. La gloria de Dios en la nueva creación',
+content:
+'Apocalipsis describe una nueva creación donde la presencia de Dios ilumina a su pueblo. La ciudad santa no necesita la luz del sol o de la luna como fuente última de iluminación, porque la gloria de Dios la ilumina y el Cordero es su lumbrera. La imagen comunica la plenitud de la presencia divina.',
+references: 'Apocalipsis 21:1-5, 22-27; Apocalipsis 22:1-5.',
+),
+StudySection(
+title: '43. La gloria y el reino eterno de Dios',
+content:
+'El reino de Dios manifiesta su autoridad y su propósito permanente. Jesucristo reina y su señorío será reconocido plenamente. La gloria del reino no pertenece a una institución humana pasajera, sino al gobierno del Señor que permanece para siempre.',
+references: 'Daniel 7:13-14; Lucas 1:32-33; Apocalipsis 11:15.',
+),
+StudySection(
+title: '44. La gloria de Dios y la humildad cristiana',
+content:
+'Reconocer la gloria divina nos ayuda a comprender nuestra posición como criaturas. La humildad cristiana no significa despreciar los dones que Dios nos concede, sino utilizarlos sin orgullo y con gratitud. Toda capacidad debe ponerse al servicio del Señor y del prójimo.',
+references: 'Romanos 12:3-8; 1 Corintios 10:31; Santiago 4:6-10.',
+),
+StudySection(
+title: '45. La gloria de Dios y el conocimiento verdadero',
+content:
+'Conocer a Dios correctamente conduce a reconocer su grandeza y a responder con obediencia. El conocimiento bíblico no debe convertirse en orgullo intelectual. La verdad acerca del Padre, del Hijo y del Espíritu Santo debe producir adoración, amor y una vida transformada.',
+references: 'Jeremías 9:23-24; Juan 17:3; Colosenses 1:9-10.',
+),
+StudySection(
+title: '46. La gloria de Dios y las falsas enseñanzas',
+content:
+'Las enseñanzas que reducen la divinidad de Cristo, niegan la personalidad del Espíritu Santo o presentan a tres dioses independientes deforman la revelación bíblica del único Dios. La iglesia debe estudiar cuidadosamente las Escrituras para mantener la verdad sobre el Padre, el Hijo y el Espíritu Santo y dirigir toda adoración al único Dios.',
+references: 'Juan 1:1-3; Juan 14:16-17; 1 Juan 5:20.',
+),
+StudySection(
+title: '47. La gloria de Dios y la misión evangelizadora',
+content:
+'La evangelización anuncia la obra de Jesucristo para que las personas conozcan al Dios verdadero. La misión no debe buscar fama para el predicador ni prestigio para una organización. El propósito es que las personas crean en Cristo, reciban la salvación y aprendan a vivir para la gloria de Dios.',
+references: 'Mateo 28:18-20; 2 Corintios 4:5-6; 1 Pedro 2:9.',
+),
+StudySection(
+title: '48. Errores que deben evitarse al explicar la gloria de Dios',
+content:
+'No debemos afirmar que la gloria divina depende del reconocimiento humano, que la creación es parte de Dios o que el ser humano puede alcanzar la misma naturaleza divina. Tampoco debemos separar la gloria del Padre, del Hijo y del Espíritu Santo como si perteneciera a tres dioses. La enseñanza bíblica presenta una sola naturaleza divina, tres personas distintas y una gloria que pertenece eternamente al único Dios.',
+references: 'Isaías 42:8; Juan 17:5; Mateo 28:19; Romanos 11:36.',
+),
+StudySection(
+title: '49. Síntesis bíblica de la gloria divina',
+content:
+'La gloria de Dios manifiesta su excelencia, santidad, poder, amor y majestad. El Padre revela su gloria mediante el Hijo; Jesucristo manifiesta la gloria divina en su encarnación, ministerio, muerte, resurrección y exaltación; y el Espíritu Santo glorifica al Hijo y aplica la verdad divina en los creyentes. La gloria pertenece a la única naturaleza del único Dios trino.',
+references: 'Éxodo 15:11; Juan 1:14; Juan 17:5; Juan 16:13-15; Romanos 11:36.',
+),
+StudySection(
+title: '50. Aplicación final: vivir para la gloria de Dios',
+content:
+'La gloria de Dios debe orientar nuestra manera de pensar, hablar, servir y relacionarnos con los demás. No vivimos para construir una grandeza independiente, sino para honrar al Señor que nos creó y nos salvó por medio de Jesucristo. Que nuestra adoración sea verdadera, nuestro conocimiento bíblico fiel y nuestra conducta coherente con el evangelio. Toda nuestra vida debe reconocer que del Señor, por el Señor y para el Señor son todas las cosas.',
+references: '1 Corintios 10:31; Colosenses 3:17; Romanos 11:36.',
+),
+],
+conclusion:
+'La gloria de Dios es la manifestación de su excelencia eterna y pertenece a su naturaleza divina. La creación proclama su grandeza, las Escrituras revelan su carácter y Jesucristo manifiesta de manera suprema la gloria del Dios invisible. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina y participan en la obra de revelar la gloria del único Dios. La iglesia está llamada a adorarlo con verdad, anunciar el evangelio y vivir de una manera que honre su nombre. La gloria no pertenece al ser humano ni a las instituciones, sino exclusivamente al Señor.',
+),
+
+Study(
+number: '53',
+title: 'La bondad de Dios: su generosidad, benevolencia y disposición para hacer el bien',
+subtitle: 'La bondad divina como expresión de su carácter perfecto, manifestada en la creación, la providencia y la salvación por medio de Jesucristo.',
+introduction:
+'La bondad de Dios es una característica esencial de su naturaleza. Las Escrituras presentan al Señor como bueno en sí mismo y como la fuente de todo bien verdadero. Su bondad no depende de las circunstancias humanas, de los méritos de las personas ni de los cambios de la historia. Dios no necesita recibir algo de la creación para ser bueno; su bondad pertenece eternamente a su propio carácter. Esta bondad se manifiesta en el cuidado de sus criaturas, en su paciencia frente al pecado, en su misericordia hacia quienes sufren y, de manera suprema, en la obra redentora de Jesucristo. El estudio también examina la relación de la bondad divina con el Padre, el Hijo y el Espíritu Santo, sin confundir sus personas ni dividir la única naturaleza divina.',
+sections: [
+StudySection(
+title: '1. La bondad pertenece a la naturaleza de Dios',
+content:
+'La bondad no es una cualidad ocasional que Dios manifiesta cuando las circunstancias lo permiten. Es parte de su naturaleza eterna. Cuando afirmamos que Dios es bueno, estamos declarando que su carácter está libre de maldad, corrupción e injusticia. Su bondad no es una norma externa que alguien le impone; procede de quien Él es. Por eso, toda comprensión bíblica de la bondad debe comenzar con el conocimiento del carácter de Dios y no con las expectativas humanas.',
+references: 'Salmos 100:5; Salmos 119:68; Santiago 1:17.',
+),
+StudySection(
+title: '2. Dios es bueno en todo tiempo',
+content:
+'La declaración bíblica de que Dios es bueno no significa que todas las circunstancias de la vida sean agradables. Significa que su carácter permanece bueno aun cuando el ser humano atraviesa situaciones que no comprende. La bondad divina no desaparece durante el sufrimiento ni queda anulada por las dificultades. El creyente puede confiar en el carácter de Dios incluso cuando todavía no entiende lo que está ocurriendo.',
+references: 'Salmos 34:8; Salmos 52:1; Nahúm 1:7.',
+),
+StudySection(
+title: '3. La bondad de Dios es perfecta',
+content:
+'La bondad humana puede ser limitada, inconstante y afectada por intereses personales. En Dios no existe esa imperfección. Su bondad es completa porque procede de su santidad, sabiduría y justicia. Nunca realiza el mal para alcanzar un propósito bueno, ni necesita abandonar su justicia para manifestar benevolencia. Todo lo que hace está en perfecta armonía con su naturaleza.',
+references: 'Deuteronomio 32:4; Salmos 145:17; Mateo 5:48.',
+),
+StudySection(
+title: '4. La bondad y la santidad divina',
+content:
+'La bondad de Dios no debe separarse de su santidad. Dios no llama bueno a lo que es malo ni aprueba el pecado para demostrar amor. Su bondad es moralmente perfecta y está unida a su pureza absoluta. Por esta razón, la bondad divina también se manifiesta cuando Dios confronta la maldad y establece límites justos frente al pecado.',
+references: 'Levítico 19:2; Salmos 99:3-4; Isaías 6:3.',
+),
+StudySection(
+title: '5. La bondad y la justicia de Dios',
+content:
+'La justicia y la bondad no son atributos enemigos dentro del carácter divino. Dios no necesita ser injusto para ser bondadoso. Su justicia protege lo recto y se opone a la maldad, mientras su bondad manifiesta su disposición a hacer lo que es correcto y beneficioso conforme a su voluntad. La cruz de Cristo muestra que Dios trata seriamente el pecado y, al mismo tiempo, ofrece salvación al pecador.',
+references: 'Salmos 89:14; Romanos 3:25-26; Romanos 5:8.',
+),
+StudySection(
+title: '6. Dios es la fuente de todo bien verdadero',
+content:
+'La Biblia enseña que todo don bueno y perfecto procede de Dios. Las capacidades humanas, los recursos de la creación y las oportunidades para realizar el bien son recibidos dentro de la providencia divina. Esto no significa que todo deseo humano sea bueno o que cada posesión material sea una señal automática de aprobación divina. Significa que Dios es la fuente última de todo bien auténtico.',
+references: 'Santiago 1:17; 1 Crónicas 29:12-14; Hechos 17:24-25.',
+),
+StudySection(
+title: '7. La bondad de Dios en la creación',
+content:
+'En el relato de Génesis, Dios contempla su obra creadora y declara que es buena. La creación refleja orden, propósito y generosidad. Los alimentos, la luz, el agua, la diversidad de seres vivos y las condiciones necesarias para la vida muestran la provisión del Creador. La creación no es Dios ni comparte su esencia, pero da testimonio de la sabiduría y bondad de quien la hizo.',
+references: 'Génesis 1:4, 10, 12, 18, 21, 25, 31; Salmos 104:24.',
+),
+StudySection(
+title: '8. La bondad de Dios en el cuidado de la humanidad',
+content:
+'Dios no creó al ser humano para abandonarlo. La Escritura presenta al Señor como quien sostiene la vida y provee lo necesario para la existencia. Incluso quienes no reconocen a Dios reciben beneficios de su generosidad. Esta realidad demuestra que la bondad divina supera los límites de las comunidades religiosas y alcanza a la humanidad en general.',
+references: 'Mateo 5:45; Hechos 14:16-17; Salmos 145:9.',
+),
+StudySection(
+title: '9. La bondad de Dios y su providencia',
+content:
+'La providencia describe el cuidado y gobierno de Dios sobre su creación. Su bondad se manifiesta en la preservación de la vida, el sostenimiento del mundo y la dirección de la historia conforme a su sabiduría. No todos los acontecimientos deben interpretarse como experiencias agradables, pero el creyente puede reconocer que Dios no ha dejado de gobernar ni de actuar con rectitud.',
+references: 'Salmos 103:19; Colosenses 1:16-17; Hebreos 1:3.',
+),
+StudySection(
+title: '10. La bondad de Dios hacia todas sus criaturas',
+content:
+'El salmista afirma que las misericordias de Dios están sobre todas sus obras. Esto permite comprender que el cuidado divino no se limita a los seres humanos. La vida animal, los ciclos naturales y el equilibrio de la creación están bajo el conocimiento del Creador. La bondad de Dios invita al ser humano a tratar responsablemente aquello que Él ha creado.',
+references: 'Salmos 145:9, 15-16; Mateo 6:26; Mateo 10:29.',
+),
+StudySection(
+title: '11. La bondad de Dios y la generosidad',
+content:
+'La generosidad divina se observa en su disposición para dar y sostener. Dios no actúa movido por necesidad ni busca compensación de sus criaturas. Él concede vida, sustento y oportunidades conforme a su voluntad. Su generosidad también debe distinguirse de una idea materialista que considera la riqueza como prueba obligatoria de espiritualidad.',
+references: 'Salmos 84:11; Mateo 7:11; Santiago 1:17.',
+),
+StudySection(
+title: '12. La bondad de Dios y la paciencia',
+content:
+'La paciencia divina es una manifestación de su bondad frente a la desobediencia humana. Dios no ejecuta inmediatamente todo juicio que merece el pecado, sino que concede tiempo para el arrepentimiento. Esa paciencia no significa indiferencia ante la maldad ni garantiza que el juicio nunca llegará. Su propósito es conducir al ser humano a reconocer su necesidad de reconciliación.',
+references: 'Romanos 2:4; Romanos 9:22-23; 2 Pedro 3:9.',
+),
+StudySection(
+title: '13. La bondad de Dios y la misericordia',
+content:
+'La misericordia expresa la compasión de Dios hacia quienes se encuentran en necesidad y bajo las consecuencias del pecado. La bondad divina no permanece indiferente ante el sufrimiento humano. Dios se revela como compasivo y dispuesto a perdonar, sin que esto signifique que el pecado carezca de importancia. La misericordia debe entenderse junto con la justicia y la santidad de Dios.',
+references: 'Éxodo 34:6-7; Salmos 103:8-13; Efesios 2:4-5.',
+),
+StudySection(
+title: '14. La bondad de Dios no depende de los méritos humanos',
+content:
+'La bondad divina no es un salario que Dios entrega a quienes han alcanzado perfección moral. La humanidad depende de la gracia y de la generosidad de Dios. Ninguna persona puede obligar al Creador a actuar a su favor mediante méritos propios. Esta verdad elimina la arrogancia espiritual y conduce al agradecimiento por los beneficios que proceden de Dios.',
+references: 'Romanos 3:23-24; Efesios 2:8-9; Tito 3:4-5.',
+),
+StudySection(
+title: '15. La bondad de Dios frente al pecado humano',
+content:
+'El pecado representa una rebelión contra el carácter y la voluntad de Dios. Sin embargo, Dios continúa manifestando paciencia y llamando al arrepentimiento. Su bondad no consiste en aprobar la desobediencia, sino en ofrecer una oportunidad de volver a Él. La respuesta correcta a esa bondad no es abusar de ella, sino reconocer el pecado y buscar reconciliación.',
+references: 'Romanos 2:4; Romanos 6:1-2; Ezequiel 18:30-32.',
+),
+StudySection(
+title: '16. La bondad de Dios en el Antiguo Testamento',
+content:
+'El Antiguo Testamento presenta repetidamente la bondad del Señor en su trato con Israel y con las naciones. Dios libera, sostiene, corrige, perdona y cumple sus promesas. Estos acontecimientos no revelan un Dios diferente al que aparece en el Nuevo Testamento. Ambos testamentos dan testimonio del mismo Dios, cuyo carácter es santo, justo, misericordioso y bueno.',
+references: 'Éxodo 33:19; Salmos 25:8; Salmos 106:1.',
+),
+StudySection(
+title: '17. La declaración de la bondad en Éxodo 33:19',
+content:
+'Cuando Moisés solicita conocer la gloria de Dios, el Señor responde hablando de su bondad. El pasaje conecta la revelación del carácter divino con su gracia y misericordia. Esto enseña que la gloria de Dios no consiste solamente en manifestaciones extraordinarias de poder, sino también en la revelación de quién es Él. La bondad pertenece al contenido de su propia autorrevelación.',
+references: 'Éxodo 33:18-19; Éxodo 34:5-7.',
+),
+StudySection(
+title: '18. La bondad proclamada en el Salmo 34',
+content:
+'El Salmo 34 invita a probar y comprobar que Jehová es bueno. La expresión no presenta la bondad divina como una teoría abstracta, sino como una realidad que puede experimentarse mediante la confianza en Dios. El salmista también reconoce dificultades y aflicciones, por lo que la invitación a confiar no depende de una vida libre de problemas.',
+references: 'Salmos 34:1-10, 17-19.',
+),
+StudySection(
+title: '19. La bondad de Dios en el Salmo 145',
+content:
+'El Salmo 145 describe la grandeza del Señor y su bondad hacia todas sus obras. Su reino es eterno y su cuidado alcanza a quienes dependen de Él. El texto une la bondad con la fidelidad, la justicia y la misericordia. Esta combinación impide reducir la bondad divina a una emoción pasajera o a la simple concesión de beneficios materiales.',
+references: 'Salmos 145:7-13, 17-20.',
+),
+StudySection(
+title: '20. La bondad de Dios en la historia de Israel',
+content:
+'La historia de Israel contiene liberaciones, provisiones y restauraciones que muestran la bondad del Señor. También incluye correcciones y consecuencias por la desobediencia. La relación entre estos acontecimientos enseña que la bondad divina no elimina la responsabilidad humana. Dios permanece fiel a su carácter mientras llama a su pueblo a vivir en obediencia.',
+references: 'Deuteronomio 7:7-9; Nehemías 9:17-21; Salmos 106:1.',
+),
+StudySection(
+title: '21. La bondad de Dios y el pacto',
+content:
+'Los pactos bíblicos muestran la iniciativa de Dios para establecer relaciones conforme a sus promesas. Su bondad se expresa en la fidelidad con que sostiene lo que ha declarado. El cumplimiento de sus promesas no depende de que la humanidad sea capaz de producir por sí misma la salvación. Dios actúa por su propósito y llama a las personas a responder con fe y obediencia.',
+references: 'Génesis 12:1-3; Deuteronomio 7:9; Jeremías 31:31-34.',
+),
+StudySection(
+title: '22. La bondad de Dios revelada en Jesucristo',
+content:
+'Jesucristo manifiesta de manera decisiva la bondad de Dios. En su ministerio vemos compasión hacia los necesitados, verdad frente al pecado y autoridad para anunciar el reino. El Hijo no revela un carácter contrario al del Padre, sino que hace conocer al Padre. La encarnación permite contemplar la bondad divina en la vida y obra del Hijo eterno hecho hombre.',
+references: 'Juan 1:14, 18; Juan 14:9; Tito 3:4-6.',
+),
+StudySection(
+title: '23. El Padre como fuente de todo don bueno',
+content:
+'Santiago enseña que todo don bueno y perfecto desciende del Padre de las luces. El texto destaca su estabilidad y la ausencia de variación moral en Él. El Padre es presentado como generoso y constante, no como alguien que cambia de carácter según las circunstancias. Esta enseñanza fortalece la confianza del creyente en su cuidado.',
+references: 'Santiago 1:16-18; Mateo 7:9-11.',
+),
+StudySection(
+title: '24. La bondad del Padre y el envío del Hijo',
+content:
+'El envío del Hijo constituye una expresión central del amor y la bondad del Padre. Dios no esperó que la humanidad resolviera por sí misma el problema del pecado. En su propósito redentor, el Padre envió al Hijo para que el mundo pudiera recibir vida mediante Él. Esta acción muestra que la salvación tiene su origen en la iniciativa bondadosa de Dios.',
+references: 'Juan 3:16-17; Gálatas 4:4-5; 1 Juan 4:9-10.',
+),
+StudySection(
+title: '25. La bondad del Hijo en su ministerio terrenal',
+content:
+'Jesús manifestó compasión, atendió a los necesitados, recibió a quienes buscaban a Dios y denunció la hipocresía. Su bondad nunca estuvo separada de la verdad. No aprobó el pecado, pero tampoco trató a las personas con desprecio. Su ministerio revela el carácter del Hijo y su perfecta obediencia al Padre.',
+references: 'Mateo 9:35-36; Marcos 10:45; Lucas 7:11-15.',
+),
+StudySection(
+title: '26. Jesucristo como revelación del carácter del Padre',
+content:
+'En Juan 14, Jesús explica que conocerlo a Él permite conocer al Padre. Esto no significa que el Hijo sea la misma persona que el Padre, pues el contexto presenta una relación real entre ambos. Significa que el Hijo revela perfectamente al Padre porque comparte la naturaleza divina. La bondad observada en Cristo es coherente con la bondad eterna del Padre.',
+references: 'Juan 14:6-11; Juan 1:18; Hebreos 1:1-3.',
+),
+StudySection(
+title: '27. La bondad del Espíritu Santo',
+content:
+'El Espíritu Santo es plenamente divino y participa de la única naturaleza de Dios. Su obra se manifiesta en la regeneración, la santificación, la guía y la formación del carácter cristiano. La bondad no es una cualidad independiente de su persona, sino una expresión del carácter divino que también se evidencia en su obra en los creyentes.',
+references: 'Hechos 5:3-4; Juan 14:16-17; Gálatas 5:22-23.',
+),
+StudySection(
+title: '28. La Trinidad y la unidad de la bondad divina',
+content:
+'La doctrina trinitaria enseña que el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única naturaleza divina. Por tanto, no existen tres bondades divinas independientes ni tres dioses compitiendo entre sí. La bondad pertenece al único Dios y se manifiesta conforme a la obra personal del Padre, del Hijo y del Espíritu Santo en la historia de la salvación.',
+references: 'Mateo 28:19; Juan 1:1-3; 2 Corintios 13:14.',
+),
+StudySection(
+title: '29. La bondad del Padre no contradice la bondad del Hijo',
+content:
+'Algunos pasajes bíblicos distinguen al Padre del Hijo y muestran que Jesús se dirige a Él en oración y obediencia durante su ministerio terrenal. Esa distinción personal no implica diferencia de naturaleza moral ni inferioridad divina del Hijo. La bondad del Padre y la del Hijo no son opuestas: ambos comparten la naturaleza divina y actúan en perfecta unidad.',
+references: 'Juan 5:19-23; Juan 10:30; Juan 14:9-11.',
+),
+StudySection(
+title: '30. El Espíritu Santo aplica la obra salvadora de Dios',
+content:
+'La bondad de Dios se hace evidente en la salvación que el Espíritu Santo aplica al corazón humano. Él convence de pecado, conduce a la verdad, produce nuevo nacimiento y transforma la vida del creyente. Su obra no constituye un plan separado del Padre y del Hijo, sino que forma parte de la acción del único Dios en la redención.',
+references: 'Juan 16:7-13; Juan 3:5-8; Tito 3:5-6.',
+),
+StudySection(
+title: '31. La bondad de Dios en la salvación',
+content:
+'La salvación es una manifestación extraordinaria de la bondad divina porque responde a la necesidad más profunda del ser humano: la reconciliación con Dios. El evangelio anuncia que Dios ofrece vida por medio de Jesucristo. La salvación no se compra ni se merece; se recibe por gracia mediante la fe, y produce una vida transformada.',
+references: 'Efesios 2:4-10; Romanos 5:8-11; Tito 3:4-7.',
+),
+StudySection(
+title: '32. La bondad de Dios y el perdón',
+content:
+'El perdón revela que Dios está dispuesto a restaurar al pecador arrepentido. Sin embargo, el perdón bíblico no consiste en declarar irrelevante el pecado. Se fundamenta en la obra de Jesucristo y en la justicia divina. Quien recibe perdón es llamado a abandonar la maldad y vivir en una relación renovada con Dios.',
+references: 'Salmos 86:5; Efesios 1:7; 1 Juan 1:9.',
+),
+StudySection(
+title: '33. La bondad de Dios y la adopción',
+content:
+'Por medio de Jesucristo, los creyentes reciben la adopción como hijos de Dios. Esta posición no es resultado de una conquista humana, sino de la gracia divina. El Padre concede una nueva relación, el Hijo es quien hace posible el acceso y el Espíritu Santo da testimonio de esa condición filial en la vida del creyente.',
+references: 'Juan 1:12-13; Romanos 8:14-17; Gálatas 4:4-7.',
+),
+StudySection(
+title: '34. La bondad de Dios y la vida eterna',
+content:
+'La vida eterna es un regalo de Dios en Jesucristo. No se limita a una existencia interminable, sino que implica conocer a Dios y participar de la comunión que Él concede. La promesa de vida eterna demuestra que la bondad divina tiene un alcance que supera los beneficios temporales y dirige la esperanza hacia la consumación de su propósito.',
+references: 'Juan 3:16; Juan 17:3; Romanos 6:23.',
+),
+StudySection(
+title: '35. La bondad de Dios y el sufrimiento humano',
+content:
+'La existencia del sufrimiento plantea preguntas difíciles, pero la Biblia no enseña que Dios haya dejado de ser bueno cuando sus criaturas padecen. La Escritura reconoce el dolor, las injusticias y las pérdidas sin ocultarlos. También presenta a Dios como refugio, consolador y juez justo. No siempre conocemos las razones de cada acontecimiento, por lo que debemos evitar explicaciones simplistas que atribuyan toda tragedia a una causa específica.',
+references: 'Salmos 34:18; Romanos 8:18, 28; 2 Corintios 1:3-5.',
+),
+StudySection(
+title: '36. La bondad de Dios no significa ausencia de disciplina',
+content:
+'La disciplina divina puede ser una expresión de su cuidado hacia quienes le pertenecen. La corrección busca conducir a la madurez y a una vida conforme a su voluntad. No debe confundirse con crueldad ni utilizarse para justificar abusos humanos. La disciplina de Dios es justa y está orientada por su sabiduría, mientras la corrección humana debe ejercerse con responsabilidad y amor.',
+references: 'Proverbios 3:11-12; Hebreos 12:5-11; Apocalipsis 3:19.',
+),
+StudySection(
+title: '37. La bondad de Dios y el arrepentimiento',
+content:
+'Romanos 2:4 enseña que la bondad, la paciencia y la longanimidad de Dios conducen al arrepentimiento. La respuesta adecuada a su bondad es reconocer el pecado y volver a Él. Una persona que utiliza la paciencia divina como excusa para continuar desobedeciendo no ha comprendido el propósito de esa paciencia.',
+references: 'Romanos 2:4-5; Hechos 17:30; 2 Pedro 3:9.',
+),
+StudySection(
+title: '38. La bondad de Dios y la responsabilidad humana',
+content:
+'Recibir la bondad de Dios implica una responsabilidad moral. Quienes han sido tratados con misericordia deben aprender a actuar con misericordia. La generosidad recibida debe reflejarse en el trato hacia los demás. La Biblia no presenta la bondad divina como una invitación al egoísmo, sino como un fundamento para una vida de gratitud y servicio.',
+references: 'Lucas 6:35-36; Efesios 4:32; Colosenses 3:12-13.',
+),
+StudySection(
+title: '39. La bondad de Dios y el amor al prójimo',
+content:
+'El amor al prójimo es una respuesta coherente con el carácter de Dios. El creyente debe procurar el bien de los demás, actuar con justicia y evitar la indiferencia frente a la necesidad. La bondad cristiana no consiste solamente en palabras amables, sino también en acciones concretas que respetan la dignidad de las personas.',
+references: 'Mateo 22:37-40; Romanos 12:9-21; 1 Juan 3:17-18.',
+),
+StudySection(
+title: '40. La bondad de Dios y el fruto del Espíritu',
+content:
+'Gálatas 5 incluye la bondad entre las manifestaciones del fruto del Espíritu. Esto indica que el carácter bondadoso debe desarrollarse en la vida de quienes pertenecen a Cristo. No se trata de una virtud que se produce únicamente mediante esfuerzo externo, sino de una transformación que el Espíritu realiza y que requiere una respuesta obediente del creyente.',
+references: 'Gálatas 5:22-25; Efesios 5:8-10.',
+),
+StudySection(
+title: '41. La bondad cristiana debe reflejar el carácter de Dios',
+content:
+'El creyente está llamado a imitar el carácter de Dios en la medida correspondiente a una criatura redimida. Esto no significa que pueda alcanzar la perfección divina ni compartir la esencia de Dios. Significa que su conducta debe reflejar, de manera limitada y dependiente del Espíritu Santo, la bondad que ha recibido del Señor.',
+references: 'Efesios 5:1-2; Mateo 5:44-48; 1 Pedro 1:15-16.',
+),
+StudySection(
+title: '42. La bondad de Dios y el servicio',
+content:
+'La bondad recibida debe convertirse en servicio. Jesucristo enseñó que la grandeza de sus discípulos no se mide por dominar a otros, sino por servir. El servicio cristiano debe realizarse sin manipulación, búsqueda de reconocimiento ni interés egoísta. Es una respuesta de gratitud al Dios que ha mostrado generosidad.',
+references: 'Marcos 10:42-45; Gálatas 5:13; 1 Pedro 4:10.',
+),
+StudySection(
+title: '43. La bondad de Dios y la generosidad material',
+content:
+'La Escritura enseña a compartir los recursos con quienes atraviesan necesidad. La generosidad no debe practicarse para comprar el favor de Dios ni para obtener prestigio. Se fundamenta en reconocer que los bienes recibidos deben administrarse responsablemente. Dar con alegría y prudencia refleja gratitud por la provisión divina.',
+references: '2 Corintios 9:6-11; Proverbios 19:17; 1 Timoteo 6:17-19.',
+),
+StudySection(
+title: '44. La bondad de Dios y el cuidado de los necesitados',
+content:
+'La atención a las personas vulnerables ocupa un lugar importante en la enseñanza bíblica. Dios manifiesta interés por el pobre, el extranjero, la viuda y el huérfano. La fe que reconoce la bondad divina debe expresarse en una conducta justa y compasiva. Ignorar deliberadamente la necesidad del prójimo contradice el carácter que el creyente está llamado a reflejar.',
+references: 'Deuteronomio 10:17-19; Isaías 1:16-17; Santiago 1:27.',
+),
+StudySection(
+title: '45. La bondad de Dios y la verdad',
+content:
+'La bondad no debe separarse de la verdad. Una actitud que evita toda corrección por temor a incomodar puede terminar permitiendo el daño. La bondad bíblica busca el verdadero bien de la persona y, por ello, actúa con honestidad, paciencia y respeto. Jesucristo mostró gracia y verdad sin contradicción.',
+references: 'Juan 1:14; Efesios 4:15; Proverbios 27:5-6.',
+),
+StudySection(
+title: '46. La bondad de Dios y la falsa idea de prosperidad',
+content:
+'La bondad divina no garantiza que todos los creyentes tendrán riqueza, salud permanente o ausencia de dificultades. La Biblia presenta personas fieles que atravesaron pobreza, persecución y sufrimiento. La prosperidad material no puede convertirse en la medida definitiva del favor de Dios. La mayor manifestación de su bondad es la salvación y la comunión con Él.',
+references: 'Juan 16:33; Filipenses 4:11-13; 1 Timoteo 6:6-10.',
+),
+StudySection(
+title: '47. La bondad de Dios y la aparente demora de sus respuestas',
+content:
+'La espera puede resultar difícil cuando una persona presenta una petición y no recibe la respuesta que esperaba. Sin embargo, el silencio aparente no demuestra que Dios haya perdido su bondad. La Escritura enseña a perseverar en oración, confiar en su sabiduría y reconocer que sus respuestas no siempre coinciden con los deseos humanos.',
+references: 'Salmos 27:13-14; Lucas 18:1-8; 1 Juan 5:14-15.',
+),
+StudySection(
+title: '48. La bondad de Dios y la esperanza futura',
+content:
+'La esperanza cristiana se fundamenta en el carácter de Dios y en sus promesas. La bondad que se ha manifestado en la historia de la salvación tendrá su consumación cuando Dios complete su propósito y elimine definitivamente el pecado y la muerte. El creyente espera no porque controle el futuro, sino porque confía en el Dios que ha prometido hacerlo nuevo.',
+references: 'Romanos 8:18-25; Apocalipsis 21:1-5; Apocalipsis 22:1-5.',
+),
+StudySection(
+title: '49. Errores que deben evitarse al estudiar la bondad de Dios',
+content:
+'Deben evitarse varias interpretaciones equivocadas: pensar que Dios aprueba todo comportamiento humano, afirmar que la bondad garantiza riqueza, separar la bondad de la justicia, considerar que la paciencia divina elimina el juicio o imaginar que el sufrimiento demuestra necesariamente abandono de Dios. La enseñanza bíblica mantiene unidos todos los atributos divinos y examina cada pasaje dentro de su contexto.',
+references: 'Romanos 2:4-6; Romanos 11:22; Santiago 1:13-17.',
+),
+StudySection(
+title: '50. La bondad de Dios como fundamento de la adoración',
+content:
+'La bondad de Dios conduce a la adoración, la gratitud y la confianza. El creyente reconoce que su vida depende del Señor y que la salvación ha sido concedida por gracia mediante Jesucristo. El Padre manifiesta su bondad al enviar al Hijo; el Hijo revela al Padre y entrega su vida por los pecadores; y el Espíritu Santo aplica la obra salvadora y produce fruto en los creyentes. Así, la única bondad divina se reconoce en la obra del único Dios: Padre, Hijo y Espíritu Santo.',
+references: 'Salmos 100:4-5; Efesios 2:4-10; 2 Corintios 13:14.',
+),
+],
+conclusion:
+'La bondad de Dios es una perfección esencial de su naturaleza y no una cualidad temporal. Se manifiesta en la creación, la providencia, la paciencia, la misericordia, la justicia y, de manera suprema, en la salvación por medio de Jesucristo. La doctrina de la Trinidad permite reconocer que el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única naturaleza divina. Por tanto, la bondad no está dividida entre tres dioses, sino que pertenece al único Dios. La respuesta bíblica a esta verdad es confiar en el Señor, arrepentirse, agradecer su gracia y reflejar su bondad mediante una vida de amor, justicia y servicio.',
+),
+
+Study(
+number: '54',
+title: 'La misericordia de Dios: su compasión, perdón y respuesta ante la miseria humana',
+subtitle: 'El carácter misericordioso del único Dios y su manifestación en la historia, la redención y la vida del creyente.',
+introduction:
+'La misericordia de Dios es una expresión profunda de su carácter santo y bondadoso. Por medio de ella, Dios manifiesta compasión hacia quienes se encuentran en sufrimiento, necesidad y bajo las consecuencias del pecado. La misericordia no significa que Dios ignore la maldad, que considere insignificante la desobediencia o que renuncie a su justicia. Significa que, conforme a su voluntad, se inclina compasivamente hacia quienes necesitan su ayuda y ofrece perdón y restauración. En la revelación bíblica, la misericordia se manifiesta desde el Antiguo Testamento y alcanza su expresión culminante en la obra redentora de Jesucristo. El Padre muestra su misericordia al enviar al Hijo, el Hijo la revela mediante su ministerio y sacrificio, y el Espíritu Santo aplica la obra salvadora en la vida de quienes creen.',
+sections: [
+StudySection(
+title: '1. La misericordia pertenece al carácter de Dios',
+content:
+'La misericordia no es una reacción improvisada de Dios ante los problemas humanos. Es una expresión de su carácter eterno. La Escritura presenta al Señor como compasivo y misericordioso, lento para la ira y grande en misericordia. Esta descripción revela que Dios no encuentra placer en la destrucción del pecador, sino que llama al arrepentimiento y ofrece restauración conforme a su justicia.',
+references: 'Éxodo 34:6-7; Salmos 103:8; Salmos 145:8-9.',
+),
+StudySection(
+title: '2. El significado bíblico de la misericordia',
+content:
+'En el lenguaje bíblico, la misericordia expresa compasión, lealtad y disposición para ayudar a quien se encuentra en necesidad. En el Antiguo Testamento aparecen términos hebreos como rajamim, relacionado con la compasión profunda, y jésed, que puede expresar amor leal, bondad y fidelidad. En el Nuevo Testamento, el término griego éleos comunica misericordia y compasión. Estos términos deben comprenderse según el contexto de cada pasaje.',
+references: 'Éxodo 34:6; Salmos 103:13; Lucas 1:50; Efesios 2:4.',
+),
+StudySection(
+title: '3. La misericordia y la bondad divina',
+content:
+'La bondad expresa la perfección moral y generosa de Dios, mientras que la misericordia destaca su compasión hacia quienes atraviesan necesidad o miseria. Ambos atributos están relacionados, pero no son términos completamente intercambiables. La misericordia es una manifestación de la bondad divina dirigida especialmente hacia quienes necesitan compasión, ayuda y restauración.',
+references: 'Salmos 25:6-7; Salmos 103:8-13; Tito 3:4-5.',
+),
+StudySection(
+title: '4. La misericordia y la gracia no son idénticas',
+content:
+'La gracia y la misericordia están estrechamente relacionadas, pero destacan aspectos diferentes de la generosidad divina. La misericordia enfatiza la compasión de Dios ante la miseria y la necesidad; la gracia destaca su favor inmerecido. En la salvación, ambas se encuentran: Dios muestra misericordia al pecador necesitado y le concede gracia mediante Jesucristo.',
+references: 'Efesios 2:4-9; Romanos 3:23-24; Tito 3:5-7.',
+),
+StudySection(
+title: '5. La misericordia y la justicia de Dios',
+content:
+'La misericordia no destruye la justicia divina. Dios no necesita cometer injusticia para perdonar, ni debe negar su santidad para mostrar compasión. La cruz de Jesucristo demuestra que el pecado es tomado seriamente y que la reconciliación tiene un fundamento justo. La misericordia y la justicia no compiten dentro de Dios, sino que ambas pertenecen a su carácter perfecto.',
+references: 'Romanos 3:24-26; Salmos 89:14; Isaías 45:21.',
+),
+StudySection(
+title: '6. Dios es misericordioso sin dejar de ser santo',
+content:
+'La santidad de Dios significa que está completamente separado del mal y que su carácter es moralmente perfecto. Su misericordia nunca significa aprobación del pecado. Dios puede recibir al pecador arrepentido, perdonarlo y transformarlo sin declarar correcto aquello que antes era malo. La misericordia bíblica conduce a una relación restaurada con un Dios santo.',
+references: 'Levítico 19:2; Isaías 6:3; 1 Pedro 1:15-16.',
+),
+StudySection(
+title: '7. La declaración de la misericordia en Éxodo 34',
+content:
+'Después del pecado de Israel con el becerro de oro, Dios se revela a Moisés proclamando su nombre y describiendo su carácter. Se presenta como misericordioso, piadoso, paciente y abundante en bondad y verdad. Sin embargo, el mismo pasaje afirma que no tendrá por inocente al culpable. El contexto demuestra que la misericordia divina no elimina la responsabilidad moral.',
+references: 'Éxodo 32:1-14; Éxodo 33:18-19; Éxodo 34:5-7.',
+),
+StudySection(
+title: '8. La misericordia de Dios en el pacto',
+content:
+'La historia de los pactos bíblicos muestra que Dios establece relaciones por iniciativa propia y sostiene sus promesas con fidelidad. Su misericordia aparece en su trato con personas y pueblos que dependen de su favor. La fidelidad de Dios no debe interpretarse como aprobación de cualquier conducta, sino como la firmeza de su propósito y su compromiso con lo que ha prometido.',
+references: 'Deuteronomio 7:7-9; 1 Reyes 8:23; Salmos 25:10.',
+),
+StudySection(
+title: '9. La misericordia de Dios hacia Israel',
+content:
+'Israel experimentó repetidamente la misericordia del Señor. A pesar de sus rebeliones, Dios levantó profetas, llamó al arrepentimiento y ofreció oportunidades de restauración. La historia del pueblo demuestra tanto la gravedad de la desobediencia como la paciencia divina. La misericordia no convirtió a Israel en un pueblo sin responsabilidad, sino que lo llamó continuamente a volver al Señor.',
+references: 'Nehemías 9:26-31; Salmos 78:38; Jeremías 3:12.',
+),
+StudySection(
+title: '10. La misericordia en los Salmos',
+content:
+'Los Salmos presentan la misericordia como fundamento de la confianza, la oración y la adoración. Los autores bíblicos claman a Dios porque reconocen que necesitan su compasión. No confían en su propia perfección, sino en el carácter del Señor. La repetición de expresiones sobre su misericordia recuerda que su amor leal sostiene a quienes dependen de Él.',
+references: 'Salmos 51:1; Salmos 86:5; Salmos 136:1-26.',
+),
+StudySection(
+title: '11. La misericordia en el Salmo 103',
+content:
+'El Salmo 103 describe a Dios como compasivo y misericordioso, lento para la ira y grande en misericordia. También compara su compasión con la de un padre hacia sus hijos. El pasaje reconoce la fragilidad humana y enseña que Dios conoce nuestra condición. Su misericordia no se basa en desconocer nuestras limitaciones, sino en su conocimiento perfecto y su compasión.',
+references: 'Salmos 103:8-18.',
+),
+StudySection(
+title: '12. La misericordia y la compasión paternal',
+content:
+'La comparación bíblica entre la compasión de un padre y la misericordia de Dios comunica cercanía y cuidado. Sin embargo, Dios supera toda limitación de los padres humanos. Su compasión es perfecta, libre de egoísmo y fundamentada en su naturaleza. Esta imagen permite comprender que el Señor no trata a quienes le buscan como un juez indiferente, sino como quien conoce y cuida a sus criaturas.',
+references: 'Salmos 103:13-14; Mateo 7:9-11; Lucas 11:11-13.',
+),
+StudySection(
+title: '13. La misericordia y el perdón de los pecados',
+content:
+'El perdón es una de las manifestaciones más importantes de la misericordia divina. Dios ofrece perdón al pecador que se arrepiente y confía en su provisión salvadora. El perdón no consiste en negar que hubo pecado, sino en conceder reconciliación sobre la base de la obra de Jesucristo. La persona perdonada es llamada a abandonar la desobediencia y caminar en una vida nueva.',
+references: 'Salmos 32:1-5; Salmos 103:3; 1 Juan 1:9.',
+),
+StudySection(
+title: '14. La misericordia no significa impunidad',
+content:
+'La impunidad ocurre cuando se ignora la responsabilidad por una acción injusta. La misericordia divina no es impunidad, porque Dios conoce perfectamente el pecado y mantiene su justicia. Su perdón no declara que el mal nunca ocurrió; ofrece reconciliación mediante la obra de Cristo y transforma la relación del pecador con Dios. Por ello, nadie debe utilizar la misericordia como excusa para continuar deliberadamente en el pecado.',
+references: 'Romanos 6:1-2; Gálatas 6:7-8; Hebreos 10:26-31.',
+),
+StudySection(
+title: '15. La misericordia de Dios hacia el arrepentido',
+content:
+'La Escritura invita al pecador a abandonar su camino y volver al Señor, quien es amplio en perdonar. El arrepentimiento implica reconocer el pecado, cambiar de dirección y acudir a Dios con fe. La misericordia no debe convertirse en una excusa para postergar indefinidamente esa respuesta. Su llamado es una invitación seria a buscar reconciliación.',
+references: 'Isaías 55:6-7; Hechos 3:19; Proverbios 28:13.',
+),
+StudySection(
+title: '16. La misericordia y la paciencia divina',
+content:
+'La paciencia de Dios se relaciona con su misericordia porque el Señor concede tiempo antes de ejecutar juicio. Esa demora puede abrir espacio para que las personas reconozcan su pecado y se arrepientan. Sin embargo, la paciencia no significa que el juicio haya sido cancelado. La Biblia enseña que la respuesta humana a la paciencia divina tiene consecuencias.',
+references: 'Romanos 2:4-6; 2 Pedro 3:9-10; Romanos 9:22-23.',
+),
+StudySection(
+title: '17. La misericordia de Dios y la humanidad caída',
+content:
+'La humanidad está afectada por el pecado y no puede resolver por sí misma su separación de Dios. La misericordia divina responde a esa condición mediante el propósito de redención. Dios no ofrece salvación porque el ser humano sea moralmente autosuficiente, sino porque Él es compasivo y ha provisto un camino de reconciliación por medio de Jesucristo.',
+references: 'Romanos 3:9-24; Efesios 2:1-5; Tito 3:3-5.',
+),
+StudySection(
+title: '18. La misericordia de Dios en el nacimiento de Jesús',
+content:
+'Los relatos del nacimiento de Jesús relacionan la llegada del Mesías con la misericordia prometida por Dios. Zacarías proclama que la venida del Señor está vinculada con la compasión divina hacia su pueblo. La encarnación no fue un acontecimiento desconectado de la historia anterior, sino parte del cumplimiento del propósito redentor anunciado en las Escrituras.',
+references: 'Lucas 1:67-79; Mateo 1:21-23; Gálatas 4:4-5.',
+),
+StudySection(
+title: '19. La misericordia de Dios revelada en Jesucristo',
+content:
+'Jesucristo es la manifestación central de la misericordia divina en la historia de la salvación. En su ministerio mostró compasión hacia enfermos, necesitados y personas despreciadas. También anunció el arrepentimiento y confrontó el pecado. Su misericordia nunca estuvo separada de la verdad, porque buscaba restaurar al ser humano y conducirlo a Dios.',
+references: 'Mateo 9:35-36; Lucas 7:13-15; Juan 1:14-18.',
+),
+StudySection(
+title: '20. La compasión de Jesús ante las multitudes',
+content:
+'Los Evangelios muestran a Jesús movido a compasión al observar a las multitudes desorientadas y necesitadas. Esa compasión no quedó limitada a un sentimiento interior; produjo enseñanza, atención y servicio. El ministerio de Cristo enseña que la misericordia verdadera reconoce la necesidad humana y responde de manera coherente con la voluntad de Dios.',
+references: 'Mateo 9:36-38; Mateo 14:14; Marcos 6:34.',
+),
+StudySection(
+title: '21. La misericordia de Jesús hacia los enfermos',
+content:
+'En distintas ocasiones, Jesús atendió a personas enfermas y marginadas. Sus acciones mostraron autoridad y compasión, y señalaron la llegada del reino de Dios. Los relatos no deben utilizarse para afirmar que toda enfermedad se debe a un pecado personal ni que cada creyente será sanado inmediatamente. Enseñan que Cristo tiene autoridad y que la misericordia de Dios se interesa por el sufrimiento humano.',
+references: 'Mateo 8:1-3; Marcos 1:40-42; Juan 9:1-3.',
+),
+StudySection(
+title: '22. La misericordia de Jesús hacia los pecadores',
+content:
+'Jesús recibió a personas reconocidas públicamente por su pecado y les anunció la posibilidad de una vida transformada. Su cercanía no significaba aprobación de sus acciones. Cristo vino a llamar a pecadores al arrepentimiento y a ofrecer salvación. La misericordia no excluye la transformación moral; la hace necesaria como respuesta a la gracia recibida.',
+references: 'Mateo 9:10-13; Lucas 5:27-32; Lucas 19:1-10.',
+),
+StudySection(
+title: '23. La parábola del buen samaritano',
+content:
+'En Lucas 10, Jesús utiliza la historia del samaritano para enseñar que el amor al prójimo debe expresarse mediante acciones concretas. El samaritano no se limitó a sentir compasión; atendió al herido y asumió responsabilidad por su cuidado. La parábola muestra que la misericordia debe superar prejuicios y barreras sociales.',
+references: 'Lucas 10:25-37.',
+),
+StudySection(
+title: '24. La parábola del hijo perdido',
+content:
+'Lucas 15 presenta a un padre que recibe a su hijo cuando este regresa arrepentido. La parábola destaca la alegría por la restauración y la disposición del padre a recibir al que vuelve. También confronta la actitud del hermano mayor, quien no comparte la alegría por la restauración. La enseñanza revela el corazón misericordioso de Dios hacia el pecador arrepentido.',
+references: 'Lucas 15:11-32.',
+),
+StudySection(
+title: '25. La parábola de la oveja perdida',
+content:
+'Jesús describe a un pastor que busca a la oveja que se ha extraviado y se alegra cuando la encuentra. La imagen comunica el interés de Dios por el perdido y la alegría que produce el arrepentimiento. La misericordia divina toma la iniciativa de buscar y rescatar, sin presentar la pérdida como algo insignificante.',
+references: 'Lucas 15:1-7; Mateo 18:10-14.',
+),
+StudySection(
+title: '26. La misericordia y la mujer sorprendida en adulterio',
+content:
+'Juan 7:53–8:11 contiene el relato de la mujer presentada ante Jesús por sus acusadores. Jesús confronta la hipocresía de quienes pretendían condenarla mientras ignoraban su propia condición moral, y concluye llamándola a no pecar más. El episodio no enseña que el adulterio sea aceptable ni que la justicia carezca de importancia. Presenta una respuesta que confronta la hipocresía y llama a una vida transformada. Este pasaje debe estudiarse también considerando que su presencia en los manuscritos antiguos tiene una historia textual particular.',
+references: 'Juan 7:53–8:11; Romanos 2:1-3.',
+),
+StudySection(
+title: '27. La misericordia y el ladrón arrepentido',
+content:
+'En la crucifixión, uno de los hombres ejecutados junto a Jesús reconoce su propia culpa y pide que Cristo se acuerde de él. Jesús le responde con una promesa de esperanza. Este relato demuestra que la misericordia de Dios puede alcanzar incluso a una persona que se encuentra al final de su vida. También muestra que la salvación no se compra mediante méritos, sino que depende de la gracia de Cristo.',
+references: 'Lucas 23:39-43; Efesios 2:8-9.',
+),
+StudySection(
+title: '28. La cruz como expresión suprema de misericordia',
+content:
+'La cruz revela la gravedad del pecado y la profundidad del amor de Dios. Jesucristo entregó su vida para reconciliar a los pecadores con Dios. La misericordia no consistió en ignorar el pecado, sino en que Dios proveyó redención por medio del sacrificio de su Hijo. Por eso, la cruz es central para comprender el perdón y la justicia divina.',
+references: 'Romanos 5:6-11; Efesios 1:7; 1 Pedro 2:24.',
+),
+StudySection(
+title: '29. La resurrección y la esperanza de la misericordia',
+content:
+'La resurrección de Jesucristo confirma su victoria sobre la muerte y sostiene la esperanza de los creyentes. Pedro relaciona la resurrección con el nuevo nacimiento y una esperanza viva. La misericordia de Dios no se limita a aliviar necesidades temporales; también concede una esperanza eterna fundamentada en la victoria del Hijo.',
+references: '1 Pedro 1:3-5; Romanos 6:4-9; 1 Corintios 15:20-22.',
+),
+StudySection(
+title: '30. La misericordia del Padre en la salvación',
+content:
+'El Padre es presentado como rico en misericordia. Según Efesios 2, su iniciativa amorosa da vida a quienes estaban muertos en sus delitos y pecados. Esta obra no nace de la capacidad humana, sino del propósito bondadoso de Dios. El Padre concede salvación por medio de Jesucristo y hace posible una nueva vida.',
+references: 'Efesios 2:4-10; 1 Pedro 1:3.',
+),
+StudySection(
+title: '31. La misericordia del Hijo en su entrega',
+content:
+'El Hijo participa plenamente de la naturaleza divina y se encarnó para realizar la obra redentora. Su entrega voluntaria revela su amor y su obediencia al Padre. No se trata de una persona divina obligada por otra contra su voluntad, sino de la acción salvadora de Dios, en la que el Hijo se ofrece conforme al propósito eterno de redención.',
+references: 'Juan 10:17-18; Filipenses 2:5-8; Hebreos 10:5-10.',
+),
+StudySection(
+title: '32. La obra misericordiosa del Espíritu Santo',
+content:
+'El Espíritu Santo participa en la aplicación de la salvación. Él convence de pecado, produce el nuevo nacimiento y conduce al creyente a una vida transformada. Su obra es personal y divina, no una simple influencia impersonal. La misericordia que Dios concede en Cristo llega a experimentarse en la vida de las personas mediante la acción del Espíritu.',
+references: 'Juan 16:7-11; Juan 3:5-8; Tito 3:5-6.',
+),
+StudySection(
+title: '33. La unidad de la misericordia en la Trinidad',
+content:
+'El Padre, el Hijo y el Espíritu Santo son tres personas distintas que comparten una única naturaleza divina. Por ello, la misericordia no es propiedad de una persona divina en oposición a las otras. El Padre envía al Hijo, el Hijo realiza la redención y el Espíritu aplica sus beneficios. Esta distinción de obras personales no divide la esencia ni el carácter del único Dios.',
+references: 'Mateo 28:19; Juan 3:16-17; 2 Corintios 13:14; Efesios 2:18.',
+),
+StudySection(
+title: '34. La misericordia y la regeneración',
+content:
+'La regeneración es la obra de Dios por la cual el pecador recibe nueva vida espiritual. No consiste en una simple mejora de conducta ni en un cambio superficial de hábitos. La misericordia divina transforma la condición espiritual de la persona y la conduce a una nueva relación con Dios. Esta obra es realizada por el Espíritu Santo conforme al propósito salvador de Dios.',
+references: 'Juan 3:3-8; Tito 3:5; 1 Pedro 1:23.',
+),
+StudySection(
+title: '35. La misericordia y la justificación',
+content:
+'La justificación es el acto por el cual Dios declara justo al pecador que cree en Jesucristo, sobre la base de la obra redentora del Hijo. La misericordia se manifiesta en que Dios ofrece este beneficio a quienes no pueden justificarse mediante sus propios méritos. La justificación no significa que Dios llame bueno al pecado, sino que concede una nueva posición al creyente por medio de Cristo.',
+references: 'Romanos 3:21-28; Romanos 5:1; Tito 3:7.',
+),
+StudySection(
+title: '36. La misericordia y la adopción espiritual',
+content:
+'La adopción expresa el privilegio de ser recibidos como hijos de Dios por medio de Jesucristo. El creyente no adquiere la naturaleza divina ni se convierte en una persona divina; recibe una relación filial por gracia. El Espíritu Santo da testimonio de esta condición y permite dirigirse a Dios como Padre.',
+references: 'Romanos 8:14-17; Gálatas 4:4-7; Efesios 1:5.',
+),
+StudySection(
+title: '37. La misericordia y la oración',
+content:
+'La misericordia divina permite acercarse a Dios con confianza y humildad. Hebreos invita a acudir al trono de la gracia para recibir misericordia y hallar gracia para el oportuno socorro. La oración no es un mecanismo para obligar a Dios, sino una expresión de dependencia y confianza en su carácter.',
+references: 'Hebreos 4:14-16; Salmos 86:6-7; Filipenses 4:6-7.',
+),
+StudySection(
+title: '38. La misericordia y el cuidado de los débiles',
+content:
+'Dios muestra especial atención hacia quienes atraviesan situaciones de vulnerabilidad. La Biblia denuncia la explotación y llama a proteger al pobre, al extranjero, a la viuda y al huérfano. La misericordia cristiana debe expresarse en ayuda concreta, justicia y respeto por la dignidad humana.',
+references: 'Deuteronomio 10:17-19; Isaías 1:17; Santiago 1:27.',
+),
+StudySection(
+title: '39. La misericordia hacia quienes nos ofenden',
+content:
+'Jesús enseña a perdonar y a tratar con misericordia a quienes nos hacen daño. Esto no significa permitir abusos, ocultar delitos ni renunciar a buscar protección y justicia. Significa abandonar el deseo de venganza personal y actuar de acuerdo con la verdad y el amor. El perdón cristiano no elimina la necesidad de límites responsables.',
+references: 'Mateo 5:43-48; Mateo 6:12-15; Romanos 12:17-21.',
+),
+StudySection(
+title: '40. La misericordia y el fruto del Espíritu',
+content:
+'La misericordia se refleja en la compasión, la paciencia, la benignidad y la bondad que caracterizan la vida transformada. Gálatas presenta el fruto del Espíritu como evidencia de una vida guiada por Dios. La misericordia cristiana no debe limitarse a momentos emocionales; debe convertirse en una disposición constante que se manifiesta en palabras y acciones.',
+references: 'Gálatas 5:22-25; Colosenses 3:12-14; Efesios 4:32.',
+),
+StudySection(
+title: '41. La misericordia y la restauración del creyente',
+content:
+'Cuando un creyente reconoce su pecado, debe acudir a Dios con arrepentimiento y fe. La restauración no significa minimizar la falta ni evitar sus consecuencias, sino reconocerla, buscar el perdón y caminar nuevamente en obediencia. La iglesia también debe procurar la restauración con mansedumbre, sin encubrir conductas dañinas ni actuar con orgullo.',
+references: 'Gálatas 6:1-2; 1 Juan 1:9; Santiago 5:16.',
+),
+StudySection(
+title: '42. La misericordia y la disciplina de Dios',
+content:
+'La misericordia no impide que Dios discipline a quienes ama. La disciplina divina tiene como propósito corregir y formar, no destruir por capricho. Hebreos explica que la corrección puede producir fruto apacible de justicia en quienes han sido ejercitados por ella. Es necesario distinguir la disciplina divina de los abusos humanos, que nunca deben justificarse mediante este pasaje.',
+references: 'Hebreos 12:5-11; Proverbios 3:11-12; Apocalipsis 3:19.',
+),
+StudySection(
+title: '43. La misericordia y el juicio de Dios',
+content:
+'La Biblia enseña que Dios es misericordioso y también juez justo. La misericordia ofrecida durante la vida no significa que el juicio final haya desaparecido. La Escritura llama a responder al evangelio mientras existe oportunidad y advierte sobre las consecuencias de rechazar deliberadamente la verdad. La enseñanza completa mantiene juntas la compasión y la justicia.',
+references: 'Romanos 2:5-11; Mateo 25:31-46; Hebreos 9:27.',
+),
+StudySection(
+title: '44. La expresión de Santiago sobre la misericordia y el juicio',
+content:
+'Santiago afirma que la misericordia triunfa sobre el juicio. El contexto habla de la parcialidad y del trato hacia los demás, y recuerda que quienes han recibido misericordia deben practicarla. No significa que Dios haya eliminado toda justicia ni que el pecado carezca de consecuencias. El pasaje confronta a quienes pretenden vivir de la fe mientras tratan sin compasión a otras personas.',
+references: 'Santiago 2:1-13.',
+),
+StudySection(
+title: '45. La misericordia y la vida de la iglesia',
+content:
+'La comunidad cristiana debe reflejar la misericordia recibida de Dios. Esto implica acompañar al necesitado, ayudar al que sufre, corregir con mansedumbre y procurar la reconciliación cuando sea posible. La iglesia no debe convertirse en un lugar de humillación para quienes buscan restauración, pero tampoco debe encubrir la injusticia ni proteger a quienes dañan a otros.',
+references: 'Colosenses 3:12-15; Gálatas 6:1-2; Romanos 12:15.',
+),
+StudySection(
+title: '46. La misericordia y la misión evangelizadora',
+content:
+'El anuncio del evangelio comunica que Dios ofrece perdón y reconciliación mediante Jesucristo. La evangelización debe realizarse con verdad, respeto y compasión. El mensajero no debe presentar el evangelio desde la superioridad moral, porque también depende de la misericordia divina. El propósito es llamar a todas las personas al arrepentimiento y a la fe en Cristo.',
+references: 'Mateo 28:18-20; Lucas 24:46-47; 2 Timoteo 2:24-26.',
+),
+StudySection(
+title: '47. Errores al interpretar la misericordia de Dios',
+content:
+'Entre los errores que deben evitarse están afirmar que la misericordia significa que Dios aprueba cualquier conducta, que todos serán perdonados sin arrepentimiento, que la justicia es contraria al amor o que el perdón elimina automáticamente todas las consecuencias terrenales del pecado. También es incorrecto utilizar la misericordia para exigir que una persona permanezca en una situación de abuso o peligro. La enseñanza bíblica debe conservar su contexto y su equilibrio.',
+references: 'Éxodo 34:6-7; Romanos 6:1-2; Santiago 2:12-13.',
+),
+StudySection(
+title: '48. La misericordia de Dios y la esperanza eterna',
+content:
+'La misericordia divina sostiene la esperanza del creyente más allá de las circunstancias presentes. La promesa de la resurrección y de la vida eterna demuestra que Dios no limita su propósito a resolver necesidades temporales. En Jesucristo, la muerte no tiene la última palabra para quienes reciben la salvación. La esperanza cristiana descansa en la fidelidad del Dios misericordioso.',
+references: '1 Pedro 1:3-5; Romanos 8:18-25; Apocalipsis 21:1-5.',
+),
+StudySection(
+title: '49. La misericordia como fundamento de la adoración',
+content:
+'Reconocer la misericordia de Dios conduce a la gratitud, la humildad y la adoración. El creyente comprende que no se sostiene por sus propios méritos, sino por el favor del Señor. La adoración verdadera reconoce la santidad de Dios, agradece su perdón y responde con obediencia. La misericordia no debe producir indiferencia espiritual, sino una vida rendida a Dios.',
+references: 'Salmos 103:1-5; Romanos 12:1; Hebreos 12:28.',
+),
+StudySection(
+title: '50. La misericordia del único Dios: Padre, Hijo y Espíritu Santo',
+content:
+'La misericordia pertenece al carácter del único Dios y se manifiesta en la obra del Padre, del Hijo y del Espíritu Santo. El Padre, rico en misericordia, envía al Hijo para realizar la redención; el Hijo se encarna, entrega su vida y resucita para ofrecer reconciliación; y el Espíritu Santo aplica esa obra, produce nuevo nacimiento y transforma al creyente. Las tres personas son distintas, pero comparten plenamente la única naturaleza divina. Por tanto, no existen tres dioses misericordiosos separados, sino un solo Dios cuya misericordia se revela en perfecta unidad.',
+references: 'Efesios 2:4-10; Juan 3:16-17; Tito 3:4-7; 2 Corintios 13:14.',
+),
+],
+conclusion:
+'La misericordia de Dios revela su compasión perfecta frente a la miseria humana y su disposición para perdonar y restaurar conforme a su justicia. No significa tolerancia del pecado ni eliminación de la responsabilidad moral. Su expresión suprema se encuentra en Jesucristo, quien entregó su vida y resucitó para hacer posible la reconciliación. El Padre es rico en misericordia, el Hijo la manifiesta en su obra redentora y el Espíritu Santo aplica sus beneficios en la vida del creyente. La respuesta adecuada es arrepentirse, confiar en Cristo, practicar la misericordia y vivir en obediencia al único Dios: Padre, Hijo y Espíritu Santo.',
+),
+
+Study(
+number: '55',
+title: 'El amor de Dios: su naturaleza eterna, su expresión en la Trinidad y su manifestación en la redención',
+subtitle: 'El amor como perfección del carácter divino, revelado en la comunión del Padre, del Hijo y del Espíritu Santo.',
+introduction:
+'El amor de Dios es una de las verdades centrales de la revelación bíblica. La Escritura no presenta el amor como una emoción pasajera que Dios experimenta, sino como una perfección de su naturaleza eterna. Dios ama porque su carácter es amoroso, santo, fiel y perfecto. Su amor se manifiesta en la creación, en su relación con la humanidad, en la paciencia hacia los pecadores y, de manera suprema, en la entrega de Jesucristo para la salvación. La doctrina de la Trinidad permite comprender que el amor no comenzó cuando Dios creó el universo. El Padre ama al Hijo, el Hijo ama al Padre y el Espíritu Santo participa plenamente de la única naturaleza divina. Por tanto, antes de la creación ya existía la comunión eterna del único Dios en tres personas distintas. Este estudio examina también la relación entre el amor y la justicia, las interpretaciones de los textos difíciles y la responsabilidad de quienes han recibido el amor de Dios.',
+sections: [
+StudySection(
+title: '1. El amor pertenece a la naturaleza de Dios',
+content:
+'La Biblia afirma que Dios es amor. Esta declaración no significa que el amor sea una realidad superior a Dios ni que cualquier sentimiento humano pueda definir su carácter. Significa que el amor verdadero encuentra su fuente y su expresión perfecta en Él. Dios no necesita aprender a amar ni depende de la creación para desarrollar esta perfección. Su amor pertenece eternamente a quien es.',
+references: '1 Juan 4:7-8; 1 Juan 4:16; Salmos 136:1.',
+),
+StudySection(
+title: '2. El amor de Dios es eterno',
+content:
+'El amor divino no tiene un comienzo temporal. Antes de que existieran el universo, los seres humanos y los ángeles, Dios ya era eternamente Dios. La relación de amor entre el Padre y el Hijo demuestra que el amor no surgió por una necesidad de crear seres que pudieran recibirlo. La creación es una manifestación libre de su voluntad, no una condición necesaria para que Dios pudiera amar.',
+references: 'Juan 17:24; Efesios 1:4-5; Salmos 90:2.',
+),
+StudySection(
+title: '3. El significado del amor en la Biblia',
+content:
+'La Biblia utiliza diferentes palabras para describir el amor. En el Antiguo Testamento aparece el término hebreo ahavá, relacionado con el amor y el afecto. También aparece jésed, que en determinados contextos comunica amor leal, misericordia y fidelidad. En el Nuevo Testamento se utiliza ágape para describir el amor, especialmente en contextos relacionados con el carácter y la acción de Dios. Ninguna palabra debe interpretarse aisladamente; su significado depende del contexto.',
+references: 'Deuteronomio 7:7-9; Salmos 136:1; Juan 3:16; 1 Corintios 13:4-7.',
+),
+StudySection(
+title: '4. El amor de Dios es santo',
+content:
+'El amor divino nunca está separado de la santidad. Dios no ama aprobando la maldad ni llamando correcto a lo que contradice su voluntad. Su amor busca el verdadero bien de sus criaturas y, por eso, confronta el pecado. La santidad impide reducir el amor de Dios a una aceptación incondicional de toda conducta humana.',
+references: 'Levítico 19:2; Romanos 5:8; Efesios 5:25-27.',
+),
+StudySection(
+title: '5. El amor de Dios es perfecto',
+content:
+'El amor humano puede estar limitado por intereses personales, ignorancia, temor y cambios emocionales. El amor de Dios no tiene esas imperfecciones. Él conoce perfectamente a quienes ama y actúa conforme a su sabiduría y justicia. Su amor nunca es manipulador, egoísta ni contrario a su propio carácter.',
+references: 'Mateo 5:48; Salmos 145:17; Santiago 1:17.',
+),
+StudySection(title: '6. El amor y la bondad de Dios',
