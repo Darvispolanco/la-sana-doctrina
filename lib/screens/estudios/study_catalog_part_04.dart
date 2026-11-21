@@ -2036,21 +2036,141 @@ El Padre lleva adelante el propósito, el Hijo es mediador del nuevo pacto y el 
 Study(
     number: '95',
     title: "El tabernáculo: presencia de Dios y adoración en el desierto",
-    subtitle: "La estructura, función y significado del tabernáculo dentro del culto de Israel.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La estructura, función y significado del tabernáculo dentro del culto de Israel y su relación con la obra de Cristo.",
+    introduction: '''
+El tabernáculo fue el santuario portátil que Dios mandó construir a Israel durante su peregrinación por el desierto. No surgió como una iniciativa humana para acercar a una divinidad local, sino como una disposición revelada por Dios para manifestar su presencia en medio del pueblo que había rescatado de Egipto. Éxodo 25:8 expresa el propósito central: Dios quiso habitar en medio de Israel. Esa presencia no significaba que el Creador quedara limitado por una tienda; la misma Escritura enseña que ni los cielos pueden contenerlo.
+
+Este estudio examina el contexto del tabernáculo, sus espacios y utensilios, el servicio sacerdotal, los sacrificios, la santidad y la manifestación de la gloria divina. También relaciona estos temas con Jesucristo, quien es presentado en el Nuevo Testamento como el mediador definitivo y quien hizo visible entre nosotros la gloria del Padre. La obra del Espíritu Santo permite comprender la presencia de Dios en la comunidad de los creyentes, sin confundir al Espíritu con el Hijo ni con el Padre.
+
+La lectura trinitaria debe respetar el sentido original de Éxodo y el desarrollo posterior de la revelación. No se asignará un significado secreto a cada material u objeto cuando el texto no lo haga. Se estudiará lo que la Escritura afirma expresamente y cómo el Nuevo Testamento relaciona el santuario con la persona y obra de Cristo.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 95. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+El término tabernáculo se utiliza para referirse a la tienda sagrada que Israel levantaba conforme a las instrucciones de Éxodo 25–31 y 35–40. También se le llama tienda de reunión, porque allí se manifestaba de manera especial la presencia de Dios y Moisés recibía instrucciones para el pueblo. No era simplemente una tienda común ni un edificio destinado a contener la esencia divina.
+
+Conviene distinguir varios conceptos. Santuario es el espacio consagrado al servicio de Dios. Tienda de reunión destaca el encuentro y la comunicación divina. Lugar santo y lugar santísimo identifican espacios diferenciados dentro del santuario. Sacerdocio se refiere al servicio establecido para atender el culto. Sacrificio designa las ofrendas presentadas conforme a las disposiciones divinas.
+
+El tabernáculo debe estudiarse en su propio pacto y contexto histórico. No se deben trasladar automáticamente todas sus normas al culto cristiano ni afirmar que cada objeto representa una persona de la Trinidad. El Nuevo Testamento sí relaciona el santuario, el sacerdocio y los sacrificios con la obra de Jesucristo, y enseña que el Espíritu Santo habita en el pueblo de Dios.
+''',
+        references: "Éxodo 25:1-9; 27:1-8; 29:42-46; 33:7-11; 40:1-8; Hebreos 8:1-6."
+      ),
+      StudySection(
+        title: "2. Contexto histórico y literario: Dios rescata y luego establece el culto",
+        content: '''
+El relato del tabernáculo aparece después de la salida de Israel de Egipto. Dios ya había liberado al pueblo y lo había conducido hasta el monte Sinaí antes de entregar las instrucciones para el santuario. Este orden es importante: el tabernáculo no fue el precio que Israel pagó para obtener la libertad, sino una provisión de Dios para acompañar la vida del pueblo que había redimido.
+
+Éxodo 19 presenta la llegada al Sinaí y el llamado a vivir como pueblo del pacto. Éxodo 20–24 contiene los mandamientos y la ratificación del pacto. En Éxodo 25–31 Dios da instrucciones para construir el santuario y establecer el servicio. Después del episodio del becerro de oro, Éxodo 32–34 muestra la gravedad del pecado y la necesidad de la misericordia divina. Éxodo 35–40 narra la construcción y la inauguración del tabernáculo.
+
+La ubicación literaria enseña que la adoración no puede separarse de la redención, la obediencia y la santidad. Israel no debía inventar un culto según sus preferencias. Dios mismo estableció el modo de acercamiento, y el pueblo debía responder con obediencia agradecida.
+''',
+        references: "Éxodo 19:1-8; 20:1-17; 24:1-11; 25:1-9; 32:1-35; 34:1-10; 35:1-29; 40:1-38."
+      ),
+      StudySection(
+        title: "3. El diseño del tabernáculo y sus espacios",
+        content: '''
+Éxodo describe un atrio exterior, el lugar santo y el lugar santísimo. En el atrio se encontraban el altar del holocausto y la fuente de bronce. En el lugar santo estaban el candelero, la mesa de los panes de la proposición y el altar del incienso. Detrás del velo se encontraba el lugar santísimo, donde estaba el arca del pacto con el propiciatorio.
+
+Cada elemento tenía una función dentro del culto que Dios había ordenado. El altar estaba relacionado con los sacrificios; la fuente, con las disposiciones de purificación sacerdotal; el candelero, con la iluminación del lugar santo; la mesa, con los panes dispuestos delante de Dios; el altar del incienso, con el servicio de incienso; y el arca, con el testimonio del pacto y el lugar señalado para el encuentro.
+
+El texto describe materiales, medidas, funciones y disposiciones concretas. Por eso, la interpretación debe comenzar por lo que Éxodo dice, no por asociaciones imaginativas. Cuando el Nuevo Testamento explica el significado de determinados elementos, esa explicación tiene prioridad sobre las alegorías que no cuentan con apoyo bíblico.
+''',
+        references: "Éxodo 25:10-40; 26:1-37; 27:1-21; 30:1-10, 17-21; 37:1-29; 38:1-20; Hebreos 9:1-5."
+      ),
+      StudySection(
+        title: "4. Sacerdocio, sacrificios y acceso regulado a la presencia",
+        content: '''
+Dios escogió a Aarón y a sus hijos para ejercer el sacerdocio dentro del orden establecido para Israel. Los sacerdotes tenían responsabilidades específicas: presentar ofrendas, atender el santuario y enseñar las disposiciones divinas. Su servicio requería consagración y respeto por la santidad de Dios.
+
+Los sacrificios del sistema levítico no eran intercambiables ni tenían todos el mismo propósito. Levítico distingue holocaustos, ofrendas de cereal, sacrificios de paz, ofrendas por el pecado y ofrendas por la culpa. El sistema enseñaba que el pecado es grave, que la comunión con Dios requiere purificación y que el acercamiento no podía hacerse de cualquier manera.
+
+El sacerdocio aarónico era temporal y estaba sujeto a las limitaciones humanas. Hebreos explica que Jesucristo es el gran Sumo Sacerdote, que no necesita ofrecer sacrificios repetidos por sus propios pecados y que presentó una ofrenda suficiente. La relación entre ambos sacerdocios debe establecerse siguiendo el argumento de Hebreos, no suponiendo que Aarón y Cristo sean la misma persona o que el sacerdocio levítico fuera definitivo.
+''',
+        references: "Éxodo 28:1-4; 29:1-9; Levítico 1:1-17; 4:1-35; 7:11-21; 8:1-36; Hebreos 7:23-28; 9:11-14; 10:1-18."
+      ),
+      StudySection(
+        title: "5. La presencia y la gloria de Dios: habitar en medio del pueblo",
+        content: '''
+El propósito expresado en Éxodo 25:8 es que Dios habite en medio de Israel. Al terminar la construcción, la nube cubrió el tabernáculo y la gloria de Jehová lo llenó. La nube también orientaba los desplazamientos del pueblo: cuando se levantaba, Israel partía; cuando permanecía, el pueblo acampaba.
+
+La presencia de Dios no debe entenderse como si la tienda pudiera contenerlo o encerrarlo. Salomón, siglos después, reconoció que ni los cielos de los cielos podían contener a Dios, mucho menos el templo construido por manos humanas. El tabernáculo era el lugar que Dios había señalado para manifestar su presencia y dirigir el culto, no un límite para su ser.
+
+La nube y la gloria enseñaban que el pueblo dependía de la dirección divina. También recordaban que la cercanía de Dios no elimina su santidad. La presencia que consuela y guía es la misma presencia ante la cual Israel debía vivir con reverencia y obediencia.
+''',
+        references: "Éxodo 25:8; 29:42-46; 40:34-38; Números 9:15-23; 1 Reyes 8:27; Salmo 139:7-10."
+      ),
+      StudySection(
+        title: "6. El tabernáculo y su relación con Jesucristo en el Nuevo Testamento",
+        content: '''
+Juan 1:14 declara que el Verbo fue hecho carne y habitó entre nosotros; el lenguaje utilizado evoca la idea de poner su tienda o tabernáculo. El punto central no es que Jesús fuera una estructura física, sino que el Hijo eterno asumió verdadera humanidad y manifestó la gloria divina entre los seres humanos. Juan identifica al Verbo como distinto de Dios con quien estaba y, a la vez, como Dios, por lo que el pasaje también debe leerse dentro de la doctrina de la deidad del Hijo.
+
+En Juan 2:19-21, Jesús habla del templo de su cuerpo y el evangelista aclara que se refería a su cuerpo. Su muerte y resurrección se convierten en el centro del acceso a Dios. Hebreos 8–10 desarrolla la superioridad del ministerio de Cristo: el santuario terrenal era figura y sombra, mientras que el Hijo ministra como Sumo Sacerdote del nuevo pacto y ofrece un sacrificio definitivo.
+
+La relación bíblica no autoriza a convertir cada detalle del tabernáculo en una predicción individual de Jesús. La conexión más firme es la que el Nuevo Testamento establece: el santuario terrenal pertenecía al orden antiguo y señalaba la necesidad de una mediación y purificación que alcanzan su cumplimiento decisivo en Jesucristo.
+''',
+        references: "Juan 1:1-3, 14-18; 2:18-22; Hebreos 8:1-6; 9:1-14, 23-28; 10:1-22."
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: el Padre, el Hijo y el Espíritu Santo",
+        content: '''
+El tabernáculo pertenece a la historia del propósito del único Dios. En el Antiguo Testamento, el Señor toma la iniciativa, rescata a Israel y ordena que se prepare un santuario para habitar en medio del pueblo. El texto de Éxodo no presenta una explicación técnica de la Trinidad; por tanto, no debemos introducir en cada objeto una correspondencia que el pasaje no enseña.
+
+El Nuevo Testamento permite contemplar el tema con mayor amplitud. El Hijo es el Verbo eterno que se hizo carne y manifestó la gloria del Padre. Él es el mediador y Sumo Sacerdote por medio del cual los creyentes se acercan a Dios. El Padre envió al Hijo, y el Hijo habla del Padre como alguien distinto de sí mismo; esta relación personal no divide la única naturaleza divina.
+
+El Espíritu Santo también actúa personalmente. Jesús promete otro Consolador que el Padre enviará en su nombre. Pablo enseña que la comunidad de los creyentes es templo de Dios porque el Espíritu habita en ella. Así, el Nuevo Testamento habla de la presencia de Dios en su pueblo por la obra del Espíritu, sin identificar al Espíritu con el Hijo ni confundir a ninguno con el Padre.
+
+La enseñanza trinitaria mantiene juntas estas verdades: un solo Dios, el Padre que envía, el Hijo que se encarna y media, y el Espíritu Santo que habita y obra en el pueblo. No son tres santuarios ni tres dioses, sino la acción del único Dios conforme a la distinción personal revelada en las Escrituras.
+''',
+        references: "Éxodo 25:8; Juan 1:1-18; 14:16-17, 26; 17:1-5; Efesios 2:18-22; 1 Corintios 3:16-17; 6:19-20; Hebreos 9:11-14."
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Si Dios habitaba en el tabernáculo, estaba limitado a ese lugar? No. Éxodo presenta el santuario como el lugar elegido para manifestar su presencia en medio de Israel, pero 1 Reyes 8:27 declara que ni los cielos pueden contenerlo. La presencia especial de Dios no debe confundirse con una limitación espacial de su ser.
+
+¿El tabernáculo era idéntico al templo de Jerusalén? No. Ambos estaban relacionados con el culto de Israel y con la presencia divina, pero pertenecen a momentos históricos y estructuras diferentes. El tabernáculo era portátil y acompañó al pueblo en el desierto; el templo fue una construcción estable en Jerusalén. La continuidad de propósito no elimina sus diferencias.
+
+¿Cada objeto del tabernáculo representa directamente a una persona de la Trinidad? La Escritura no enseña esa correspondencia. La interpretación debe apoyarse en las explicaciones bíblicas, especialmente las que ofrece Hebreos, y evitar simbolismos inventados.
+
+¿Los sacrificios levíticos podían quitar definitivamente el pecado? Hebreos 10:1-4 explica que la repetición de los sacrificios mostraba sus límites. Su función dentro del pacto antiguo no debe confundirse con la obra suficiente de Cristo.
+
+¿La Iglesia es ahora un edificio que reemplaza literalmente al tabernáculo? El Nuevo Testamento llama templo de Dios a la comunidad y al creyente por la presencia del Espíritu, pero esto no significa que un edificio cristiano sea el nuevo lugar donde Dios queda encerrado. Efesios 2:19-22 habla de un pueblo edificado en Cristo y habitado por el Espíritu.
+''',
+        references: "Éxodo 25:8; 40:34-38; 1 Reyes 8:27; Juan 2:19-21; 1 Corintios 3:16-17; Efesios 2:19-22; Hebreos 10:1-18."
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+¿Por qué mandó Dios construir el tabernáculo? Para habitar en medio de Israel y establecer el lugar y el orden del culto conforme a su pacto (Éxodo 25:8; 29:42-46).
+
+¿Qué enseñaba el velo que separaba el lugar santísimo? Señalaba que el acceso estaba regulado y que el acercamiento a la presencia santa de Dios no era común ni indiscriminado. Hebreos 9:6-8 explica el acceso limitado del antiguo orden, y Hebreos 10:19-22 anuncia la confianza de acceso por la obra de Jesús.
+
+¿Por qué Jesús es superior al sacerdocio del tabernáculo? Porque es el Hijo y Sumo Sacerdote perfecto, y su sacrificio fue ofrecido una vez para siempre. Los sacerdotes antiguos eran mortales y ofrecían sacrificios repetidos; Cristo vive para siempre e intercede por los suyos (Hebreos 7:23-28; 9:24-28).
+
+¿Qué relación existe entre el tabernáculo y el creyente? El Nuevo Testamento enseña que el Espíritu Santo habita en los creyentes y en la comunidad de la Iglesia. Esta verdad llama a la santidad y no convierte al cuerpo humano en un objeto de culto (1 Corintios 3:16-17; 6:19-20).
+
+¿El tabernáculo prueba por sí solo toda la doctrina de la Trinidad? No. Su función original debe estudiarse en Éxodo. La comprensión trinitaria se desarrolla al relacionarlo con el testimonio más amplio de la Escritura sobre el Padre, el Hijo y el Espíritu Santo, sin forzar símbolos que el texto no establece.
+''',
+        references: "Éxodo 25:8; 29:42-46; Hebreos 7:23-28; 9:6-14; 10:19-22; 1 Corintios 3:16-17; 6:19-20."
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El tabernáculo enseña que la adoración debe responder a la revelación de Dios y no a la imaginación humana. Israel recibió instrucciones concretas porque el Señor es santo y merece obediencia. La presencia divina debía producir reverencia, dependencia y fidelidad, no familiaridad irreverente ni manipulación religiosa.
+
+La relación con Cristo fortalece la confianza del creyente. El acceso a Dios no depende de repetir sacrificios ni de buscar mediadores humanos que sustituyan al Hijo. Jesucristo es el Sumo Sacerdote suficiente y el mediador del nuevo pacto. Por medio de él hay entrada confiada a la presencia de Dios.
+
+La presencia del Espíritu Santo en el creyente y en la Iglesia exige una vida de santidad, unidad y servicio. No se debe reducir esta realidad a un lugar físico ni a una emoción pasajera. La comunidad cristiana está llamada a reflejar el carácter de Dios en su conducta y a mantener la verdad acerca del Padre, del Hijo y del Espíritu Santo.
+
+En síntesis, el tabernáculo fue el santuario establecido por Dios para el culto de Israel y para manifestar su presencia en medio del pueblo del pacto. Su sacerdocio y sus sacrificios tuvieron una función real, pero temporal. El Nuevo Testamento los relaciona con la obra superior y definitiva de Jesucristo. El Padre envió al Hijo, el Hijo abrió el acceso mediante su sacrificio y el Espíritu Santo habita en el pueblo de Dios. Esta lectura conserva el contexto del Antiguo Testamento y reconoce el desarrollo de la revelación sin confundir a las personas divinas ni dividir al único Dios.
+''',
+        references: "Éxodo 25:8; 40:34-38; Juan 1:14; Hebreos 8:1-6; 9:11-14; 10:19-22; Efesios 2:18-22."
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El tabernáculo muestra que el Dios que rescató a Israel quiso habitar en medio de su pueblo y estableció un orden santo para el culto. Su estructura, sacerdocio y sacrificios deben comprenderse en el contexto del pacto del Sinaí y no como símbolos libres de interpretación. La gloria que llenó el santuario manifestó la presencia y dirección del Señor, sin limitar al Creador a una tienda. En el Nuevo Testamento, Jesucristo aparece como el Hijo eterno hecho carne, el mediador del nuevo pacto y el Sumo Sacerdote cuyo sacrificio es suficiente. El Espíritu Santo habita en la comunidad de los creyentes y la llama a vivir como pueblo santo. Así, el estudio del tabernáculo conduce a reconocer la fidelidad del Padre, la obra redentora del Hijo y la presencia activa del Espíritu Santo, manteniendo la confesión de un solo Dios en tres personas distintas.
+''',
   ),
 Study(
     number: '96',
