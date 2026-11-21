@@ -19702,267 +19702,89 @@ El Espíritu Santo da testimonio de Cristo y obra en la vida de los creyentes. L
     ],
     conclusion: '''El sacerdocio levítico fue un servicio establecido por Dios para el culto y la enseñanza de Israel. Sus integrantes tenían funciones diferenciadas y permanecían sujetos a la ley y a la necesidad de obedecer. El Nuevo Testamento presenta a Jesucristo como sumo sacerdote permanente y mediador definitivo del nuevo pacto. La Iglesia participa de un sacerdocio espiritual que ofrece alabanza y servicio, sin repetir ni completar el sacrificio de Cristo.''',
   ),
-number: '101',
+  Study(
+    number: '101',
     title: "La literatura sapiencial: sabiduría, temor de Dios y vida cotidiana",
-    subtitle: "Los libros sapienciales y su enseñanza sobre el carácter, las decisiones y la relación con Dios.",
-    introduction: '''
-La literatura sapiencial del Antiguo Testamento enseña a vivir con discernimiento delante de Dios. Sus textos observan la creación, las relaciones humanas, el trabajo, el habla, la justicia, el sufrimiento y los límites del conocimiento. Proverbios, Job y Eclesiastés ocupan un lugar central, junto con los salmos de sabiduría y otras secciones de la Escritura.
+    subtitle: "Una introducción bíblica a Proverbios, Job y Eclesiastés.",
+    introduction: '''La literatura sapiencial reúne textos que enseñan a vivir con discernimiento delante de Dios. Proverbios, Job y Eclesiastés abordan decisiones, sufrimiento, justicia, límites humanos, temor de Dios y sentido de la vida. No son una colección de frases optimistas, sino una reflexión inspirada que utiliza proverbios, poesía, diálogos y observaciones para formar el carácter.
 
-La sabiduría bíblica no es solamente inteligencia práctica ni una técnica para alcanzar prosperidad. Su fundamento es el temor del Señor, es decir, una reverencia obediente que reconoce a Dios como Creador y juez. Los libros sapienciales también muestran que la vida no siempre se ajusta a fórmulas sencillas: el justo puede sufrir y el malvado puede prosperar temporalmente.
-
-El Nuevo Testamento presenta a Cristo como sabiduría de Dios y llama a los creyentes a pedir sabiduría al Señor. Este estudio ofrece un marco para leer los libros sapienciales sin convertir sus proverbios en promesas absolutas ni borrar sus diferencias literarias.
-''',
+La sabiduría bíblica no equivale únicamente a inteligencia o experiencia. Comienza con una relación reverente con el Señor y se manifiesta en una conducta justa. Este estudio presenta el marco común de los libros sapienciales y prepara la lectura particular de Job y Eclesiastés.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Sabiduría bíblica es la capacidad de comprender la vida y actuar rectamente a la luz del carácter y la revelación de Dios. No equivale a acumular datos ni a dominar técnicas de éxito. El temor del Señor es su principio y fundamento (Proverbios 1:7; 9:10). La literatura sapiencial utiliza proverbios, poemas, diálogos, lamentos y reflexiones para formar discernimiento.
+      StudySection(title: "1. Delimitación y características de la literatura sapiencial", content: '''La literatura sapiencial reúne textos que enseñan a vivir con discernimiento delante de Dios. En la Biblia se expresa especialmente en Proverbios, Job y Eclesiastés, con aportes de Salmos y otros libros. No es una colección de frases optimistas: aborda decisiones, sufrimiento, justicia, límites humanos, temor de Dios y sentido de la vida.
 
-Un proverbio suele expresar una verdad general observada en la vida, no una garantía mecánica de que cada situación producirá idéntico resultado. Job cuestiona la aplicación simplista de algunas fórmulas; Eclesiastés examina la fugacidad y los límites de la experiencia humana. Leer estos libros exige reconocer su género y propósito.
-''',
-        references: "Proverbios 1:1-7; Job 28:12-28; Santiago 1:5; 3:13-18.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-La sabiduría era valorada en el antiguo Cercano Oriente y existían colecciones de instrucciones y dichos en distintas culturas. Israel compartió formas literarias propias de su entorno, pero su sabiduría está subordinada a la revelación del Dios del pacto. El Señor, y no la habilidad humana, es la fuente última del conocimiento y de la justicia.
+La sabiduría bíblica no equivale únicamente a inteligencia o experiencia. Comienza con una relación reverente con el Señor y se manifiesta en una conducta justa. Los libros sapienciales utilizan proverbios, poesía, diálogos, observaciones y reflexiones para formar el carácter.''', references: "Job 28:12-28; Salmos 1; 37; Proverbios 1:1-7; Eclesiastés 12:9-14."),
+      StudySection(title: "2. Contexto histórico y cultural", content: '''En Israel, la sabiduría se transmitía en el hogar, en la comunidad y en ambientes de enseñanza. Padres y maestros instruían a las nuevas generaciones sobre el temor de Dios, la justicia, el trabajo, la prudencia y el trato al prójimo. Proverbios refleja ese interés formativo mediante instrucciones breves y comparaciones de la vida diaria.
 
-Proverbios contiene colecciones atribuidas a Salomón y otros sabios; Job presenta un relato poético y dramático; Eclesiastés reflexiona mediante la voz del Predicador. Los Salmos también incluyen poemas sapienciales, como los Salmos 1, 37, 49 y 73. Las diferencias de forma impiden leer todos estos textos como si fueran una misma clase de sentencia.
-''',
-        references: "Deuteronomio 4:5-8; Proverbios 1–9; Job 1–2; Eclesiastés 1–2.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento relaciona sabiduría con la creación y con la vida del pacto. Proverbios 8 presenta poéticamente la sabiduría junto a la obra creadora; el pasaje debe interpretarse como poesía personificada y no como una descripción literal de una segunda deidad. Deuteronomio 4:5-8 relaciona la obediencia a la ley con la sabiduría visible ante las naciones.
+La Biblia comparte formas literarias conocidas en el antiguo Cercano Oriente, pero las sitúa bajo la soberanía del Dios de Israel. La sabiduría no se presenta como una técnica autónoma para controlar el destino, sino como aprendizaje de la vida dentro del orden moral establecido por el Creador.''', references: "Deuteronomio 6:4-9; Proverbios 1:8-9; 4:1-9; 22:17-21."),
+      StudySection(title: "3. El temor del Señor como principio", content: '''Proverbios 1:7 declara que el temor del Señor es el principio del conocimiento. Temer a Dios no significa vivir en terror irracional, sino reconocer su santidad, autoridad y derecho a dirigir la vida. El conocimiento que ignora al Creador puede volverse arrogante y moralmente destructivo.
 
-Los libros sapienciales tratan la justicia, el trabajo, la familia, la amistad, el uso de la lengua, la riqueza y la pobreza. Salmo 111:10 y Proverbios 9:10 vinculan el temor del Señor con el principio de la sabiduría. Job y Eclesiastés impiden reducir esa enseñanza a una explicación superficial de cada experiencia.
-''',
-        references: "Deuteronomio 4:5-8; Salmos 1; 37; 49; 73; Proverbios 1–9; Job 28; Eclesiastés 12.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-El Nuevo Testamento exhorta a pedir sabiduría a Dios (Santiago 1:5) y contrasta la sabiduría de arriba con la terrenal (Santiago 3:13-18). Pablo afirma que Cristo es poder y sabiduría de Dios (1 Corintios 1:24, 30), y Colosenses 2:3 declara que en Él están escondidos los tesoros de la sabiduría y del conocimiento.
+Job 28:28 relaciona la sabiduría con temer al Señor y apartarse del mal. Eclesiastés 12:13 resume la responsabilidad humana en temer a Dios y guardar sus mandamientos. Estos textos establecen una base común para leer la literatura sapiencial sin reducirla a consejos de éxito personal.''', references: "Job 28:28; Salmo 111:10; Proverbios 1:7; 9:10; Eclesiastés 12:13-14."),
+      StudySection(title: "4. Proverbios: formación para la vida diaria", content: '''Proverbios reúne instrucciones sobre palabras, trabajo, amistades, familia, justicia, dinero, disciplina y dominio propio. Sus dichos describen patrones generales de la vida bajo el gobierno moral de Dios. Enseñan que la diligencia suele producir mejores resultados que la pereza y que la honestidad protege las relaciones.
 
-La enseñanza de Jesús utiliza parábolas, preguntas y contrastes que demandan discernimiento. El Sermón del Monte muestra que la sabiduría no se reduce a oír palabras, sino que implica ponerlas por obra (Mateo 7:24-27). La Iglesia recibe la sabiduría para vivir de manera digna del Señor, no para presumir superioridad intelectual.
-''',
-        references: "1 Corintios 1:18-30; 2:6-16; Colosenses 2:1-3; Santiago 1:5; 3:13-18; Mateo 7:24-27.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Proverbios 1:7 establece el principio del libro: el temor del Señor es el comienzo del conocimiento, mientras el necio desprecia la instrucción. «Principio» indica fundamento y orientación, no una etapa que luego se abandona. El conocimiento bíblico comienza reconociendo la autoridad de Dios.
+Sin embargo, un proverbio no debe tratarse como promesa mecánica sin excepciones. Proverbios ofrece sabiduría general y práctica; Job y Eclesiastés muestran que la experiencia humana puede incluir sufrimiento del justo y situaciones que no se explican mediante fórmulas simples.''', references: "Proverbios 10:1-5; 12:18-22; 15:1; 22:1; 26:4-5."),
+      StudySection(title: "5. Job y el problema del sufrimiento", content: '''Job cuestiona la idea de que todo sufrimiento sea consecuencia directa de un pecado personal. Sus amigos repiten explicaciones rígidas que no comprenden la situación del protagonista. El relato muestra que las personas no siempre conocen las razones de lo que ocurre y que no deben emitir juicios precipitados.
 
-Santiago 3:13-18 ofrece una prueba práctica de la sabiduría: sus frutos incluyen pureza, paz, amabilidad, misericordia y sinceridad. La sabiduría que produce envidia y rivalidad no procede de arriba. El contraste muestra que la sabiduría bíblica se reconoce tanto por su contenido como por su fruto moral.
+La respuesta divina no ofrece a Job una explicación detallada de cada acontecimiento, sino que lo confronta con la grandeza y sabiduría del Creador. El libro enseña humildad ante los límites humanos y prohíbe convertir una doctrina verdadera sobre la justicia de Dios en una acusación infundada contra quien sufre.''', references: "Job 1–2; 4–27; 38–42."),
+      StudySection(title: "6. Eclesiastés y los límites de la existencia", content: '''Eclesiastés examina el trabajo, el placer, la riqueza, el conocimiento, la injusticia y la muerte. La expresión traducida como vanidad comunica fugacidad, vapor o falta de control sobre los resultados. El autor no niega que existan bienes y alegrías, sino que muestra que ninguno puede ofrecer por sí solo sentido último ni vencer la muerte.
 
-Proverbios 26:4-5 presenta dos instrucciones aparentemente opuestas sobre responder al necio. El contexto enseña que la respuesta depende de la situación: a veces responder reproduce la necedad; otras veces el silencio permite que la insensatez quede sin corregir. No es contradicción, sino discernimiento contextual.
-''',
-        references: "Proverbios 1:7; 26:4-5; Santiago 3:13-18.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La literatura sapiencial debe leerse junto con la ley, los profetas y los relatos históricos. La ley revela la voluntad del pacto; los profetas denuncian injusticia; los sabios enseñan cómo vivir con prudencia en circunstancias ordinarias. Ninguna de estas partes debe utilizarse para anular las demás.
+El libro llama a recibir con gratitud los dones cotidianos y a recordar al Creador. Su conclusión no es desesperanza absoluta, sino reconocimiento de los límites humanos y responsabilidad delante de Dios.''', references: "Eclesiastés 1:1-18; 2:1-26; 3:1-14; 12:1-14."),
+      StudySection(title: "7. Relación y equilibrio entre los libros sapienciales", content: '''Proverbios destaca patrones de sabiduría práctica; Job cuestiona las explicaciones simplistas del sufrimiento; Eclesiastés examina la fugacidad y los límites de la vida. No se contradicen: responden a preguntas distintas y corrigen lecturas incompletas.
 
-Job corrige la idea de que todo sufrimiento es consecuencia directa de un pecado personal. Eclesiastés recuerda que el ser humano no controla el futuro. Proverbios enseña patrones generales de conducta y consecuencias. Juntos ofrecen una visión equilibrada: Dios gobierna, la conducta importa y la experiencia humana no siempre es fácil de explicar.
+Proverbios no promete que toda persona justa prosperará inmediatamente. Job muestra a un justo que sufre sin que sus amigos puedan identificar una falta que explique su dolor. Eclesiastés observa que la justicia humana no siempre recibe recompensa visible en esta vida. La lectura conjunta produce una sabiduría más profunda y evita usar textos aislados como fórmulas absolutas.''', references: "Proverbios 3:1-12; Job 1:1; 42:7-9; Eclesiastés 7:15; 8:14."),
+      StudySection(title: "8. Cristo y la sabiduría en el Nuevo Testamento", content: '''El Nuevo Testamento presenta a Cristo como poder y sabiduría de Dios (1 Corintios 1:24, 30). En Él se encuentran los tesoros de la sabiduría y del conocimiento (Colosenses 2:2-3). Jesús no solo enseña principios sabios: su persona y obra revelan plenamente el carácter y el propósito de Dios.
 
-El Nuevo Testamento identifica a Cristo como sabiduría de Dios y llama a la comunidad a caminar con discernimiento. La sabiduría cristiana no consiste en especulación secreta, sino en conocer a Dios, obedecer su palabra y amar al prójimo.
-''',
-        references: "Job 1–2; Proverbios 1–31; Eclesiastés 1–12; Salmo 73; Santiago 1:5.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es la fuente de toda sabiduría y da generosamente a quienes se la piden (Santiago 1:5). El Hijo es presentado como sabiduría de Dios y en Él se revelan los propósitos divinos (1 Corintios 1:24, 30; Colosenses 2:3). El Espíritu Santo produce discernimiento y transforma la conducta del creyente; Pablo contrasta la sabiduría humana con la enseñanza del Espíritu (1 Corintios 2:10-13).
+Santiago contrasta la sabiduría terrenal, caracterizada por celos y rivalidad, con la sabiduría de lo alto, pura, pacífica, amable y llena de misericordia. La sabiduría cristiana se reconoce por sus frutos y no solo por discursos religiosos o capacidad intelectual.''', references: "Mateo 12:42; 1 Corintios 1:18-30; Colosenses 2:2-3; Santiago 3:13-18."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''La sabiduría bíblica procede del único Dios. El Padre revela su propósito en el Hijo; Cristo es llamado sabiduría de Dios; y el Espíritu Santo guía a los creyentes en la verdad y les concede discernimiento. Estas afirmaciones distinguen a las personas sin dividir la esencia divina.
 
-Estas referencias no presentan tres fuentes independientes de sabiduría. La sabiduría pertenece al único Dios, y las Escrituras distinguen al Padre, al Hijo y al Espíritu en la revelación y aplicación de esa sabiduría. Cristo no es el Padre y el Espíritu no es una mera cualidad impersonal: las personas son distintas y comparten la única naturaleza divina.
-''',
-        references: "Santiago 1:5; 1 Corintios 1:24,30; 2:10-13; Colosenses 2:3.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Un proverbio garantiza que siempre ocurrirá lo que describe? No. Proverbios comunica patrones generales de la vida sabia, no contratos mecánicos. Job muestra que el justo puede sufrir y que las explicaciones simplistas pueden ser falsas.
+¿Toda frase de Proverbios es promesa infalible para cada caso? No: son principios sapienciales que deben leerse como parte del conjunto bíblico. ¿Job enseña que no existe relación entre conducta y consecuencias? No; enseña que no todo sufrimiento permite concluir que la persona ha cometido un pecado específico. ¿Eclesiastés niega el valor de la vida? No; expone la fugacidad de los bienes cuando se convierten en fundamento último.''', references: "1 Corintios 1:24, 30; Juan 14:26; 16:13; Santiago 3:13-18."),
+      StudySection(title: "10. Aplicación y síntesis doctrinal", content: '''La literatura sapiencial invita a escuchar antes de hablar, trabajar con responsabilidad, actuar con justicia, aceptar corrección, tratar con misericordia al prójimo y reconocer los límites de la comprensión humana. También enseña a no juzgar apresuradamente a quien atraviesa sufrimiento ni a prometer resultados que Dios no ha garantizado.
 
-¿La sabiduría humana es mala? No necesariamente. La habilidad y el aprendizaje pueden servir al bien, pero deben someterse al temor del Señor. La Escritura condena la autosuficiencia y la sabiduría orgullosa que se opone a Dios.
-
-¿Proverbios 8 enseña que la sabiduría es una persona divina creada? El pasaje utiliza personificación poética. No debe aislarse para establecer una doctrina sobre la identidad de Cristo; los textos explícitos sobre el Hijo deben estudiarse en su propio contexto.
-
-¿La sabiduría cristiana elimina el sufrimiento? No. Job y Eclesiastés muestran límites humanos y experiencias dolorosas. La sabiduría ayuda a confiar y actuar rectamente, no promete una vida sin dificultades.
-''',
-        references: "Job 1–2; Proverbios 8:22-31; 26:4-5; Eclesiastés 1:12-18.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Dónde comienza la sabiduría? Respuesta: En el temor del Señor, que reconoce su autoridad y conduce a obedecerle (Proverbios 1:7; 9:10).
-
-Pregunta: ¿Cómo se reconoce la sabiduría verdadera? Respuesta: Por su conducta humilde y por frutos de paz, misericordia y justicia (Santiago 3:13-18).
-
-Pregunta: ¿A quién debe pedir sabiduría el creyente? Respuesta: A Dios, quien da generosamente sin reprochar (Santiago 1:5).
-
-Pregunta: ¿Qué lugar tiene Jesucristo? Respuesta: Es la sabiduría y el poder de Dios para los llamados, y en Él están los tesoros de la sabiduría y el conocimiento (1 Corintios 1:24, 30; Colosenses 2:3).
-
-Pregunta: ¿Cómo se aplica la sabiduría? Respuesta: Escuchando y practicando la palabra de Cristo, con una vida que refleje justicia, prudencia y amor (Mateo 7:24-27).
-''',
-        references: "Proverbios 1:7; 9:10; Santiago 1:5; 3:13-18; Mateo 7:24-27.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La literatura sapiencial forma el carácter y enseña a tomar decisiones delante de Dios. Su centro es el temor del Señor, que no significa terror irracional, sino reverencia obediente. Sus géneros deben respetarse: proverbios, poemas, diálogos y reflexiones no comunican sus enseñanzas de idéntica manera.
-
-Proverbios orienta la vida cotidiana; Job cuestiona las explicaciones simplistas del sufrimiento; Eclesiastés expone los límites de la experiencia humana. El Nuevo Testamento presenta a Cristo como sabiduría de Dios y llama a pedir discernimiento al Padre y a vivir por la obra del Espíritu.
-
-La sabiduría bíblica se demuestra en la humildad, la justicia, la misericordia y la obediencia. No se trata de dominar a otros con conocimiento, sino de aprender a vivir fielmente ante el único Dios.
-''',
-        references: "Proverbios 1:7; Santiago 1:5; 3:13-18; 1 Corintios 1:24,30.",
-      ),
+La sabiduría madura comienza con el temor del Señor y encuentra su centro en Cristo. La Iglesia debe enseñar estos libros en su contexto, relacionarlos entre sí y aplicarlos con humildad, sin convertir proverbios en fórmulas de prosperidad ni usar el sufrimiento ajeno como prueba automática de culpa.''', references: "Proverbios 1:7; 15:1; Job 42:1-6; Eclesiastés 12:13-14; Colosenses 2:2-3; Santiago 3:17-18.")
     ],
-    conclusion: '''
-La literatura sapiencial enseña a vivir delante de Dios con discernimiento. El temor del Señor es su fundamento; la sabiduría se demuestra en decisiones rectas, palabras prudentes y relaciones justas. Sus distintos géneros deben respetarse y sus afirmaciones deben leerse en relación con el conjunto de la Escritura.
-
-Proverbios presenta patrones para la vida, Job cuestiona las explicaciones simplistas del sufrimiento y Eclesiastés recuerda los límites humanos. El Nuevo Testamento identifica a Cristo como sabiduría de Dios y llama a pedir sabiduría al Padre, bajo la obra del Espíritu. La verdadera sabiduría produce humildad, paz, misericordia y obediencia.
-''',
+    conclusion: '''La literatura sapiencial invita a escuchar antes de hablar, trabajar con responsabilidad, actuar con justicia, aceptar corrección y reconocer los límites humanos. Proverbios ofrece patrones de sabiduría práctica; Job cuestiona las explicaciones simplistas del sufrimiento; Eclesiastés examina la fugacidad de la vida. Leídos juntos, estos libros forman una sabiduría que comienza con el temor del Señor y encuentra su centro en Cristo.''',
   ),
-
   Study(
     number: '102',
     title: "El libro de Job: sufrimiento, justicia y soberanía de Dios",
-    subtitle: "Una lectura contextual del sufrimiento del justo, los límites de las explicaciones humanas y la respuesta divina.",
-    introduction: '''
-El libro de Job aborda una pregunta profunda: ¿cómo comprender el sufrimiento de una persona íntegra cuando las explicaciones habituales no parecen corresponder con su experiencia? El relato presenta a Job como un hombre íntegro que atraviesa pérdidas y aflicción, mientras sus amigos insisten en interpretar su dolor como prueba de culpa personal.
+    subtitle: "La integridad del justo, los límites de las explicaciones humanas y la respuesta del Creador.",
+    introduction: '''El libro de Job examina el sufrimiento de una persona descrita como íntegra y temerosa de Dios. Su pregunta no es simplemente por qué existe el dolor, sino cómo hablar de la justicia y la soberanía de Dios cuando una persona justa atraviesa circunstancias que no comprende.
 
-El libro no ofrece una fórmula sencilla para explicar cada sufrimiento. Su prólogo revela al lector un marco que Job y sus amigos desconocen; los diálogos examinan argumentos humanos; y la respuesta de Dios confronta la pretensión de juzgar su gobierno desde un conocimiento limitado. La restauración final no convierte el sufrimiento en algo trivial ni explica todos sus detalles.
-
-La lectura cristiana debe evitar utilizar el libro para acusar a quien sufre o para prometer que toda aflicción terminará con prosperidad inmediata. El Nuevo Testamento presenta a Cristo como el justo que sufrió y llama a perseverar con esperanza, sin atribuir cada dolor a un pecado específico.
-''',
+El libro combina narración, diálogos poéticos, discursos y respuesta divina. Los argumentos de los amigos no deben confundirse automáticamente con la enseñanza final, pues Dios reprende sus palabras. Job enseña humildad ante los límites humanos y compasión hacia quienes sufren.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Job es un libro sapiencial presentado en forma de relato y diálogo poético. Su tema incluye el sufrimiento del justo, la integridad, la justicia de Dios, los límites de la sabiduría humana y la respuesta de fe. «Temor de Dios» e «integridad» describen la orientación moral de Job, no una afirmación de que fuera absolutamente impecable.
+      StudySection(title: "1. Delimitación y estructura del libro", content: '''Job es un libro sapiencial que examina el sufrimiento de una persona descrita como íntegra y temerosa de Dios. Su pregunta central no es simplemente por qué existe el dolor, sino cómo hablar de la justicia y la soberanía de Dios cuando una persona justa atraviesa calamidades que no comprende.
 
-El libro distingue entre la perspectiva del narrador, los discursos de Job, las intervenciones de sus amigos, las palabras de Eliú y la respuesta del Señor. No todas las afirmaciones pronunciadas por los personajes reciben aprobación divina. El lector debe prestar atención a la evaluación final de Dios sobre los amigos (Job 42:7).
-''',
-        references: "Job 1:1-22; 2:1-13; 28:12-28; 42:1-17; Santiago 5:11.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Job se ubica en un mundo patriarcal y utiliza referencias a riqueza ganadera, vida familiar, ancianos y sabios. La ubicación exacta y la fecha de composición son debatidas, por lo que no deben afirmarse como datos seguros. El relato se desarrolla en prosa al inicio y al final, mientras la parte central está formada principalmente por poesía y discursos.
+El libro combina un prólogo narrativo, largos diálogos poéticos, discursos de Eliú, la respuesta divina y un epílogo. Esta estructura importa: los discursos de los amigos no deben confundirse automáticamente con la enseñanza final del libro, pues Dios mismo reprende sus palabras por no haber hablado rectamente acerca de Él.''', references: "Job 1:1-5; 2:1-13; 3–31; 32–37; 38–42."),
+      StudySection(title: "2. Contexto literario e histórico", content: '''El escenario de Job se sitúa en Uz y presenta rasgos patriarcales, aunque la fecha de composición y el momento histórico exacto del personaje son asuntos debatidos. La narración utiliza un lenguaje sapiencial amplio y trata preguntas que trascienden una época particular.
 
-La estructura ayuda a seguir el argumento: prólogo (capítulos 1–2), lamentos y diálogos (3–27), himno a la sabiduría (28), defensa de Job (29–31), discursos de Eliú (32–37), respuesta de Dios (38–41) y epílogo (42). Los amigos representan explicaciones tradicionales que no logran comprender el caso concreto de Job.
-''',
-        references: "Job 1–2; 3–27; 28–31; 32–37; 38–42.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Job 1–2 muestra que Job es descrito como íntegro y temeroso de Dios. Las calamidades ocurren en un marco celestial que Job no conoce. Su primera respuesta reconoce la soberanía de Dios, pero el libro no exige que el creyente reprima el lamento; Job expresa después su angustia con profundidad.
+La forma poética permite expresar lamento, debate, protesta y reflexión. No es una transcripción simple de conversaciones modernas: es una obra literaria inspirada que presenta argumentos y respuestas dentro de una composición cuidadosamente estructurada.''', references: "Job 1:1-3; 2:11; 29–31; Ezequiel 14:14, 20; Santiago 5:11."),
+      StudySection(title: "3. La integridad de Job y el desafío inicial", content: '''Job 1:1 lo describe como perfecto e íntegro en el sentido de una vida recta y temerosa de Dios, no como una persona absolutamente sin pecado. La narración presenta una prueba relacionada con la pregunta de si Job sirve a Dios por amor o únicamente por los beneficios recibidos.
 
-Los amigos sostienen que el sufrimiento debe corresponder a una falta moral. Sus argumentos contienen ideas generales sobre justicia y sabiduría, pero las aplican indebidamente al caso de Job. Los Salmos también muestran lamentos de personas fieles que preguntan por la aparente prosperidad de los malvados (Salmo 73).
+El lector conoce un marco que Job ignora. Esta diferencia crea una tensión importante: Job intenta interpretar sus circunstancias sin conocer la escena celestial del prólogo. El libro no autoriza a los lectores a afirmar que conocen las razones ocultas detrás de cada sufrimiento humano.''', references: "Job 1:1-22; 2:1-10."),
+      StudySection(title: "4. El lamento y el derecho a expresar dolor", content: '''En Job 3, el protagonista expresa su angustia y lamenta el día de su nacimiento. El libro no presenta el lamento como una negación automática de la fe; muestra que una persona puede dirigirse a Dios con preguntas profundas sin fingir que comprende su situación.
 
-Job 28 declara que la sabiduría no puede comprarse ni descubrirse por la capacidad humana; el temor del Señor y apartarse del mal es sabiduría. La respuesta de Dios desde el torbellino revela la amplitud de su gobierno sobre la creación.
-''',
-        references: "Job 1–42; Salmos 37; 73; Habacuc 1–3.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-El Nuevo Testamento no elimina la realidad del sufrimiento. Jesús anuncia que sus discípulos enfrentarán tribulación (Juan 16:33) y enseña que algunas desgracias no deben interpretarse automáticamente como castigo por pecados personales (Lucas 13:1-5; Juan 9:1-3). Esta enseñanza armoniza con la crítica de Job a las acusaciones simplistas.
+Los discursos posteriores revelan la tensión entre la experiencia de Job y las explicaciones de sus amigos. La Escritura conserva este lenguaje para enseñar que el dolor puede expresarse delante de Dios. El lamento no debe convertirse en acusación ligera ni silenciarse mediante frases religiosas que ignoran la realidad del que sufre.''', references: "Job 3:1-26; Salmo 13; 42; 88."),
+      StudySection(title: "5. Los argumentos de los amigos y sus errores", content: '''Elifaz, Bildad y Zofar sostienen que el sufrimiento de Job debe demostrar alguna culpa. Sus discursos contienen observaciones que pueden ser ciertas en términos generales, como que Dios es justo y que el mal tiene consecuencias, pero las aplican de forma incorrecta a la situación concreta de Job.
 
-Santiago 5:11 menciona la paciencia de Job y la compasión y misericordia del Señor. Hebreos 12 enseña a perseverar bajo disciplina, pero no autoriza a diagnosticar toda aflicción como corrección por una falta específica. Primera de Pedro 2:19-23 presenta el sufrimiento injusto de Cristo como ejemplo de fidelidad.
+El error no consiste en afirmar la justicia divina, sino en presumir conocer la causa del sufrimiento y convertir una regla general en explicación universal. Job 42:7-8 muestra que Dios reprende a los amigos por no haber hablado rectamente acerca de Él como lo hizo Job.''', references: "Job 4–27; 42:7-9."),
+      StudySection(title: "6. Los discursos de Job y la búsqueda de justicia", content: '''Job insiste en que no reconoce una falta que explique la magnitud de sus pérdidas. Expresa deseo de presentar su caso delante de Dios, aunque a veces su lenguaje se vuelve intenso y necesita ser corregido. Sus palabras deben leerse dentro del diálogo completo, no como si cada frase fuera una definición doctrinal aislada.
 
-La cruz y la resurrección ofrecen esperanza ante el sufrimiento, sin trivializar el dolor presente. Romanos 8:18-39 afirma que la creación gime y que nada puede separar al creyente del amor de Dios en Cristo.
-''',
-        references: "Lucas 13:1-5; Juan 9:1-3; 16:33; Romanos 8:18-39; Santiago 5:11; 1 Pedro 2:19-23.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Job 1:8 y 2:3 contienen la evaluación divina de Job como íntegro y recto. La integridad no significa ausencia absoluta de pecado, sino una vida caracterizada por temor de Dios y rechazo del mal. La narración establece así que el sufrimiento de Job no puede explicarse como castigo directo por una maldad secreta.
+Job 29–31 resume su defensa y recuerda su conducta hacia los pobres, los débiles y quienes estaban bajo su cuidado. El libro vincula integridad con justicia práctica: la rectitud no se limita a ceremonias, sino que alcanza el trato al prójimo.''', references: "Job 6–7; 13:1-23; 29–31."),
+      StudySection(title: "7. La respuesta divina desde el torbellino", content: '''En Job 38–41, Dios responde con preguntas sobre la creación, los animales, los mares y el orden del mundo. No entrega a Job una explicación exhaustiva de los motivos de cada acontecimiento; revela la grandeza de su sabiduría y la limitación del conocimiento humano.
 
-En Job 3, Job maldice el día de su nacimiento. Su lamento expresa el peso de su sufrimiento, pero no equivale a una negación final de Dios. Los amigos responden desde una teología rígida: si hay dolor, debe haber culpa. En Job 42:7, Dios declara que ellos no hablaron rectamente acerca de Él como Job. La evaluación divina obliga a revisar sus discursos.
+La respuesta no es una burla del sufrimiento de Job. Lo sitúa frente a una realidad mucho más amplia que su propia experiencia y lo llama a reconocer que el gobierno de la creación excede su capacidad. Job responde con humildad en 40:3-5 y 42:1-6.''', references: "Job 38:1–42:6."),
+      StudySection(title: "8. Relación con el resto de las Escrituras y con Cristo", content: '''Otros textos bíblicos también muestran que el justo puede sufrir: José atraviesa injusticias antes de reconocer la providencia de Dios; los salmos expresan lamento; y los profetas anuncian la fidelidad divina en medio de la aflicción. El Nuevo Testamento presenta a Jesús como el justo que sufre y entrega su vida conforme al propósito del Padre.
 
-Job 38–41 presenta preguntas sobre la creación y sus criaturas. Dios no ofrece a Job una explicación detallada de la escena celestial; lo confronta con la diferencia entre el conocimiento divino y el humano. Job 42:1-6 responde con humildad. El epílogo restaura su situación, pero no convierte la prosperidad en explicación universal del sufrimiento.
-''',
-        references: "Job 1:8; 2:3; 3; 28; 38–42; Santiago 5:11.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Job debe leerse junto con Génesis, los Salmos, los profetas y la enseñanza de Jesús. Génesis afirma que Dios creó y gobierna; Salmo 73 reconoce la dificultad de comprender la prosperidad de los impíos; Habacuc pregunta por la injusticia; y los lamentos bíblicos muestran que la fe puede expresarse con preguntas sinceras.
+Santiago 5:11 menciona la paciencia de Job y recuerda la compasión y misericordia del Señor. La relación con Cristo no significa que Job sea una predicción detallada de cada acontecimiento de la pasión, sino que el libro contribuye a una teología bíblica donde la fidelidad de Dios no se mide por la ausencia inmediata de sufrimiento.''', references: "Génesis 37–50; Salmos 22; 34:19; Isaías 53:3-12; Santiago 5:10-11; 1 Pedro 2:21-24."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''Job habla de Dios como Creador, juez y sustentador. La lectura cristiana completa reconoce al Padre, al Hijo y al Espíritu Santo en la revelación del único Dios. El Nuevo Testamento presenta al Hijo como aquel por medio de quien fueron creadas todas las cosas y al Espíritu como dador de vida; estas afirmaciones no deben proyectarse sobre cada frase de Job como si el libro usara explícitamente toda la terminología posterior.
 
-Los amigos de Job representan el peligro de aplicar verdades generales sin discernimiento pastoral. Proverbios enseña que la maldad trae consecuencias, pero Job muestra que no toda desgracia puede atribuirse a una falta personal. Lucas 13:1-5 y Juan 9:1-3 refuerzan la cautela frente a esas conclusiones.
+¿El libro explica por qué sufre cada persona? No; muestra los límites de las explicaciones humanas. ¿Job nunca se equivoca al hablar? No; sus discursos contienen expresiones que necesitan ser leídas a la luz de la respuesta divina. ¿Los amigos tenían toda la razón? No; Dios los reprende por su aplicación equivocada.''', references: "Juan 1:1-3; Colosenses 1:15-17; Job 38:1-7; 42:7-8; Romanos 8:18-27."),
+      StudySection(title: "10. Aplicación pastoral y conclusión", content: '''Job enseña a no atribuir automáticamente el sufrimiento a un pecado personal, a escuchar antes de juzgar y a acompañar con humildad. También recuerda que el creyente puede lamentarse delante de Dios y seguir reconociendo su soberanía. La fe no exige fingir que todas las preguntas tienen una respuesta inmediata.
 
-La respuesta cristiana mira a Cristo, que sufrió injustamente, y a la esperanza de la resurrección. La soberanía de Dios no significa indiferencia; la cruz muestra que Dios actúa para redimir y acompañar a su pueblo en medio del sufrimiento.
-''',
-        references: "Génesis 1–3; Salmo 73; Habacuc 1–3; Lucas 13:1-5; Juan 9:1-3; Romanos 8:18-39.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El libro de Job habla del Dios único, Creador y soberano, sin desarrollar una formulación explícita de la Trinidad. La lectura trinitaria debe partir de ese testimonio y relacionarlo con la revelación posterior, sin introducir en cada discurso una distinción que el texto no está tratando.
-
-El Nuevo Testamento enseña que el Padre envió al Hijo, que el Hijo sufrió y murió en obediencia, y que el Espíritu fortalece y sostiene a los creyentes. Jesús comparte el sufrimiento humano y revela al Padre; el Espíritu intercede y ayuda en la debilidad (Romanos 8:26-27). Estas acciones muestran distinción personal y unidad en la obra salvadora.
-
-No debe afirmarse que el Padre fue crucificado: el Hijo encarnado padeció realmente. Tampoco debe separarse al Hijo del propósito del Padre ni de la obra del Espíritu. La esperanza del creyente se encuentra en el único Dios que salva y sostiene.
-''',
-        references: "Juan 3:16-17; Romanos 8:26-27, 31-39; 1 Pedro 2:19-23.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Por qué sufrió Job si era íntegro? El prólogo revela un marco que Job desconoce y muestra que su sufrimiento no fue un castigo por una falta secreta. El libro no responde a todas las preguntas sobre el dolor humano.
-
-¿Los amigos dijeron todo falso? No. Algunas de sus afirmaciones generales sobre justicia son verdaderas, pero las aplicaron mal al caso de Job y hablaron injustamente de Dios. El Señor los reprende en Job 42:7.
-
-¿El libro enseña que debemos aceptar el sufrimiento sin lamentarnos? No. Job lamenta, pregunta y expresa su angustia. Los Salmos también contienen lamentos. La fe no exige fingir que el dolor no existe.
-
-¿La restauración final promete que todo creyente recuperará bienes y salud en esta vida? No. El epílogo pertenece a la historia particular de Job y no debe convertirse en una promesa universal de prosperidad inmediata. El Nuevo Testamento sitúa la esperanza última en la resurrección y la nueva creación.
-
-¿Dios explica a Job la causa de su sufrimiento? No de manera directa. La respuesta divina enfatiza la sabiduría y soberanía del Creador, no ofrece al lector una fórmula causal completa.
-''',
-        references: "Job 1–2; 3; 42:7; Lucas 13:1-5; Juan 9:1-3.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Cómo describe Dios a Job? Respuesta: Como íntegro, recto, temeroso de Dios y apartado del mal (Job 1:8; 2:3).
-
-Pregunta: ¿Qué error cometieron sus amigos? Respuesta: Aplicaron una explicación rígida del sufrimiento y acusaron a Job sin fundamento suficiente; Dios los reprendió (Job 42:7-8).
-
-Pregunta: ¿Puede el justo sufrir? Respuesta: Sí. Job y otros textos bíblicos muestran que el sufrimiento no siempre es consecuencia directa de un pecado personal (Juan 9:1-3; 1 Pedro 2:19-23).
-
-Pregunta: ¿Qué enseña Job 28? Respuesta: Que la sabiduría no se compra ni se domina por medios humanos; el temor del Señor y apartarse del mal es sabiduría (Job 28:12-28).
-
-Pregunta: ¿Dónde está la esperanza cristiana? Respuesta: En el amor de Dios manifestado en Cristo, la resurrección y la promesa de que nada separará al creyente de ese amor (Romanos 8:18-39).
-''',
-        references: "Job 1:8; 28:12-28; 42:7-8; Juan 9:1-3; Romanos 8:18-39.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Job enseña a no juzgar apresuradamente a quien sufre. La integridad no garantiza una vida sin dolor, y las explicaciones religiosas pueden convertirse en injusticia cuando se aplican sin escuchar ni comprender. La fe puede lamentar y preguntar, manteniendo la confianza en el carácter de Dios.
-
-La respuesta del Señor recuerda que el conocimiento humano es limitado y que el Creador gobierna realidades que superan nuestra comprensión. El libro no ofrece una fórmula para explicar cada tragedia, pero sí corrige la soberbia y las acusaciones infundadas.
-
-La esperanza cristiana se profundiza en Jesucristo, quien sufrió injustamente y resucitó. El Padre sostiene a su pueblo, el Hijo revela su amor y el Espíritu ayuda en la debilidad. La Iglesia debe acompañar al que sufre con verdad, compasión y humildad.
-''',
-        references: "Job 1–2; 28; 38–42; Romanos 8:18-39; 1 Pedro 2:19-23.",
-      ),
+La conclusión del libro destaca la restauración de Job, pero no debe convertirse en promesa de que toda pérdida será compensada de la misma manera durante esta vida. El mensaje central es que Dios es sabio, justo y misericordioso, y que el conocimiento humano es limitado. La comunidad cristiana debe responder al sufrimiento con compasión, verdad y esperanza.''', references: "Job 42:1-17; Salmo 34:18-19; Romanos 8:18-27; Santiago 5:10-11.")
     ],
-    conclusion: '''
-Job muestra que el sufrimiento no siempre puede explicarse como castigo por una falta personal. El relato presenta a un hombre íntegro que padece y a unos amigos que aplican mal verdades generales. Dios reprende sus conclusiones y recuerda que la sabiduría divina supera el conocimiento humano.
-
-El libro permite el lamento y las preguntas, pero llama a abandonar la arrogancia y a confiar en el Creador. Su restauración final no es una garantía de prosperidad inmediata para todos. La esperanza cristiana se fundamenta en Cristo, que sufrió injustamente y resucitó, y en el amor de Dios del cual nada puede separar al creyente.
-''',
+    conclusion: '''Job enseña a no atribuir automáticamente el sufrimiento a un pecado personal, a escuchar antes de juzgar y a acompañar con humildad. El creyente puede lamentarse delante de Dios y seguir reconociendo su soberanía. La restauración final de Job no debe convertirse en promesa de que toda pérdida será compensada de la misma manera durante esta vida. El mensaje central es que Dios es sabio, justo y misericordioso, y que la comunidad de fe debe responder al dolor con compasión, verdad y esperanza.''',
   ),
-
-  Study(
-    number: '103',
+number: '103',
     title: "Proverbios: sabiduría práctica para una vida que honra a Dios",
     subtitle: "La formación del carácter, la prudencia y la justicia mediante la enseñanza proverbial.",
     introduction: '''
