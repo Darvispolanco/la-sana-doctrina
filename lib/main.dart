@@ -21819,89 +21819,431 @@ letterSpacing: 1,
 }
 }
 
-class DiccionarioTab extends StatelessWidget {
-const DiccionarioTab({super.key});
+class DictionaryTerm {
+  final String term;
+  final String definition;
+  final String category;
+  final String references;
 
-@override
-Widget build(BuildContext context) {
-const terms = [
-('Atributo', 'Cualidad o perfección que describe el ser y carácter de Dios.'),
-('Doctrina', 'Enseñanza o conjunto de enseñanzas que se presentan como verdad.'),
-('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
-('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
-('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),
+  const DictionaryTerm(
+    this.term,
+    this.definition,
+    this.category,
+    this.references,
+  );
+}
 
-
+const List<DictionaryTerm> dictionaryTerms = [
+  DictionaryTerm('Adopción', 'Acto de gracia por el que Dios recibe como hijos a quienes están unidos a Cristo.', 'Salvación', 'Romanos 8:15-17; Gálatas 4:4-7'),
+  DictionaryTerm('Adoración', 'Respuesta reverente de amor, honra y obediencia que se dirige a Dios.', 'Vida cristiana', 'Juan 4:23-24; Romanos 12:1'),
+  DictionaryTerm('Atributo divino', 'Perfección propia del ser y carácter de Dios, como su santidad, amor y eternidad.', 'Teología', 'Éxodo 34:6-7; Salmo 90:2'),
+  DictionaryTerm('Bautismo', 'Ordenanza de Cristo que expresa públicamente la fe y la identificación del creyente con Él.', 'Iglesia', 'Mateo 28:19; Romanos 6:3-4'),
+  DictionaryTerm('Biblia', 'Conjunto de los escritos del Antiguo y Nuevo Testamento recibidos por la Iglesia como Escritura inspirada.', 'Escritura', '2 Timoteo 3:16-17; 2 Pedro 1:20-21'),
+  DictionaryTerm('Canon bíblico', 'Conjunto de libros reconocidos como parte de las Sagradas Escrituras.', 'Escritura', 'Lucas 24:44; 2 Timoteo 3:16'),
+  DictionaryTerm('Cristo', 'Título que significa Ungido y designa a Jesús como el Mesías prometido.', 'Cristología', 'Mateo 16:16; Hechos 2:36'),
+  DictionaryTerm('Deidad', 'Naturaleza divina; la Escritura afirma que el Hijo posee plenamente la naturaleza de Dios.', 'Trinidad', 'Juan 1:1; Colosenses 2:9'),
+  DictionaryTerm('Dios', 'El único Creador y Señor eterno, infinito, santo y soberano sobre todo lo creado.', 'Teología', 'Deuteronomio 6:4; Isaías 45:5'),
+  DictionaryTerm('Doctrina', 'Enseñanza que debe formularse y evaluarse conforme al testimonio completo de las Escrituras.', 'Teología', 'Tito 2:1; 2 Timoteo 3:16'),
+  DictionaryTerm('Encarnación', 'Acto por el cual el Hijo eterno asumió verdadera naturaleza humana sin dejar de ser divino.', 'Cristología', 'Juan 1:14; Filipenses 2:6-8'),
+  DictionaryTerm('Espíritu Santo', 'Tercera persona divina, quien enseña, santifica, consuela y glorifica al Hijo.', 'Trinidad', 'Juan 14:16-17,26; Hechos 5:3-4'),
+  DictionaryTerm('Exégesis', 'Estudio cuidadoso de un pasaje para establecer su sentido según su contexto y lenguaje.', 'Hermenéutica', 'Nehemías 8:8; 2 Timoteo 2:15'),
+  DictionaryTerm('Fe', 'Confianza en Dios y en su promesa, que recibe a Cristo y se expresa en obediencia.', 'Salvación', 'Romanos 3:28; Hebreos 11:1,6'),
+  DictionaryTerm('Gracia', 'Favor inmerecido de Dios, manifestado en la salvación que concede por medio de Jesucristo.', 'Salvación', 'Efesios 2:8-9; Tito 2:11'),
+  DictionaryTerm('Herejía', 'Enseñanza que se aparta de la verdad apostólica y contradice el testimonio bíblico.', 'Doctrina', 'Gálatas 1:8-9; 2 Pedro 2:1'),
+  DictionaryTerm('Hijo de Dios', 'Designación bíblica de Jesucristo que expresa su relación única con el Padre y su identidad divina.', 'Trinidad', 'Juan 1:18; Juan 5:18-23'),
+  DictionaryTerm('Hermenéutica', 'Principios y métodos para interpretar responsablemente los textos bíblicos.', 'Hermenéutica', 'Lucas 24:27; 2 Pedro 3:16'),
+  DictionaryTerm('Inspiración', 'Obra del Espíritu por la que las Escrituras fueron dadas mediante autores humanos.', 'Escritura', '2 Timoteo 3:16; 2 Pedro 1:21'),
+  DictionaryTerm('Justificación', 'Declaración de Dios por la que considera justo al pecador que recibe a Cristo por la fe.', 'Salvación', 'Romanos 3:24-28; 5:1'),
+  DictionaryTerm('Logos', 'Término griego traducido como Verbo o Palabra, aplicado a Jesucristo en Juan 1.', 'Cristología', 'Juan 1:1-3,14'),
+  DictionaryTerm('Monoteísmo', 'Confesión de que existe un solo Dios verdadero.', 'Teología', 'Deuteronomio 6:4; Isaías 44:6'),
+  DictionaryTerm('Omnipotencia', 'Perfección divina por la que Dios puede realizar todo lo que corresponde a su voluntad santa.', 'Teología', 'Génesis 18:14; Lucas 1:37'),
+  DictionaryTerm('Omnipresencia', 'Perfección divina por la que Dios está presente en todo lugar y no está limitado por el espacio.', 'Teología', 'Salmo 139:7-10; Jeremías 23:23-24'),
+  DictionaryTerm('Omnisciencia', 'Conocimiento perfecto y completo que Dios posee de todas las cosas.', 'Teología', 'Salmo 147:5; Hebreos 4:13'),
+  DictionaryTerm('Padre', 'Primera persona de la Trinidad, distinta del Hijo y del Espíritu Santo, y plenamente Dios.', 'Trinidad', 'Mateo 3:16-17; Juan 17:1-5'),
+  DictionaryTerm('Pecado', 'Rebelión y transgresión contra Dios que afecta la relación humana con Él.', 'Salvación', 'Romanos 3:23; 1 Juan 3:4'),
+  DictionaryTerm('Persona divina', 'Distinción personal real en el único ser de Dios; Padre, Hijo y Espíritu Santo no son la misma persona.', 'Trinidad', 'Mateo 28:19; Juan 14:16-17'),
+  DictionaryTerm('Propiciación', 'Obra de Cristo que satisface la justicia divina y trata con el pecado mediante su sacrificio.', 'Salvación', 'Romanos 3:25; 1 Juan 2:2'),
+  DictionaryTerm('Redención', 'Liberación del pecado mediante el precio de la obra sacrificial de Jesucristo.', 'Salvación', 'Efesios 1:7; 1 Pedro 1:18-19'),
+  DictionaryTerm('Regeneración', 'Obra del Espíritu Santo por la que Dios da nueva vida al pecador.', 'Salvación', 'Juan 3:5-8; Tito 3:5'),
+  DictionaryTerm('Revelación', 'Acción por la que Dios se da a conocer mediante sus obras y, de manera culminante, en Jesucristo.', 'Escritura', 'Hebreos 1:1-3; Juan 1:18'),
+  DictionaryTerm('Santificación', 'Obra de Dios por la que el creyente es apartado para Él y crece en una vida conforme a Cristo.', 'Salvación', '1 Tesalonicenses 4:3; 5:23'),
+  DictionaryTerm('Soberanía', 'Autoridad suprema de Dios sobre la creación y la historia, ejercida con justicia y sabiduría.', 'Teología', 'Salmo 103:19; Daniel 4:35'),
+  DictionaryTerm('Trinidad', 'Doctrina bíblica que confiesa un solo Dios en tres personas distintas: Padre, Hijo y Espíritu Santo.', 'Trinidad', 'Mateo 28:19; 2 Corintios 13:14'),
+  DictionaryTerm('Unidad divina', 'Verdad de que Dios es uno en esencia y no existen tres dioses.', 'Trinidad', 'Deuteronomio 6:4; Isaías 45:5'),
+  DictionaryTerm('Verbo', 'Nombre con el que Juan presenta al Hijo eterno, quien estaba con Dios y era Dios.', 'Cristología', 'Juan 1:1-3,14'),
+  DictionaryTerm('Verdad', 'Aquello que corresponde plenamente a la realidad y al carácter de Dios; su Palabra es verdad.', 'Escritura', 'Juan 14:6; 17:17'),
+  DictionaryTerm('Vida eterna', 'Vida que procede de Dios y consiste en conocerle por medio de Jesucristo.', 'Salvación', 'Juan 17:3; 1 Juan 5:11-12'),
+  DictionaryTerm('Comunión', 'Participación y relación compartida entre Dios y los creyentes, y entre los miembros de la Iglesia.', 'Iglesia', '1 Corintios 1:9; 1 Juan 1:3'),
+  DictionaryTerm('Concupiscencia', 'Deseo desordenado que puede conducir al pecado cuando gobierna la voluntad.', 'Ética bíblica', 'Santiago 1:14-15; 1 Juan 2:16'),
+  DictionaryTerm('Discernimiento', 'Capacidad de evaluar enseñanzas y conductas a la luz de la verdad revelada.', 'Doctrina', 'Hebreos 5:14; 1 Juan 4:1'),
+  DictionaryTerm('Elección', 'Propósito soberano de Dios al escoger en Cristo conforme a su voluntad y gracia.', 'Salvación', 'Efesios 1:4-5; Romanos 8:29-30'),
+  DictionaryTerm('Evangelio', 'Buena noticia de la obra salvadora de Dios en la muerte y resurrección de Jesucristo.', 'Salvación', '1 Corintios 15:1-4; Romanos 1:16'),
+  DictionaryTerm('Expiación', 'Obra sacrificial de Cristo por la que se trata con el pecado y se abre el camino de reconciliación.', 'Salvación', 'Hebreos 9:26; 1 Pedro 2:24'),
+  DictionaryTerm('Fe apostólica', 'Contenido del evangelio entregado por los apóstoles y recibido por la Iglesia.', 'Doctrina', 'Judas 3; Hechos 2:42'),
+  DictionaryTerm('Glorificación', 'Consumación de la salvación cuando los creyentes serán transformados plenamente a semejanza de Cristo.', 'Salvación', 'Romanos 8:30; Filipenses 3:20-21'),
+  DictionaryTerm('Imputación', 'Atribución o reconocimiento legal; Pablo explica que la justicia es contada al que cree.', 'Salvación', 'Romanos 4:3-8; 2 Corintios 5:21'),
+  DictionaryTerm('Mediador', 'Aquel que interviene para reconciliar; Jesucristo es el único mediador entre Dios y los seres humanos.', 'Cristología', '1 Timoteo 2:5; Hebreos 8:6'),
+  DictionaryTerm('Mesías', 'Título de origen hebreo equivalente a Cristo: el Ungido prometido por Dios.', 'Cristología', 'Salmo 2:2; Juan 1:41'),
+  DictionaryTerm('Pacto', 'Compromiso establecido por Dios que expresa su relación y promesas hacia su pueblo.', 'Teología bíblica', 'Génesis 17:7; Lucas 22:20'),
+  DictionaryTerm('Presciencia', 'Conocimiento previo de Dios; debe interpretarse atendiendo al uso de cada pasaje.', 'Teología', 'Hechos 2:23; 1 Pedro 1:2'),
+  DictionaryTerm('Reconciliación', 'Restablecimiento de la relación con Dios por medio de la muerte de Jesucristo.', 'Salvación', 'Romanos 5:10-11; 2 Corintios 5:18-19'),
+  DictionaryTerm('Resurrección', 'Levantamiento de entre los muertos; Jesucristo resucitó corporalmente y es primicia de los creyentes.', 'Cristología', 'Lucas 24:39; 1 Corintios 15:20-22'),
+  DictionaryTerm('Unigénito', 'Término bíblico que expresa la singularidad de la relación del Hijo con el Padre.', 'Cristología', 'Juan 1:14,18; 3:16'),
+  DictionaryTerm('Paráclito', 'Término griego usado para el Consolador o Ayudador prometido por Jesús, referido al Espíritu Santo.', 'Trinidad', 'Juan 14:16,26; 15:26'),
 ];
 
-return ListView(
-padding: const EdgeInsets.all(16),
-children: [
-const Text(
-'Términos teológicos',
-style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 12),
-for (final term in terms)
-Card(
-child: ExpansionTile(
-title: Text(
-term.$1,
-style: const TextStyle(fontWeight: FontWeight.w600),
-),
-children: [
-Padding(
-padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
-child: Align(
-alignment: Alignment.centerLeft,
-child: Text(term.$2),
-),
-),
-],
-),
-),
-],
-);
-}
+class DiccionarioTab extends StatefulWidget {
+  const DiccionarioTab({super.key});
+
+  @override
+  State<DiccionarioTab> createState() => _DiccionarioTabState();
 }
 
-class CuestionariosTab extends StatelessWidget {
-const CuestionariosTab({super.key});
+class _DiccionarioTabState extends State<DiccionarioTab> {
+  String query = '';
+  String category = 'Todas';
 
-@override
-Widget build(BuildContext context) {
-return Center(
-child: Padding(
-padding: const EdgeInsets.all(28),
-child: Column(
-mainAxisSize: MainAxisSize.min,
-children: [
-const Icon(
-Icons.quiz_outlined,
-size: 58,
-color: Color(0xFF14243A),
-),
-const SizedBox(height: 14),
-const Text(
-'Evaluaciones bíblicas',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 8),
-const Text(
-'Aquí estarán los cuestionarios por tema, con preguntas, respuestas y explicación bíblica.',
-textAlign: TextAlign.center,
-),
-const SizedBox(height: 16),
-FilledButton(
-onPressed: () => _showComingSoon(context, 'Cuestionarios'),
-child: const Text('Próximamente'),
-),
-],
-),
-),
-);
+  List<String> get categories => [
+    'Todas',
+    ...dictionaryTerms.map((term) => term.category).toSet().toList()..sort(),
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    final normalized = query.trim().toLowerCase();
+    final filtered = dictionaryTerms.where((term) {
+      final matchesCategory = category == 'Todas' || term.category == category;
+      final matchesQuery = normalized.isEmpty ||
+          term.term.toLowerCase().contains(normalized) ||
+          term.definition.toLowerCase().contains(normalized) ||
+          term.references.toLowerCase().contains(normalized);
+      return matchesCategory && matchesQuery;
+    }).toList()
+      ..sort((a, b) => a.term.toLowerCase().compareTo(b.term.toLowerCase()));
+
+    return ListView(
+      padding: const EdgeInsets.all(16),
+      children: [
+        const Text(
+          'Diccionario teológico',
+          style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold),
+        ),
+        const SizedBox(height: 5),
+        Text(
+          dictionaryTerms.length.toString() + ' términos disponibles',
+          style: const TextStyle(color: Colors.black54),
+        ),
+        const SizedBox(height: 14),
+        TextField(
+          onChanged: (value) => setState(() => query = value),
+          decoration: InputDecoration(
+            hintText: 'Buscar término, concepto o referencia...',
+            prefixIcon: const Icon(Icons.search),
+            suffixIcon: query.isEmpty
+                ? null
+                : IconButton(
+                    tooltip: 'Limpiar búsqueda',
+                    icon: const Icon(Icons.close),
+                    onPressed: () => setState(() => query = ''),
+                  ),
+            border: OutlineInputBorder(
+              borderRadius: BorderRadius.circular(14),
+            ),
+          ),
+        ),
+        const SizedBox(height: 12),
+        SizedBox(
+          height: 42,
+          child: ListView.separated(
+            scrollDirection: Axis.horizontal,
+            itemCount: categories.length,
+            separatorBuilder: (_, __) => const SizedBox(width: 7),
+            itemBuilder: (context, index) {
+              final item = categories[index];
+              return ChoiceChip(
+                label: Text(item),
+                selected: category == item,
+                onSelected: (_) => setState(() => category = item),
+              );
+            },
+          ),
+        ),
+        const SizedBox(height: 10),
+        if (filtered.isEmpty)
+          const Padding(
+            padding: EdgeInsets.all(28),
+            child: Center(child: Text('No se encontraron términos.')),
+          )
+        else
+          for (final term in filtered)
+            Card(
+              margin: const EdgeInsets.only(bottom: 8),
+              child: ExpansionTile(
+                title: Text(
+                  term.term,
+                  style: const TextStyle(fontWeight: FontWeight.w700),
+                ),
+                subtitle: Text(term.category),
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(term.definition),
+                        const SizedBox(height: 9),
+                        Text(
+                          'Referencias bíblicas: ' + term.references,
+                          style: const TextStyle(
+                            color: Color(0xFF14243A),
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+      ],
+    );
+  }
 }
+
+class QuizQuestion {
+  final String question;
+  final List<String> options;
+  final int correctIndex;
+  final String explanation;
+  final String references;
+
+  const QuizQuestion({
+    required this.question,
+    required this.options,
+    required this.correctIndex,
+    required this.explanation,
+    required this.references,
+  });
+}
+
+class QuizPack {
+  final String title;
+  final String description;
+  final List<QuizQuestion> questions;
+
+  const QuizPack({
+    required this.title,
+    required this.description,
+    required this.questions,
+  });
+}
+
+const List<QuizPack> quizPacks = [
+  QuizPack(
+    title: 'La doctrina de la Trinidad',
+    description: 'Un solo Dios: Padre, Hijo y Espíritu Santo.',
+    questions: [
+      QuizQuestion(question: '¿Cuál es la confesión central de la doctrina trinitaria?', options: ['Tres dioses unidos', 'Un solo Dios en tres personas', 'Una persona con tres nombres', 'Tres seres creados'], correctIndex: 1, explanation: 'La fe cristiana confiesa un solo Dios y distingue personalmente al Padre, al Hijo y al Espíritu Santo.', references: 'Deuteronomio 6:4; Mateo 28:19'),
+      QuizQuestion(question: 'En el bautismo de Jesús, ¿qué aparece en el relato?', options: ['Solo Jesús', 'Jesús y los discípulos', 'El Hijo, el Espíritu que desciende y la voz del Padre', 'El Padre encarnado como Jesús'], correctIndex: 2, explanation: 'El relato distingue al Hijo bautizado, al Espíritu que desciende y al Padre que habla desde los cielos.', references: 'Mateo 3:16-17'),
+      QuizQuestion(question: '¿Qué afirma Juan 1:1 acerca del Verbo?', options: ['Que fue creado después', 'Que era un ángel', 'Que era Dios y estaba con Dios', 'Que era solamente un pensamiento'], correctIndex: 2, explanation: 'Juan afirma tanto la deidad del Verbo como su distinción relacional respecto de Dios.', references: 'Juan 1:1-3'),
+      QuizQuestion(question: '¿Qué mandato menciona a las tres personas?', options: ['Bautizar en el nombre del Padre, del Hijo y del Espíritu Santo', 'Orar solamente al Espíritu', 'Bautizar en tres dioses', 'Invocar tres títulos de una persona'], correctIndex: 0, explanation: 'La fórmula bautismal reúne a las tres personas bajo el singular «nombre».', references: 'Mateo 28:19'),
+      QuizQuestion(question: '¿Qué enseña 2 Corintios 13:14?', options: ['Que el Hijo es inferior en esencia', 'Una bendición que menciona al Señor Jesucristo, Dios y el Espíritu Santo', 'Que el Espíritu no es personal', 'Que hay tres salvaciones'], correctIndex: 1, explanation: 'La bendición apostólica menciona conjuntamente al Hijo, al Padre y al Espíritu Santo.', references: '2 Corintios 13:14'),
+      QuizQuestion(question: '¿Quién envía al Consolador según la promesa de Jesús?', options: ['Los apóstoles', 'El Padre, en el nombre de Jesús', 'Los ángeles', 'La Iglesia'], correctIndex: 1, explanation: 'Jesús promete que el Padre enviará al Consolador en su nombre; el pasaje distingue al Padre, al Hijo y al Espíritu.', references: 'Juan 14:16,26'),
+    ],
+  ),
+  QuizPack(
+    title: 'Jesucristo: persona y obra',
+    description: 'La identidad del Hijo eterno y su obra salvadora.',
+    questions: [
+      QuizQuestion(question: '¿Qué enseña Juan 1:14?', options: ['Que el Verbo se hizo carne', 'Que el Verbo dejó de ser Dios', 'Que un ángel tomó apariencia humana', 'Que Jesús comenzó a existir en Belén'], correctIndex: 0, explanation: 'La encarnación significa que el Hijo eterno asumió verdadera humanidad.', references: 'Juan 1:14'),
+      QuizQuestion(question: 'Según Colosenses 2:9, ¿qué habita en Cristo?', options: ['Una parte de la divinidad', 'Toda la plenitud de la Deidad corporalmente', 'Solo poder profético', 'La naturaleza de un ángel'], correctIndex: 1, explanation: 'Pablo afirma la plenitud de la Deidad en Cristo.', references: 'Colosenses 2:9'),
+      QuizQuestion(question: '¿Cuál es el propósito de la muerte de Cristo según 1 Pedro 2:24?', options: ['Dar únicamente un ejemplo moral', 'Llevar nuestros pecados en su cuerpo sobre el madero', 'Eliminar la necesidad de arrepentimiento', 'Reemplazar la resurrección'], correctIndex: 1, explanation: 'La muerte de Cristo tiene carácter redentor y llama a vivir para la justicia.', references: '1 Pedro 2:24'),
+      QuizQuestion(question: '¿Qué ocurrió al tercer día según el evangelio apostólico?', options: ['Los discípulos inventaron una parábola', 'Jesús resucitó', 'Jesús fue creado de nuevo', 'El cuerpo quedó en la tumba'], correctIndex: 1, explanation: 'La resurrección es parte esencial del evangelio anunciado por los apóstoles.', references: '1 Corintios 15:3-4'),
+      QuizQuestion(question: '¿Quién es el mediador entre Dios y los seres humanos?', options: ['Moisés', 'Un sacerdote terrenal', 'Jesucristo hombre', 'Un ángel'], correctIndex: 2, explanation: 'La Escritura identifica a Jesucristo como el único mediador.', references: '1 Timoteo 2:5'),
+      QuizQuestion(question: '¿Qué relación presenta Jesús con el Padre en Juan 17?', options: ['Que son la misma persona', 'Que el Hijo habla con el Padre y comparte gloria con Él', 'Que el Padre no conoce al Hijo', 'Que existen dos dioses'], correctIndex: 1, explanation: 'La oración muestra distinción personal y comunión eterna entre el Padre y el Hijo.', references: 'Juan 17:1-5'),
+    ],
+  ),
+  QuizPack(
+    title: 'Biblia y salvación',
+    description: 'Fundamentos de la Escritura y del evangelio.',
+    questions: [
+      QuizQuestion(question: '¿Qué afirma 2 Timoteo 3:16?', options: ['Toda Escritura es inspirada por Dios', 'Solo algunos proverbios son inspirados', 'La tradición reemplaza la Escritura', 'La Biblia es una obra sin autoridad'], correctIndex: 0, explanation: 'Pablo enseña el origen divino y la utilidad formativa de la Escritura.', references: '2 Timoteo 3:16-17'),
+      QuizQuestion(question: '¿Cómo somos justificados según Romanos 5:1?', options: ['Por obras que compran el favor de Dios', 'Por la fe', 'Por pertenecer a una nación', 'Por conocimiento secreto'], correctIndex: 1, explanation: 'La justificación se recibe por la fe y produce paz con Dios por medio de Jesucristo.', references: 'Romanos 5:1'),
+      QuizQuestion(question: '¿Qué enseña Efesios 2:8-9?', options: ['La salvación es por gracia mediante la fe', 'La salvación se gana por méritos', 'La fe no tiene importancia', 'Las obras son la causa de la gracia'], correctIndex: 0, explanation: 'La salvación es don de Dios, no motivo de jactancia humana.', references: 'Efesios 2:8-10'),
+      QuizQuestion(question: '¿Qué es el arrepentimiento bíblico?', options: ['Sentir vergüenza sin cambiar', 'Volverse a Dios, reconociendo el pecado', 'Culpar siempre a otros', 'Una emoción pasajera sin fruto'], correctIndex: 1, explanation: 'El arrepentimiento implica un cambio de mente y dirección que se evidencia en frutos.', references: 'Hechos 3:19; Mateo 3:8'),
+      QuizQuestion(question: '¿Qué anuncia el evangelio según 1 Corintios 15?', options: ['La prosperidad como centro', 'La muerte de Cristo por nuestros pecados y su resurrección', 'La salvación por genealogía', 'La ausencia de juicio'], correctIndex: 1, explanation: 'La muerte y resurrección de Jesucristo son el núcleo del mensaje apostólico.', references: '1 Corintios 15:1-4'),
+      QuizQuestion(question: '¿Qué produce el Espíritu en el creyente según Gálatas 5?', options: ['Orgullo y división', 'El fruto del Espíritu', 'Indiferencia moral', 'Autosuficiencia'], correctIndex: 1, explanation: 'El Espíritu forma carácter conforme a Dios, expresado en amor, gozo, paz y las demás virtudes enumeradas.', references: 'Gálatas 5:22-23'),
+    ],
+  ),
+];
+
+class CuestionariosTab extends StatefulWidget {
+  const CuestionariosTab({super.key});
+
+  @override
+  State<CuestionariosTab> createState() => _CuestionariosTabState();
+}
+
+class _CuestionariosTabState extends State<CuestionariosTab> {
+  QuizPack? selectedPack;
+  int questionIndex = 0;
+  int? selectedAnswer;
+  int correctAnswers = 0;
+  bool answered = false;
+
+  void _start(QuizPack pack) {
+    setState(() {
+      selectedPack = pack;
+      questionIndex = 0;
+      selectedAnswer = null;
+      correctAnswers = 0;
+      answered = false;
+    });
+  }
+
+  void _choose(int index) {
+    if (answered) return;
+    setState(() {
+      selectedAnswer = index;
+      answered = true;
+      if (index == selectedPack!.questions[questionIndex].correctIndex) {
+        correctAnswers++;
+      }
+    });
+  }
+
+  void _next() {
+    if (questionIndex + 1 >= selectedPack!.questions.length) {
+      setState(() {
+        questionIndex = selectedPack!.questions.length;
+      });
+    } else {
+      setState(() {
+        questionIndex++;
+        selectedAnswer = null;
+        answered = false;
+      });
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final pack = selectedPack;
+    if (pack == null) {
+      return ListView(
+        padding: const EdgeInsets.all(16),
+        children: [
+          const Text('Evaluaciones bíblicas', style: TextStyle(fontSize: 21, fontWeight: FontWeight.bold)),
+          const SizedBox(height: 6),
+          const Text('Selecciona una evaluación. Cada respuesta incluye explicación y referencias bíblicas.'),
+          const SizedBox(height: 16),
+          for (final item in quizPacks)
+            Card(
+              child: ListTile(
+                leading: const CircleAvatar(
+                  backgroundColor: Color(0xFFE9DFC8),
+                  child: Icon(Icons.quiz, color: Color(0xFF14243A)),
+                ),
+                title: Text(item.title, style: const TextStyle(fontWeight: FontWeight.bold)),
+                subtitle: Text(item.description + '\n' + item.questions.length.toString() + ' preguntas'),
+                isThreeLine: true,
+                trailing: const Icon(Icons.chevron_right),
+                onTap: () => _start(item),
+              ),
+            ),
+        ],
+      );
+    }
+
+    if (questionIndex >= pack.questions.length) {
+      final percent = (correctAnswers / pack.questions.length * 100).round();
+      return Center(
+        child: Padding(
+          padding: const EdgeInsets.all(24),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Icon(Icons.emoji_events_outlined, size: 64, color: Color(0xFFD5B46A)),
+              const SizedBox(height: 12),
+              const Text('Evaluación completada', style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+              const SizedBox(height: 8),
+              Text(pack.title, textAlign: TextAlign.center),
+              const SizedBox(height: 16),
+              Text(
+                correctAnswers.toString() + ' de ' + pack.questions.length.toString() + ' respuestas correctas',
+                style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
+              ),
+              Text('Resultado: ' + percent.toString() + '%'),
+              const SizedBox(height: 20),
+              FilledButton(onPressed: () => _start(pack), child: const Text('Repetir evaluación')),
+              TextButton(onPressed: () => setState(() => selectedPack = null), child: const Text('Volver a evaluaciones')),
+            ],
+          ),
+        ),
+      );
+    }
+
+    final question = pack.questions[questionIndex];
+    final isCorrect = selectedAnswer == question.correctIndex;
+    return ListView(
+      padding: const EdgeInsets.all(16),
+      children: [
+        Row(
+          children: [
+            Expanded(child: Text(pack.title, style: const TextStyle(fontWeight: FontWeight.bold))),
+            Text((questionIndex + 1).toString() + '/' + pack.questions.length.toString()),
+          ],
+        ),
+        const SizedBox(height: 10),
+        LinearProgressIndicator(value: (questionIndex + 1) / pack.questions.length),
+        const SizedBox(height: 20),
+        Text('Pregunta ' + (questionIndex + 1).toString(), style: const TextStyle(color: Color(0xFF8A6B32), fontWeight: FontWeight.bold)),
+        const SizedBox(height: 8),
+        Text(question.question, style: const TextStyle(fontSize: 19, fontWeight: FontWeight.bold)),
+        const SizedBox(height: 16),
+        for (var i = 0; i < question.options.length; i++)
+          Card(
+            color: answered && i == question.correctIndex
+                ? const Color(0xFFE3F2E5)
+                : answered && i == selectedAnswer && !isCorrect
+                    ? const Color(0xFFFCE8E6)
+                    : null,
+            child: ListTile(
+              leading: CircleAvatar(child: Text(String.fromCharCode(65 + i))),
+              title: Text(question.options[i]),
+              trailing: answered && i == question.correctIndex
+                  ? const Icon(Icons.check_circle, color: Colors.green)
+                  : answered && i == selectedAnswer
+                      ? const Icon(Icons.cancel, color: Colors.red)
+                      : null,
+              onTap: answered ? null : () => _choose(i),
+            ),
+          ),
+        if (answered) ...[
+          const SizedBox(height: 12),
+          Card(
+            color: const Color(0xFFEFE9DC),
+            child: Padding(
+              padding: const EdgeInsets.all(14),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(isCorrect ? '¡Respuesta correcta!' : 'Respuesta incorrecta', style: const TextStyle(fontWeight: FontWeight.bold)),
+                  const SizedBox(height: 6),
+                  Text(question.explanation),
+                  const SizedBox(height: 8),
+                  Text('Lee: ' + question.references, style: const TextStyle(fontWeight: FontWeight.w600, color: Color(0xFF14243A))),
+                ],
+              ),
+            ),
+          ),
+          const SizedBox(height: 12),
+          FilledButton(onPressed: _next, child: Text(questionIndex + 1 == pack.questions.length ? 'Ver resultado' : 'Siguiente pregunta')),
+        ],
+        TextButton(onPressed: () => setState(() => selectedPack = null), child: const Text('Salir de la evaluación')),
+      ],
+    );
+  }
 }
 
 class GuardadosTab extends StatelessWidget {
