@@ -1,0 +1,1000 @@
+content:
+'Esta es una de las expresiones más discutidas del Evangelio. Jesús dice: Si me amarais, os habríais regocijado, porque he dicho que voy al Padre; porque el Padre mayor es que yo. El contexto habla de su partida, de su humillación y de su regreso al Padre. Durante la encarnación, el Hijo asumió una condición de siervo y vivió una misión de obediencia. La afirmación de que el Padre es mayor debe interpretarse en relación con esa condición y misión, no como una negación automática de la naturaleza divina del Hijo. El mismo Evangelio declara que el Verbo era Dios y que el Hijo debe recibir el mismo honor que el Padre.',
+references: 'Juan 1:1-3; Juan 5:23; Juan 14:28; Filipenses 2:6-8'
+),
+StudySection(
+title: '22. Juan 15:26: el Espíritu procede del Padre',
+content:
+'Jesús promete enviar el Consolador desde el Padre y declara que el Espíritu de verdad procede del Padre. El pasaje distingue al Padre, al Hijo y al Espíritu Santo. El Espíritu da testimonio de Cristo y no es presentado como una fuerza impersonal. La expresión procede del Padre ha sido objeto de reflexión teológica histórica. Debe estudiarse con respeto a su contexto bíblico y sin convertir una discusión posterior sobre las relaciones de origen en una afirmación que el versículo no desarrolla por sí solo.',
+references: 'Juan 15:26; Juan 14:16-17; Juan 16:13-15'
+),StudySection(
+title: '23. Juan 16:13-15: el Espíritu recibe y comunica lo que es de Cristo',
+content:
+'Jesús enseña que el Espíritu guiará a los discípulos a toda verdad, hablará, anunciará lo que ha de venir y glorificará al Hijo. También declara que todo lo que tiene el Padre es del Hijo y que el Espíritu tomará de lo suyo. Este pasaje presenta una profunda comunión entre las tres personas. El Espíritu no actúa de manera independiente ni contradice al Padre y al Hijo. Su misión es comunicar la verdad y glorificar a Cristo.',
+references: 'Juan 16:13-15; Juan 14:26; 1 Corintios 2:10-12'
+),
+StudySection(
+title: '24. Juan 17:1-3: que te conozcan a ti, el único Dios verdadero',
+content:
+'Jesús se dirige al Padre y lo llama el único Dios verdadero. Algunas interpretaciones utilizan esta expresión para concluir que Jesús no es divino. Sin embargo, el contexto completo debe considerarse. Jesús habla con el Padre y se refiere a la gloria que compartía con él antes que el mundo existiera. También afirma que el Padre le ha dado autoridad sobre toda carne. El versículo distingue al Padre y al Hijo, pero no constituye por sí solo una negación de la divinidad del Hijo. Juan ya ha presentado al Verbo como Dios en Juan 1:1 y ha mostrado que el Hijo recibe el mismo honor que el Padre en Juan 5:23. La expresión único Dios verdadero afirma el monoteísmo bíblico, no la inexistencia divina del Hijo.',
+references: 'Juan 1:1-3; Juan 5:23; Juan 17:1-5; 1 Juan 5:20'
+),
+StudySection(
+title: '25. Juan 17:5: la gloria que el Hijo tenía con el Padre antes del mundo',
+content:
+'Jesús pide al Padre que lo glorifique con aquella gloria que tuvo junto al Padre antes que el mundo existiera. Esta declaración es especialmente importante porque presenta al Hijo en una relación de gloria compartida con el Padre antes de la creación. No se trata únicamente de una existencia prevista en los planes de Dios, sino de una relación que Jesús describe como anterior al mundo. El texto armoniza con la declaración de Juan 1:1-3 sobre la preexistencia del Verbo.',
+references: 'Juan 1:1-3; Juan 8:58; Juan 17:5, 24'
+),
+StudySection(
+title: '26. Juan 17:20-23: que sean uno como nosotros somos uno',
+content:
+'Jesús ora por la unidad de sus discípulos y utiliza como referencia la unidad que existe entre el Padre y el Hijo. Esto no significa que los creyentes se conviertan en una sola persona ni que compartan la esencia divina. La unidad de la iglesia es una comunión de amor, fe y propósito que refleja de manera limitada la comunión divina. El texto ayuda a comprender que la palabra uno puede expresar unidad sin borrar la distinción personal.',
+references: 'Juan 17:20-23; Juan 10:30; Efesios 4:1-6'
+),
+StudySection(
+title: '27. Juan 20:17: subo a mi Padre y a vuestro Padre',
+content:
+'Después de la resurrección, Jesús dice a María Magdalena que sube a su Padre y al Padre de los discípulos, a su Dios y al Dios de ellos. Esta expresión debe leerse dentro de la realidad de su encarnación y de su condición de verdadero hombre. El Hijo encarnado mantiene una relación de obediencia y comunión con el Padre. Que Jesús se refiera al Padre como su Dios no elimina las afirmaciones anteriores de Juan sobre su preexistencia y naturaleza divina. El Evangelio mantiene juntas la verdadera humanidad de Cristo y su identidad divina.',
+references: 'Juan 20:17; Juan 1:1, 14; Hebreos 2:14-18'
+),
+StudySection(
+title: '28. Juan 20:28: Señor mío y Dios mío',
+content:
+'Tomás responde a Jesús con una confesión directa: Señor mío, y Dios mío. Esta es una de las declaraciones más claras sobre la identidad divina de Cristo en el Evangelio. Jesús no corrige a Tomás por atribuirle tal reconocimiento, sino que responde hablando de la fe de aquel discípulo. La confesión se encuentra en el clímax del relato y prepara la declaración del propósito del libro: que los lectores crean que Jesús es el Cristo, el Hijo de Dios. La expresión de Tomás debe considerarse junto con Juan 1:1.',
+references: 'Juan 1:1; Juan 20:26-31; Tito 2:13'
+),
+StudySection(
+title: '29. Juan 20:31: Jesús es el Cristo, el Hijo de Dios',
+content:
+'Juan declara que escribió su Evangelio para que sus lectores crean que Jesús es el Cristo, el Hijo de Dios, y para que tengan vida en su nombre. El título Hijo de Dios no debe reducirse a una relación puramente honorífica o a la condición de un ser creado. En el desarrollo del Evangelio, el Hijo comparte la gloria del Padre, realiza obras divinas, concede vida y recibe el mismo honor que el Padre. El significado del título debe determinarse por el conjunto de la enseñanza de Juan.',
+references: 'Juan 1:14, 18; Juan 5:21-23; Juan 20:30-31'
+),
+StudySection(
+title: '30. La preexistencia de Cristo y su encarnación',
+content:
+'Una clave para comprender los textos difíciles de Juan es distinguir entre la existencia eterna del Hijo y su condición humana asumida en la encarnación. El Verbo existía antes de la creación, participó en ella y después se hizo carne. Durante su vida terrenal experimentó hambre, cansancio, tristeza, sufrimiento y muerte. Estas experiencias pertenecen a su verdadera humanidad y no significan que haya dejado de ser divino. La encarnación permite comprender por qué Juan presenta al Hijo en una condición de obediencia y dependencia durante su misión terrenal.',
+references: 'Juan 1:1-3, 14; Juan 4:6; Juan 11:35; Juan 19:28; Filipenses 2:6-8'
+),
+StudySection(
+title: '31. La obediencia del Hijo no significa inferioridad de esencia',
+content:
+'El Evangelio presenta al Hijo obedeciendo al Padre, cumpliendo su voluntad y realizando la misión recibida. Esta obediencia es real y fundamental para la salvación. Sin embargo, no debe confundirse automáticamente con una diferencia de naturaleza divina. El Hijo puede distinguirse personalmente del Padre y cumplir una misión recibida sin dejar de compartir la naturaleza divina. Juan combina las afirmaciones sobre su obediencia con declaraciones sobre su preexistencia, autoridad, obras y honor divinos.',
+references: 'Juan 5:19-23; Juan 6:38; Juan 8:28-29; Juan 17:5'
+),
+StudySection(
+title: '32. Cómo armonizar los textos difíciles de Juan',
+content:
+'La interpretación bíblica debe conservar todas las afirmaciones del Evangelio. Juan enseña que el Hijo estaba con Dios y era Dios; que fue enviado por el Padre; que realiza las obras del Padre; que da vida; que recibe el mismo honor; que comparte gloria con el Padre antes de la creación; y que Tomás lo confiesa como Dios. También enseña que el Hijo ora al Padre, obedece su voluntad y cumple una misión de salvación. Estas afirmaciones no deben enfrentarse artificialmente. La doctrina trinitaria reconoce que el Padre y el Hijo son personas distintas, que comparten la única naturaleza divina y que actúan en perfecta unidad. Los textos difíciles no deben utilizarse para borrar las declaraciones explícitas del Evangelio, sino interpretarse dentro de su testimonio completo.',
+references: 'Juan 1:1-3, 14, 18; Juan 5:19-23; Juan 10:30; Juan 14:28; Juan 17:1-5; Juan 20:28-31'
+),
+],
+conclusion:
+'El Evangelio de Juan presenta a Jesucristo como el Verbo eterno que estaba con Dios y era Dios, que se hizo carne y reveló perfectamente al Padre. Los pasajes sobre su obediencia, su envío y su relación con el Padre describen su misión y la distinción personal entre ambos, no una negación de su naturaleza divina. Juan enseña que el Hijo da vida, ejecuta juicio, recibe el mismo honor que el Padre y compartía gloria con él antes de la creación. La confesión de Tomás, Señor mío y Dios mío, resume de manera poderosa el reconocimiento de la identidad de Cristo. Una lectura fiel debe conservar tanto su plena divinidad como su verdadera humanidad y su relación personal con el Padre y el Espíritu Santo.'
+),
+
+Study(
+number: '21',
+title: 'La divinidad de Jesucristo en las cartas apostólicas',
+subtitle: 'El testimonio apostólico sobre la naturaleza divina, preexistencia, autoridad y gloria del Hijo',
+introduction:
+'La divinidad de Jesucristo no es una enseñanza limitada al Evangelio de Juan. Las cartas apostólicas desarrollan esta verdad mediante diferentes afirmaciones sobre su existencia eterna, su participación en la creación, su autoridad sobre todas las cosas, su obra redentora y su exaltación. Pablo presenta a Cristo como aquel en quien habita corporalmente toda la plenitud de la Deidad; Hebreos lo describe como el resplandor de la gloria de Dios y la imagen misma de su sustancia; Pedro lo reconoce como Señor y Salvador; y otros escritos apostólicos muestran que su autoridad supera la de cualquier criatura. Este estudio examina los principales textos, considerando su contexto y evitando interpretaciones aisladas. El propósito es comprender cómo los apóstoles mantienen la distinción entre el Padre y el Hijo mientras confiesan la plena divinidad de Jesucristo.',
+sections: [
+StudySection(
+title: '1. La importancia del testimonio apostólico',
+content:
+'La enseñanza apostólica constituye una fuente fundamental para comprender la identidad de Jesucristo. Los escritores del Nuevo Testamento no presentan a Jesús únicamente como un maestro moral, profeta o fundador de una religión. Lo describen como el Hijo eterno, el Señor resucitado y aquel mediante quien Dios realiza su propósito de salvación. Sus afirmaciones deben estudiarse en el contexto de cada carta y en armonía con el testimonio general de las Escrituras.',
+references: 'Romanos 1:1-4; 1 Corintios 15:1-8; Efesios 2:19-20; 2 Pedro 3:2'
+),
+StudySection(
+title: '2. Romanos 9:5: Cristo y su relación con la Deidad',
+content:
+'Pablo habla de los privilegios de Israel y menciona que de ellos procede Cristo según la carne. El versículo termina con una expresión que, según la puntuación y traducción adoptadas, puede entenderse como una atribución de bendición y divinidad a Cristo, o como una doxología dirigida a Dios. Existe discusión académica sobre la puntuación del texto griego, pues los manuscritos antiguos no utilizaban la puntuación moderna de la misma manera. Por eso, este pasaje debe estudiarse reconociendo la discusión textual y gramatical, sin convertirlo en la única base de la doctrina. La divinidad de Cristo cuenta con otros testimonios apostólicos explícitos y complementarios.',
+references: 'Romanos 9:1-5; Juan 1:1; Tito 2:13; Hebreos 1:8'
+),
+StudySection(
+title: '3. Romanos 10:9-13: Jesús como Señor',
+content:
+'Pablo enseña que la salvación está relacionada con confesar a Jesús como Señor y creer que Dios lo levantó de los muertos. Después cita una declaración de Joel sobre invocar el nombre del Señor para ser salvo. La relación entre estos textos es importante porque Pablo aplica a Jesús el lenguaje de la invocación del Señor presente en Joel. El pasaje muestra que la confesión cristiana de Jesús como Señor tiene una profundidad que supera un simple título de respeto.',
+references: 'Joel 2:32; Romanos 10:9-13; 1 Corintios 1:2'
+),
+StudySection(
+title: '4. 1 Corintios 8:4-6: un solo Dios y un solo Señor',
+content:
+'Pablo afirma que no hay más que un Dios y presenta la confesión cristiana mediante dos expresiones: un solo Dios, el Padre, y un solo Señor, Jesucristo. No está enseñando la existencia de dos dioses. Está expresando la fe monoteísta cristiana e incluyendo a Jesucristo en la confesión central de la comunidad. Además, declara que todas las cosas proceden del Padre y que todas las cosas existen por medio de Jesucristo. El Hijo aparece vinculado a la creación y a la existencia de todo lo creado. La distinción entre Padre e Hijo no destruye la unidad del único Dios.',
+references: 'Deuteronomio 6:4; Juan 1:1-3; 1 Corintios 8:4-6; Colosenses 1:16'
+),
+StudySection(
+title: '5. 1 Corintios 10:4: Cristo como la roca espiritual',
+content:
+'Pablo recuerda la experiencia de Israel en el desierto y afirma que bebían de la roca espiritual que los seguía, y que la roca era Cristo. El apóstol relaciona a Cristo con el cuidado y la provisión divina durante la historia de Israel. El propósito del pasaje es advertir a la iglesia mediante el ejemplo de la generación del desierto. No debe utilizarse para afirmar que Cristo fue una roca material, sino para reconocer su presencia y actividad en la historia de la redención.',
+references: 'Éxodo 17:1-7; Números 20:1-13; 1 Corintios 10:1-12'
+),
+StudySection(
+title: '6. 1 Corintios 15:24-28: el Hijo y la consumación del reino',
+content:
+'Pablo describe el momento en que Cristo entregará el reino al Padre, después de destruir todo dominio contrario a Dios. También afirma que el Hijo mismo se sujetará al que le sujetó todas las cosas. Este pasaje debe interpretarse dentro del desarrollo de la obra redentora y del reinado mesiánico. La sujeción del Hijo se relaciona con el cumplimiento de su misión y la consumación del reino. No debe confundirse automáticamente con una negación de su naturaleza divina. El texto distingue al Padre y al Hijo y describe el orden de la obra de salvación.',
+references: 'Salmo 110:1; 1 Corintios 15:20-28; Filipenses 2:9-11'
+),
+StudySection(
+title: '7. 2 Corintios 4:4: Cristo como imagen de Dios',
+content:
+'Pablo llama a Cristo imagen de Dios. La expresión no significa que Jesús sea una representación imperfecta o una criatura que simplemente se parece a Dios. En el contexto, Cristo manifiesta la gloria divina y permite conocer la revelación de Dios. La idea de imagen también aparece en otros escritos apostólicos para describir su relación con el Dios invisible y su supremacía sobre la creación.',
+references: '2 Corintios 4:3-6; Colosenses 1:15; Hebreos 1:3'
+),
+StudySection(
+title: '8. 2 Corintios 5:19: Dios estaba en Cristo reconciliando al mundo',
+content:
+'Pablo declara que Dios estaba en Cristo reconciliando consigo al mundo. El versículo presenta la iniciativa divina de la reconciliación y la obra realizada mediante Cristo. No enseña que el Padre y el Hijo sean una misma persona. El contexto habla de Dios como quien reconcilia y de Cristo como aquel mediante quien se realiza la reconciliación. La obra salvadora manifiesta la unidad de propósito entre el Padre y el Hijo.',
+references: '2 Corintios 5:18-21; Romanos 5:10-11; Colosenses 1:19-22'
+),
+StudySection(
+title: '9. Filipenses 2:5-8: la humillación voluntaria del Hijo',
+content:
+'Pablo enseña que Cristo, existiendo en forma de Dios, no consideró el ser igual a Dios como algo a lo cual aferrarse, sino que se despojó a sí mismo tomando forma de siervo y haciéndose semejante a los hombres. El pasaje no describe a Cristo dejando de ser divino, sino asumiendo verdaderamente la condición de siervo. La expresión forma de Dios se relaciona con su condición divina, mientras que la forma de siervo señala su humillación en la encarnación. El movimiento del texto va desde su condición exaltada hasta su obediencia y muerte en la cruz.',
+references: 'Juan 1:1, 14; Filipenses 2:5-11; Hebreos 2:14-17'
+),
+StudySection(
+title: '10. Filipenses 2:9-11: toda rodilla se doblará ante Jesucristo',
+content:
+'Después de describir la humillación de Cristo, Pablo afirma que Dios lo exaltó hasta lo sumo y le dio un nombre sobre todo nombre. Toda rodilla se doblará y toda lengua confesará que Jesucristo es el Señor. El lenguaje recuerda Isaías 45, donde Dios declara que ante él se doblará toda rodilla. Pablo aplica esta confesión universal a Jesucristo. La exaltación del Hijo no significa que antes fuera una criatura, sino que su obra redentora es públicamente reconocida y su señorío proclamado sobre toda la creación.',
+references: 'Isaías 45:22-23; Filipenses 2:9-11; Romanos 14:10-12'
+),
+StudySection(
+title: '11. Colosenses 1:15: Cristo, imagen del Dios invisible',
+content:
+'Pablo llama a Cristo imagen del Dios invisible y primogénito de toda creación. La expresión primogénito no debe interpretarse automáticamente como primer ser creado. En el contexto bíblico, primogénito puede expresar supremacía, dignidad y derecho de herencia. Los versículos siguientes explican que todas las cosas fueron creadas por medio de Cristo y para él. Si todo lo creado llegó a existir por medio de él, no es correcto colocarlo simplemente dentro de la categoría de las criaturas.',
+references: 'Salmo 89:27; Colosenses 1:15-17; Hebreos 1:2-3'
+),
+StudySection(
+title: '12. Colosenses 1:16: todas las cosas fueron creadas por medio de Cristo',
+content:
+'El apóstol afirma que en Cristo fueron creadas todas las cosas, las visibles y las invisibles, incluyendo principados y potestades. Además, declara que todo fue creado por medio de él y para él. Cristo no aparece como una criatura más dentro del universo, sino como aquel mediante quien existe la creación y hacia quien se orienta. Esta afirmación concuerda con Juan 1:3 y Hebreos 1:2.',
+references: 'Juan 1:3; Colosenses 1:16-17; Hebreos 1:2'
+),
+StudySection(
+title: '13. Colosenses 1:17: Cristo es antes de todas las cosas',
+content:
+'Pablo declara que Cristo es antes de todas las cosas y que todas las cosas en él subsisten. Esta afirmación presenta su preexistencia y su función sustentadora. No solamente participó en la creación, sino que la creación depende continuamente de él. La expresión antes de todas las cosas debe entenderse junto con el testimonio de la eternidad del Verbo y su relación con el Padre.',
+references: 'Juan 1:1-3; Colosenses 1:17; Hebreos 1:3'
+),
+StudySection(
+title: '14. Colosenses 1:19: toda plenitud en Cristo',
+content:
+'El texto declara que agradó al Padre que en Cristo habitase toda plenitud. Esta afirmación se encuentra dentro de la explicación de la supremacía de Cristo sobre la creación y la iglesia. La plenitud que habita en él no es una capacidad limitada o una representación parcial. El versículo siguiente conecta esta plenitud con la reconciliación de todas las cosas por medio de la sangre de su cruz.',
+references: 'Colosenses 1:15-20; Colosenses 2:9'
+),
+StudySection(
+title: '15. Colosenses 2:9: toda la plenitud de la Deidad corporalmente',
+content:
+'Pablo declara que en Cristo habita corporalmente toda la plenitud de la Deidad. Esta es una de las afirmaciones más explícitas de las cartas apostólicas sobre la divinidad de Jesucristo. El término Deidad se refiere a la naturaleza divina. El apóstol no dice que Cristo posee solamente una parte de la divinidad, sino que en él habita toda la plenitud. La expresión corporalmente también es importante porque conecta esta plenitud con la encarnación real del Hijo. Jesucristo es verdaderamente humano y plenamente divino.',
+references: 'Colosenses 1:19; Colosenses 2:8-10; Juan 1:14'
+),
+StudySection(
+title: '16. Colosenses 2:10: Cristo es la cabeza de todo principado y potestad',
+content:
+'Pablo enseña que los creyentes están completos en Cristo, quien es la cabeza de todo principado y potestad. Ningún poder espiritual creado tiene autoridad superior a él. Esta declaración continúa el argumento de su supremacía y suficiencia. La iglesia no necesita buscar una plenitud espiritual fuera de Cristo, porque en él encuentra todo lo necesario para su relación con Dios.',
+references: 'Colosenses 2:8-15; Efesios 1:20-23; 1 Pedro 3:22'
+),
+StudySection(
+title: '17. Efesios 1:20-23: Cristo exaltado sobre todo poder',
+content:
+'Pablo describe cómo Dios resucitó a Cristo y lo sentó a su diestra en los lugares celestiales, por encima de todo principado, autoridad, poder y señorío. La exaltación de Cristo revela su autoridad universal. El Padre es quien lo exalta, y el Hijo es quien recibe el lugar de supremacía mesiánica. La distinción personal se mantiene mientras la autoridad de Cristo se extiende sobre todas las cosas.',
+references: 'Salmo 110:1; Efesios 1:19-23; Filipenses 2:9-11'
+),
+StudySection(
+title: '18. Efesios 3:9: la creación de todas las cosas por medio de Jesucristo',
+content:
+'Algunas traducciones y variantes textuales presentan diferencias en la expresión final de Efesios 3:9. La referencia a Dios como creador de todas las cosas es clara en el pasaje, mientras que la frase por medio de Jesucristo aparece en determinadas tradiciones textuales y no en otras. Por responsabilidad exegética, no se debe construir una doctrina sobre una frase cuya presencia textual es discutida. La participación del Hijo en la creación está afirmada claramente en Juan 1:3, 1 Corintios 8:6 y Colosenses 1:16.',
+references: 'Efesios 3:8-11; Juan 1:3; 1 Corintios 8:6; Colosenses 1:16'
+),
+StudySection(
+title: '19. 1 Timoteo 2:5: un solo mediador entre Dios y los hombres',
+content:
+'Pablo declara que hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre. La referencia a su humanidad es esencial para comprender su función mediadora. El Hijo se hizo verdaderamente hombre y puede representarnos en la obra de reconciliación. El texto no niega su naturaleza divina; destaca su humanidad en relación con su misión. La mediación no sería posible si Cristo no hubiera asumido nuestra condición humana.',
+references: '1 Timoteo 2:3-6; Hebreos 2:14-18; Hebreos 4:14-16'
+),
+StudySection(
+title: '20. Tito 2:13: nuestro gran Dios y Salvador Jesucristo',
+content:
+'Pablo habla de la esperanza bienaventurada y de la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo. La construcción griega suele entenderse como una referencia a una sola persona: Jesucristo, quien es llamado nuestro gran Dios y Salvador. Esta interpretación es ampliamente reconocida en la gramática del pasaje. El versículo ofrece un testimonio importante de la divinidad de Cristo y relaciona esa verdad con la esperanza de su regreso glorioso.',
+references: 'Tito 2:11-14; Romanos 9:5; 2 Pedro 1:1'
+),
+StudySection(
+title: '21. Hebreos 1:1-2: Dios habló por medio del Hijo',
+content:
+'Hebreos comienza explicando que Dios habló antiguamente por los profetas y que en estos últimos días ha hablado por el Hijo. El Hijo es presentado como heredero de todo y como aquel por medio de quien Dios hizo el universo. La diferencia entre los mensajeros proféticos y el Hijo es profunda. Cristo no es simplemente otro mensajero dentro de la historia, sino el Hijo mediante quien Dios realizó la creación y comunica su revelación definitiva.',
+references: 'Hebreos 1:1-2; Juan 1:1-3; Colosenses 1:16'
+),
+StudySection(
+title: '22. Hebreos 1:3: el resplandor de la gloria de Dios',
+content:
+'El autor describe al Hijo como el resplandor de la gloria de Dios y la imagen misma de su sustancia. También afirma que sustenta todas las cosas con la palabra de su poder. Estas expresiones presentan una relación inseparable entre el Hijo y la naturaleza divina. El Hijo no es descrito como una copia imperfecta de Dios, sino como la revelación perfecta de su gloria y naturaleza. Su poder sustentador supera ampliamente las capacidades de cualquier criatura.',
+references: 'Hebreos 1:3; Juan 1:14, 18; Colosenses 1:17'
+),
+StudySection(
+title: '23. Hebreos 1:6: los ángeles adoran al Hijo',
+content:
+'Hebreos afirma que cuando Dios introduce al Primogénito en el mundo, manda que todos los ángeles de Dios le adoren. El texto coloca al Hijo en una posición superior a los seres angelicales. Los ángeles son criaturas que sirven a Dios, mientras que el Hijo recibe adoración. Esta diferencia es fundamental para comprender la supremacía de Cristo. El término Primogénito debe interpretarse dentro del argumento de Hebreos, donde expresa su posición de honor y autoridad.',
+references: 'Deuteronomio 32:43 según la tradición textual citada; Hebreos 1:5-7; Hebreos 1:13-14'
+),
+StudySection(
+title: '24. Hebreos 1:8: el Hijo es llamado Dios',
+content:
+'Al citar el Salmo 45, Hebreos dirige al Hijo una declaración que en la traducción tradicional se expresa: Tu trono, oh Dios, por el siglo del siglo. El autor utiliza este pasaje para mostrar la superioridad del Hijo sobre los ángeles. La designación Dios aplicada al Hijo constituye un testimonio importante de su dignidad y naturaleza divina. El versículo siguiente distingue al Hijo de Dios, su Dios, dentro del lenguaje del reino y la exaltación mesiánica.',
+references: 'Salmo 45:6-7; Hebreos 1:8-9; Juan 1:1'
+),
+StudySection(
+title: '25. Hebreos 1:10-12: el Hijo y la obra de la creación',
+content:
+'Hebreos aplica al Hijo palabras del Salmo 102 relacionadas con la fundación de la tierra y la permanencia de los cielos. Mientras la creación cambia y envejece, el Hijo permanece. La aplicación de este lenguaje al Hijo muestra su relación con la obra creadora y su permanencia eterna. El argumento del autor es que el Hijo es superior a los ángeles y posee una dignidad que ninguna criatura puede reclamar.',
+references: 'Salmo 102:25-27; Hebreos 1:10-12; Colosenses 1:16-17'
+),
+StudySection(
+title: '26. Hebreos 2:14-17: la verdadera humanidad del Hijo',
+content:
+'El autor enseña que Cristo participó de carne y sangre para destruir mediante su muerte el poder de la muerte y ayudar a los descendientes de Abraham. Este pasaje demuestra que la humanidad de Jesús no fue aparente. Se hizo verdaderamente semejante a sus hermanos y participó de nuestra condición humana. Su humanidad es indispensable para su obra sacerdotal y redentora. Confesar su divinidad nunca debe llevar a negar que fue verdaderamente hombre.',
+references: 'Hebreos 2:14-18; Juan 1:14; Filipenses 2:7-8'
+),
+StudySection(
+title: '27. Hebreos 4:14-16: el gran sumo sacerdote',
+content:
+'Jesús es presentado como el gran sumo sacerdote que atravesó los cielos. El autor destaca que puede compadecerse de nuestras debilidades porque fue tentado en todo según nuestra semejanza, pero sin pecado. Su condición humana permite que comprenda nuestra situación, mientras que su santidad lo distingue de todo sacerdote pecador. El pasaje enseña que la humanidad de Cristo es parte esencial de su ministerio sacerdotal.',
+references: 'Hebreos 4:14-16; Hebreos 7:23-28; Hebreos 9:11-14'
+),
+StudySection(
+title: '28. Hebreos 7:24-25: el sacerdocio permanente de Cristo',
+content:
+'A diferencia de los sacerdotes que morían y eran reemplazados, Cristo permanece para siempre y tiene un sacerdocio inmutable. Puede salvar perpetuamente a quienes se acercan a Dios por medio de él, porque vive siempre para interceder por ellos. La permanencia de su sacerdocio está vinculada a su resurrección y a su vida indestructible. Su obra no necesita repetirse ni ser completada por otro mediador.',
+references: 'Salmo 110:4; Hebreos 7:20-28; Hebreos 9:24-28'
+),
+StudySection(
+title: '29. 1 Pedro 1:10-11: el Espíritu de Cristo en los profetas',
+content:
+'Pedro explica que los profetas investigaban acerca de la salvación y que el Espíritu de Cristo estaba en ellos, anunciando de antemano los sufrimientos de Cristo y las glorias posteriores. La expresión Espíritu de Cristo muestra una relación profunda entre el Hijo y la obra del Espíritu a lo largo de la historia de la revelación. El texto no confunde al Hijo con el Espíritu, sino que muestra la unidad de la obra divina en la inspiración profética y en la redención.',
+references: '1 Pedro 1:10-12; 2 Pedro 1:20-21; Juan 16:13-15'
+),
+StudySection(
+title: '30. 1 Pedro 3:22: Cristo sobre los poderes celestiales',
+content:
+'Pedro declara que Jesucristo está a la diestra de Dios, habiendo subido al cielo y estando sometidos a él los ángeles, autoridades y potestades. El pasaje presenta la exaltación y autoridad universal de Cristo después de su resurrección. La referencia a la diestra de Dios expresa honor y autoridad, no una ubicación física que limite la naturaleza divina. Cristo reina sobre toda autoridad creada.',
+references: 'Salmo 110:1; 1 Pedro 3:18-22; Efesios 1:20-23'
+),
+StudySection(
+title: '31. 2 Pedro 1:1: nuestro Dios y Salvador Jesucristo',
+content:
+'Pedro escribe acerca de la justicia de nuestro Dios y Salvador Jesucristo. La construcción griega se entiende comúnmente como una referencia a una sola persona, Jesucristo, quien recibe los títulos de Dios y Salvador. Este pasaje se encuentra junto a la afirmación de que la gracia y la paz vienen mediante el conocimiento de Dios y de Jesús nuestro Señor. El lenguaje distingue al Padre y al Hijo en la relación personal, pero atribuye a Jesucristo un título divino.',
+references: '2 Pedro 1:1-2; Tito 2:13; Juan 20:28'
+),
+StudySection(
+title: '32. 1 Juan 5:20: Jesucristo, el verdadero Dios y la vida eterna',
+content:
+'Juan declara que el Hijo de Dios ha venido y nos ha dado entendimiento para conocer al Verdadero. El versículo concluye hablando de Jesucristo y afirmando que este es el verdadero Dios y la vida eterna. Existe discusión sobre el referente exacto del pronombre este, debido a la estructura de la oración. Muchos intérpretes consideran que se refiere a Jesucristo, mientras otros lo relacionan con el Verdadero mencionado anteriormente. El pasaje debe estudiarse con seriedad, reconociendo la discusión gramatical y su relación con el resto de la carta, que presenta al Hijo como fuente de vida eterna.',
+references: '1 Juan 1:1-3; 1 Juan 5:11-12, 20; Juan 1:1-4'
+),
+StudySection(
+title: '33. Judas 4: nuestro único Soberano y Señor Jesucristo',
+content:
+'Judas advierte sobre personas que niegan al único Soberano y Señor Jesucristo. El texto destaca la autoridad de Cristo frente a quienes distorsionan la fe. La designación de Soberano expresa dominio y autoridad. Debe leerse junto con otros pasajes apostólicos que describen a Cristo como Señor sobre toda la creación y juez de vivos y muertos.',
+references: 'Judas 3-4; Hechos 10:42; Filipenses 2:9-11'
+),
+StudySection(
+title: '34. Apocalipsis 1:17-18: el Primero y el Último que vive',
+content:
+'Juan describe a Cristo glorificado, quien se identifica como el Primero y el Último y declara que estuvo muerto, pero vive por los siglos de los siglos. Estos títulos evocan el lenguaje divino de Isaías y muestran la autoridad de Cristo sobre la historia y la muerte. El hecho de que estuvo muerto confirma su verdadera humanidad, mientras que su vida eterna y autoridad sobre la muerte revelan su gloria incomparable.',
+references: 'Isaías 44:6; Isaías 48:12; Apocalipsis 1:12-18; Apocalipsis 2:8'
+),
+StudySection(
+title: '35. Apocalipsis 5:11-14: el Cordero recibe adoración celestial',
+content:
+'Juan contempla una escena celestial en la que innumerables ángeles proclaman la dignidad del Cordero. Después, toda criatura en el cielo, la tierra, debajo de la tierra y en el mar participa en una alabanza dirigida al que está sentado en el trono y al Cordero. La escena mantiene la distinción entre ambos y presenta una adoración compartida. El Cordero no aparece como una criatura más, sino como digno de recibir honra, gloria y alabanza junto al que está sentado en el trono.',
+references: 'Apocalipsis 5:6-14; Apocalipsis 4:8-11; Filipenses 2:9-11'
+),
+StudySection(
+title: '36. La divinidad de Cristo y el monoteísmo bíblico',
+content:
+'Las cartas apostólicas no abandonan la confesión de que existe un solo Dios. Al mismo tiempo, atribuyen a Jesucristo características, obras, títulos y honores divinos. Pablo puede confesar un solo Dios y presentar a Cristo como Señor mediante quien existen todas las cosas. Hebreos puede distinguir al Hijo de Dios y, a la vez, llamarlo Dios. Esta enseñanza no debe transformarse en la idea de dos dioses independientes. La fe trinitaria reconoce un solo Dios y distingue personalmente al Padre, al Hijo y al Espíritu Santo.',
+references: 'Deuteronomio 6:4; 1 Corintios 8:4-6; Hebreos 1:8-12; Efesios 4:4-6'
+),
+StudySection(
+title: '37. La divinidad de Cristo y su verdadera humanidad',
+content:
+'Los apóstoles presentan a Cristo como verdaderamente divino y verdaderamente humano. Su humanidad se observa en su nacimiento, sufrimiento, muerte y función mediadora. Su divinidad se observa en su preexistencia, participación en la creación, autoridad sobre todo poder y plenitud de la Deidad. No debemos utilizar una naturaleza para negar la otra. La encarnación significa que el Hijo asumió una naturaleza humana real sin dejar de ser quien eternamente es.',
+references: 'Juan 1:1, 14; Filipenses 2:5-8; Colosenses 2:9; Hebreos 2:14-18'
+),
+StudySection(
+title: '38. La distinción entre el Padre y el Hijo en las cartas apostólicas',
+content:
+'Los escritos apostólicos muestran repetidamente al Padre enviando al Hijo, al Hijo obedeciendo y cumpliendo su misión, y al Padre exaltándolo después de su obra redentora. Estas relaciones no son simples formas de hablar de una misma persona. Son relaciones personales presentadas en el texto. La unidad divina no elimina la distinción entre el Padre y el Hijo. La doctrina trinitaria busca conservar ambas verdades sin confundirlas.',
+references: 'Romanos 8:3; Gálatas 4:4-6; Efesios 1:3-10; Hebreos 1:8-9'
+),
+StudySection(
+title: '39. Errores frecuentes al interpretar los textos apostólicos',
+content:
+'Entre los errores más frecuentes se encuentran interpretar primogénito como si siempre significara primer ser creado, considerar la obediencia de Cristo como prueba automática de inferioridad de esencia, separar sus títulos divinos de su contexto y utilizar pasajes discutidos como si no existiera ninguna dificultad textual o gramatical. También es incorrecto ignorar los textos que distinguen al Padre del Hijo. Una interpretación responsable compara los pasajes, estudia sus palabras y reconoce tanto las afirmaciones explícitas como los límites de cada argumento.',
+references: 'Hechos 17:11; 2 Timoteo 2:15; 2 Pedro 3:15-16'
+),
+StudySection(
+title: '40. La importancia de confesar correctamente la identidad de Cristo',
+content:
+'La identidad de Jesucristo es fundamental para la fe cristiana. Si se niega su verdadera humanidad, se pierde el significado de su encarnación y de su sacrificio. Si se niega su divinidad, se contradice el testimonio de los escritos apostólicos sobre su preexistencia, creación, autoridad y gloria. Confesarlo correctamente implica reconocerlo como el Hijo eterno, distinto del Padre, plenamente divino y verdaderamente humano. Esta confesión conduce a la adoración, la obediencia y la confianza en su obra salvadora.',
+references: 'Juan 20:28-31; Romanos 10:9-13; Colosenses 2:9; 1 Juan 4:2-3'
+),
+],
+conclusion:
+'El testimonio de las cartas apostólicas confirma que Jesucristo posee una identidad que supera la de cualquier criatura. Pablo declara que todas las cosas fueron creadas por medio de él y para él, que en él habita corporalmente toda la plenitud de la Deidad y que toda rodilla se doblará ante su nombre. Hebreos lo presenta como el resplandor de la gloria de Dios, el sustentador de todas las cosas y aquel a quien los ángeles adoran. Pedro y Juan también destacan su autoridad, gloria y relación con la vida eterna. Estos testimonios no eliminan la distinción entre el Padre y el Hijo, sino que muestran que ambos participan de la única realidad divina. La iglesia debe conservar la confesión bíblica de un solo Dios, reconociendo al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia divina.'
+),
+
+Study(
+number: '22',
+title: 'Los títulos divinos de Jesucristo y su significado bíblico',
+subtitle: 'El significado de los nombres y títulos que revelan la identidad, autoridad y gloria del Hijo',
+introduction:
+'La Biblia utiliza numerosos títulos para identificar a Jesucristo. Algunos destacan su relación eterna con el Padre, otros revelan su participación en la creación, su autoridad sobre la humanidad, su obra redentora y su señorío universal. Expresiones como Verbo, Hijo de Dios, Señor, Dios, Alfa y Omega, Primero y Último, Rey de reyes y Cordero de Dios no deben interpretarse de manera superficial. Cada título posee un contexto histórico, literario y teológico que permite comprender mejor quién es Jesús. Este estudio examina los principales títulos atribuidos a Cristo, diferenciando aquellos que expresan directamente su identidad divina de aquellos que describen su misión mesiánica. El propósito es reconocer la plena divinidad del Hijo sin confundirlo personalmente con el Padre ni separarlo de la única naturaleza divina.',
+sections: [
+StudySection(
+title: '1. La importancia de los títulos de Jesucristo',
+content:
+'Los títulos bíblicos comunican aspectos importantes de la identidad y misión de una persona. En el caso de Jesucristo, permiten conocer su relación con el Padre, su autoridad, su naturaleza y su obra de salvación. No todos los títulos significan exactamente lo mismo ni deben utilizarse como sinónimos absolutos. Algunos destacan su eternidad, otros su humanidad y otros su función como Mesías y Salvador. Su significado debe determinarse mediante el contexto de cada pasaje y el testimonio completo de las Escrituras.',
+references: 'Mateo 16:13-17; Juan 1:1-18; Hechos 2:36; Colosenses 1:15-20'
+),
+StudySection(
+title: '2. El Verbo: la Palabra eterna de Dios',
+content:
+'Juan identifica a Jesucristo como el Verbo que existía en el principio, estaba con Dios y era Dios. La palabra griega Logos puede traducirse como palabra, mensaje o expresión, pero en Juan 1 no representa simplemente una idea o una declaración pronunciada por Dios. El Verbo es presentado como alguien que existía antes de la creación, participó en ella y posteriormente se hizo carne. Este título revela que el Hijo no comenzó a existir en Belén. Su encarnación ocurrió en un momento de la historia, pero su existencia es anterior a todas las cosas.',
+references: 'Juan 1:1-3, 14; 1 Juan 1:1-2; Apocalipsis 19:13'
+),
+StudySection(
+title: '3. Hijo de Dios: identidad y relación con el Padre',
+content:
+'El título Hijo de Dios expresa la relación única de Jesucristo con el Padre. En el Evangelio de Juan, esta designación aparece relacionada con su autoridad, sus obras y su igualdad de honor con el Padre. No debe interpretarse como si Cristo fuera un hijo creado o como si hubiera comenzado a existir cuando nació de María. El mismo Evangelio enseña que el Verbo existía antes de la creación. La expresión Hijo de Dios identifica una relación personal y una dignidad única que debe comprenderse dentro del testimonio bíblico completo.',
+references: 'Juan 1:14, 18; Juan 5:17-23; Juan 10:30-36; Juan 20:31'
+),
+StudySection(
+title: '4. Unigénito: la singularidad del Hijo',
+content:
+'La palabra unigénito se utiliza en algunas traducciones para expresar la relación única del Hijo con el Padre. El término griego monogenes está relacionado con la idea de único o singular y su significado no debe reducirse automáticamente a un proceso de creación. Juan utiliza esta palabra para destacar la relación incomparable de Jesucristo con el Padre. La enseñanza debe interpretarse junto con los pasajes que afirman su preexistencia y su participación en la creación.',
+references: 'Juan 1:14, 18; Juan 3:16-18; 1 Juan 4:9'
+),
+StudySection(
+title: '5. Dios: la designación divina aplicada a Jesucristo',
+content:
+'El Nuevo Testamento contiene pasajes que aplican directamente a Jesucristo la designación Dios. Juan 1:1 declara que el Verbo era Dios. Tomás lo reconoce como Señor y Dios en Juan 20:28. Hebreos 1:8 utiliza una expresión que llama Dios al Hijo, y Tito 2:13 presenta a Jesucristo como nuestro gran Dios y Salvador. Estos pasajes deben estudiarse en su contexto gramatical y literario. En conjunto, ofrecen un testimonio importante de la plena divinidad de Cristo.',
+references: 'Juan 1:1; Juan 20:28; Tito 2:13; Hebreos 1:8; 2 Pedro 1:1'
+),
+StudySection(
+title: '6. Señor: autoridad y dignidad de Jesucristo',
+content:
+'El título Señor se utiliza en diferentes contextos del Nuevo Testamento, pero cuando se aplica a Jesús adquiere un significado especialmente profundo. Los apóstoles lo proclaman como Señor resucitado, soberano y digno de obediencia. En Romanos 10:9-13, Pablo relaciona la confesión de Jesús como Señor con la salvación y cita un pasaje del profeta Joel sobre invocar el nombre del Señor. El título expresa su autoridad y su posición exaltada. No debe reducirse a una forma de cortesía.',
+references: 'Romanos 10:9-13; Filipenses 2:9-11; Hechos 2:36; 1 Corintios 8:6'
+),
+StudySection(
+title: '7. Emanuel: Dios con nosotros',
+content:
+'Mateo explica que el nacimiento de Jesús cumple la profecía de Emanuel, cuyo significado es Dios con nosotros. Este título destaca la presencia de Dios en la encarnación del Hijo. No enseña que el Padre y el Hijo sean la misma persona, sino que Dios se acercó a la humanidad de una manera singular mediante Jesucristo. En él, el Verbo eterno asumió una naturaleza humana y habitó entre nosotros.',
+references: 'Isaías 7:14; Mateo 1:18-23; Juan 1:14'
+),
+StudySection(
+title: '8. Mesías o Cristo: el Ungido prometido',
+content:
+'Mesías es una palabra de origen hebreo que significa ungido, mientras que Cristo procede del griego Christos y expresa la misma idea. Jesucristo es el Mesías prometido, aquel que cumple las expectativas proféticas del Antiguo Testamento. Su misión incluye anunciar el reino de Dios, salvar a su pueblo, vencer el pecado y establecer su reinado. Este título destaca su identidad mesiánica y no debe confundirse con una negación de su naturaleza divina.',
+references: 'Salmo 2:1-12; Daniel 9:25-26; Juan 1:41; Juan 4:25-26; Hechos 2:36'
+),
+StudySection(
+title: '9. Hijo del Hombre: humanidad y autoridad mesiánica',
+content:
+'Jesús utilizó frecuentemente el título Hijo del Hombre para referirse a sí mismo. Este título destaca su verdadera humanidad, pero también está relacionado con la visión de Daniel 7, donde uno semejante a hijo de hombre recibe dominio, gloria y reino. En los Evangelios, Jesús utiliza esta designación al hablar de su autoridad para perdonar pecados, su sufrimiento, su resurrección y su regreso glorioso. No debe interpretarse únicamente como una referencia a su condición humana.',
+references: 'Daniel 7:13-14; Marcos 2:10; Marcos 8:31; Mateo 26:63-64'
+),
+StudySection(
+title: '10. Alfa y Omega: principio y fin',
+content:
+'Alfa y Omega son la primera y la última letra del alfabeto griego. La expresión comunica totalidad, supremacía y dominio sobre el principio y el final. En Apocalipsis, el título aparece en declaraciones relacionadas con la soberanía divina. Cuando se interpreta una aparición concreta, es necesario identificar quién está hablando en el contexto. Apocalipsis 1:8 identifica al Señor Dios como el Todopoderoso, mientras que Apocalipsis 22 contiene declaraciones cuya identificación del hablante requiere examinar los versículos cercanos. No se debe atribuir automáticamente cada aparición a Cristo sin estudiar su contexto.',
+references: 'Apocalipsis 1:8, 17-18; Apocalipsis 21:5-7; Apocalipsis 22:12-16'
+),
+StudySection(
+title: '11. El Primero y el Último: la supremacía eterna',
+content:
+'En Isaías, Dios utiliza la expresión Primero y Último para declarar su soberanía y unicidad frente a los ídolos. En Apocalipsis 1:17-18, Jesucristo glorificado utiliza un título semejante y lo relaciona con su muerte y resurrección. La identificación de Cristo con este lenguaje revela su autoridad extraordinaria y su dominio sobre la historia y la muerte. El contexto presenta al mismo Jesús que murió y vive por los siglos de los siglos.',
+references: 'Isaías 44:6; Isaías 48:12; Apocalipsis 1:17-18; Apocalipsis 2:8'
+),
+StudySection(
+title: '12. Rey de reyes y Señor de señores',
+content:
+'Este título expresa la supremacía de Jesucristo sobre todos los gobernantes y autoridades. Ningún reino humano puede compararse con su autoridad. En Apocalipsis, Cristo aparece como vencedor y soberano, cuyo gobierno no depende de la aprobación de los poderes terrenales. Su señorío tiene alcance universal y permanecerá cuando todos los reinos humanos hayan terminado.',
+references: '1 Timoteo 6:14-16; Apocalipsis 17:14; Apocalipsis 19:11-16'
+),
+StudySection(
+title: '13. Cordero de Dios: el sacrificio que quita el pecado',
+content:
+'Juan el Bautista identifica a Jesús como el Cordero de Dios que quita el pecado del mundo. Este título se relaciona con el sistema sacrificial del Antiguo Testamento, la Pascua y las profecías sobre el siervo sufriente. En Apocalipsis, el Cordero aparece como sacrificado y, al mismo tiempo, digno de recibir adoración y honor. El título revela tanto la obra redentora de Cristo como su victoria.',
+references: 'Éxodo 12:1-14; Isaías 53:7; Juan 1:29; 1 Pedro 1:18-19; Apocalipsis 5:6-14'
+),
+StudySection(
+title: '14. Salvador: quien rescata a la humanidad',
+content:
+'Jesucristo es presentado como Salvador porque mediante su vida, muerte y resurrección realiza la obra de rescatar a los pecadores. La salvación no se obtiene mediante méritos humanos, sino por la gracia de Dios. El Hijo cumple la misión redentora y es el mediador por medio del cual las personas reciben reconciliación y vida eterna. Su título de Salvador está unido a su autoridad y a su obra de sacrificio.',
+references: 'Lucas 2:11; Juan 4:42; Hechos 4:12; Tito 2:13-14'
+),
+StudySection(
+title: '15. Mediador: el único camino de reconciliación',
+content:
+'El mediador es quien interviene para establecer una relación entre partes separadas. El Nuevo Testamento declara que Jesucristo es el único mediador entre Dios y los seres humanos. Su condición humana le permite representarnos, y su obra sacrificial hace posible la reconciliación. Este título no reduce a Cristo a un simple intermediario creado, sino que describe una función esencial de su misión redentora.',
+references: '1 Timoteo 2:5-6; Hebreos 8:6; Hebreos 9:15; Hebreos 12:24'
+),
+StudySection(
+title: '16. Sumo Sacerdote: el ministerio permanente de Cristo',
+content:
+'Hebreos presenta a Jesucristo como el gran sumo sacerdote que entró en el santuario celestial y permanece para siempre. A diferencia de los sacerdotes del antiguo pacto, que morían y necesitaban ser reemplazados, Cristo posee un sacerdocio permanente. Su sacrificio es suficiente y su intercesión continúa. Este título destaca su humanidad, su obra redentora y su autoridad sacerdotal.',
+references: 'Hebreos 4:14-16; Hebreos 7:23-28; Hebreos 9:11-14'
+),
+StudySection(
+title: '17. Pastor: quien conoce y cuida a sus ovejas',
+content:
+'Jesús se identifica como el buen pastor que conoce a sus ovejas y da su vida por ellas. El Antiguo Testamento presenta a Dios como pastor de su pueblo, mientras que los profetas denuncian a los líderes que no cuidan correctamente el rebaño. Cuando Jesús utiliza este título, revela su misión de cuidado, protección y entrega. También muestra que su autoridad no es opresiva, sino caracterizada por el amor y el sacrificio.',
+references: 'Salmo 23:1; Ezequiel 34:11-16; Juan 10:11-18; Hebreos 13:20'
+),
+StudySection(
+title: '18. La puerta: acceso a la salvación',
+content:
+'En Juan 10, Jesús se presenta como la puerta de las ovejas. La imagen expresa que el acceso legítimo a la salvación y al cuidado de Dios se encuentra en él. No se trata de una afirmación literal sobre una puerta física, sino de una figura que comunica exclusividad, protección y entrada a la vida. El título debe entenderse dentro de la enseñanza sobre el pastor y sus ovejas.',
+references: 'Juan 10:1-10; Juan 14:6; Hechos 4:12'
+),
+StudySection(
+title: '19. El Camino, la Verdad y la Vida',
+content:
+'Jesús declara que él es el camino, la verdad y la vida, y que nadie viene al Padre sino por él. Cada expresión comunica una dimensión de su identidad y misión. Es el camino porque mediante él se llega al Padre; es la verdad porque revela fielmente a Dios; y es la vida porque en él se encuentra la vida eterna. Esta declaración une su relación con el Padre y su autoridad salvadora.',
+references: 'Juan 14:1-7; Juan 1:4, 14; Juan 11:25-26'
+),
+StudySection(
+title: '20. La luz del mundo',
+content:
+'Jesús se identifica como la luz del mundo y declara que quien lo sigue no caminará en tinieblas. En el Evangelio de Juan, la luz representa revelación, vida, verdad y victoria sobre las tinieblas. El prólogo ya había presentado al Verbo como la luz de los hombres. Este título revela que Cristo no solamente enseña la verdad, sino que es la luz mediante la cual Dios se da a conocer y ofrece vida.',
+references: 'Juan 1:4-9; Juan 8:12; Juan 9:5; Juan 12:35-36'
+),
+StudySection(
+title: '21. El Pan de vida',
+content:
+'Jesús declara que él es el pan de vida y que quien viene a él no tendrá hambre, y quien cree en él no tendrá sed jamás. La imagen se desarrolla después de la multiplicación de los panes. Jesús dirige la atención de la multitud desde el alimento temporal hacia la vida eterna que él ofrece. El título revela su capacidad de satisfacer la necesidad espiritual más profunda del ser humano.',
+references: 'Juan 6:22-40; Juan 6:48-58'
+),
+StudySection(
+title: '22. La resurrección y la vida',
+content:
+'Ante Marta, Jesús declara que él es la resurrección y la vida. No presenta la resurrección únicamente como un acontecimiento futuro separado de su persona, sino como una realidad que está bajo su autoridad. Quien cree en él vivirá, aun cuando muera. Este título revela su dominio sobre la muerte y su autoridad para conceder vida eterna.',
+references: 'Juan 11:17-27; Juan 5:21-29; 1 Corintios 15:20-26'
+),
+StudySection(
+title: '23. El Amén, el Testigo fiel y verdadero',
+content:
+'Apocalipsis presenta a Jesucristo como el Amén, el testigo fiel y verdadero. El Amén expresa firmeza y certeza, mientras que el testigo fiel y verdadero destaca que su testimonio es completamente confiable. Cristo revela la verdad de Dios y no engaña a quienes escuchan su palabra. Este título resulta especialmente importante en los mensajes dirigidos a las iglesias.',
+references: 'Apocalipsis 1:5; Apocalipsis 3:7, 14; 2 Corintios 1:19-20'
+),
+StudySection(
+title: '24. El Príncipe de paz',
+content:
+'Isaías anuncia un niño que recibiría títulos extraordinarios, entre ellos Príncipe de paz. La profecía presenta al Mesías como el gobernante cuya autoridad produce una paz duradera. La paz de Cristo no se limita a la ausencia de conflictos externos, sino que incluye la reconciliación con Dios y la restauración de la relación con él. El Nuevo Testamento relaciona esta paz con la obra de la cruz.',
+references: 'Isaías 9:6-7; Lucas 2:13-14; Juan 14:27; Colosenses 1:20'
+),
+StudySection(
+title: '25. Consejero admirable',
+content:
+'Isaías utiliza el título Consejero admirable dentro de una profecía mesiánica sobre el gobierno y la autoridad del niño prometido. El título destaca la sabiduría extraordinaria del Mesías. Jesucristo no necesita recibir sabiduría de los seres humanos para cumplir su misión; sus enseñanzas revelan la verdad y su autoridad supera la comprensión humana. Su consejo conduce a la vida y a la obediencia a Dios.',
+references: 'Isaías 9:6; Mateo 7:28-29; Colosenses 2:2-3'
+),
+StudySection(
+title: '26. Padre eterno: una expresión que requiere cuidado contextual',
+content:
+'Isaías 9:6 incluye la expresión Padre eterno entre los títulos atribuidos al niño prometido. Esta expresión ha generado preguntas porque la doctrina trinitaria distingue al Hijo del Padre. En su contexto, el título puede entenderse como una descripción de su carácter paternal, protector y de su gobierno permanente. No debe utilizarse para afirmar que el Hijo es la misma persona que el Padre. El resto de las Escrituras mantiene la distinción entre ambos, incluso cuando atribuye al Hijo títulos extraordinarios.',
+references: 'Isaías 9:6-7; Juan 1:1-2; Juan 5:19-23; Juan 14:16-17'
+),
+StudySection(
+title: '27. Dios fuerte: el Mesías y su autoridad',
+content:
+'Isaías 9:6 también llama al niño prometido Dios fuerte. La expresión forma parte de una descripción profética de su identidad y gobierno. El mismo lenguaje de Dios fuerte aparece en otros contextos relacionados con la grandeza y el poder divino. La aplicación de este título al Mesías debe considerarse junto con los textos que enseñan la preexistencia del Hijo y su participación en las obras de Dios.',
+references: 'Isaías 9:6; Isaías 10:20-21; Juan 1:1-3'
+),
+StudySection(
+title: '28. Primogénito: supremacía y herencia',
+content:
+'El título primogénito aparece en Colosenses 1:15 y en otros pasajes relacionados con Cristo. En el lenguaje bíblico, el primogénito puede representar posición de honor, autoridad y derecho de herencia, no necesariamente el primer ser creado. El contexto de Colosenses afirma que todas las cosas fueron creadas por medio de Cristo y para él. Por tanto, el título destaca su supremacía sobre la creación y no debe separarse de los versículos siguientes.',
+references: 'Salmo 89:27; Romanos 8:29; Colosenses 1:15-18; Hebreos 1:6'
+),
+StudySection(
+title: '29. Cabeza de la iglesia',
+content:
+'Pablo presenta a Cristo como cabeza de la iglesia, que es su cuerpo. Este título expresa autoridad, dirección y relación vital con el pueblo redimido. La iglesia no pertenece a un líder humano ni puede reemplazar la autoridad de Cristo. Él gobierna, sustenta y dirige a su pueblo. La imagen también destaca la unidad de los creyentes con su Señor.',
+references: 'Efesios 1:22-23; Efesios 4:15-16; Colosenses 1:18'
+),
+StudySection(
+title: '30. Juez de vivos y muertos',
+content:
+'El Nuevo Testamento enseña que Jesucristo ha recibido autoridad para juzgar a los vivos y a los muertos. Su juicio será justo y abarcará a toda la humanidad. Esta función no es simplemente una tarea administrativa, sino una autoridad que manifiesta su señorío. Los apóstoles anuncian que todos deberán comparecer ante él y que su juicio será conforme a la verdad.',
+references: 'Hechos 10:42; Juan 5:22-27; 2 Timoteo 4:1; 2 Corintios 5:10'
+),
+StudySection(
+title: '31. La estrella resplandeciente de la mañana',
+content:
+'En Apocalipsis 22:16, Jesús se identifica como la raíz y el linaje de David, la estrella resplandeciente de la mañana. La imagen comunica esperanza, victoria y el cumplimiento de las promesas mesiánicas. Cristo es descendiente de David según su humanidad y, al mismo tiempo, es la raíz de David, una expresión que señala una relación superior a la de un simple descendiente. El título debe interpretarse dentro del conjunto de las promesas del reino y del regreso de Cristo.',
+references: 'Números 24:17; Isaías 11:1-10; Apocalipsis 22:16'
+),
+StudySection(
+title: '32. El Santo y el Justo',
+content:
+'Los apóstoles utilizan los títulos Santo y Justo para describir a Jesucristo. Estos nombres destacan su pureza, justicia y ausencia de pecado. Pedro declara que el Santo y Justo fue rechazado por el pueblo, mientras que los escritos apostólicos afirman que Cristo no cometió pecado. Su santidad lo capacita para ofrecerse como sacrificio perfecto y para ser el mediador de una salvación completa.',
+references: 'Hechos 3:13-15; 1 Pedro 2:21-22; Hebreos 4:15; 1 Juan 3:5'
+),
+StudySection(
+title: '33. El Siervo de Jehová',
+content:
+'Isaías presenta al Siervo de Jehová como aquel que cumple la voluntad divina, lleva las cargas de otros y sufre por las transgresiones del pueblo. El Nuevo Testamento relaciona estas profecías con Jesucristo. Este título destaca su obediencia, sufrimiento y misión redentora. No debe interpretarse como una negación de su divinidad, sino como una descripción de la función que asumió en la obra de salvación.',
+references: 'Isaías 42:1-9; Isaías 52:13-53:12; Mateo 12:15-21; Hechos 8:30-35'
+),
+StudySection(
+title: '34. La raíz y el linaje de David',
+content:
+'Jesucristo es presentado como descendiente de David según la carne, cumpliendo las promesas del pacto davídico. Sin embargo, Apocalipsis también lo llama raíz de David. La expresión muestra que su identidad no se limita a su descendencia humana. Es el Mesías prometido que procede de la línea de David y cuyo señorío supera cualquier reino terrenal. Esta relación entre humanidad y supremacía aparece también en la pregunta de Jesús sobre cómo David llama Señor a su descendiente.',
+references: '2 Samuel 7:12-16; Mateo 22:41-46; Romanos 1:3-4; Apocalipsis 22:16'
+),
+StudySection(
+title: '35. El título Hijo del Altísimo',
+content:
+'El ángel Gabriel anuncia que Jesús será llamado Hijo del Altísimo y que recibirá el trono de David. El título está unido a su identidad mesiánica y a su relación singular con Dios. La promesa de un reino eterno supera los límites de los gobernantes humanos. La expresión debe comprenderse junto con la enseñanza del Nuevo Testamento sobre la relación eterna del Hijo con el Padre.',
+references: 'Lucas 1:31-35; Lucas 1:76-79; Hebreos 1:5-8'
+),
+StudySection(
+title: '36. La relación entre los títulos divinos y la Trinidad',
+content:
+'Los títulos de Jesucristo revelan su identidad, pero no deben utilizarse para confundirlo con el Padre o con el Espíritu Santo. El Hijo es llamado Dios y Señor, pero también es presentado como aquel que es enviado por el Padre y que promete el envío del Espíritu. La doctrina trinitaria reconoce que el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única naturaleza divina. Por eso, afirmar que Jesucristo es Dios no significa afirmar que él sea la persona del Padre.',
+references: 'Mateo 3:16-17; Mateo 28:19; Juan 1:1-2; Juan 14:16-17; 2 Corintios 13:14'
+),
+StudySection(
+title: '37. Diferenciar los títulos divinos de los títulos mesiánicos',
+content:
+'Algunos títulos destacan directamente la identidad divina de Cristo, mientras que otros describen su misión mesiánica, su humanidad o su función redentora. Dios, Señor y Primero y Último expresan aspectos de su autoridad y gloria; Cordero, Mediador y Sumo Sacerdote destacan su obra de salvación; Hijo del Hombre resalta su humanidad y su autoridad mesiánica. Estas categorías pueden relacionarse, pero no deben confundirse. Un título mesiánico no niega la divinidad de Cristo, así como un título divino no elimina su verdadera humanidad.',
+references: 'Juan 1:1, 14; Filipenses 2:6-8; Hebreos 1:3; Hebreos 4:14-16'
+),
+StudySection(
+title: '38. La interpretación de los títulos dentro de su contexto',
+content:
+'Una práctica incorrecta consiste en tomar un título y asignarle un significado que no corresponde al pasaje. Por ejemplo, no todas las apariciones de Señor tienen exactamente el mismo sentido, ni cada expresión de Apocalipsis debe atribuirse automáticamente a la misma persona sin examinar quién habla. El estudio debe considerar el autor, el destinatario, el género literario, las palabras originales cuando sean relevantes y la relación con otros pasajes. La interpretación responsable evita exageraciones y conserva el sentido del texto.',
+references: 'Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 2:15'
+),
+StudySection(
+title: '39. La adoración que corresponde a Jesucristo',
+content:
+'El Nuevo Testamento presenta a Jesucristo como digno de recibir honor, gloria y adoración. Tomás lo confiesa como Dios; los ángeles reciben la orden de adorarlo según Hebreos; y Apocalipsis muestra al Cordero recibiendo alabanza junto al que está sentado en el trono. Esta adoración no introduce otro dios independiente, sino que manifiesta la dignidad divina del Hijo dentro de la fe en el único Dios.',
+references: 'Juan 20:28; Hebreos 1:6-8; Apocalipsis 5:11-14; Filipenses 2:9-11'
+),
+StudySection(
+title: '40. La importancia de conocer correctamente a Jesucristo',
+content:
+'Conocer los títulos de Cristo permite comprender mejor su identidad y su obra. No se trata únicamente de memorizar nombres, sino de entender qué revela cada uno sobre el Hijo. Jesucristo es el Verbo eterno, el Hijo de Dios, el Señor, el Mesías, el Salvador y el Cordero que quita el pecado. Es verdaderamente humano y plenamente divino, distinto del Padre y unido a él en la única naturaleza divina. Esta comprensión fortalece la fe y conduce a una adoración fundamentada en las Escrituras.',
+references: 'Juan 1:1-18; Juan 20:28-31; Colosenses 1:15-20; Colosenses 2:9'
+),
+],
+conclusion:
+'Los títulos bíblicos de Jesucristo revelan la grandeza de su identidad y la amplitud de su obra. El Verbo eterno es el Hijo que se hizo carne; el Señor es el soberano de toda la creación; el Cordero es el sacrificio perfecto; el Salvador rescata a los pecadores; y el Primero y el Último manifiesta su autoridad sobre la historia. Estos títulos no deben interpretarse de manera aislada ni utilizarse para confundir al Hijo con el Padre. El testimonio de las Escrituras presenta a Jesucristo como una persona distinta del Padre, plenamente divino y verdaderamente humano. Conocer sus títulos es profundizar en el conocimiento de aquel a quien la iglesia confiesa como Señor y Salvador.'
+),
+
+Study(
+number: '23',
+title: 'La preexistencia eterna de Jesucristo',
+subtitle: 'La existencia del Hijo antes de Belén, su relación con el Padre y su participación en la creación',
+introduction:
+'La preexistencia de Jesucristo es una enseñanza esencial para comprender correctamente su identidad. La Biblia no presenta a Jesús como un hombre que comenzó a existir únicamente cuando nació de María, sino como el Hijo eterno que asumió una verdadera naturaleza humana en un momento determinado de la historia. El Evangelio de Juan declara que el Verbo existía en el principio, estaba con Dios y era Dios. Pablo enseña que todas las cosas fueron creadas por medio de Cristo y para él. Hebreos afirma que Dios hizo el universo por medio del Hijo. Estas declaraciones muestran que la existencia del Hijo precede a la creación y no depende del nacimiento en Belén. Este estudio examina la eternidad de Cristo, su comunión con el Padre, su participación en las obras divinas y el significado de su encarnación, manteniendo siempre la distinción personal entre el Padre y el Hijo.',
+sections: [
+StudySection(
+title: '1. Qué significa la preexistencia de Jesucristo',
+content:
+'La preexistencia significa que Jesucristo existía antes de su nacimiento humano. No se refiere simplemente a que Dios había planeado su venida o que su nombre estaba presente en una profecía. Los escritos del Nuevo Testamento presentan al Hijo como alguien que existía antes de la creación, compartía gloria con el Padre y posteriormente vino al mundo. Su nacimiento de María marca el comienzo de su vida humana terrenal, no el comienzo de su existencia personal.',
+references: 'Juan 1:1-3, 14; Juan 17:5; Filipenses 2:6-8'
+),
+StudySection(
+title: '2. La eternidad del Hijo y la diferencia entre eternidad y nacimiento',
+content:
+'La eternidad del Hijo debe distinguirse de su nacimiento humano. Jesucristo nació en Belén, pero su existencia no comenzó allí. El nacimiento describe la entrada del Hijo en la historia humana mediante la encarnación. La eternidad se refiere a su existencia anterior a toda la creación. La Biblia presenta ambas verdades sin contradicción: el Hijo es eterno y verdaderamente nació como hombre.',
+references: 'Miqueas 5:2; Juan 1:1-14; Gálatas 4:4-5'
+),
+StudySection(
+title: '3. Juan 1:1: el Verbo ya existía en el principio',
+content:
+'Juan comienza su Evangelio con una declaración que sitúa al Verbo antes de la creación. La expresión en el principio recuerda el comienzo de Génesis, pero el Verbo no aparece como parte de las cosas creadas. El apóstol declara que el Verbo estaba con Dios y era Dios. La primera expresión muestra distinción personal y la segunda afirma su naturaleza divina. El Hijo no comenzó a existir cuando el universo fue creado, porque ya existía antes de ese acontecimiento.',
+references: 'Génesis 1:1; Juan 1:1-2; 1 Juan 1:1-2'
+),
+StudySection(
+title: '4. Juan 1:2-3: todas las cosas fueron hechas por medio del Verbo',
+content:
+'Juan afirma que todas las cosas fueron hechas por medio del Verbo y que sin él nada de lo que ha sido hecho llegó a existir. El argumento distingue entre el Creador y las cosas creadas. Si todo lo creado llegó a existir por medio del Verbo, no es correcto clasificarlo como una criatura más. El Hijo participa en la obra creadora y, por tanto, su existencia no pertenece al conjunto de las cosas que comenzaron a existir.',
+references: 'Juan 1:2-3; Colosenses 1:16-17; Hebreos 1:2'
+),
+StudySection(
+title: '5. Juan 1:14: el Verbo se hizo carne',
+content:
+'La expresión el Verbo se hizo carne señala el acontecimiento de la encarnación. El Verbo que ya existía asumió una naturaleza humana y habitó entre los seres humanos. Juan no dice que el Verbo comenzó a existir en ese momento, sino que se hizo carne. La diferencia es esencial: la persona del Hijo es anterior a su humanidad terrenal, pero desde la encarnación vive verdaderamente como hombre. Esta verdad protege tanto su eternidad como la realidad de su humanidad.',
+references: 'Juan 1:1-3, 14; Filipenses 2:6-8; Hebreos 2:14'
+),
+StudySection(
+title: '6. Juan 3:13: el que descendió del cielo',
+content:
+'En este pasaje Jesús habla con Nicodemo y se refiere al Hijo del Hombre como aquel que descendió del cielo. La expresión señala su procedencia celestial y su identidad singular. No debe reducirse a una manera poética de decir que Jesús recibió una misión terrenal. El contexto presenta a Cristo como quien conoce las realidades celestiales y puede revelarlas porque procede de ellas. Algunas traducciones contienen una variante textual relacionada con la frase que está en el cielo, por lo que no es necesario fundamentar la doctrina en esa parte discutida. La referencia al descenso del cielo permanece como una afirmación importante.',
+references: 'Juan 3:10-15; Juan 6:38; Juan 6:62'
+),
+StudySection(
+title: '7. Juan 6:38: el Hijo vino del cielo',
+content:
+'Jesús declara que descendió del cielo para hacer la voluntad del que lo envió. Esta afirmación presenta una existencia anterior a su vida terrenal y una misión recibida del Padre. El Hijo no se presenta como alguien que comenzó a existir al nacer, sino como aquel que vino desde el cielo. Su venida está relacionada con la salvación y con el propósito de cumplir perfectamente la voluntad del Padre.',
+references: 'Juan 6:35-40; Juan 6:51; Juan 16:28'
+),
+StudySection(
+title: '8. Juan 6:62: el Hijo del Hombre subiendo adonde estaba antes',
+content:
+'Jesús pregunta qué sucedería si sus oyentes vieran al Hijo del Hombre subir adonde estaba antes. Esta declaración es especialmente importante porque relaciona su futuro ascenso con una existencia anterior. No se trata solamente de una misión futura, sino de un regreso a la condición celestial que ya poseía. El texto refuerza la enseñanza de que su vida terrenal no representa el comienzo de su existencia.',
+references: 'Juan 6:61-63; Juan 3:13; Juan 17:5'
+),
+StudySection(
+title: '9. Juan 8:58: antes que Abraham fuese, yo soy',
+content:
+'Jesús declara que existía antes de Abraham y utiliza la expresión yo soy. La comparación entre Abraham, que llegó a existir, y Jesús, que afirma su existencia anterior, es fundamental. La declaración aparece en un contexto donde Jesús habla de su relación con Abraham y de la identidad que posee. Su respuesta provoca una reacción violenta de sus adversarios, quienes comprenden que está realizando una afirmación extraordinaria. El texto debe leerse junto con Juan 1:1 y no como una simple declaración de antigüedad.',
+references: 'Éxodo 3:14; Juan 8:48-59; Juan 1:1-3'
+),
+StudySection(
+title: '10. Juan 17:5: la gloria compartida antes de la creación',
+content:
+'En su oración al Padre, Jesús pide ser glorificado con la gloria que tenía junto al Padre antes que el mundo existiera. Esta afirmación muestra que el Hijo poseía una relación de gloria con el Padre anterior a la creación. No se trata únicamente de una gloria que recibiría por primera vez después de su resurrección. Jesús habla de una gloria que ya compartía y a la cual se refiere al acercarse el momento de concluir su misión terrenal.',
+references: 'Juan 17:1-5; Juan 17:24; Juan 1:1-2'
+),
+StudySection(
+title: '11. Juan 17:24: el amor del Padre antes de la fundación del mundo',
+content:
+'Jesús declara que el Padre lo amó antes de la fundación del mundo. El versículo presenta una relación de amor anterior a la existencia de la creación. El Padre y el Hijo no aparecen como una sola persona, sino como dos personas que mantienen una comunión eterna. La relación entre ambos no comenzó cuando el Hijo vino al mundo. La creación es posterior a esa comunión.',
+references: 'Juan 17:24; Juan 1:1-2; Juan 3:35'
+),
+StudySection(
+title: '12. Juan 16:28: salí del Padre y he venido al mundo',
+content:
+'Jesús resume su misión diciendo que salió del Padre, vino al mundo y después dejaría el mundo para regresar al Padre. El lenguaje presenta un movimiento desde la comunión celestial hacia la existencia humana y posteriormente el retorno a la gloria. El pasaje no debe interpretarse como si el Hijo hubiera comenzado a existir al ser enviado. La misión histórica del Hijo presupone su existencia anterior.',
+references: 'Juan 16:27-30; Juan 13:3; Juan 17:5'
+),
+StudySection(
+title: '13. Filipenses 2:6: Cristo existía en forma de Dios',
+content:
+'Pablo enseña que Cristo, existiendo en forma de Dios, tomó voluntariamente el camino de la humillación. La expresión forma de Dios describe una condición que precede a su manifestación como siervo. El pasaje no comienza hablando de un hombre que después recibe una posición elevada, sino de Cristo en una condición divina que asume la humillación. La preexistencia es fundamental para comprender el movimiento del texto desde su condición exaltada hasta su obediencia humana.',
+references: 'Filipenses 2:5-8; Juan 1:1; Colosenses 1:15-17'
+),
+StudySection(
+title: '14. Filipenses 2:7: se despojó a sí mismo',
+content:
+'La expresión se despojó a sí mismo ha sido objeto de diferentes interpretaciones. El contexto explica cómo ocurrió ese despojamiento: Cristo tomó forma de siervo y se hizo semejante a los hombres. El texto no afirma que abandonó su naturaleza divina ni que dejó de ser quien era eternamente. Su humillación consistió en asumir la condición de siervo y obedecer hasta la muerte de cruz. La encarnación fue una verdadera humillación voluntaria, no una pérdida de su divinidad.',
+references: 'Filipenses 2:6-8; Juan 1:14; Hebreos 2:14-17'
+),
+StudySection(
+title: '15. Colosenses 1:15-17: Cristo es anterior a toda la creación',
+content:
+'Pablo afirma que Cristo es la imagen del Dios invisible y el primogénito de toda creación. Inmediatamente explica que todas las cosas fueron creadas por medio de él y para él, y que él es antes de todas las cosas. El contexto impide interpretar primogénito como si Cristo fuera el primer ser creado. Su posición es de supremacía y autoridad sobre la creación. Su existencia precede a todas las cosas y su poder las mantiene en existencia.',
+references: 'Colosenses 1:15-17; Salmo 89:27; Hebreos 1:2-3'
+),
+StudySection(
+title: '16. Hebreos 1:2: Dios hizo el universo por medio del Hijo',
+content:
+'Hebreos enseña que Dios hizo el universo por medio del Hijo. La creación no es presentada como un acontecimiento en el que Cristo aparece como una criatura posterior, sino como una obra realizada por medio de él. El Hijo es heredero de todas las cosas y participa en la creación. Esta declaración coincide con el testimonio de Juan y Pablo sobre la relación del Hijo con el universo.',
+references: 'Hebreos 1:1-2; Juan 1:3; Colosenses 1:16'
+),
+StudySection(
+title: '17. Hebreos 1:8-12: el Hijo permanece para siempre',
+content:
+'El autor de Hebreos aplica al Hijo declaraciones relacionadas con su trono, su justicia y su relación con la creación. Después utiliza palabras del Salmo 102 sobre la permanencia de los cielos y de la tierra, destacando que el Hijo permanece cuando todo lo creado cambia. El argumento presenta al Hijo como superior a los ángeles y como aquel cuya permanencia supera la de la creación.',
+references: 'Salmo 45:6-7; Salmo 102:25-27; Hebreos 1:8-12'
+),
+StudySection(
+title: '18. Miqueas 5:2: sus salidas son desde la eternidad',
+content:
+'Miqueas anuncia que de Belén saldría el gobernante de Israel y declara que sus salidas son desde el principio, desde los días de la eternidad, según la traducción tradicional. El pasaje relaciona el nacimiento histórico del Mesías con una procedencia que supera el tiempo de su aparición en Belén. Debe reconocerse que existen discusiones sobre el alcance exacto de la expresión hebrea, pero dentro del testimonio cristiano este texto se considera una referencia importante a la antigüedad y preexistencia del Mesías.',
+references: 'Miqueas 5:2; Mateo 2:4-6; Juan 1:1-3'
+),
+StudySection(
+title: '19. Isaías 9:6: el niño prometido y sus títulos extraordinarios',
+content:
+'Isaías anuncia el nacimiento de un niño que recibirá títulos como Admirable, Consejero, Dios fuerte y Padre eterno. El pasaje presenta al Mesías como un gobernante cuya autoridad y reino serán permanentes. Su nacimiento humano no limita la grandeza de su identidad. La profecía debe estudiarse con atención para distinguir los títulos mesiánicos de la identidad personal del Padre, sin confundir al Hijo con él.',
+references: 'Isaías 9:6-7; Lucas 1:31-33; Juan 1:14'
+),
+StudySection(
+title: '20. La sabiduría y la Palabra en la creación',
+content:
+'El Antiguo Testamento presenta la sabiduría y la palabra de Dios relacionadas con la creación y la revelación. Proverbios 8 utiliza un lenguaje poético en el que la sabiduría aparece personificada. Algunos intérpretes cristianos han relacionado este pasaje con el Hijo, pero es necesario reconocer su género literario y no convertir cada detalle de la personificación en una descripción directa de Cristo. Las afirmaciones más explícitas sobre la participación del Hijo en la creación se encuentran en Juan 1:1-3, Colosenses 1:16 y Hebreos 1:2.',
+references: 'Proverbios 8:22-31; Juan 1:1-3; 1 Corintios 1:24; Colosenses 1:16'
+),
+StudySection(
+title: '21. La aparición del Ángel de Jehová y su relación con Cristo',
+content:
+'En el Antiguo Testamento, el Ángel de Jehová aparece en relatos donde habla con autoridad divina y, en ocasiones, es identificado estrechamente con Jehová. Algunos intérpretes cristianos han visto en ciertas apariciones una manifestación del Hijo antes de la encarnación. Sin embargo, no todos los pasajes permiten establecer esa identificación con certeza. Es importante presentar esta interpretación como una posibilidad teológica histórica y no como una afirmación explícita de cada relato. La doctrina de la preexistencia debe fundamentarse principalmente en los textos claros del Nuevo Testamento.',
+references: 'Génesis 16:7-13; Génesis 22:11-18; Éxodo 3:1-6; Jueces 13:17-22; Juan 1:1-3'
+),
+StudySection(
+title: '22. La relación eterna entre el Padre y el Hijo',
+content:
+'La preexistencia de Cristo no debe entenderse como una existencia solitaria. Jesús habla de la gloria que compartía con el Padre antes de la creación y del amor que el Padre le tenía desde antes de la fundación del mundo. Estas declaraciones revelan una relación personal anterior al universo. El Padre no comenzó a ser Padre cuando Jesús nació de María, ni el Hijo comenzó a existir en ese momento. La relación entre ambos pertenece a la realidad eterna de Dios.',
+references: 'Juan 1:1-2; Juan 17:5, 24; Juan 3:35'
+),
+StudySection(
+title: '23. El Hijo como participante en la creación',
+content:
+'Las Escrituras atribuyen al Hijo una participación directa en la creación. Juan declara que todas las cosas fueron hechas por medio del Verbo. Pablo afirma que todo fue creado por medio de Cristo y para él. Hebreos enseña que Dios hizo el universo por medio del Hijo. Estos testimonios convergen en una misma enseñanza: Cristo no pertenece al conjunto de las cosas creadas, sino que participa en la obra creadora de Dios.',
+references: 'Juan 1:3; 1 Corintios 8:6; Colosenses 1:16-17; Hebreos 1:2'
+),
+StudySection(
+title: '24. El Hijo sustenta todas las cosas',
+content:
+'La obra de Cristo no terminó con la creación. Hebreos declara que sustenta todas las cosas con la palabra de su poder. Colosenses enseña que todas las cosas subsisten en él. El universo no es presentado como una realidad independiente de Cristo, sino como una creación que depende de su autoridad y poder. Esta función sustentadora constituye otro testimonio de su grandeza y naturaleza divina.',
+references: 'Colosenses 1:17; Hebreos 1:3; Juan 1:3'
+),
+StudySection(
+title: '25. Cristo antes de Abraham',
+content:
+'Juan 8:58 no solamente enseña que Jesús existía antes de Abraham, sino que presenta una declaración extraordinaria sobre su identidad. Abraham pertenece a la historia humana y tuvo un comienzo, mientras que Jesús habla de su existencia anterior a él. El contexto relaciona esta afirmación con la identidad que Jesús reclama. La preexistencia de Cristo no se limita a unos siglos anteriores a su nacimiento, sino que se extiende hasta antes de toda la creación.',
+references: 'Juan 8:52-59; Juan 1:1-3; Miqueas 5:2'
+),
+StudySection(
+title: '26. Cristo y la gloria anterior a su encarnación',
+content:
+'En Juan 17:5, Jesús habla de la gloria que tenía con el Padre antes de que existiera el mundo. Esta declaración muestra que la encarnación no fue el comienzo de su gloria ni de su relación con el Padre. El Hijo asumió la condición humana y vivió en humillación, pero su existencia y gloria anteriores permanecen como parte de su identidad. El pasaje es especialmente importante para comprender la relación entre eternidad y encarnación.',
+references: 'Juan 17:1-5; Filipenses 2:6-8; Hebreos 1:3'
+),
+StudySection(
+title: '27. Cristo enviado por el Padre',
+content:
+'El lenguaje del envío aparece constantemente en los Evangelios. El Padre envía al Hijo para realizar la obra de salvación. El envío no significa que el Hijo sea una criatura que comenzó a existir en el momento de recibir una misión. Significa que una persona distinta del Padre cumple una misión dentro del propósito eterno de Dios. La relación entre quien envía y quien es enviado demuestra distinción personal y unidad de propósito.',
+references: 'Juan 3:16-17; Juan 5:36-38; Juan 6:38; Gálatas 4:4-5'
+),
+StudySection(
+title: '28. La preexistencia y la encarnación no son lo mismo',
+content:
+'La preexistencia se refiere a la existencia del Hijo antes de la creación, mientras que la encarnación se refiere al acontecimiento por el cual asumió una naturaleza humana. No deben confundirse estos dos conceptos. El Hijo eterno no se convirtió en una criatura al encarnarse, sino que asumió una humanidad real. Esta distinción permite comprender por qué los Evangelios describen a Jesús experimentando hambre, cansancio y sufrimiento sin negar las afirmaciones sobre su divinidad.',
+references: 'Juan 1:1-14; Filipenses 2:6-8; Hebreos 2:14-18'
+),
+StudySection(
+title: '29. La preexistencia y la verdadera humanidad de Jesús',
+content:
+'Creer que Cristo existía eternamente no significa negar su humanidad. Jesús nació de una mujer, creció, aprendió, experimentó emociones humanas, sufrió y murió. Estas experiencias fueron reales y no una apariencia. El Hijo eterno asumió una naturaleza humana completa para representar a la humanidad y realizar la obra de redención. La fe cristiana debe conservar ambas verdades: el Hijo es eterno y Jesucristo es verdaderamente hombre.',
+references: 'Lucas 2:40, 52; Juan 4:6; Juan 11:35; Gálatas 4:4; Hebreos 2:14-17'
+),
+StudySection(
+title: '30. La expresión primogénito y la eternidad de Cristo',
+content:
+'Colosenses 1:15 llama a Cristo primogénito de toda creación. Esta expresión ha sido interpretada incorrectamente cuando se separa de los versículos siguientes. Pablo explica que todas las cosas fueron creadas por medio de Cristo y para él, y que él es antes de todas ellas. En el lenguaje bíblico, primogénito puede expresar supremacía y posición de herencia. Por tanto, el contexto no permite concluir que Cristo sea simplemente el primer ser creado.',
+references: 'Salmo 89:27; Colosenses 1:15-18; Hebreos 1:2-3'
+),
+StudySection(
+title: '31. La expresión principio de la creación de Dios',
+content:
+'Apocalipsis 3:14 llama a Cristo el principio de la creación de Dios. La palabra griega arché puede expresar principio, origen, fuente o autoridad según el contexto. No debe concluirse automáticamente que Cristo fue la primera criatura. El resto del testimonio bíblico lo presenta como aquel por medio de quien todas las cosas fueron creadas. La interpretación debe considerar el significado de la palabra y la enseñanza general sobre la creación.',
+references: 'Apocalipsis 3:14; Juan 1:3; Colosenses 1:16-17; Hebreos 1:2'
+),
+StudySection(
+title: '32. La declaración el Padre es mayor que yo',
+content:
+'Juan 14:28 registra que Jesús declara que el Padre es mayor que él. El contexto habla de su partida y de su misión terrenal. Esta declaración debe relacionarse con la condición de humillación que el Hijo asumió al encarnarse. No es correcto utilizarla para negar todos los textos que afirman su preexistencia y divinidad. Juan también enseña que el Hijo existía antes del mundo, que comparte gloria con el Padre y que debe recibir el mismo honor que él.',
+references: 'Juan 5:23; Juan 14:28; Juan 17:5; Filipenses 2:6-8'
+),
+StudySection(
+title: '33. La relación entre la eternidad del Hijo y su obediencia',
+content:
+'El Hijo eterno cumplió una misión de obediencia durante su encarnación. Su obediencia no demuestra que haya comenzado a existir ni que carezca de naturaleza divina. La Biblia presenta su obediencia como una expresión de su misión redentora y de su verdadera humanidad. El Hijo se sometió voluntariamente al propósito del Padre para llevar a cabo la salvación. La relación entre eternidad y obediencia debe comprenderse sin confundir la distinción personal con una diferencia de naturaleza.',
+references: 'Juan 6:38; Juan 8:29; Filipenses 2:5-8; Hebreos 5:8-9'
+),
+StudySection(
+title: '34. La preexistencia del Hijo y la obra del Espíritu Santo',
+content:
+'El Espíritu Santo también aparece relacionado con la encarnación y la misión de Jesucristo. El Espíritu intervino en la concepción de Jesús, descendió sobre él en su bautismo y estuvo presente en su ministerio. Estos acontecimientos no significan que el Espíritu haya creado la persona del Hijo, sino que describen su participación en la obra de la encarnación y la redención. El Padre, el Hijo y el Espíritu actúan en unidad sin confundirse personalmente.',
+references: 'Mateo 1:18-20; Mateo 3:16-17; Lucas 1:35; Juan 1:32-34'
+),
+StudySection(
+title: '35. La preexistencia y la identidad del Mesías prometido',
+content:
+'Las promesas mesiánicas del Antiguo Testamento preparan el camino para comprender la venida de Cristo. El Mesías sería descendiente de David, nacería en Belén y gobernaría con justicia. El Nuevo Testamento identifica a Jesús como el cumplimiento de estas promesas. La preexistencia del Hijo no elimina su verdadera descendencia humana, sino que muestra que aquel que entró en la historia como descendiente de David ya existía antes de su nacimiento.',
+references: '2 Samuel 7:12-16; Miqueas 5:2; Mateo 1:1; Lucas 1:31-33; Romanos 1:3-4'
+),
+StudySection(
+title: '36. Objeción: si Jesús nació, entonces comenzó a existir',
+content:
+'Esta conclusión confunde el nacimiento de la humanidad de Cristo con el comienzo de la existencia del Hijo. Juan distingue claramente entre el Verbo que existía en el principio y el momento en que se hizo carne. El nacimiento de Jesús fue real, pero no constituye el origen de su existencia personal. La encarnación es el acontecimiento histórico en el que el Hijo eterno asumió la naturaleza humana.',
+references: 'Juan 1:1-3, 14; Gálatas 4:4-5; Filipenses 2:6-8'
+),
+StudySection(
+title: '37. Objeción: si el Hijo fue enviado, tuvo que comenzar a existir',
+content:
+'Ser enviado no significa necesariamente comenzar a existir. En el lenguaje bíblico, el envío describe una misión y una relación entre quien envía y quien es enviado. Jesús afirma que salió del Padre y vino al mundo, y también habla de la gloria que tenía con el Padre antes de la creación. Por tanto, su envío histórico no debe confundirse con el comienzo de su existencia.',
+references: 'Juan 16:28; Juan 17:5; Gálatas 4:4'
+),
+StudySection(
+title: '38. Objeción: si Cristo es primogénito, debe ser creado',
+content:
+'El título primogénito no siempre indica que alguien sea el primero en ser creado. En la Biblia puede señalar autoridad, privilegio y posición de herencia. Colosenses 1:15-18 utiliza el título dentro de un argumento que presenta a Cristo como creador, anterior a todas las cosas y cabeza de la iglesia. El contexto completo debe dirigir la interpretación y no una definición aislada de la palabra.',
+references: 'Salmo 89:27; Colosenses 1:15-18; Hebreos 1:2'
+),
+StudySection(
+title: '39. La preexistencia como fundamento de la adoración a Cristo',
+content:
+'La adoración cristiana reconoce que Jesucristo no es una criatura exaltada por encima de otras, sino el Hijo eterno que comparte la naturaleza divina. Los apóstoles lo presentan como digno de recibir honor, gloria y adoración. La preexistencia explica por qué su autoridad no depende únicamente de su resurrección o de su exaltación histórica. Su dignidad pertenece a su identidad eterna.',
+references: 'Juan 1:1-3; Juan 5:23; Hebreos 1:6-8; Apocalipsis 5:11-14'
+),
+StudySection(
+title: '40. La preexistencia del Hijo y la doctrina de la Trinidad',
+content:
+'La preexistencia de Jesucristo debe comprenderse dentro de la doctrina de la Trinidad. El Hijo existe eternamente en relación con el Padre y no es la misma persona que él. El Espíritu Santo también es presentado como persona divina, distinta del Padre y del Hijo. La fe trinitaria confiesa un solo Dios en tres personas, sin dividir la esencia divina ni confundir las personas. La eternidad del Hijo es indispensable para reconocer que la relación entre el Padre y el Hijo no comenzó con la encarnación.',
+references: 'Mateo 28:19; Juan 1:1-3; Juan 17:5, 24; 2 Corintios 13:14'
+),
+],
+conclusion:
+'La enseñanza bíblica sobre la preexistencia de Jesucristo es clara: el Hijo existía antes de la creación, estaba en comunión con el Padre, participó en la creación y compartía gloria con él antes de que el mundo existiera. Su nacimiento en Belén no fue el comienzo de su existencia, sino el acontecimiento histórico en el que el Verbo eterno se hizo carne. Las declaraciones sobre su obediencia y humillación describen su misión redentora y su verdadera humanidad, no una negación de su divinidad. La iglesia debe confesar a Jesucristo como el Hijo eterno, distinto del Padre, plenamente divino y verdaderamente humano.'
+),
+
+Study(
+number: '24',
+title: 'La encarnación del Hijo eterno: Jesucristo verdadero Dios y verdadero hombre',
+subtitle: 'El Verbo eterno asumió una naturaleza humana sin dejar de ser plenamente Dios.',
+introduction:
+'La encarnación es uno de los acontecimientos centrales de la fe cristiana. El Hijo eterno de Dios, sin dejar de poseer la naturaleza divina, asumió una verdadera naturaleza humana y entró en la historia como Jesucristo. Juan 1:14 declara que el Verbo fue hecho carne y habitó entre nosotros. Esta afirmación no significa que la divinidad se transformara en humanidad, ni que Dios dejara de ser Dios, sino que el Hijo asumió una humanidad completa. Comprender esta doctrina permite reconocer quién es Jesucristo, por qué su obra salvadora tiene un valor único y cómo se relaciona su encarnación con la doctrina bíblica de la Trinidad.',
+sections: [
+StudySection(
+title: '1. ¿Qué significa la encarnación?',
+content:
+'La palabra encarnación expresa la verdad de que el Hijo eterno asumió una naturaleza humana. Juan 1:14 enseña que el Verbo fue hecho carne. Esto significa que Jesucristo entró verdaderamente en nuestra condición humana, experimentó el desarrollo propio de la vida humana y habitó entre las personas. La encarnación no fue una apariencia ni una representación temporal. El Hijo se hizo verdaderamente hombre sin dejar de ser verdaderamente Dios.',
+references: 'Juan 1:1-3,14; Filipenses 2:6-8; Hebreos 2:14.'
+),
+StudySection(
+title: '2. El Verbo existía antes de la encarnación',
+content:
+'La humanidad de Jesús comenzó con su nacimiento histórico, pero su existencia personal no comenzó en Belén. Juan 1:1 declara que el Verbo ya existía en el principio, que estaba con Dios y que era Dios. Por tanto, la encarnación no fue el comienzo de la existencia del Hijo, sino el momento en que el Hijo eterno asumió una naturaleza humana. Esta distinción es fundamental para comprender que Jesucristo no es un ser humano que posteriormente llegó a ser divino.',
+references: 'Juan 1:1-3; Juan 17:5; Colosenses 1:16-17.'
+),
+StudySection(
+title: '3. El nacimiento de Jesús y la obra del Espíritu Santo',
+content:
+'Mateo y Lucas presentan el nacimiento de Jesús como un acontecimiento sobrenatural. María concibió por obra del Espíritu Santo, sin intervención de un padre humano. El ángel explicó que el Espíritu Santo vendría sobre ella y que el poder del Altísimo la cubriría. Esto no significa que el Espíritu Santo fuera el Padre del Hijo, sino que participó en la obra divina mediante la cual el Hijo asumió naturaleza humana. El relato muestra la distinción personal entre el Padre, el Hijo y el Espíritu Santo.',
+references: 'Mateo 1:18-23; Lucas 1:30-35.'
+),
+StudySection(
+title: '4. El Hijo no dejó de ser Dios al hacerse hombre',
+content:
+'Filipenses 2:6-8 enseña que Cristo, existiendo en forma de Dios, tomó forma de siervo y se hizo semejante a los hombres. El pasaje no afirma que abandonara su naturaleza divina, sino que asumió una condición humana humilde. La encarnación no fue una disminución de su divinidad. El Hijo continuó siendo plenamente Dios mientras vivió una verdadera vida humana. Su humillación consistió en asumir la condición de siervo y obedecer hasta la muerte.',
+references: 'Filipenses 2:5-8; Colosenses 2:9; Juan 1:14.'
+),
+StudySection(
+title: '5. Jesucristo posee una verdadera naturaleza humana',
+content:
+'La humanidad de Jesús no fue simbólica ni incompleta. Nació, creció, tuvo hambre, sed, cansancio, experimentó tristeza y conoció las limitaciones propias de la existencia humana. Estas experiencias no fueron una actuación. El Hijo asumió una humanidad real para identificarse con nosotros y realizar la obra que correspondía al verdadero representante de la humanidad. Negar su humanidad completa contradice el testimonio de los Evangelios y de las cartas apostólicas.',
+references: 'Lucas 2:40,52; Mateo 4:2; Juan 4:6-7; Juan 11:35; Hebreos 2:17.'
+),
+StudySection(
+title: '6. Jesucristo posee una verdadera naturaleza divina',
+content:
+'La humanidad de Jesús no elimina su divinidad. Las Escrituras atribuyen al Hijo características, títulos, obras y honores que corresponden a Dios. Juan 1:1 declara que el Verbo era Dios; Colosenses 2:9 afirma que en Cristo habita corporalmente toda la plenitud de la Deidad. Por eso, la confesión cristiana debe mantener juntas las dos verdades: Jesús es verdaderamente hombre y verdaderamente Dios.',
+references: 'Juan 1:1; Juan 20:28; Colosenses 2:9; Hebreos 1:8.'
+),
+StudySection(
+title: '7. Dos naturalezas y una sola persona',
+content:
+'La doctrina cristiana histórica expresa que Jesucristo es una sola persona con dos naturalezas: divina y humana. No son dos Cristos ni dos personas independientes que actúan juntas. El mismo Hijo eterno es quien nació de María, vivió entre los hombres, murió y resucitó. Su naturaleza divina no se convirtió en humana, y su naturaleza humana no se convirtió en divina. Ambas naturalezas permanecen distintas, unidas en la única persona de Jesucristo.',
+references: 'Juan 1:14; Romanos 9:5; Filipenses 2:6-8; Colosenses 2:9.'
+),
+StudySection(
+title: '8. La encarnación no significa que Dios dejó de ser Espíritu',
+content:
+'Jesús enseñó que Dios es Espíritu. La encarnación no significa que la esencia divina se transformara en un cuerpo humano o que el Padre y el Espíritu Santo se encarnaran. El sujeto de la encarnación es el Hijo. El Padre envió al Hijo y el Espíritu Santo participó en la obra de su concepción humana. Así se conserva la distinción personal dentro de la Trinidad y se reconoce que el Hijo asumió una naturaleza humana.',
+references: 'Juan 4:24; Juan 3:16-17; Lucas 1:35; Gálatas 4:4.'
+),
+StudySection(
+title: '9. El significado de que el Verbo habitó entre nosotros',
+content:
+'Juan utiliza una expresión que comunica la idea de establecer morada o habitar entre las personas. El evangelista presenta a Jesús como la revelación visible de la gloria divina. En el Antiguo Testamento, el tabernáculo representaba la presencia de Dios en medio de su pueblo. En Jesucristo, la presencia y la gloria de Dios se manifiestan de una manera decisiva. El Hijo no es simplemente un mensajero que habla acerca de Dios: es el Verbo eterno que se hizo carne.',
+references: 'Éxodo 40:34-35; Juan 1:14,18; Juan 14:9.'
+),
+StudySection(
+title: '10. ¿Por qué Jesús tuvo que ser verdaderamente humano?',
+content:
+'Hebreos 2 explica que el Hijo participó de carne y sangre para identificarse con sus hermanos y realizar su obra redentora. La humanidad de Cristo está relacionada con su obediencia, sufrimiento, muerte y representación de aquellos que vino a salvar. No podía tratarse de una humanidad aparente. Su identificación con nosotros fue real, aunque él vivió sin pecado.',
+references: 'Hebreos 2:14-18; Romanos 5:18-19; 1 Pedro 2:22.'
+),
+StudySection(
+title: '11. ¿Por qué Jesús tenía que ser verdaderamente Dios?',
+content:
+'La identidad divina del Hijo está relacionada con la suficiencia de su obra salvadora y con la revelación perfecta del Padre. Jesús no es simplemente un profeta que señala el camino hacia Dios. Es el Hijo eterno que revela al Padre, tiene autoridad divina y sostiene todas las cosas. La salvación no descansa en la obra de un ser humano independiente de Dios, sino en la obra del Hijo encarnado.',
+references: 'Juan 1:18; Juan 14:6-9; Colosenses 1:15-20; Hebreos 1:1-3.'
+),
+StudySection(
+title: '12. El crecimiento de Jesús en sabiduría y estatura',
+content:
+'Lucas 2:52 declara que Jesús crecía en sabiduría, estatura y gracia. Este crecimiento demuestra que su humanidad fue real. El Hijo experimentó el desarrollo humano y participó de las etapas propias de la vida. El crecimiento humano de Jesús no significa que su naturaleza divina fuera incompleta o imperfecta. Describe su experiencia humana dentro de la encarnación.',
+references: 'Lucas 2:40,52; Hebreos 5:8.'
+),
+StudySection(
+title: '13. El hambre, la sed y el cansancio de Cristo',
+content:
+'Los Evangelios muestran que Jesús experimentó hambre después de ayunar, tuvo sed en el pozo de Jacob y se cansó durante su viaje. Estos relatos son testimonios de su humanidad auténtica. No contradicen su divinidad, porque las experiencias humanas pertenecen a la naturaleza humana que asumió. El Hijo eterno vivió realmente dentro de las condiciones de la existencia humana.',
+references: 'Mateo 4:2; Juan 4:6-7; Juan 19:28.'
+),
+StudySection(
+title: '14. Las emociones humanas de Jesús',
+content:
+'Jesús manifestó compasión, tristeza, indignación justa y amor. Lloró ante la muerte de Lázaro y se conmovió profundamente frente al sufrimiento humano. Estas expresiones muestran que su humanidad incluía una vida emocional verdadera. No debemos interpretar sus emociones como señales de una divinidad limitada, sino como parte de la humanidad completa que asumió.',
+references: 'Juan 11:33-36; Mateo 9:36; Marcos 3:5.'
+),
+StudySection(
+title: '15. La voluntad humana de Jesucristo',
+content:
+'En Getsemaní, Jesús expresó su angustia y sometió su voluntad humana a la voluntad del Padre. Esto no significa que existieran dos personas en Cristo. Significa que el Hijo encarnado poseía una voluntad humana verdadera y vivió en obediencia perfecta. Su oración revela una relación personal con el Padre y la realidad de su humanidad.',
+references: 'Mateo 26:36-46; Lucas 22:41-42; Juan 6:38.'
+),
+StudySection(
+title: '16. Las tentaciones de Jesús y su ausencia de pecado',
+content:
+'Hebreos enseña que Jesús fue tentado en todo según nuestra semejanza, pero sin pecado. Su humanidad fue auténtica y estuvo expuesta a pruebas reales, aunque nunca cedió al pecado. La tentación no demuestra una naturaleza pecaminosa. Cristo permaneció obediente y fiel al Padre. Su victoria es fundamental para comprender su perfecta santidad.',
+references: 'Mateo 4:1-11; Hebreos 4:15; 1 Pedro 2:22.'
+),
+StudySection(
+title: '17. El título Hijo del Hombre',
+content:
+'Jesús utilizó frecuentemente el título Hijo del Hombre para referirse a sí mismo. Este título expresa su identificación con la humanidad y también tiene un trasfondo mesiánico y celestial en Daniel 7. Allí aparece uno semejante a hijo de hombre que recibe dominio, gloria y reino. Por tanto, el título no debe reducirse a una referencia a su humanidad; también señala su autoridad y dignidad mesiánica.',
+references: 'Daniel 7:13-14; Marcos 10:45; Mateo 26:63-64.'
+),
+StudySection(
+title: '18. El título Hijo de Dios',
+content:
+'El título Hijo de Dios identifica a Jesús en su relación única con el Padre. No significa que el Hijo haya comenzado a existir mediante un proceso biológico ni que sea una criatura. Juan presenta al Hijo como aquel que existía desde el principio y compartía la naturaleza divina. La filiación de Cristo debe comprenderse dentro de la relación eterna entre el Padre y el Hijo.',
+references: 'Juan 1:1,14,18; Juan 3:16-18; Hebreos 1:5-8.'
+),
+StudySection(
+title: '19. La encarnación y la relación entre el Padre y el Hijo',
+content:
+'La encarnación revela que el Padre y el Hijo son personas distintas. El Padre envió al Hijo al mundo, y el Hijo vino para cumplir la voluntad del Padre. Esta relación no comenzó con el nacimiento de Jesús, porque el Hijo existía eternamente. La misión histórica de Cristo manifiesta una relación personal que ya existía antes de la creación.',
+references: 'Juan 3:16-17; Juan 5:23; Juan 6:38; Juan 17:5.'
+),
+StudySection(
+title: '20. La participación del Espíritu Santo en la encarnación',
+content:
+'Lucas 1:35 atribuye al Espíritu Santo una participación directa en la concepción de Jesús. Esta obra no convierte al Espíritu en el Hijo ni confunde las personas divinas. El Espíritu actúa en perfecta unidad con el Padre y el Hijo. La encarnación muestra la acción coordinada de la Trinidad en la historia de la salvación, aunque solamente el Hijo asumió naturaleza humana.',
+references: 'Lucas 1:35; Mateo 1:18-20; Juan 1:14.'
+),
+StudySection(
+title: '21. El significado de Emmanuel',
+content:
+'Mateo interpreta el nacimiento de Jesús mediante el nombre Emmanuel, que significa Dios con nosotros. Esta expresión anuncia que Dios se acercó a la humanidad de una manera extraordinaria mediante su Hijo encarnado. No enseña que el Padre y el Espíritu Santo se convirtieran en Jesús, sino que el Hijo vino verdaderamente al mundo y manifestó la presencia divina.',
+references: 'Isaías 7:14; Mateo 1:22-23; Juan 1:14.'
+),
+StudySection(
+title: '22. El cuerpo humano de Cristo fue real',
+content:
+'La enseñanza apostólica insiste en que Jesucristo vino en carne. Su cuerpo no fue una ilusión ni una apariencia. El Hijo asumió una humanidad física y real. Esta verdad es importante porque su sufrimiento y su muerte ocurrieron verdaderamente. Una encarnación aparente destruiría el sentido histórico de su obra y contradiría el testimonio de los apóstoles.',
+references: 'Juan 1:14; 1 Juan 4:2-3; 2 Juan 1:7; Hebreos 10:5.'
+),
+StudySection(
+title: '23. La sangre y la muerte de Jesucristo',
+content:
+'Jesús participó de carne y sangre y entregó su vida en la cruz. Su muerte fue real, no una representación. El Hijo experimentó verdaderamente la muerte en su naturaleza humana, sin que la naturaleza divina dejara de existir. La muerte de Cristo debe entenderse desde la unidad de su persona: quien murió en la cruz fue el Hijo eterno encarnado.',
+references: 'Hebreos 2:14; Romanos 5:8; 1 Pedro 3:18.'
+),
+StudySection(
+title: '24. ¿La naturaleza divina de Cristo murió?',
+content:
+'Las Escrituras enseñan que Jesucristo murió realmente, pero no presentan la divinidad como una naturaleza que dejó de existir. La muerte afecta la condición humana de Cristo. El Hijo eterno no dejó de ser Dios durante su muerte. Es correcto afirmar que el Hijo murió por nosotros, siempre que se comprenda que experimentó la muerte en su humanidad y que su existencia divina no fue destruida.',
+references: 'Hechos 2:23-24; Romanos 1:3-4; 1 Pedro 3:18.'
+),
+StudySection(
+title: '25. La resurrección confirma la identidad de Cristo',
+content:
+'La resurrección de Jesús confirma la victoria del Hijo sobre la muerte. El mismo Jesucristo que fue crucificado resucitó corporalmente. La resurrección no fue la creación de una nueva persona ni el abandono de su humanidad, sino la victoria de Cristo y la vindicación de su misión. El Nuevo Testamento presenta al Padre actuando en la resurrección del Hijo y también atribuye a Jesús autoridad sobre su propia vida.',
+references: 'Juan 2:19-21; Juan 10:17-18; Hechos 2:24; Romanos 6:9.'
+),
+StudySection(
+title: '26. La humanidad glorificada de Jesucristo',
+content:
+'Después de resucitar, Jesús se presentó ante sus discípulos y les mostró que era él mismo. Su cuerpo resucitado era real y glorificado. La humanidad de Cristo no fue descartada después de completar su misión terrenal. El Señor resucitado continúa siendo el mediador entre Dios y los seres humanos, y su humanidad glorificada forma parte de su identidad.',
+references: 'Lucas 24:36-43; Juan 20:26-29; 1 Timoteo 2:5.'
+),
+StudySection(
+title: '27. Jesucristo como mediador entre Dios y los hombres',
+content:
+'Pablo declara que hay un solo Dios y un solo mediador entre Dios y los hombres: Jesucristo hombre. Este pasaje destaca la humanidad del mediador. Cristo puede representarnos porque asumió nuestra naturaleza humana, y su identidad divina distingue su obra de la de cualquier otro mediador humano. Su mediación se fundamenta en quién es y en lo que realizó.',
+references: '1 Timoteo 2:5-6; Hebreos 8:6; Hebreos 9:15.'
+),
+StudySection(
