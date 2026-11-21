@@ -19866,271 +19866,89 @@ La conclusión cristiana se amplía a la luz de la resurrección de Jesús: el t
     ],
     conclusion: '''Eclesiastés enseña a no depositar la esperanza final en el dinero, el placer, la reputación o los logros. Invita a recibir con gratitud los bienes cotidianos, trabajar con responsabilidad y recordar que la vida es breve. A la luz de la resurrección de Jesús, el trabajo en el Señor no es vano. La Iglesia vive con alegría sobria, justicia y esperanza, sin absolutizar los bienes temporales.''',
   ),
-number: '105',
+  Study(
+    number: '105',
     title: "Los profetas de Israel: llamado, mensaje y responsabilidad del mensajero",
-    subtitle: "La vocación profética, la autoridad de la palabra de Dios y la fidelidad del mensajero.",
-    introduction: '''
-Los profetas de Israel fueron llamados para comunicar la palabra de Dios en momentos decisivos de la historia del pacto. Denunciaron idolatría e injusticia, llamaron al arrepentimiento, anunciaron juicio y proclamaron restauración. Su autoridad no procedía de prestigio personal, sino del mensaje que habían recibido del Señor.
+    subtitle: "El ministerio profético en el contexto del pacto y su evaluación bíblica.",
+    introduction: '''Los profetas de Israel fueron llamados por Dios para comunicar su palabra a situaciones concretas. Su ministerio incluía denuncia, advertencia, consuelo, anuncio de juicio y proclamación de esperanza. No eran simplemente personas que predecían acontecimientos futuros: eran mensajeros responsables de transmitir fielmente lo que Dios había revelado.
 
-La Escritura presenta distintos tipos de actividad profética: llamados personales, visiones, acciones simbólicas, denuncias públicas, anuncios de juicio y promesas de esperanza. No todos los profetas desempeñaron la misma función ni hablaron en idénticas circunstancias. Para comprenderlos es necesario estudiar su contexto histórico, los destinatarios y el propósito de cada oráculo.
-
-El Nuevo Testamento reconoce la continuidad del testimonio profético y presenta a Jesucristo como la revelación culminante de Dios. La Iglesia debe examinar toda enseñanza, distinguir la profecía bíblica de las afirmaciones humanas y permanecer sometida a la autoridad de las Escrituras.
-''',
+Este estudio examina su contexto, llamado, mensaje y responsabilidad. También establece criterios bíblicos para discernir las afirmaciones proféticas y considera cómo el Nuevo Testamento presenta a Jesucristo como la revelación culminante del Padre.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Profeta es un mensajero llamado para hablar en nombre de Dios. En hebreo, nabi designa al profeta, mientras que expresiones como «vidente» destacan la recepción de una visión. El profeta no era simplemente un adivino ni un comentarista político; su tarea principal era transmitir la palabra divina a una comunidad concreta.
+      StudySection(title: "1. Delimitación y significado del ministerio profético", content: '''Un profeta bíblico es una persona llamada por Dios para comunicar su palabra a una situación concreta. Su ministerio podía incluir denuncia, advertencia, consuelo, anuncio de juicio y proclamación de esperanza. No era simplemente alguien que predecía acontecimientos futuros: era mensajero responsable de transmitir fielmente lo que Dios había revelado.
 
-La profecía podía anunciar acontecimientos futuros, pero también interpretaba el presente a la luz del pacto. El mensaje incluía advertencia, exhortación, denuncia, consuelo y promesa. La fidelidad se medía por la correspondencia con la revelación de Dios, no por la popularidad del mensajero.
-''',
-        references: "Deuteronomio 13:1-5; 18:15-22; Hebreos 1:1-2; 1 Corintios 14:29-33.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los profetas sirvieron durante períodos de monarquía, división del reino, crisis asiria, exilio babilónico y restauración. Algunos actuaron en la corte o cerca de ella; otros se dirigieron al pueblo, a sacerdotes y gobernantes. Los libros proféticos suelen incluir encabezados que ubican el ministerio en reinados determinados.
+La autoridad del profeta no procedía de su personalidad ni de su popularidad, sino del llamado y del mensaje recibido. La Escritura también exige discernir a quienes afirmaban hablar en nombre del Señor sin haber sido enviados por Él.''', references: "Deuteronomio 18:15-22; 1 Samuel 3:19-21; Jeremías 1:4-10."),
+      StudySection(title: "2. El contexto histórico de los profetas", content: '''Los profetas ministraron en distintos períodos: antes de la monarquía, durante los reinos de Israel y Judá, en el exilio y después del retorno. Sus mensajes respondían a circunstancias políticas, sociales y religiosas específicas. Por eso, interpretar un oráculo requiere identificar destinatarios, gobernantes, amenazas, alianzas y prácticas de la época.
 
-La literatura profética contiene poesía, narración, visiones y acciones simbólicas. Isaías, Jeremías y Ezequiel combinan anuncios de juicio con esperanza. Oseas utiliza su experiencia familiar como señal profética; Amós denuncia la opresión; Hageo exhorta a reconstruir el templo. No se debe interpretar un oráculo sin conocer su situación histórica.
-''',
-        references: "1 Reyes 22; Jeremías 23; Ezequiel 1–3; contexto de los profetas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Deuteronomio 18:15-22 establece criterios sobre el profeta y advierte contra hablar presuntuosamente en nombre de Dios. El pueblo debía escuchar la palabra verdadera y rechazar la presunción. En 1 Samuel 3, Samuel recibe su llamado en un período de corrupción sacerdotal y se convierte en profeta reconocido.
+El mensaje profético no puede separarse del pacto. Los profetas llamaban al pueblo a volver al Señor, denunciar la idolatría y practicar justicia. Las advertencias de juicio se relacionaban con la infidelidad persistente, mientras que las promesas de restauración anunciaban la fidelidad de Dios.''', references: "2 Reyes 17:7-23; 2 Crónicas 36:14-21; Jeremías 25:1-14."),
+      StudySection(title: "3. El llamado y la comisión del profeta", content: '''Los relatos de llamado muestran que el ministerio profético dependía de la iniciativa divina. Moisés fue enviado a confrontar a Faraón; Samuel fue llamado desde joven; Isaías recibió una visión de la santidad de Dios; Jeremías fue comisionado antes de nacer; y Ezequiel recibió la tarea de hablar a un pueblo rebelde.
 
-Elías y Eliseo confrontan la idolatría y muestran la autoridad del Señor frente a los cultos de Baal. Los profetas escritores llaman a Israel y Judá a regresar al pacto. Jeremías anuncia juicio por la infidelidad, pero también promete un nuevo pacto (Jeremías 31:31-34). Ezequiel anuncia restauración y un corazón nuevo (Ezequiel 36:24-28).
-''',
-        references: "Deuteronomio 13; 18; 1 Samuel 3; 1 Reyes 18; 22; Jeremías 31; Ezequiel 36.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-El Nuevo Testamento presenta a Juan el Bautista como profeta que prepara el camino del Señor. Jesús reconoce la función de los profetas anteriores y anuncia que las Escrituras dan testimonio de Él. También denuncia a quienes persiguen a los mensajeros de Dios y rechazan la verdad.
+Estos relatos no deben uniformarse como si todos los profetas hubieran tenido idéntica experiencia. Cada llamado se relaciona con una misión particular, pero todos subrayan que el mensajero debe obedecer a Dios por encima de la aprobación humana.''', references: "Éxodo 3:1-12; 1 Samuel 3:1-21; Isaías 6:1-13; Jeremías 1:4-10; Ezequiel 2:1-10."),
+      StudySection(title: "4. La denuncia de la idolatría y la injusticia", content: '''Los profetas confrontaron la adoración de otros dioses y la confianza en alianzas o poderes humanos. También denunciaron la explotación, el soborno, la violencia y la opresión de los vulnerables. Para ellos, la fidelidad al pacto debía reflejarse en el culto y en la vida social.
 
-Hechos describe profetas en la Iglesia primitiva, como Agabo (Hechos 11:27-30; 21:10-11), y Pablo regula el ejercicio de la profecía en la congregación (1 Corintios 14:29-33). La enseñanza apostólica exige examinar y discernir, no aceptar automáticamente toda afirmación que se presente como palabra divina. Hebreos 1:1-2 afirma que Dios habló antiguamente por los profetas y ha hablado por el Hijo.
-''',
-        references: "Mateo 11:7-15; Lucas 24:25-27; Hechos 2:14-21; 11:27-30; 1 Corintios 14:29-33; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Deuteronomio 18:18-22 distingue al mensajero verdadero del que habla presuntuosamente. La señal no debe aislarse del resto de la ley: un mensaje que conduzca a otros dioses contradice la revelación del Señor (Deuteronomio 13:1-5). La fidelidad doctrinal es indispensable.
+Amós condenó a quienes mantenían ceremonias mientras pisoteaban al pobre; Isaías llamó al pueblo a dejar el mal y aprender a hacer el bien. La denuncia profética no era rechazo de toda forma de adoración, sino condena de una religión separada de la obediencia.''', references: "Isaías 1:10-17; Amós 5:21-24; Miqueas 6:6-8; Jeremías 7:1-11."),
+      StudySection(title: "5. El anuncio del juicio y sus propósitos", content: '''El juicio anunciado por los profetas no debe entenderse como explosión arbitraria de ira. Se relaciona con la santidad de Dios, la ruptura del pacto y la persistencia en la injusticia. Las advertencias llamaban al arrepentimiento y explicaban las consecuencias de la rebelión.
 
-Jeremías 23 denuncia a profetas que hablan visiones de su propio corazón y no del Señor. El contraste entre paja y trigo muestra la diferencia entre palabras vacías y la palabra divina que transforma. En 1 Reyes 22, el profeta Micaías se opone a una mayoría que anuncia lo que el rey desea escuchar. La cantidad de voces no determina la verdad.
+La caída de Samaria y Jerusalén mostró que la identidad nacional y las instituciones religiosas no garantizaban inmunidad frente al juicio. Sin embargo, el juicio no agotaba el propósito de Dios: muchos mensajes también anunciaban restauración y esperanza para el remanente.''', references: "Deuteronomio 28:15-68; 2 Reyes 17:18-23; Jeremías 25:8-14; Amós 9:8-15."),
+      StudySection(title: "6. La esperanza, el remanente y la restauración", content: '''Junto con la denuncia, los profetas anunciaron que Dios preservaría un remanente y restauraría a su pueblo. Las promesas incluyen retorno del exilio, renovación del pacto, justicia, paz y esperanza mesiánica. Estas promesas deben interpretarse atendiendo a su contexto histórico y a su desarrollo en el conjunto de las Escrituras.
 
-Hebreos 1:1-2 establece la culminación de la revelación en el Hijo. No significa que Dios haya dejado de ser el Dios que habló por los profetas, sino que la revelación en Cristo es decisiva y superior. La enseñanza posterior debe ser fiel al testimonio apostólico.
-''',
-        references: "Deuteronomio 13:1-5; 18:18-22; Jeremías 23:16-32; 1 Reyes 22:13-28; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La profecía está vinculada con el pacto: los profetas recuerdan la ley, denuncian su quebrantamiento y anuncian las consecuencias de la infidelidad. También se relaciona con la esperanza mesiánica, el nuevo pacto, la restauración y el día del Señor.
+La restauración no significa que el pueblo pudiera ignorar su pecado. La esperanza se fundamenta en la fidelidad de Dios, quien llama al arrepentimiento y promete transformar a su pueblo.''', references: "Isaías 10:20-23; Jeremías 31:31-34; Ezequiel 36:22-28; Miqueas 4:1-5."),
+      StudySection(title: "7. Cómo reconocer al verdadero profeta", content: '''Deuteronomio 13 advierte que una señal extraordinaria no legitima un mensaje que conduce a otros dioses. Deuteronomio 18 enseña que el mensaje falso queda expuesto cuando no se cumple lo anunciado en el nombre del Señor. La fidelidad al Dios del pacto es criterio fundamental.
 
-Los profetas no deben separarse de la ley ni de la sabiduría. La denuncia de Amós contra la injusticia coincide con las exigencias éticas del pacto; la visión de Isaías sobre la santidad de Dios orienta su llamado; Jeremías y Ezequiel explican el exilio como juicio y anuncian restauración.
+La evaluación bíblica no se reduce a una predicción aislada. Debe examinarse si el mensaje concuerda con la revelación divina, si conduce a la obediencia al Señor y si el mensajero habla con veracidad. La Biblia prohíbe usar el nombre de Dios para manipular, intimidar o obtener prestigio.''', references: "Deuteronomio 13:1-5; 18:20-22; Jeremías 23:16-32."),
+      StudySection(title: "8. Jesucristo y el testimonio profético", content: '''Jesús reconoce el testimonio de la Ley y los Profetas y anuncia que las Escrituras dan testimonio de Él. Es presentado como el profeta semejante a Moisés esperado por Israel, pero el Nuevo Testamento también lo identifica como Hijo, Señor y revelación plena del Padre.
 
-El Nuevo Testamento lee las promesas proféticas a la luz de Jesús. Algunas se cumplen directamente en su ministerio; otras describen la esperanza del pueblo de Dios y su consumación. Debe distinguirse lo que el texto afirma de las conjeturas sobre fechas o acontecimientos actuales.
-''',
-        references: "Deuteronomio 18; Amós 5:21-24; Jeremías 31:31-34; Ezequiel 36:24-28; Lucas 24:25-27.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es quien habla y envía mensajeros; el Hijo es la Palabra encarnada y la revelación culminante; el Espíritu Santo inspira la Escritura y capacita a los mensajeros para testificar. Hebreos 1:1-2 distingue la comunicación antigua por los profetas y la revelación final en el Hijo.
+Hebreos 1:1-3 afirma que Dios habló antiguamente por los profetas y que en estos últimos días ha hablado por el Hijo. Esto no desprecia a los profetas anteriores; muestra la culminación de la revelación en Jesucristo.''', references: "Deuteronomio 18:15; Lucas 24:25-27, 44-47; Juan 5:39; Hechos 3:19-23; Hebreos 1:1-3."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre envía y habla por medio de sus mensajeros; el Hijo es la Palabra encarnada y la revelación culminante; el Espíritu Santo inspira y capacita el testimonio profético. El Nuevo Testamento enseña que los profetas hablaron siendo impulsados por el Espíritu, y que el Espíritu da testimonio de Cristo. La distinción de las personas no divide al único Dios.
 
-Primera de Pedro 1:10-12 relaciona la actividad de los profetas con el Espíritu de Cristo que daba testimonio anticipado de los padecimientos y glorias del Mesías. En Hechos 2, el derramamiento del Espíritu cumple la promesa profética y capacita a la Iglesia para anunciar las obras de Dios.
+¿Todo creyente que habla con convicción es profeta? No. ¿Una señal basta para validar un mensaje? No; debe concordar con la revelación de Dios. ¿Los profetas del Antiguo Testamento y los ministros actuales tienen idéntica función? No se debe asumir; cada ministerio debe evaluarse según la enseñanza del Nuevo Testamento.''', references: "Juan 1:1-14; 14:26; 15:26; 2 Pedro 1:20-21; 1 Corintios 12:4-11."),
+      StudySection(title: "10. Aplicación y responsabilidad de la Iglesia", content: '''La Iglesia debe leer a los profetas en su contexto histórico, reconocer la denuncia bíblica de la idolatría y la injusticia, y recibir la esperanza que encuentra cumplimiento en Cristo. También debe examinar con cuidado cualquier afirmación que pretenda tener autoridad divina.
 
-La distinción trinitaria no convierte a las personas en tres fuentes separadas de verdad. El único Dios se revela y actúa; el Padre, el Hijo y el Espíritu son personalmente distintos. La Iglesia debe evaluar sus afirmaciones a la luz de la revelación bíblica y no colocar una supuesta voz profética por encima de la Escritura.
-''',
-        references: "Hebreos 1:1-2; 1 Pedro 1:10-12; Hechos 2:16-21; Juan 14:16-17.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Todo profeta anunciaba el futuro? No. La tarea principal era comunicar la palabra de Dios; podía incluir anuncios futuros, pero también denuncias, llamados al arrepentimiento y consuelo.
-
-¿Una señal cumplida demuestra que cualquier mensaje es verdadero? No. Deuteronomio 13 enseña que incluso una señal no legitima un llamado a la idolatría. La fidelidad al Dios verdadero es esencial.
-
-¿La mayoría de profetas determina la verdad? No. Micaías se opuso a una mayoría que engañaba al rey (1 Reyes 22). La autoridad procede de Dios y su palabra, no del número de seguidores.
-
-¿Puede una profecía actual contradecir la Biblia? No debe aceptarse tal afirmación. La enseñanza apostólica ordena examinarlo todo y retener lo bueno (1 Tesalonicenses 5:20-21); la Escritura conserva autoridad normativa.
-
-¿Hebreos 1:1-2 significa que los profetas ya no tienen valor? No. El Antiguo Testamento sigue siendo Palabra de Dios, pero su testimonio alcanza su culminación en el Hijo.
-''',
-        references: "Deuteronomio 13:1-5; 18:20-22; 1 Reyes 22; 1 Tesalonicenses 5:20-21.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué distingue a un profeta verdadero? Respuesta: La fidelidad al Dios revelado, la coherencia con su palabra y el cumplimiento de lo anunciado cuando el mensaje incluye una predicción (Deuteronomio 13:1-5; 18:20-22).
-
-Pregunta: ¿Por qué los profetas denunciaban a los reyes? Respuesta: Porque la autoridad civil estaba sometida al pacto y no podía justificar idolatría o injusticia (1 Samuel 15; 1 Reyes 21; Amós 5).
-
-Pregunta: ¿Qué lugar tiene Jesús en la profecía? Respuesta: Es el Hijo por quien Dios ha hablado de manera culminante (Hebreos 1:1-2) y aquel a quien señalan las Escrituras (Lucas 24:25-27).
-
-Pregunta: ¿Cómo debe actuar la Iglesia ante una profecía? Respuesta: Debe discernir, examinar y mantener el orden congregacional (1 Corintios 14:29-33; 1 Tesalonicenses 5:20-21).
-
-Pregunta: ¿Puede el mensajero corregir la Escritura? Respuesta: No. El mensajero está sometido a la palabra que anuncia; no posee autoridad para añadir una doctrina contraria al evangelio.
-''',
-        references: "Deuteronomio 13:1-5; 18:20-22; 1 Corintios 14:29-33; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-El ministerio profético enseña que la verdad de Dios no depende de la aprobación humana. Los profetas llamaron a la fidelidad, denunciaron la injusticia y anunciaron esperanza, aun cuando el mensaje resultaba impopular. Su autoridad estaba sometida a la revelación del Señor.
-
-La Iglesia debe leerlos en su contexto histórico y literario, reconocer su testimonio de Cristo y evitar tanto el desprecio de la profecía bíblica como la credulidad ante afirmaciones humanas. Toda enseñanza debe ser examinada a la luz de las Escrituras.
-
-El Padre habla y envía, el Hijo es la revelación culminante y el Espíritu inspira y capacita. La responsabilidad del mensajero es transmitir fielmente la verdad; la del oyente, recibirla con discernimiento y obediencia.
-''',
-        references: "Hebreos 1:1-2; 1 Tesalonicenses 5:20-21; 1 Corintios 14:29-33.",
-      ),
+El ministerio de la palabra exige fidelidad, humildad y responsabilidad. Nadie debe usar el nombre del Señor para controlar conciencias o evitar la evaluación bíblica. La voz profética de las Escrituras sigue llamando al arrepentimiento, a la justicia y a la esperanza en la fidelidad de Dios.''', references: "Miqueas 6:8; Lucas 24:44-47; Hechos 17:11; 2 Timoteo 3:16-17.")
     ],
-    conclusion: '''
-Los profetas fueron mensajeros llamados por Dios para interpretar la historia a la luz del pacto, denunciar idolatría e injusticia y anunciar juicio y esperanza. Su autoridad no provenía de popularidad ni de señales aisladas, sino de la fidelidad al Señor y a su revelación.
-
-El testimonio profético alcanza su culminación en Jesucristo, el Hijo por quien Dios ha hablado. El Espíritu capacita el testimonio y la Iglesia debe discernir toda enseñanza sin permitir que una afirmación humana se coloque por encima de la Escritura.
-
-El llamado actual es escuchar la Palabra, practicar la justicia, examinar toda enseñanza y anunciar fielmente el evangelio del Padre, del Hijo y del Espíritu Santo.
-''',
+    conclusion: '''Los profetas llamaron al pueblo a la fidelidad, denunciaron la idolatría y la injusticia, anunciaron juicio y proclamaron esperanza. La Iglesia debe leer sus mensajes en contexto y evaluar toda afirmación profética a la luz de la revelación bíblica. El testimonio profético culmina en Jesucristo, y el ministerio de la palabra exige fidelidad, humildad y responsabilidad.''',
   ),
-
   Study(
     number: '106',
     title: "La literatura profética: juicio, restauración y esperanza mesiánica",
-    subtitle: "Los mensajes proféticos, sus géneros y el desarrollo de la esperanza bíblica.",
-    introduction: '''
-La literatura profética reúne mensajes que interpretan la historia de Israel y de las naciones bajo el gobierno de Dios. Sus temas principales incluyen la santidad divina, el pecado, el juicio, el arrepentimiento, la restauración, el nuevo pacto y la esperanza mesiánica. Los libros proféticos no son calendarios secretos de acontecimientos: son textos situados en circunstancias concretas y dirigidos a comunidades reales.
+    subtitle: "Géneros, contexto histórico y cumplimiento de las promesas en Cristo.",
+    introduction: '''La literatura profética transmite el mensaje de Dios mediante oráculos, relatos de llamados, visiones, acciones simbólicas, lamentos y promesas. Su contenido incluye juicio, denuncia, exhortación, consuelo y esperanza. No todos los pasajes son predicciones lejanas: muchos se dirigían a situaciones concretas del pueblo.
 
-Los profetas utilizaron oráculos, visiones, poesía, lamentos, narraciones y acciones simbólicas. Algunas profecías anuncian acontecimientos próximos; otras presentan horizontes de restauración que se desarrollan a lo largo de la historia bíblica. Una interpretación responsable debe identificar el contexto original y examinar cómo el Nuevo Testamento relaciona esos textos con Cristo.
-
-Este estudio distingue juicio y esperanza, continuidad y cumplimiento, evitando tanto reducir cada profecía a un evento político antiguo como trasladarla automáticamente a titulares contemporáneos.
-''',
+La interpretación requiere identificar género, destinatario, contexto histórico y relación con el pacto. Este estudio examina el desarrollo de juicio y restauración, las promesas mesiánicas y la lectura apostólica de los profetas.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Literatura profética es el conjunto de libros y textos que transmiten mensajes recibidos por los profetas. Un oráculo es una declaración profética; una visión comunica mediante imágenes; una acción simbólica representa un mensaje; y un anuncio de juicio expone las consecuencias del quebrantamiento del pacto.
+      StudySection(title: "1. Delimitación y rasgos de la literatura profética", content: '''La literatura profética comprende libros y secciones que transmiten el mensaje de los profetas mediante oráculos, relatos de llamados, visiones, acciones simbólicas, lamentos y promesas. Su contenido incluye juicio, denuncia, exhortación, consuelo y esperanza. No todos los pasajes son predicciones lejanas: muchos se dirigían a situaciones concretas del pueblo.
 
-Restauración no significa solamente retorno geográfico: puede incluir perdón, renovación del corazón, justicia, reunión del pueblo y presencia de Dios. Esperanza mesiánica se refiere a las promesas relacionadas con el rey ungido, el descendiente de David y el gobierno justo de Dios. Estos conceptos deben definirse a partir de cada pasaje.
-''',
-        references: "Isaías 1:10-17; Jeremías 31:31-34; Miqueas 5:2; Hechos 2:16-33.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los profetas hablaron durante la monarquía, la amenaza de imperios, la caída de Samaria, la destrucción de Jerusalén, el exilio y la restauración. Isaías y Miqueas ministraron en tiempos de crisis asiria; Jeremías antes y durante la caída de Jerusalén; Ezequiel entre los exiliados; Hageo y Zacarías después del retorno.
+La interpretación requiere identificar el género, el destinatario, el contexto histórico y la relación con el pacto. Un poema de juicio no debe leerse como una crónica literal, y una promesa de restauración no debe separarse de las condiciones y propósitos que el propio texto presenta.''', references: "Isaías 1:1-20; Jeremías 1:1-3; Ezequiel 1:1-3; Oseas 1:1-2."),
+      StudySection(title: "2. Oráculos de juicio y lenguaje profético", content: '''Los profetas utilizan imágenes de sequía, fuego, terremoto, oscuridad, invasión y devastación para comunicar la gravedad del juicio. Estas figuras pueden describir acontecimientos históricos reales mediante lenguaje poético y simbólico. El intérprete debe observar cuándo el texto explica la imagen y evitar convertir cada símbolo en una predicción literal de un evento moderno.
 
-La forma poética es frecuente y utiliza paralelismo, metáforas, imágenes de juicio y promesas. Las visiones de Daniel y Zacarías tienen símbolos que deben interpretarse dentro del libro y de la historia bíblica. Los encabezados históricos y las referencias a reyes ayudan a ubicar los mensajes.
-''',
-        references: "Isaías 1–12; Jeremías 7; 23; 31; Ezequiel 36–37; contexto exílico.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Deuteronomio 28 presenta bendiciones y maldiciones del pacto, marco que los profetas aplican a la historia nacional. Isaías 1 denuncia el culto hipócrita; Jeremías 7 advierte que el templo no protege a quienes persisten en la injusticia; Ezequiel interpreta el exilio como juicio y anuncia un corazón nuevo.
+El juicio profético se vincula con la justicia y la santidad de Dios. Las naciones y el propio Israel son responsables de sus actos, y la posición religiosa no protege a quienes persisten en la rebelión.''', references: "Isaías 13:1-13; Joel 2:1-11; Amós 5:18-20; Sofonías 1:14-18."),
+      StudySection(title: "3. La denuncia del pacto quebrantado", content: '''Los profetas recuerdan las obligaciones del pacto y denuncian la idolatría, la injusticia y la confianza falsa en el templo o en alianzas políticas. Jeremías 7 muestra que el pueblo no podía utilizar el templo como amuleto mientras persistía en robar, oprimir y seguir otros dioses.
 
-Isaías 9 y 11 presentan la esperanza de un gobernante davídico justo. Jeremías 23:5-6 anuncia un renuevo justo de David. Miqueas 5:2 relaciona al gobernante esperado con Belén. Estos textos no deben separarse de su contexto inmediato ni de su desarrollo canónico. La restauración incluye la renovación del pueblo y el gobierno fiel de Dios.
-''',
-        references: "Deuteronomio 28; Isaías 1; 9; 11; Jeremías 23; 31; Ezequiel 36.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Los Evangelios identifican a Jesús con la esperanza mesiánica de Israel y citan textos proféticos para explicar su nacimiento, ministerio, muerte y resurrección. Lucas 4 presenta a Jesús leyendo Isaías 61 y aplicando el mensaje de buenas nuevas a su misión. Mateo 1–2 relaciona acontecimientos de la infancia con textos proféticos.
+Oseas describe la infidelidad de Israel mediante imágenes matrimoniales; Amós denuncia el culto sin justicia. Estas figuras deben leerse según el propósito del profeta y no usarse para justificar violencia o desprecio hacia personas actuales.''', references: "Jeremías 7:1-15; Oseas 1–3; Amós 2:6-8; 5:21-24."),
+      StudySection(title: "4. El exilio y la esperanza de retorno", content: '''El exilio fue un acontecimiento histórico que marcó la memoria de Israel y Judá. Los profetas explican la catástrofe desde la perspectiva del pacto, pero también anuncian que Dios no abandonaría definitivamente a su pueblo. Jeremías 29 exhorta a los exiliados a buscar el bienestar de la ciudad donde viven, mientras esperan la intervención divina.
 
-Hechos y las cartas apostólicas interpretan la resurrección y exaltación de Jesús como cumplimiento de las promesas. Pedro cita Joel 2 en Hechos 2 y explica el derramamiento del Espíritu. Pablo relaciona la esperanza de Israel con el evangelio a las naciones. Apocalipsis utiliza imágenes proféticas para anunciar juicio y nueva creación, sin que cada símbolo deba convertirse en predicción literal aislada.
-''',
-        references: "Lucas 4:16-21; Mateo 1–2; Hechos 2:16-36; Hebreos 8; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Isaías 1:10-17 muestra que el problema no era la existencia de sacrificios, sino la separación entre culto e injusticia. Dios llama a cesar el mal, aprender a hacer el bien y defender al vulnerable. El oráculo debe leerse en el contexto de una sociedad religiosa que no vivía conforme al pacto.
+Ezequiel 36 promete limpieza, corazón nuevo y Espíritu nuevo. La restauración no consiste solamente en volver a una tierra, sino en una renovación espiritual que permita al pueblo obedecer a Dios.''', references: "2 Reyes 17:5-23; 25:1-21; Jeremías 29:1-14; Ezequiel 36:22-28."),
+      StudySection(title: "5. El nuevo pacto y la renovación interior", content: '''Jeremías 31:31-34 anuncia un nuevo pacto en el que la ley de Dios sería escrita en el corazón y el pueblo conocería al Señor. La promesa responde a la infidelidad del pacto anterior y destaca la iniciativa divina en el perdón y la transformación.
 
-Jeremías 31:31-34 anuncia un nuevo pacto en el que la ley será escrita en el corazón y el pueblo conocerá al Señor. Hebreos 8 cita este texto para explicar la obra de Cristo y el carácter superior del nuevo pacto. El cumplimiento no elimina el contexto israelita original; muestra cómo la promesa se realiza en la obra redentora del Mesías.
+Ezequiel 36:25-27 amplía la imagen con agua limpia, corazón nuevo y Espíritu de Dios. Estos textos se relacionan con el Nuevo Testamento, que presenta a Jesús como mediador del nuevo pacto y al Espíritu como quien transforma la vida de los creyentes.''', references: "Jeremías 31:31-34; Ezequiel 36:25-27; Lucas 22:20; Hebreos 8:6-13."),
+      StudySection(title: "6. La esperanza mesiánica en los profetas", content: '''Los profetas anuncian un rey justo de la línea de David, un siervo que sufre, un gobernante de paz y una restauración bajo el reinado de Dios. Estos pasajes poseen contextos propios y no deben mezclarse como si todos describieran exactamente la misma escena sin matices.
 
-Miqueas 5:2 anuncia un gobernante que saldrá de Belén. Mateo 2:5-6 cita el texto al explicar el nacimiento de Jesús. El evangelista relaciona la esperanza davídica con Cristo, pero la interpretación debe considerar el marco del profeta y la aplicación del Evangelio.
-''',
-        references: "Isaías 1:10-17; Jeremías 31:31-34; Miqueas 5:2; Mateo 2:5-6; Hebreos 8:6-13.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La literatura profética debe leerse junto con la ley, los libros históricos y los sapienciales. El juicio anunciado por los profetas no es arbitrario: responde a la idolatría, la injusticia y el quebrantamiento del pacto. Las promesas de restauración tampoco son optimismo vacío; se fundamentan en la fidelidad y misericordia de Dios.
+El Nuevo Testamento relaciona las promesas mesiánicas con Jesucristo. La interpretación cristiana debe mostrar las conexiones que los apóstoles establecen y respetar el sentido original de cada oráculo.''', references: "Isaías 7:14; 9:1-7; 11:1-10; 42:1-9; 52:13–53:12; Miqueas 5:2-5."),
+      StudySection(title: "7. El día del Señor y la consumación", content: '''La expresión día del Señor aparece en mensajes de juicio y esperanza. Puede referirse a intervenciones históricas de Dios contra pueblos y poderes, y también forma parte del horizonte bíblico de juicio y consumación. El contexto determina el alcance de cada pasaje.
 
-La esperanza mesiánica se desarrolla desde la promesa a David hasta los anuncios de un rey justo, un siervo sufriente y un nuevo pacto. Los textos tienen matices distintos y no deben fusionarse sin análisis. El Nuevo Testamento presenta a Jesús como el Mesías, pero también conserva la tensión entre cumplimiento inaugurado y consumación futura.
+El Nuevo Testamento desarrolla la esperanza del regreso de Cristo y del juicio final. No es correcto fijar fechas ni convertir imágenes proféticas en calendarios especulativos. La enseñanza busca llamar a la vigilancia, la fidelidad y la perseverancia.''', references: "Joel 2:28-32; Amós 5:18-20; Sofonías 1:14-18; 1 Tesalonicenses 5:1-11; 2 Pedro 3:8-14."),
+      StudySection(title: "8. Cumplimiento en Cristo y lectura apostólica", content: '''Jesús y los apóstoles citan a los profetas para explicar la identidad y misión del Mesías, la inclusión de las naciones y la esperanza de restauración. Lucas 4 presenta a Jesús leyendo Isaías y aplicando el texto a su ministerio. Hechos 2 interpreta el derramamiento del Espíritu a la luz de Joel.
 
-La Iglesia lee los profetas como Escritura y recibe su llamado a la justicia, la fidelidad y la esperanza, sin apropiarse descuidadamente de cada promesa nacional como si se hubiera dirigido originalmente a una congregación moderna.
-''',
-        references: "Deuteronomio 28; Isaías 1; Jeremías 7; 23; 31; Ezequiel 36; Hechos 2; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es quien anuncia juicio y promete restauración; el Hijo cumple la esperanza mesiánica y revela al Padre; el Espíritu Santo inspira el testimonio profético y es derramado sobre el pueblo según la promesa. En Hechos 2:16-33, Pedro relaciona la promesa del Espíritu, la exaltación de Jesús y la acción del Padre.
+No toda profecía tiene un único cumplimiento simplista. Algunos textos tuvieron una referencia histórica cercana y una proyección más amplia en el plan de Dios. La lectura responsable identifica cómo el Nuevo Testamento utiliza el pasaje antes de formular conclusiones doctrinales.''', references: "Lucas 4:16-21; Hechos 2:14-21; 13:32-39; Romanos 15:8-12; 2 Corintios 1:20."),
+      StudySection(title: "9. Perspectiva trinitaria y dificultades interpretativas", content: '''El Padre anuncia y ejecuta su propósito; el Hijo cumple las promesas mesiánicas y revela al Padre; el Espíritu inspira a los profetas y es prometido para la renovación del pueblo. El Nuevo Testamento distingue estas personas y confiesa al único Dios. No se debe forzar cada pasaje profético para que mencione explícitamente a las tres personas.
 
-Hebreos 1:1-2 enseña que Dios habló por los profetas y ha hablado por el Hijo. Primera de Pedro 1:10-12 atribuye al Espíritu de Cristo el testimonio anticipado sobre los sufrimientos y glorias del Mesías. Estos pasajes distinguen al Padre, al Hijo y al Espíritu, sin presentar tres dioses ni confundir las personas.
+¿Todo lenguaje cósmico es literal? No necesariamente; debe examinarse el género. ¿Toda promesa a Israel se aplica sin distinción a la Iglesia? Debe estudiarse cada pacto y el uso apostólico del texto. ¿Puede fijarse la fecha del día del Señor? No; Jesús prohíbe la especulación sobre el tiempo exacto.''', references: "Mateo 24:36; Lucas 24:44-47; Juan 14:16-17; 2 Pedro 1:20-21."),
+      StudySection(title: "10. Aplicación y síntesis doctrinal", content: '''La literatura profética llama a abandonar la idolatría, practicar justicia, vivir con fidelidad y esperar la intervención de Dios. La Iglesia debe escuchar tanto las advertencias como las promesas, sin convertir los oráculos en armas partidistas ni en predicciones sensacionalistas.
 
-La esperanza profética es obra del único Dios. La Iglesia debe proclamar a Cristo y vivir por el Espíritu en obediencia al Padre, respetando el contexto original de las promesas.
-''',
-        references: "Hebreos 1:1-2; 1 Pedro 1:10-12; Hechos 2:16-33; Juan 14:16-17.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Toda profecía de restauración se cumplió al volver del exilio? No. El retorno fue un cumplimiento histórico importante, pero algunos textos presentan una esperanza más amplia que el Nuevo Testamento relaciona con Cristo y la nueva creación.
-
-¿Toda profecía mesiánica se refiere exclusivamente a Jesús en su sentido original? No necesariamente. Debe estudiarse primero el contexto histórico y literario; luego se examina cómo el Nuevo Testamento aplica el texto a Cristo.
-
-¿Los símbolos proféticos deben interpretarse literalmente? No siempre. La poesía y la apocalíptica utilizan imágenes; el género y las explicaciones internas del libro orientan la lectura.
-
-¿Podemos identificar fechas actuales a partir de las profecías? No se debe afirmar más de lo que el texto revela. Jesús advierte contra pretensiones de conocer tiempos que el Padre ha reservado (Mateo 24:36; Hechos 1:7).
-
-¿El juicio profético contradice el amor de Dios? No. El juicio expresa su santidad y justicia; la restauración manifiesta su misericordia y fidelidad.
-''',
-        references: "Mateo 24:36; Hechos 1:7; Isaías 1:10-17; Jeremías 31:31-34.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Por qué anunciaban juicio los profetas? Respuesta: Porque el pueblo quebrantaba el pacto mediante idolatría, injusticia y desobediencia (Deuteronomio 28; Jeremías 7; Amós 5).
-
-Pregunta: ¿Qué es el nuevo pacto? Respuesta: La promesa de Dios de escribir su ley en el corazón, perdonar la maldad y establecer una relación renovada con su pueblo (Jeremías 31:31-34; Hebreos 8:6-13).
-
-Pregunta: ¿Quién es el Mesías prometido? Respuesta: Jesús, el Hijo de David, cuya misión y reino cumplen las promesas mesiánicas (Mateo 1:1; Lucas 1:32-33; Hechos 2:29-36).
-
-Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Inspira el testimonio profético y es derramado conforme a la promesa anunciada por Joel (Hechos 2:16-21).
-
-Pregunta: ¿Cómo debe leerse una profecía? Respuesta: Considerando su contexto, género, destinatarios, horizonte histórico y relación con el conjunto de la Escritura.
-''',
-        references: "Jeremías 31:31-34; Mateo 1:1; Lucas 1:32-33; Hechos 2:16-36.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La literatura profética anuncia juicio porque Dios es santo y llama a su pueblo a abandonar idolatría e injusticia. También proclama restauración porque el Señor es fiel a sus promesas. El lector debe respetar los contextos históricos, los géneros literarios y el desarrollo de cada anuncio.
-
-El Nuevo Testamento presenta a Jesús como el Mesías en quien convergen las promesas, y al Espíritu como aquel que capacita al pueblo para testificar. No debemos convertir símbolos en cálculos ni trasladar sin explicación cada promesa nacional a una situación moderna.
-
-La lectura fiel produce arrepentimiento, justicia, esperanza y fidelidad al evangelio. El Padre cumple sus propósitos, el Hijo reina como Mesías y el Espíritu sostiene el testimonio de la Iglesia.
-''',
-        references: "Lucas 4:16-21; Hechos 2:16-36; Hebreos 8:6-13; Apocalipsis 21–22.",
-      ),
+La esperanza profética encuentra su centro en Jesucristo y orienta al pueblo de Dios hacia una vida de santidad y perseverancia. Leer a los profetas correctamente exige contexto, atención al género, comparación de pasajes y humildad ante los detalles que la Escritura no revela.''', references: "Miqueas 6:8; Lucas 24:44-47; 2 Timoteo 3:16-17; 2 Pedro 3:11-14.")
     ],
-    conclusion: '''
-La literatura profética interpreta la historia a la luz del pacto: denuncia el pecado, anuncia juicio y proclama restauración. Sus mensajes incluyen poesía, oráculos, visiones y acciones simbólicas, por lo que deben leerse según su contexto y género.
-
-El Nuevo Testamento presenta a Jesucristo como el Mesías en quien se cumplen las promesas y al Espíritu como aquel que capacita el testimonio. La esperanza profética no autoriza cálculos de fechas ni aplicaciones arbitrarias; llama a la fidelidad, la justicia y la confianza en Dios.
-
-El Padre cumple sus promesas, el Hijo reina como Mesías y el Espíritu sostiene a la Iglesia. La respuesta es vivir en arrepentimiento, esperanza y obediencia.
-''',
+    conclusion: '''La literatura profética debe leerse respetando su contexto, género y destinatarios. Sus advertencias muestran la seriedad del pecado; sus promesas proclaman la fidelidad de Dios y la esperanza mesiánica. En Cristo se cumplen las promesas centrales y el Espíritu capacita al pueblo de Dios para perseverar. La Iglesia recibe estos libros con reverencia, discernimiento y esperanza.''',
   ),
-
-  Study(
-    number: '107',
+number: '107',
     title: "La tipología bíblica: figuras, patrones y cumplimiento en Cristo",
     subtitle: "Cómo reconocer correspondencias bíblicas sin imponer simbolismos ajenos al texto.",
     introduction: '''
