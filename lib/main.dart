@@ -20194,259 +20194,89 @@ El creyente puede estudiar la historia y reconocer que la Biblia comunica tanto 
     ],
     conclusion: '''La confiabilidad histórica se estudia con rigor, paciencia y transparencia. La Iglesia no debe exagerar hallazgos arqueológicos ni ocultar preguntas difíciles. Debe distinguir hechos documentados, interpretaciones probables y cuestiones debatidas. La confianza cristiana se centra en el Dios que se revela y en Jesucristo, cuya vida, muerte y resurrección constituyen el corazón del testimonio apostólico.''',
   ),
-number: '113',
+  Study(
+    number: '113',
     title: "La teología bíblica: unidad, desarrollo y revelación progresiva",
-    subtitle: "El desarrollo de los temas bíblicos a través de la historia de la redención.",
-    introduction: '''
-La teología bíblica estudia cómo la revelación de Dios se desarrolla a lo largo de la historia narrada en las Escrituras. Examina temas, pactos, promesas, instituciones y acontecimientos en su contexto original y observa cómo se relacionan con el conjunto de la Biblia. No debe confundirse con una colección de doctrinas aisladas ni con la simple organización de versículos por temas.
+    subtitle: "La historia de la redención y el desarrollo de las promesas hasta Cristo.",
+    introduction: '''La teología bíblica estudia el desarrollo de la revelación de Dios a través de los libros y períodos de la Escritura, atendiendo a su unidad y diversidad. Observa cómo temas como creación, pacto, reino, sacrificio, presencia divina, salvación y esperanza se desarrollan hasta su cumplimiento en Cristo.
 
-La revelación progresiva significa que Dios comunicó su propósito a través de etapas históricas, sin que ello implique que cambiara de carácter o se contradijera. Las promesas y figuras anteriores encuentran desarrollo y cumplimiento en Cristo. Para comprender ese proceso es necesario respetar tanto la continuidad como las diferencias entre los pactos y sus destinatarios.
-
-Este estudio presenta la unidad de la Escritura, la centralidad de Cristo y la obra del Padre, del Hijo y del Espíritu Santo en la historia de la salvación.
-''',
+No consiste en reunir versículos por tema sin atender a su lugar histórico. Busca comprender cómo cada autor contribuye al testimonio total de la Biblia y cómo las etapas de la revelación se relacionan entre sí.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Teología bíblica es el estudio de los temas y estructuras teológicas conforme se desarrollan en el canon y en la historia de la redención. Revelación progresiva describe la comunicación de Dios en etapas, desde los patriarcas y profetas hasta la revelación culminante en el Hijo (Hebreos 1:1-2).
+      StudySection(title: "1. Definición y propósito de la teología bíblica", content: '''La teología bíblica estudia el desarrollo de la revelación de Dios a través de los libros y períodos de la Escritura, atendiendo a su unidad y diversidad. Observa cómo los temas —creación, pacto, reino, sacrificio, presencia divina, salvación y esperanza— se desarrollan hasta su cumplimiento en Cristo.
 
-Debe distinguirse de la teología sistemática, que organiza doctrinas por temas, aunque ambas disciplinas se complementan. La teología bíblica pregunta cómo un tema aparece, se desarrolla y alcanza su cumplimiento en la Escritura. La unidad canónica no elimina la diversidad histórica y literaria de los libros.
-''',
-        references: "Hebreos 1:1-2; Lucas 24:27,44-47; Efesios 1:3-14.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-La Biblia reúne escritos producidos en épocas y contextos diversos. La historia de Israel, los pactos, el exilio, la restauración y el ministerio de Jesús forman parte del desarrollo narrativo. Los autores bíblicos interpretan acontecimientos anteriores y anuncian promesas futuras.
+No es lo mismo que reunir versículos por tema sin atender a su lugar histórico. Busca comprender cómo cada autor contribuye al testimonio total de la Biblia y cómo las etapas de la revelación se relacionan entre sí.''', references: "Lucas 24:25-27, 44-47; Hebreos 1:1-3; 2 Timoteo 3:16-17."),
+      StudySection(title: "2. Revelación progresiva y unidad", content: '''Dios se reveló a lo largo de la historia mediante acontecimientos, promesas, leyes, profetas y finalmente por medio del Hijo. La revelación progresiva no significa que Dios cambie de carácter o que las Escrituras posteriores contradigan arbitrariamente las anteriores; significa que el propósito divino se va mostrando con mayor claridad.
 
-La revelación progresiva no significa que los creyentes antiguos fueran abandonados a la ignorancia ni que Dios cambiara de identidad. Significa que ciertos aspectos de su propósito fueron revelados con mayor claridad a medida que avanzó la historia. El Nuevo Testamento lee las Escrituras de Israel a la luz de la muerte y resurrección de Cristo.
-''',
-        references: "Contexto de los pactos y etapas de la historia bíblica.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Génesis presenta la creación, la caída y las promesas a Abraham. Éxodo muestra la liberación y el pacto; la ley organiza la vida de Israel; la monarquía introduce la promesa davídica; los profetas anuncian juicio y restauración. Estos momentos no son episodios desconectados: forman una historia que avanza hacia el propósito redentor de Dios.
+La unidad bíblica tampoco elimina las diferencias entre pactos, destinatarios y géneros. El intérprete debe reconocer el lugar de cada texto y observar cómo el Nuevo Testamento explica el cumplimiento de las promesas.''', references: "Génesis 12:1-3; Éxodo 19:3-6; Jeremías 31:31-34; Hebreos 1:1-3."),
+      StudySection(title: "3. Creación, caída y promesa", content: '''Génesis presenta a Dios como Creador de todas las cosas y al ser humano como criatura hecha a su imagen. La caída introduce pecado, ruptura y muerte, pero el relato también contiene la promesa de que la descendencia de la mujer vencerá a la serpiente.
 
-Jeremías 31 anuncia un nuevo pacto; Ezequiel 36 promete un corazón nuevo y el Espíritu; Isaías presenta al siervo y al rey justo. Los textos deben estudiarse primero en su contexto y después en su relación con el desarrollo posterior de la revelación.
-''',
-        references: "Génesis 1–3; 12; Éxodo 19–24; 2 Samuel 7; Jeremías 31; Ezequiel 36.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús enseña que las Escrituras dan testimonio de Él (Lucas 24:27, 44-47). Los apóstoles interpretan la muerte y resurrección de Cristo como cumplimiento de las promesas y anuncian la inclusión de las naciones. Hechos muestra la expansión del evangelio y la obra del Espíritu.
+Estos temas establecen el marco para comprender la necesidad de redención. La Biblia no comienza con una técnica de mejoramiento moral, sino con la creación buena, la rebelión humana y la iniciativa de Dios para restaurar lo que el pecado dañó.''', references: "Génesis 1:1-31; 2:7-25; 3:1-24; Romanos 5:12-21."),
+      StudySection(title: "4. Pactos y desarrollo de las promesas", content: '''Los pactos con Noé, Abraham, Israel y David organizan etapas importantes de la historia bíblica. Cada uno posee características y destinatarios particulares, pero todos se integran en el propósito de Dios de bendecir, formar un pueblo y establecer su reino.
 
-Hebreos 1:1-2 presenta al Hijo como la revelación culminante. Gálatas 3 explica la relación entre la promesa a Abraham y la fe en Cristo; Efesios 1 resume el propósito de reunir todas las cosas en Él. La teología bíblica examina estos vínculos sin borrar el sentido histórico de las promesas antiguas.
-''',
-        references: "Lucas 24:27,44-47; Gálatas 3; Efesios 1; Hebreos 1:1-2; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Hebreos 1:1-2 establece una secuencia: Dios habló antiguamente por los profetas y en estos últimos tiempos ha hablado por el Hijo. La continuidad está en el mismo Dios que se revela; la culminación está en la persona y obra del Hijo. El pasaje no afirma que la revelación anterior fuera falsa, sino que era preparatoria y ahora alcanza su expresión culminante.
+Las promesas no deben confundirse ni reducirse a una sola fórmula. La lectura canónica examina sus condiciones, señales, responsabilidades y cumplimiento. El Nuevo Testamento presenta a Jesús como descendiente de Abraham y de David y mediador del nuevo pacto.''', references: "Génesis 9:8-17; 12:1-3; 15:1-21; Éxodo 19:3-6; 2 Samuel 7:12-16; Lucas 1:32-33."),
+      StudySection(title: "5. Éxodo, ley y presencia de Dios", content: '''El éxodo muestra a Dios liberando a Israel de Egipto y estableciendo una relación de pacto. La ley enseña cómo debía vivir el pueblo rescatado y el tabernáculo representa la presencia divina en medio de él. La obediencia no compra la liberación: responde a la gracia que Dios ya manifestó.
 
-Lucas 24:44-47 muestra a Jesús interpretando la Ley, los Profetas y los Salmos en relación con su padecimiento, resurrección y la proclamación del arrepentimiento a las naciones. La lectura cristiana debe seguir esa conexión canónica y no limitarse a asociaciones arbitrarias.
+Los profetas denuncian la infidelidad al pacto y anuncian renovación. El Nuevo Testamento presenta a Cristo como quien redime y establece el nuevo pacto, y al Espíritu como quien transforma la vida del pueblo de Dios.''', references: "Éxodo 12–20; 25:8-9; Jeremías 31:31-34; Ezequiel 36:25-27; Lucas 22:20."),
+      StudySection(title: "6. Reino, rey y esperanza mesiánica", content: '''La monarquía de Israel plantea la promesa de un descendiente de David cuyo reino tendría continuidad. Los profetas desarrollan la esperanza de un rey justo que gobernará con justicia y paz. La historia de los reyes muestra tanto la importancia del liderazgo como el fracaso humano.
 
-Gálatas 3:15-29 explica que la promesa a Abraham precede a la ley y encuentra su cumplimiento en Cristo. Pablo no afirma que la ley fuera mala; explica su función temporal y su relación con la promesa. El argumento muestra desarrollo, no contradicción.
-''',
-        references: "Hebreos 1:1-2; Lucas 24:44-47; Gálatas 3:15-29.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La teología bíblica debe integrar creación, caída, pacto, éxodo, reino, exilio, restauración, Mesías, Iglesia y nueva creación. Cada etapa tiene su contexto y función. La continuidad del propósito de Dios no significa que todos los mandatos de un pacto se apliquen de idéntica manera a todos los pueblos y épocas.
+El Nuevo Testamento identifica a Jesús como Hijo de David y Rey cuyo reino no depende de la fuerza de los poderes terrenales. Su reinado ya ha sido inaugurado y espera su consumación plena.''', references: "2 Samuel 7:12-16; Salmo 2; Isaías 9:1-7; Lucas 1:32-33; Hechos 2:29-36."),
+      StudySection(title: "7. Cristo como centro de la historia redentora", content: '''Jesús enseñó que la Ley, los Profetas y los Salmos daban testimonio de Él. Su muerte y resurrección no son un episodio desconectado, sino el cumplimiento del propósito anunciado en las Escrituras. Los apóstoles interpretan su obra en relación con la promesa a Abraham, el reino davídico y el nuevo pacto.
 
-El tema del templo se desarrolla desde el tabernáculo hasta Cristo y la comunidad como morada de Dios. El sacrificio pasa de las ofrendas levíticas a la entrega única de Jesús. El reino se anuncia en la promesa a David y se proclama en el reinado del Mesías. Estos desarrollos deben demostrarse con textos, no suponerse por semejanza superficial.
+La centralidad de Cristo no autoriza a ignorar el significado original de los textos. La teología bíblica sigue el camino de las promesas y muestra cómo convergen en la persona y obra del Mesías.''', references: "Lucas 24:25-27, 44-47; Hechos 3:18-26; Gálatas 3:8-16; 2 Corintios 1:20."),
+      StudySection(title: "8. La Iglesia y la misión a las naciones", content: '''La promesa a Abraham incluía bendición para las familias de la tierra. En el Nuevo Testamento, la misión de la Iglesia lleva el evangelio a judíos y gentiles, sin borrar el testimonio histórico de Israel ni justificar orgullo étnico o religioso.
 
-Apocalipsis presenta la consumación: Dios habita con su pueblo y la creación es renovada. La historia bíblica tiene dirección y finalidad.
-''',
-        references: "Génesis 1–3; 12; Éxodo 19–24; 2 Samuel 7; Jeremías 31; Hebreos 1; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el autor del propósito redentor; el Hijo es la revelación culminante y el mediador por quien se cumplen las promesas; el Espíritu Santo inspira a los profetas y es derramado sobre el pueblo de Dios. Efesios 1:3-14 describe la obra salvadora con referencias al Padre, al Hijo y al Espíritu.
+La Iglesia está formada por quienes pertenecen a Cristo y recibe la tarea de anunciar su evangelio. Su identidad se define por la unión con Jesús y la obra del Espíritu, no por poder político ni superioridad cultural.''', references: "Génesis 12:1-3; Mateo 28:18-20; Hechos 1:8; Gálatas 3:26-29; Efesios 2:11-22."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas de lectura", content: '''El Padre crea y establece el propósito de salvación; el Hijo es el mediador y cumplimiento de las promesas; el Espíritu da vida, inspira y aplica la obra redentora. La historia bíblica revela la acción del único Dios y distingue a las personas divinas en sus relaciones y misiones.
 
-La teología bíblica trinitaria debe distinguir las personas sin dividir la obra del único Dios. El Padre elige y envía, el Hijo redime y el Espíritu sella y vivifica. Estas descripciones no significan que cada persona actúe separada de las otras, sino que la Escritura revela relaciones personales dentro de la única obra divina.
-''',
-        references: "Efesios 1:3-14; Hebreos 1:1-2; Juan 14:16-17.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La revelación progresiva significa que Dios cambió? No. Cambian las etapas de la historia y la claridad de lo revelado, no el carácter de Dios.
+¿La revelación progresiva implica contradicción? No; implica desarrollo. ¿La Iglesia reemplaza sin matices a Israel? La cuestión requiere estudiar los pactos y los textos apostólicos sin simplificaciones. ¿Todo pasaje habla directamente de Cristo? No; debe seguirse el desarrollo canónico y las conexiones que la Escritura establece.''', references: "Mateo 3:16-17; Juan 1:1-14; Efesios 1:3-14; Hebreos 1:1-3."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La teología bíblica enseña a leer cada pasaje dentro de la historia de la redención, respetar sus destinatarios y reconocer la unidad de la revelación. Protege contra la fragmentación de versículos y contra las interpretaciones que ignoran el contexto del pacto.
 
-¿El Nuevo Testamento cancela el Antiguo? No. Lo recibe como Escritura y explica su cumplimiento en Cristo. Deben distinguirse los pactos y su aplicación, sin despreciar la revelación anterior.
-
-¿Todo texto del Antiguo Testamento habla directamente de Jesús? No. Cada pasaje tiene un contexto histórico; algunos son relacionados explícitamente con Cristo por el Nuevo Testamento y otros contribuyen al marco general de la historia redentora.
-
-¿Teología bíblica y sistemática se contradicen? No necesariamente. La primera sigue el desarrollo canónico; la segunda organiza doctrinas. Deben dialogar y corregirse mutuamente cuando una síntesis ignora el contexto.
-''',
-        references: "Hebreos 1:1-2; Lucas 24:27; Gálatas 3:15-29.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué estudia la teología bíblica? Respuesta: El desarrollo de temas y estructuras teológicas a lo largo de la historia y del canon.
-
-Pregunta: ¿Qué significa revelación progresiva? Respuesta: Que Dios comunicó su propósito en etapas, hasta la revelación culminante en el Hijo (Hebreos 1:1-2).
-
-Pregunta: ¿Cuál es el centro de la historia redentora? Respuesta: Jesucristo, en quien las promesas encuentran cumplimiento (Lucas 24:27; Efesios 1:10).
-
-Pregunta: ¿El Antiguo Testamento sigue siendo Escritura? Respuesta: Sí. Jesús y los apóstoles lo recibieron como testimonio inspirado y lo interpretaron a la luz de Cristo.
-
-Pregunta: ¿Cómo se reconoce la unidad bíblica? Respuesta: Siguiendo temas, pactos y promesas en su contexto, observando sus conexiones canónicas y respetando sus diferencias.
-''',
-        references: "Lucas 24:27,44-47; Hebreos 1:1-2; Efesios 1:3-14.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La teología bíblica muestra que la Escritura presenta una historia unificada de creación, redención y nueva creación. Dios se revela en etapas y conduce las promesas hacia su cumplimiento en Jesucristo. La revelación progresiva no significa cambio en Dios ni contradicción entre los autores inspirados.
-
-El estudio debe respetar los contextos, los pactos y los géneros literarios. La unidad de la Biblia no se construye mediante asociaciones arbitrarias, sino siguiendo los vínculos que el propio canon establece. El Padre propone y realiza su propósito, el Hijo es su revelación culminante y el Espíritu inspira y aplica la verdad.
-
-Leer teología bíblica fortalece la comprensión de la historia de la salvación y orienta a la Iglesia a vivir conforme al evangelio.
-''',
-        references: "Génesis 12:1-3; Lucas 24:44-47; Efesios 1:3-14; Apocalipsis 21–22.",
-      ),
+La Iglesia proclama a Cristo como centro del propósito salvador del Padre y vive por el Espíritu. El estudio de la Biblia debe conducir a adoración, obediencia, misión y esperanza, no solo a acumular categorías teológicas.''', references: "Romanos 15:4; 1 Corintios 10:11; Efesios 1:9-10; 2 Timoteo 3:16-17.")
     ],
-    conclusion: '''
-La teología bíblica sigue el desarrollo de la revelación y muestra la unidad de la historia redentora. Los pactos, las promesas y las instituciones del Antiguo Testamento deben leerse en su contexto y en relación con el cumplimiento en Cristo. La revelación progresiva no implica que Dios cambie, sino que su propósito se comunica y despliega en etapas.
-
-El Padre, el Hijo y el Espíritu Santo participan distintamente en la única obra divina. La Iglesia debe leer toda la Escritura con atención al contexto, evitando tanto separar los Testamentos como borrar sus diferencias. La meta es comprender el evangelio en su amplitud y vivir conforme al propósito de Dios.
-''',
+    conclusion: '''La teología bíblica enseña a leer cada pasaje dentro de la historia de la redención, respetar sus destinatarios y reconocer la unidad de la revelación. La Iglesia proclama a Cristo como centro del propósito salvador del Padre y vive por el Espíritu. El estudio de la Biblia debe conducir a adoración, obediencia, misión y esperanza.''',
   ),
-
   Study(
     number: '114',
     title: "Jesucristo, Profeta y Maestro: autoridad, enseñanza y revelación",
-    subtitle: "El ministerio de Jesús como revelador del Padre, maestro del Reino y profeta prometido.",
-    introduction: '''
-Jesucristo es presentado en los Evangelios como Maestro con autoridad, anunciador del Reino y profeta en quien se cumple la esperanza de Moisés y de los profetas. Su enseñanza no es una opinión religiosa entre otras: revela la voluntad de Dios y llama a una respuesta de fe, arrepentimiento y obediencia.
+    subtitle: "El ministerio de Jesús y su identidad como revelación definitiva del Padre.",
+    introduction: '''Los evangelios presentan a Jesús como maestro con autoridad y como profeta que anuncia el reino de Dios. Su ministerio incluye proclamación, enseñanza, llamado al arrepentimiento, interpretación de las Escrituras y denuncia de la hipocresía. Sin embargo, Jesús es más que un profeta: el Nuevo Testamento lo identifica como Hijo eterno encarnado y revelación culminante del Padre.
 
-Llamar a Jesús Profeta no significa reducir su identidad a la de un mensajero humano. El Nuevo Testamento también lo presenta como Hijo eterno, Señor y revelación culminante del Padre. Las categorías de Profeta y Maestro describen aspectos reales de su ministerio, pero deben estudiarse junto con su divinidad, encarnación, muerte y resurrección.
-
-Este estudio examina cómo enseñó Jesús, cómo utilizó las Escrituras y cómo su autoridad se relaciona con el Padre y el Espíritu Santo.
-''',
+Este estudio examina sus funciones proféticas y docentes sin reducir su identidad a un solo oficio.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Profeta es quien comunica la palabra de Dios; maestro es quien instruye y forma discípulos. Jesús cumple ambas funciones, pero su identidad no se agota en ellas. Es el Hijo enviado por el Padre y el Verbo hecho carne (Juan 1:1,14). Su enseñanza revela al Padre y tiene autoridad propia.
+      StudySection(title: "1. Jesús como Profeta y Maestro", content: '''Los evangelios presentan a Jesús como maestro con autoridad y como profeta que anuncia el reino de Dios. Su ministerio incluye proclamación, enseñanza, llamado al arrepentimiento, interpretación de las Escrituras y denuncia de la hipocresía. Sin embargo, Jesús es más que un profeta: el Nuevo Testamento lo identifica como Hijo eterno encarnado y revelación culminante del Padre.
 
-El Reino de Dios es el gobierno salvador de Dios anunciado y manifestado en el ministerio de Jesús. Parábolas, discursos, milagros y encuentros personales forman parte de su enseñanza. La autoridad de Jesús se reconoce en su relación única con el Padre y en el cumplimiento de las Escrituras.
-''',
-        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Jesús desarrolló su ministerio en Galilea y Judea durante el dominio romano, en el contexto del judaísmo del Segundo Templo. Enseñó en sinagogas, casas, caminos y en el templo. Sus oyentes conocían la Ley, los Profetas, las tradiciones y las expectativas sobre el Reino y el Mesías.
+Este estudio examina sus funciones proféticas y docentes sin reducir su identidad a un solo oficio.''', references: "Mateo 5–7; Marcos 1:14-15; Lucas 7:16; Hebreos 1:1-3."),
+      StudySection(title: "2. El trasfondo profético de Israel", content: '''Moisés anunció que Dios levantaría un profeta semejante a él, a quien el pueblo debía escuchar. La expectativa profética se mantuvo en Israel y aparece en las preguntas que las multitudes hacían sobre Jesús. Los evangelios presentan su enseñanza y sus obras como señales de la llegada del reino.
 
-Los Evangelios conservan distintos énfasis: Mateo presenta a Jesús como cumplimiento de las Escrituras; Marcos destaca la autoridad y el servicio del Hijo del Hombre; Lucas subraya el alcance de la salvación; Juan desarrolla la identidad del Verbo y su relación con el Padre. La diversidad de énfasis no significa contradicción automática.
-''',
-        references: "Judaísmo del Segundo Templo; sinagogas; expectativas mesiánicas y dominio romano.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Deuteronomio 18:15-19 promete un profeta semejante a Moisés, a quien el pueblo debía escuchar. El pasaje forma parte de las instrucciones sobre profetas y discernimiento. Hechos 3:22-26 aplica esta promesa a Jesús y lo presenta como el enviado que trae bendición y llama al arrepentimiento.
+La semejanza con Moisés no significa que Jesús sea simplemente otro profeta. Su autoridad, relación con el Padre y obra redentora superan la función de los mensajeros anteriores.''', references: "Deuteronomio 18:15-19; Juan 1:19-21; 6:14; Hechos 3:19-23."),
+      StudySection(title: "3. La autoridad de su enseñanza", content: '''Las multitudes se asombraban porque Jesús enseñaba con autoridad y no como los escribas. Su autoridad no dependía de citar una tradición humana para validar cada afirmación; hablaba como quien revela el sentido y la voluntad de Dios.
 
-Isaías 61 anuncia buenas nuevas, libertad y restauración. Jesús lee este texto en la sinagoga de Nazaret y declara que se cumple en su ministerio (Lucas 4:16-21). Los profetas también anunciaron al siervo del Señor y al rey justo, marcos que ayudan a comprender la misión de Jesús.
-''',
-        references: "Deuteronomio 18:15-19; Isaías 61:1-3; promesas proféticas.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Los Evangelios muestran a Jesús enseñando con autoridad y llamando a sus discípulos a seguirlo. Mateo 5–7 recoge el Sermón del Monte; Marcos 1:21-28 relata la reacción ante su enseñanza; Lucas 4 presenta la lectura de Isaías; Juan 7:14-18 explica que su doctrina procede de quien lo envió.
+En el Sermón del Monte, Jesús expone la profundidad de la justicia del reino y confronta interpretaciones superficiales de la ley. La autoridad de su enseñanza debe leerse junto con su identidad como Hijo y su obediencia al Padre.''', references: "Mateo 5:17-48; 7:28-29; Marcos 1:21-27; Juan 7:16-18."),
+      StudySection(title: "4. Las parábolas y la enseñanza del Reino", content: '''Jesús utilizó parábolas para revelar verdades del reino mediante escenas de la vida diaria: semillas, cosechas, familias, deudas, trabajo y banquetes. Las parábolas invitaban a escuchar y responder, y también exponían la dureza de quienes rechazaban el mensaje.
 
-En Hechos, los apóstoles anuncian a Jesús como el Profeta prometido y Señor resucitado. Hebreos 1:1-2 presenta al Hijo como la revelación culminante. La Iglesia continúa enseñando lo que Cristo mandó, pero no posee autoridad para añadir una nueva revelación que contradiga el evangelio apostólico.
-''',
-        references: "Mateo 5–7; Lucas 4:16-21; Hechos 3:22-26; Juan 7:14-18; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Deuteronomio 18:15-19 llama a escuchar al profeta que Dios levantaría. El contexto inmediato prohíbe prácticas de adivinación y establece la necesidad de discernir a los mensajeros. Hechos 3:22-23 cita la promesa y la aplica a Jesús, vinculándola con la responsabilidad de escucharle.
+No se debe buscar un significado independiente para cada detalle de una parábola. Es necesario identificar el punto central y considerar la explicación que Jesús ofrece en ciertos casos. El objetivo es comprender la enseñanza del reino y la respuesta que exige.''', references: "Mateo 13:1-23, 24-52; Lucas 10:25-37; 15:1-32."),
+      StudySection(title: "5. Jesús y la interpretación de las Escrituras", content: '''Jesús cita la Ley, los Profetas y los Salmos, y corrige interpretaciones que olvidaban la intención de Dios. No presenta la Escritura como autoridad vacía, sino que la lleva a su cumplimiento y revela su profundidad moral y espiritual.
 
-Lucas 4:16-21 relata que Jesús lee Isaías 61 y aplica el anuncio a su misión. La expresión «hoy se ha cumplido esta Escritura» indica que su ministerio inaugura el tiempo de cumplimiento. No significa que todos los aspectos de la restauración estén consumados en ese momento; la historia bíblica mantiene una dimensión futura.
+Después de la resurrección, explicó a sus discípulos cómo las Escrituras hablaban de su sufrimiento y gloria. Su método respeta el testimonio anterior y muestra la unidad de la historia redentora.''', references: "Mateo 4:1-11; 5:17-20; 22:34-40; Lucas 24:25-27, 44-47."),
+      StudySection(title: "6. La denuncia profética y el llamado al arrepentimiento", content: '''Jesús denuncia la hipocresía, la explotación religiosa y la búsqueda de prestigio. Su confrontación no es simple hostilidad: llama a volver a Dios y a practicar justicia, misericordia y fidelidad. También anuncia juicio para quienes rechazan persistentemente el reino.
 
-Juan 7:16-18 muestra que la enseñanza de Jesús procede del Padre que lo envió. La distinción entre el que envía y el enviado es personal y real. Jesús no es el Padre, aunque comparte la naturaleza divina según el testimonio completo del Evangelio.
-''',
-        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-El ministerio de Jesús se relaciona con Moisés, los profetas, el Reino davídico y la esperanza de restauración. Él interpreta la ley con autoridad, llama al arrepentimiento y revela el carácter del Padre. Su enseñanza no cancela el Antiguo Testamento, sino que lo lleva a su cumplimiento.
+La denuncia de Jesús se relaciona con la tradición profética de Israel, pero posee la autoridad singular del Hijo. Sus palabras exigen examinar la vida religiosa y no utilizar la apariencia de piedad como sustituto de la obediencia.''', references: "Mateo 23:1-36; Marcos 11:15-18; Lucas 13:1-5; 19:41-44."),
+      StudySection(title: "7. El testimonio de las obras y señales", content: '''Las obras de Jesús acompañan su enseñanza y revelan compasión, autoridad sobre la enfermedad y el mal, y la llegada del reino. No son espectáculos para satisfacer curiosidad, sino señales que apuntan a su identidad y misión.
 
-Los apóstoles enseñan a guardar lo que Jesús mandó y a permanecer en la doctrina recibida. El Espíritu recuerda y guía a los discípulos en el testimonio de Cristo (Juan 14:26; 16:13-14). La autoridad de la Iglesia es ministerial: anuncia y explica la palabra, no reemplaza al Maestro ni inventa un evangelio distinto.
-''',
-        references: "Deuteronomio 18; Isaías 61; Mateo 5–7; Lucas 24:25-27; Hechos 3:22-26.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre envía al Hijo y da testimonio de Él; el Hijo enseña con autoridad y revela al Padre; el Espíritu desciende sobre Jesús y capacita su ministerio, y después guía el testimonio apostólico. En el bautismo de Jesús aparecen el Hijo en el agua, el Espíritu descendiendo y la voz del Padre desde los cielos (Mateo 3:16-17).
+Juan presenta las señales como testimonio para que los lectores crean que Jesús es el Cristo, el Hijo de Dios. La fe no debe depender de exigir milagros como prueba privada, sino recibir el testimonio apostólico y comprender el propósito de las obras de Jesús.''', references: "Mateo 11:2-6; Juan 2:1-11; 5:36; 20:30-31."),
+      StudySection(title: "8. Jesús como revelación definitiva del Padre", content: '''Hebreos 1:1-3 contrasta la revelación anterior por los profetas con la palabra definitiva en el Hijo. Juan 1 presenta al Verbo eterno hecho carne, que da a conocer al Padre. Jesús no es un mensajero creado más: es el Hijo que revela perfectamente al Padre.
 
-Juan 7:16-18 distingue al Hijo enviado del Padre que lo envió. Juan 14:16-17 distingue al Hijo que pide y al Padre que da otro Consolador, el Espíritu de verdad. Estos pasajes sostienen la distinción personal sin dividir la esencia divina. Jesús no es simplemente una manifestación temporal del Padre: mantiene relación filial real con Él.
-''',
-        references: "Mateo 3:16-17; Juan 7:16-18; 14:16-17,26; 16:13-14.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Jesús fue solamente un profeta? No. Es Profeta y Maestro, pero también Hijo eterno, Señor y Verbo encarnado. Reducirlo a un mensajero humano ignora el testimonio de Juan 1 y Hebreos 1.
+Esta afirmación no confunde al Hijo con el Padre. El Hijo es distinto de aquel a quien revela y comparte la naturaleza divina. La identidad de Jesús exige mantener juntas su verdadera humanidad y su verdadera divinidad.''', references: "Juan 1:1-18; 14:8-11; Hebreos 1:1-4; Colosenses 1:15-20."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre envía al Hijo; el Hijo habla las palabras del Padre y realiza su voluntad; el Espíritu desciende sobre Jesús y capacita su ministerio humano. En el bautismo de Jesús aparecen el Hijo en el agua, el Espíritu descendiendo y la voz del Padre, una escena que distingue claramente a las personas.
 
-¿Jesús enseñaba por autoridad propia o recibida? Juan 7:16 afirma que su enseñanza procede del Padre que lo envió. Esto no niega su autoridad divina; expresa su relación filial y misión.
+¿Jesús es solo un profeta? No; es el Hijo eterno encarnado. ¿Su autoridad contradice que haya sido enviado por el Padre? No; la misión del Hijo expresa su relación filial y no niega su divinidad. ¿El Espíritu es una fuerza impersonal? Los textos lo presentan como quien actúa y se relaciona personalmente.''', references: "Mateo 3:16-17; Juan 5:19-23; 7:16; 14:16-17; 16:13-15."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La Iglesia aprende de Jesús a enseñar con fidelidad, interpretar la Escritura con cuidado, llamar al arrepentimiento y servir con compasión. La autoridad del maestro cristiano es derivada y está sometida a la palabra de Cristo; nadie debe presentarse como fuente independiente de revelación.
 
-¿Deuteronomio 18 se refiere a Jesús? Hechos 3:22-26 aplica explícitamente la promesa a Jesús, por lo que la conexión no es una especulación independiente.
-
-¿La Iglesia puede tener una autoridad igual a la de Cristo? No. La Iglesia sirve bajo la autoridad del Señor y debe conservar la enseñanza apostólica.
-
-¿El Espíritu reemplaza las palabras de Jesús? No. El Espíritu glorifica al Hijo y guía a los discípulos a la verdad, no los conduce a negar su enseñanza.
-''',
-        references: "Juan 1:1,14; 7:16-18; Hechos 3:22-26; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué profeta prometió Moisés? Respuesta: Uno que Dios levantaría y a quien el pueblo debía escuchar; Hechos 3 aplica la promesa a Jesús.
-
-Pregunta: ¿Qué revela Lucas 4 sobre la misión de Jesús? Respuesta: Que su ministerio cumple el anuncio de buenas nuevas, libertad y restauración de Isaías 61.
-
-Pregunta: ¿De dónde procede la enseñanza de Jesús? Respuesta: Del Padre que lo envió, según Juan 7:16-18.
-
-Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Desciende sobre Jesús y guía a los discípulos en el testimonio de Cristo (Mateo 3:16-17; Juan 14:26; 16:13-14).
-
-Pregunta: ¿Qué debe enseñar la Iglesia? Respuesta: Lo que Cristo mandó y la doctrina apostólica recibida, sin añadir un evangelio diferente.
-''',
-        references: "Deuteronomio 18:15-19; Lucas 4:16-21; Juan 7:16-18; Mateo 3:16-17.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Jesucristo es el Profeta prometido y el Maestro con autoridad, pero su identidad es mayor que la de un mensajero humano. Él es el Hijo enviado por el Padre, el Verbo encarnado y la revelación culminante de Dios. Su enseñanza anuncia el Reino, llama al arrepentimiento y revela el carácter del Padre.
-
-El Padre envía y da testimonio, el Hijo enseña y cumple la misión, y el Espíritu desciende y capacita el testimonio. La Iglesia debe escuchar a Cristo, conservar la enseñanza apostólica y enseñar con fidelidad y humildad.
-
-La respuesta correcta al Maestro no es admiración superficial, sino fe, obediencia y discipulado.
-''',
-        references: "Mateo 3:16-17; Lucas 4:16-21; Juan 14:26; Hebreos 1:1-2.",
-      ),
+Jesús es el Profeta prometido y el Maestro perfecto, pero su identidad excede esos títulos: es el Hijo que revela al Padre y salva a su pueblo. Escucharle implica creer, obedecer y anunciar su evangelio en dependencia del Espíritu Santo.''', references: "Mateo 7:24-27; 28:18-20; Lucas 24:44-47; Juan 14:6-11; Hechos 3:22-23.")
     ],
-    conclusion: '''
-Jesús cumple la promesa del Profeta semejante a Moisés y enseña con autoridad. Su ministerio anuncia el Reino, revela al Padre y llama a la fe y al arrepentimiento. Sin embargo, no debe reducirse su identidad a la de un profeta humano: es el Hijo eterno y la revelación culminante de Dios.
-
-El Padre lo envía, el Espíritu desciende y capacita el testimonio, y el Hijo cumple su misión. La Iglesia está llamada a escuchar a Cristo, conservar la enseñanza apostólica y formar discípulos que pongan en práctica su palabra.
-''',
+    conclusion: '''Jesús es el Profeta prometido y el Maestro perfecto, pero su identidad excede esos títulos: es el Hijo que revela al Padre y salva a su pueblo. La Iglesia aprende de Él a enseñar con fidelidad, interpretar la Escritura con cuidado, llamar al arrepentimiento y servir con compasión. Escucharle implica creer, obedecer y anunciar su evangelio en dependencia del Espíritu Santo.''',
   ),
-
-  Study(
-    number: '115',
+number: '115',
     title: "Los milagros de Jesucristo: señales, compasión y autoridad del Mesías",
     subtitle: "Las obras poderosas de Jesús como señales del Reino y testimonio de su identidad.",
     introduction: '''
