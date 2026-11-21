@@ -20276,269 +20276,89 @@ Jesús es el Profeta prometido y el Maestro perfecto, pero su identidad excede e
     ],
     conclusion: '''Jesús es el Profeta prometido y el Maestro perfecto, pero su identidad excede esos títulos: es el Hijo que revela al Padre y salva a su pueblo. La Iglesia aprende de Él a enseñar con fidelidad, interpretar la Escritura con cuidado, llamar al arrepentimiento y servir con compasión. Escucharle implica creer, obedecer y anunciar su evangelio en dependencia del Espíritu Santo.''',
   ),
-number: '115',
+  Study(
+    number: '115',
     title: "Los milagros de Jesucristo: señales, compasión y autoridad del Mesías",
-    subtitle: "Las obras poderosas de Jesús como señales del Reino y testimonio de su identidad.",
-    introduction: '''
-Los Evangelios narran milagros de Jesús como obras poderosas que revelan su autoridad, compasión y misión mesiánica. Sanidades, liberaciones, provisión de alimento, dominio sobre la naturaleza y resurrecciones de muertos no aparecen como espectáculos aislados, sino como señales vinculadas con el Reino de Dios y con la identidad del Hijo.
+    subtitle: "El propósito de las señales y su relación con el reino de Dios.",
+    introduction: '''Los milagros de Jesús son obras extraordinarias que manifiestan la autoridad de Dios y señalan la llegada del reino. Los evangelios los presentan como actos de compasión, liberación y revelación, no como espectáculos para satisfacer curiosidad. Las señales dan testimonio de la identidad y misión de Jesús.
 
-Los milagros deben leerse dentro de cada relato: quién recibe la ayuda, qué problema se presenta, qué revela Jesús y cómo responden los testigos. No todos los relatos enfatizan el mismo aspecto. Tampoco debe afirmarse que la fe humana controla el poder de Dios o que toda enfermedad será sanada inmediatamente.
-
-Este estudio examina el propósito de las señales, su relación con las profecías y la autoridad de Cristo. La obra del Hijo se realiza en unidad con el Padre y en el poder del Espíritu Santo.
-''',
+Este estudio examina sanidades, autoridad sobre la naturaleza, liberaciones y resurrecciones, y considera sus límites y propósito dentro del testimonio apostólico.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Milagro es una obra extraordinaria de Dios que manifiesta su poder y propósito. En los Evangelios, las señales de Jesús revelan su identidad y anticipan la restauración del Reino. No son trucos ni medios de entretenimiento, y no deben separarse del mensaje que Jesús anuncia.
+      StudySection(title: "1. Definición y propósito de los milagros", content: '''Los milagros de Jesús son obras extraordinarias que manifiestan la autoridad de Dios y señalan la llegada del reino. Los evangelios los presentan como actos de compasión, liberación y revelación, no como espectáculos para satisfacer curiosidad. Las señales dan testimonio de la identidad y misión de Jesús.
 
-Los relatos incluyen curaciones, expulsión de demonios, provisión, dominio sobre la naturaleza y resurrección. «Señal» enfatiza lo que la obra revela; «maravilla» destaca la reacción de asombro; «poder» resalta la autoridad divina. Los términos se relacionan, pero cada relato conserva su énfasis.
-''',
-        references: "Mateo 11:2-6; Marcos 2:1-12; Hechos 10:38; Juan 20:30-31.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Jesús ejerció su ministerio en Galilea, Judea y otras regiones del mundo judío del siglo I. Las enfermedades, discapacidades y posesiones eran interpretadas en marcos religiosos y sociales diversos. Los Evangelios muestran que las personas enfermas podían enfrentar exclusión, pobreza o dependencia, además de sufrimiento físico.
+Los milagros deben interpretarse dentro del relato y de la enseñanza que los acompaña. No todos tienen el mismo énfasis: algunos muestran autoridad sobre la enfermedad, otros sobre la naturaleza, los demonios o la muerte.''', references: "Mateo 11:2-6; Juan 20:30-31; Hechos 2:22."),
+      StudySection(title: "2. El contexto del ministerio de Jesús", content: '''Jesús realizó sus obras en el contexto del judaísmo del primer siglo, bajo dominio romano y en medio de expectativas sobre la restauración de Israel. Sus actos de sanidad y liberación mostraban la misericordia de Dios y confrontaban la idea de que la enfermedad siempre podía atribuirse a un pecado personal.
 
-Los relatos de milagros se integran en la proclamación del Reino y en el conflicto con autoridades que cuestionaban la autoridad de Jesús. Los Evangelios no presentan una lista neutral de prodigios, sino testimonios teológicos que explican quién es Jesús y cómo actúa Dios en su ministerio.
-''',
-        references: "Judaísmo del siglo I; enfermedad, exclusión y expectativas mesiánicas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento relata milagros mediante los cuales Dios libera, sostiene y juzga: el éxodo, el paso del mar, el alimento en el desierto y las obras de Elías y Eliseo. Estas acciones muestran que el Señor tiene autoridad sobre la naturaleza, la vida y la historia.
+Los evangelios relacionan los milagros con la proclamación del reino. No son hechos aislados, sino señales que acompañan la enseñanza y revelan que el poder de Dios está actuando por medio de Jesús.''', references: "Mateo 4:23-25; 9:35-38; Lucas 4:16-21; Juan 5:1-18."),
+      StudySection(title: "3. Sanidades y restauración de personas", content: '''Jesús sana a personas con distintas enfermedades y discapacidades. En cada relato se observan elementos como la necesidad de la persona, la compasión de Jesús, la respuesta de fe cuando el texto la menciona y el efecto del acontecimiento en quienes lo presencian.
 
-Isaías 35 anuncia señales de restauración: ojos abiertos, oídos que oyen y personas que saltan de alegría. Isaías 61 anuncia buenas nuevas a los pobres y libertad. Los Evangelios relacionan el ministerio de Jesús con estas expectativas, pero cada pasaje debe leerse en su contexto profético y no como una lista de predicciones aisladas.
-''',
-        references: "Éxodo 7–14; 1 Reyes 17–18; 2 Reyes 4–5; Isaías 35; 61.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Mateo, Marcos, Lucas y Juan presentan milagros como parte del ministerio de Jesús. En Mateo 11:2-6, Jesús responde a la pregunta de Juan señalando las obras que corresponden a la esperanza profética. Juan llama «señales» a obras que conducen a reconocer la identidad de Jesús (Juan 20:30-31).
+No debe afirmarse que toda persona enferma carece de fe ni que la sanidad inmediata sea garantía para todos en esta vida. Los relatos muestran el poder y la compasión de Jesús, mientras el resto del Nuevo Testamento reconoce que los creyentes aún atraviesan enfermedad y esperan la redención final.''', references: "Marcos 1:29-34; 2:1-12; 5:25-34; Juan 9:1-7."),
+      StudySection(title: "4. Autoridad sobre la naturaleza", content: '''Los evangelios narran que Jesús calma la tempestad y multiplica alimentos. Estas señales muestran autoridad sobre la creación y revelan que el reino de Dios no está sometido a las fuerzas que atemorizan a los seres humanos.
 
-Los apóstoles anuncian que Dios acreditó a Jesús mediante señales y prodigios (Hechos 2:22). Hebreos 2:3-4 también menciona señales que acompañaron el testimonio. La Iglesia primitiva pide valentía para anunciar la palabra y Dios confirma su testimonio (Hechos 4:29-31). Los milagros apostólicos no reemplazan el evangelio; sirven al testimonio de Cristo.
-''',
-        references: "Mateo 11:2-6; Marcos 2:1-12; Juan 20:30-31; Hechos 2:22; 10:38; Hebreos 2:3-4.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Mateo 11:4-5 enumera obras de Jesús: ciegos ven, cojos andan, leprosos son limpiados, sordos oyen y a los pobres se anuncia el evangelio. La respuesta evoca las promesas de Isaías y muestra que el ministerio de Jesús corresponde a la esperanza mesiánica. No se limita a demostrar poder: revela restauración y compasión.
+Los relatos utilizan imágenes y detalles propios de la narración antigua. La interpretación debe seguir el propósito del evangelista y no reducir la señal a una lección motivacional. Los discípulos son confrontados con la identidad de Jesús y llamados a confiar en Él.''', references: "Mateo 8:23-27; 14:13-21; Marcos 6:45-52; Juan 6:1-14."),
+      StudySection(title: "5. Liberación de personas oprimidas por demonios", content: '''Los evangelios describen a Jesús expulsando demonios y restaurando a personas sometidas a opresión espiritual. Los relatos presentan a Jesús con autoridad superior a los poderes demoníacos y muestran que la llegada del reino implica liberación.
 
-Marcos 2:1-12 narra la sanidad del paralítico y la declaración de perdón. La controversia se centra en la autoridad de Jesús para perdonar pecados. La sanidad visible confirma la autoridad del Hijo del Hombre, pero el relato no enseña que toda enfermedad sea consecuencia de un pecado personal.
+La enseñanza no debe convertirse en especulación ni en atribución automática de toda enfermedad o dificultad a una causa demoníaca. Los textos deben leerse en su contexto y el cuidado pastoral debe evitar el miedo, la humillación o la explotación de quienes sufren.''', references: "Marcos 1:21-28; 5:1-20; Lucas 11:14-23; Mateo 12:22-29."),
+      StudySection(title: "6. Resurrecciones y autoridad sobre la muerte", content: '''Los evangelios relatan la restauración de la hija de Jairo, el hijo de la viuda de Naín y Lázaro. Estos acontecimientos revelan la autoridad de Jesús y anticipan la esperanza de la resurrección. En el relato de Lázaro, Jesús se presenta como la resurrección y la vida.
 
-Juan 20:30-31 explica el propósito del libro: las señales fueron escritas para que los lectores crean que Jesús es el Cristo, el Hijo de Dios, y tengan vida en su nombre. Las señales apuntan a su identidad y misión; no son un fin en sí mismas.
-''',
-        references: "Mateo 11:4-5; Marcos 2:1-12; Juan 20:30-31.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Los milagros de Jesús se relacionan con la creación, el éxodo, las promesas proféticas y la esperanza de la resurrección. Sus obras manifiestan que el Reino se ha acercado y que la autoridad de Dios actúa por medio del Mesías. Sin embargo, la presencia de milagros no significa que toda aflicción desaparezca antes de la consumación.
+Estas señales no deben confundirse con la resurrección final y glorificada que espera el pueblo de Dios. Las personas restauradas volvieron a la vida mortal; la resurrección de Cristo inaugura una vida incorruptible y garantiza la esperanza futura.''', references: "Marcos 5:21-43; Lucas 7:11-17; Juan 11:1-44; 1 Corintios 15:20-26."),
+      StudySection(title: "7. Fe, señal y rechazo", content: '''Algunos relatos muestran personas que confían en Jesús; otros muestran oposición de quienes presencian sus obras. La señal no obliga mecánicamente a creer: puede ser recibida con gratitud o rechazada por corazones endurecidos.
 
-Los relatos deben leerse junto con la enseñanza sobre la fe, el sufrimiento y la cruz. Jesús no utiliza su poder para evitar toda dificultad ni para obtener prestigio; rechaza la tentación de convertir la señal en espectáculo. La resurrección es la señal decisiva de su victoria y fundamento de la esperanza futura.
+Juan explica que las señales fueron seleccionadas para que el lector crea que Jesús es el Cristo, el Hijo de Dios. La fe bíblica no consiste en exigir continuamente pruebas extraordinarias, sino en responder al testimonio de Dios con confianza y obediencia.''', references: "Juan 2:23-25; 6:26-36; 9:35-41; 20:30-31."),
+      StudySection(title: "8. Relación con el Antiguo Testamento y el reino", content: '''Los milagros de Jesús recuerdan las obras de Dios en el Antiguo Testamento: el maná, las sanidades proféticas y la autoridad divina sobre el mar. Sin embargo, Jesús no es presentado simplemente como repetidor de milagros anteriores. Su autoridad y su identidad como Hijo ocupan un lugar único.
 
-El Nuevo Testamento también enseña que los dones y obras extraordinarias deben edificar a la Iglesia y glorificar a Dios, no exaltar al ministro.
-''',
-        references: "Éxodo 7–14; Isaías 35; 61; Mateo 11:2-6; 1 Corintios 15.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre obra por medio del Hijo y da testimonio de Él; el Hijo realiza las señales como enviado y revela el carácter del Padre; el Espíritu Santo unge y capacita el ministerio de Jesús. Lucas 4:18 presenta a Jesús leyendo la promesa del Espíritu sobre el ungido. Hechos 10:38 resume que Dios ungió a Jesús de Nazaret con el Espíritu Santo y poder.
+Las obras de Jesús cumplen las señales mesiánicas anunciadas por los profetas, como la restauración de los ciegos, sordos y necesitados. El contexto de Isaías ayuda a comprender por qué Jesús responde a Juan el Bautista enumerando sus obras.''', references: "Éxodo 16:1-18; 2 Reyes 4:32-37; Isaías 35:5-6; 61:1-2; Mateo 11:2-6."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre da testimonio del Hijo y envía al Hijo al mundo; Jesús realiza sus obras en obediencia al Padre; y el Espíritu Santo reposa sobre Él y capacita su ministerio. Las obras manifiestan la unidad de la acción divina sin confundir a las personas.
 
-Juan 5:19-23 enseña la unidad de obra entre Padre e Hijo, manteniendo su relación personal. Mateo 3:16-17 muestra al Hijo bautizado, al Espíritu descendiendo y la voz del Padre. Los milagros no prueban que Jesús sea el Padre; revelan al Hijo en relación con el Padre y el Espíritu.
+¿Los milagros prueban que toda petición será concedida? No. ¿La ausencia de sanidad demuestra falta de fe? No. ¿Jesús hizo milagros para ganar fama? Los evangelios muestran que a menudo evitó la publicidad y rechazó la búsqueda de señales como espectáculo. ¿Toda enfermedad es demoníaca? No; la Biblia distingue diferentes situaciones.''', references: "Mateo 3:16-17; 12:28; Juan 5:19-23; 10:37-38; Hechos 10:38."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''Los milagros revelan la compasión, autoridad e identidad de Jesús. Llaman a confiar en Él, reconocer la llegada del reino y servir a quienes padecen necesidad. La Iglesia puede orar por sanidad y actuar con compasión, sin prometer resultados que Dios no ha garantizado ni culpar a quienes siguen enfermos.
 
-La obra es del único Dios. No debe dividirse como si cada persona realizara una parte independiente de la salvación, ni confundirse como si fueran una sola persona sin distinción.
-''',
-        references: "Mateo 3:16-17; Lucas 4:18; Juan 5:19-23; Hechos 10:38.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Todo milagro demuestra que quien lo realiza enseña doctrina verdadera? No. La Biblia advierte que señales pueden acompañar engaño y que la fidelidad a Dios es esencial (Deuteronomio 13:1-5; Mateo 7:21-23).
-
-¿La falta de sanidad demuestra falta de fe? No. Los Evangelios no enseñan que toda enfermedad persista por falta de fe. Pablo menciona debilidades y una aflicción que no fue retirada (2 Corintios 12:7-10; 1 Timoteo 5:23).
-
-¿Por qué Jesús no sanó a todos en cada lugar? Los Evangelios presentan una selección de señales con propósito teológico y muestran que Jesús actuaba conforme a su misión, no bajo exigencia humana.
-
-¿Los milagros sustituyen la enseñanza? No. Las señales apuntan a la identidad de Jesús y acompañan el anuncio del Reino. La fe debe responder a Cristo y su palabra.
-
-¿Las señales prueban que Jesús es el Padre? No. Los textos muestran al Hijo actuando en relación con el Padre y el Espíritu; distinción personal y unidad divina deben mantenerse.
-''',
-        references: "Deuteronomio 13:1-5; Mateo 7:21-23; 2 Corintios 12:7-10.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Para qué realizó Jesús milagros? Respuesta: Para manifestar la llegada del Reino, mostrar compasión y dar testimonio de su identidad mesiánica (Mateo 11:4-6; Juan 20:30-31).
-
-Pregunta: ¿Qué enseña la sanidad del paralítico? Respuesta: Que Jesús tiene autoridad para perdonar pecados y confirma su autoridad mediante la sanidad (Marcos 2:1-12).
-
-Pregunta: ¿Qué relación tienen los milagros con el Antiguo Testamento? Respuesta: Evocan las obras de liberación de Dios y las promesas proféticas de restauración (Isaías 35; 61; Mateo 11:4-5).
-
-Pregunta: ¿Quién ungió a Jesús? Respuesta: Dios lo ungió con el Espíritu Santo y poder (Hechos 10:38).
-
-Pregunta: ¿Qué finalidad tienen las señales de Juan? Respuesta: Conducir a creer que Jesús es el Cristo, el Hijo de Dios, y recibir vida en su nombre (Juan 20:30-31).
-''',
-        references: "Mateo 11:4-6; Marcos 2:1-12; Juan 20:30-31; Hechos 10:38.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Los milagros de Jesús son señales del Reino, manifestaciones de compasión y testimonio de su autoridad mesiánica. Deben leerse dentro de sus relatos y relacionados con la enseñanza, la cruz y la resurrección. No son espectáculos ni garantías de que todo creyente será sanado inmediatamente.
-
-El Padre da testimonio del Hijo, el Hijo realiza las obras y el Espíritu lo unge y capacita. Estas distinciones personales muestran la acción del único Dios. Las señales conducen a la fe en Jesús y a la vida en su nombre.
-
-La Iglesia debe orar por los enfermos, servir con compasión, examinar las afirmaciones extraordinarias y mantener el evangelio por encima de cualquier manifestación.
-''',
-        references: "Mateo 11:4-6; Juan 20:30-31; Hechos 10:38; 1 Corintios 12:4-7.",
-      ),
+La mayor señal del evangelio es la muerte y resurrección de Cristo. Los milagros apuntan a esa obra y a la futura restauración de todas las cosas. La fe cristiana descansa en Jesús, no en la exigencia permanente de experiencias extraordinarias.''', references: "Juan 20:30-31; Romanos 8:18-25; 1 Corintios 15:20-26; Apocalipsis 21:1-5.")
     ],
-    conclusion: '''
-Los milagros de Jesús revelan su autoridad y compasión, y funcionan como señales del Reino y de su identidad mesiánica. Se relacionan con las obras de Dios en el Antiguo Testamento y con las promesas proféticas de restauración. Cada relato debe leerse en su contexto, sin afirmar que toda enfermedad procede de un pecado personal ni que toda falta de sanidad demuestra falta de fe.
-
-El Padre da testimonio del Hijo, el Hijo realiza las obras y el Espíritu lo unge y capacita. Las señales conducen a creer en Jesús y a recibir vida en su nombre. La Iglesia ora, sirve y discierne, manteniendo el evangelio en el centro.
-''',
+    conclusion: '''Los milagros revelan la compasión, autoridad e identidad de Jesús. Llaman a confiar en Él, reconocer la llegada del reino y servir a quienes padecen necesidad. La Iglesia puede orar por sanidad y actuar con compasión, sin prometer resultados que Dios no ha garantizado ni culpar a quienes siguen enfermos. La fe cristiana descansa en Jesús y en la esperanza de la resurrección.''',
   ),
-
   Study(
     number: '116',
     title: "La compasión de Jesucristo: su trato con enfermos, pobres y marginados",
-    subtitle: "La misericordia del Mesías hacia quienes sufrían exclusión y necesidad.",
-    introduction: '''
-Los Evangelios muestran repetidamente la compasión de Jesús hacia enfermos, pobres, personas excluidas y quienes eran despreciados por su condición social o religiosa. Su trato no se limitaba a resolver una necesidad inmediata: también restauraba dignidad, llamaba a la fe y revelaba el carácter misericordioso del Reino de Dios.
+    subtitle: "La misericordia de Jesús y el llamado de sus discípulos a servir al prójimo.",
+    introduction: '''La compasión de Jesús es su respuesta misericordiosa ante el sufrimiento, la exclusión y la necesidad humana. Los evangelios muestran que su misericordia se expresa en enseñanza, sanidad, alimentación, acogida, defensa de la dignidad y llamado a una vida transformada.
 
-La compasión de Cristo no debe confundirse con aprobación indiscriminada de toda conducta ni reducirse a una emoción pasajera. Jesús se acercaba a las personas, escuchaba, sanaba, enseñaba y llamaba al arrepentimiento. Su misericordia estaba unida a la verdad y a la justicia.
-
-Este estudio examina los relatos en su contexto social y literario y considera cómo la Iglesia debe reflejar la compasión del Señor mediante el cuidado, la hospitalidad y la defensa del vulnerable.
-''',
+La compasión de Cristo revela el carácter de Dios y se convierte en modelo para sus discípulos. Debe distinguirse de aprobar toda conducta: Jesús recibe a las personas, atiende su necesidad y también las llama al arrepentimiento y a la verdad.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Compasión es una disposición que se expresa en misericordia activa ante el sufrimiento. En los Evangelios, Jesús ve a las personas, se acerca, escucha y actúa. Marginado describe a quien es apartado o tratado como inferior por enfermedad, pobreza, origen, ocupación o condición social.
+      StudySection(title: "1. Delimitación y significado de la compasión de Jesús", content: '''La compasión de Jesús es su respuesta misericordiosa ante el sufrimiento, la exclusión y la necesidad humana. Los evangelios muestran que su misericordia no es sentimentalismo pasajero: se expresa en enseñanza, sanidad, alimentación, acogida, defensa de la dignidad y llamado a una vida transformada.
 
-La compasión bíblica no elimina la verdad ni la responsabilidad moral. Jesús acoge a personas necesitadas y también llama a cambiar de vida. La misericordia restaura y conduce hacia Dios; no convierte el pecado en algo indiferente ni utiliza la condición vulnerable para manipular a la persona.
-''',
-        references: "Mateo 9:35-36; Lucas 7:11-17; 10:25-37; Santiago 2:1-17.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-La sociedad judía del siglo I incluía diferencias de riqueza, honor, pureza ritual y pertenencia comunitaria. Enfermedades como la lepra podían implicar aislamiento; los pobres dependían de redes familiares o ayuda; cobradores de impuestos eran despreciados por su relación con el sistema romano. Las mujeres, niños y extranjeros podían enfrentar barreras sociales específicas.
+La compasión de Cristo revela el carácter de Dios y se convierte en modelo para sus discípulos. Debe distinguirse de aprobar toda conducta: Jesús recibe a las personas, atiende su necesidad y también las llama al arrepentimiento y a la verdad.''', references: "Mateo 9:35-38; 14:14; Marcos 6:34; Lucas 7:13."),
+      StudySection(title: "2. El contexto social de los necesitados", content: '''En el mundo del primer siglo, las personas enfermas, pobres, viudas, huérfanas y marginadas podían quedar expuestas a exclusión social y religiosa. Los evangelios presentan a Jesús acercándose a quienes otros evitaban y mostrando que el reino de Dios no reproduce los criterios de prestigio humano.
 
-Los Evangelios muestran que Jesús cruzó límites de trato y dignidad sin abandonar la santidad. Sus acciones provocaron controversia porque se acercaba a quienes otros evitaban y cuestionaba la hipocresía de quienes despreciaban al necesitado.
-''',
-        references: "Judaísmo del siglo I; pureza ritual, pobreza, honor y exclusión social.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-La ley de Israel ordena cuidar al extranjero, al huérfano y a la viuda (Deuteronomio 10:18-19; 24:17-22). Los profetas denuncian la opresión de los pobres y llaman a practicar justicia (Isaías 1:17; Amós 2:6-7). El Salmo 146 presenta al Señor como quien hace justicia a los oprimidos y sostiene al vulnerable.
+La compasión no elimina la responsabilidad personal ni las estructuras de justicia; confronta la indiferencia y reconoce la dignidad de quienes necesitan ayuda. Jesús enseña que el amor al prójimo debe traducirse en acciones concretas.''', references: "Levítico 19:9-18; Deuteronomio 10:17-19; Mateo 25:31-46; Santiago 1:27."),
+      StudySection(title: "3. Jesús ante los enfermos", content: '''Los relatos de sanidad muestran a Jesús atendiendo a personas con enfermedades y discapacidades. En ocasiones toca a quienes eran considerados impuros, escucha sus peticiones y restaura su participación en la comunidad. Su trato comunica dignidad y misericordia.
 
-Estas enseñanzas forman el trasfondo del ministerio de Jesús. La compasión no aparece como innovación ajena a Israel, sino como expresión del carácter de Dios y de las exigencias del pacto. Los profetas critican el culto sin justicia, y Jesús retoma esa prioridad.
-''',
-        references: "Deuteronomio 10:18-19; 24:17-22; Salmo 146; Isaías 1:17; Amós 2:6-7.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús sana enfermos, recibe a niños, come con publicanos y pecadores, atiende a personas extranjeras y responde a quienes son rechazados. Mateo 9:35-36 lo presenta movido a compasión por las multitudes; Lucas 7:11-17 relata su compasión por una viuda; Marcos 10:13-16 muestra su acogida de los niños.
+Juan 9 rechaza la conclusión automática de que la ceguera de una persona se deba al pecado de ella o de sus padres. Este pasaje protege contra la culpabilización del enfermo y orienta a reconocer la obra de Dios sin especulaciones.''', references: "Marcos 1:40-45; 5:25-34; Lucas 5:12-16; Juan 9:1-7."),
+      StudySection(title: "4. Jesús y las personas pobres", content: '''Jesús anuncia buenas nuevas a los pobres y enseña que el reino invierte los criterios de orgullo y autosuficiencia. Su ministerio incluye alimentar multitudes y reconocer la generosidad de quienes poseen pocos recursos.
 
-La parábola del buen samaritano (Lucas 10:25-37) enseña que el prójimo se reconoce mediante la misericordia práctica. Santiago 2 condena la parcialidad hacia los ricos y el desprecio a los pobres. La Iglesia recibe el llamado a mostrar la misma coherencia entre fe y obras de misericordia.
-''',
-        references: "Mateo 9:35-36; Marcos 10:13-16; Lucas 7:11-17; 10:25-37; Santiago 2; 1 Juan 3:16-18.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Mateo 9:35-36 describe a Jesús recorriendo ciudades y aldeas, enseñando, anunciando el evangelio del Reino y sanando. Al ver a las multitudes, tiene compasión porque estaban desamparadas y dispersas como ovejas sin pastor. La imagen enlaza con las promesas del Antiguo Testamento sobre Dios como pastor y con la denuncia de líderes infieles.
+La pobreza no debe romantizarse ni utilizarse para manipular a las personas. La compasión bíblica busca aliviar necesidades y promover justicia. Los discípulos son llamados a compartir y a no medir el valor de una persona por su riqueza o posición social.''', references: "Lucas 4:16-21; 6:20-26; 12:13-21; Marcos 12:41-44; Santiago 2:1-7."),
+      StudySection(title: "5. Mujeres, viudas y personas marginadas", content: '''Los evangelios muestran a Jesús escuchando y atendiendo a mujeres, viudas y personas que tenían poco reconocimiento social. La viuda de Naín recibe compasión cuando Jesús ve su dolor; otras mujeres acompañan su ministerio y son testigos de la resurrección.
 
-Lucas 7:11-17 relata que Jesús ve a una viuda que ha perdido a su único hijo. Su compasión precede a la intervención; el relato destaca la iniciativa misericordiosa de Jesús y la reacción de la multitud que glorifica a Dios. El texto no presenta el milagro como recompensa por una demostración previa de mérito.
+Estos relatos no deben reducirse a ejemplos decorativos. Muestran que la dignidad humana no depende del poder, del sexo, de la posición económica ni del prestigio. La Iglesia debe tratar a todas las personas con respeto y justicia.''', references: "Lucas 7:11-17; 8:1-3; 10:38-42; Marcos 12:41-44; Juan 20:11-18."),
+      StudySection(title: "6. La acogida de pecadores y excluidos", content: '''Jesús comparte mesa con publicanos y pecadores, lo que provoca críticas de algunos líderes religiosos. Él explica que vino a llamar a pecadores al arrepentimiento. Su acogida no es indiferencia moral, sino una expresión de la misión salvadora de Dios.
 
-Lucas 10:25-37 responde a la pregunta sobre quién es el prójimo. La parábola contrasta a quienes pasan de largo con el samaritano que se detiene y actúa. Jesús concluye llamando a hacer lo mismo. El centro no es especular sobre la identidad étnica del personaje, sino mostrar que la misericordia rompe barreras y se expresa en ayuda concreta.
-''',
-        references: "Mateo 9:35-36; Lucas 7:11-17; 10:25-37.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La compasión de Jesús se relaciona con la ley y los profetas, que mandan proteger al vulnerable y denunciar la injusticia. También se relaciona con el Reino: la restauración de enfermos y excluidos anticipa la renovación prometida por Dios. La misericordia no se limita a obras individuales; incluye una comunidad que evita la parcialidad y comparte sus recursos.
+Las parábolas de la oveja perdida, la moneda perdida y el hijo perdido revelan el gozo por el arrepentimiento y la restauración. La Iglesia debe evitar tanto el desprecio hacia quien ha fallado como la idea de que la gracia elimina la necesidad de transformación.''', references: "Mateo 9:9-13; Lucas 5:27-32; 15:1-32; Juan 8:1-11."),
+      StudySection(title: "7. La compasión que enseña y alimenta", content: '''Jesús tuvo compasión de las multitudes porque estaban como ovejas sin pastor y les enseñó muchas cosas. En los relatos de multiplicación de alimentos, la compasión se expresa tanto en la enseñanza como en la atención a la necesidad física.
 
-Santiago 1:27 describe la religión pura en términos de cuidado de huérfanos y viudas y de integridad moral. Primera de Juan 3:16-18 relaciona el amor con acciones concretas. La Iglesia no puede proclamar la compasión de Cristo mientras ignora necesidades que está en condiciones de atender.
+La misión cristiana no debe separar palabra y servicio. La enseñanza bíblica alimenta espiritualmente, y la ayuda práctica demuestra amor al prójimo. Ninguna de las dos debe utilizarse como instrumento de control o como sustituto de la otra.''', references: "Mateo 9:35-38; 14:13-21; Marcos 6:30-44; Santiago 2:14-17."),
+      StudySection(title: "8. La compasión en la cruz", content: '''La compasión de Jesús alcanza su expresión suprema en la entrega de su vida por los pecadores. Su muerte no es solo un ejemplo de empatía, sino el acto redentor mediante el cual el Hijo lleva a cabo la voluntad salvadora del Padre.
 
-La misericordia debe practicarse con prudencia, respeto y sin humillar a quien recibe ayuda. El servicio cristiano reconoce la dignidad de cada persona y busca restauración, no dependencia o control.
-''',
-        references: "Deuteronomio 10:18-19; Isaías 1:17; Salmo 146; Mateo 9:35-36; Santiago 2:1-17.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es presentado como misericordioso y fuente de toda consolación (2 Corintios 1:3-4). El Hijo revela esa compasión mediante su encarnación y ministerio: ve a los necesitados, los atiende y anuncia el Reino. El Espíritu Santo produce amor y bondad en la vida de la Iglesia (Gálatas 5:22-23).
+La cruz también muestra que el amor divino no ignora el pecado ni la justicia. Cristo ofrece reconciliación y abre el camino para que quienes reciben su gracia vivan en misericordia hacia otros.''', references: "Juan 3:16-17; Romanos 5:6-8; Efesios 2:4-7; 1 Juan 4:9-10."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre envía al Hijo por amor al mundo; el Hijo se acerca a los necesitados y se entrega voluntariamente; el Espíritu Santo forma en los creyentes el fruto de amor, bondad y misericordia. La compasión de Jesús revela el carácter del único Dios sin confundir al Hijo con el Padre.
 
-La distinción trinitaria no divide la misericordia en tres acciones desconectadas. El Padre envía al Hijo; el Hijo manifiesta la misericordia divina; el Espíritu transforma a los creyentes para que vivan en amor. Jesús no es el Padre, pero revela perfectamente su carácter (Juan 14:9-10).
+¿Compasión significa aprobar todo? No; Jesús une misericordia y verdad. ¿Ayudar significa resolver cada necesidad de inmediato? No siempre, pero exige actuar con responsabilidad. ¿La enfermedad demuestra pecado personal? No; Juan 9 rechaza esa conclusión automática. ¿La Iglesia puede ignorar la pobreza mientras predica? No; la fe debe expresarse en amor concreto.''', references: "Mateo 3:16-17; Juan 3:16-17; 14:16-17; Gálatas 5:22-23; Juan 9:1-3."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''Los discípulos de Jesús están llamados a mirar a las personas con dignidad, escuchar antes de juzgar, acompañar al enfermo, atender al necesitado y recibir con verdad a quien busca restauración. La compasión no es una estrategia de prestigio, sino fruto de haber recibido misericordia.
 
-La Iglesia debe reflejar el carácter del único Dios en la compasión concreta, sin atribuirse el lugar de Cristo ni utilizar la ayuda como medio de dominio.
-''',
-        references: "2 Corintios 1:3-4; Juan 14:9-10; Gálatas 5:22-23.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Jesús ayudaba solo a quienes tenían fe? Los relatos muestran diversas respuestas y no permiten convertir la fe en un mecanismo para obligar a Dios. Jesús actúa con compasión y autoridad soberana.
-
-¿La compasión significa aprobar todo comportamiento? No. Jesús recibe a las personas y también las llama al arrepentimiento. La misericordia y la verdad no son opuestas.
-
-¿La ayuda material basta para cumplir el evangelio? No. El cuidado material es importante, pero la misión cristiana también anuncia el Reino, llama a la fe y forma discípulos. No debe utilizarse la necesidad para forzar conversiones.
-
-¿La Iglesia debe atender solo a sus miembros? No. La enseñanza del buen samaritano llama a reconocer al prójimo más allá de fronteras sociales y religiosas.
-
-¿La pobreza siempre es señal de pecado? No. La Biblia denuncia la opresión y muestra que muchas personas vulnerables sufren por circunstancias que no deben atribuirse a culpa personal.
-''',
-        references: "Mateo 9:35-36; Lucas 10:25-37; Santiago 2:1-17.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué movía a Jesús a atender a las multitudes? Respuesta: La compasión ante su desamparo y necesidad (Mateo 9:35-36).
-
-Pregunta: ¿Qué enseña la parábola del buen samaritano? Respuesta: Que el prójimo se reconoce mediante misericordia activa, no por una etiqueta social (Lucas 10:25-37).
-
-Pregunta: ¿Cómo debe tratar la Iglesia al pobre? Respuesta: Sin parcialidad, con dignidad y ayuda concreta (Santiago 2:1-17; 1 Juan 3:17-18).
-
-Pregunta: ¿La compasión elimina el llamado al arrepentimiento? Respuesta: No. Jesús ofrece misericordia y llama a una vida transformada (Juan 8:10-11, atendiendo al texto y su contexto).
-
-Pregunta: ¿Cómo se relaciona la compasión con la Trinidad? Respuesta: El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor y bondad en el pueblo de Dios (2 Corintios 1:3-4; Juan 14:9-10; Gálatas 5:22-23).
-''',
-        references: "Mateo 9:35-36; Lucas 10:25-37; Santiago 2:1-17; 1 Juan 3:16-18.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La compasión de Jesucristo se manifestó en su trato con enfermos, pobres, niños, extranjeros y personas rechazadas. Su misericordia restauraba dignidad y anunciaba el Reino, sin separar el amor de la verdad ni del llamado al arrepentimiento.
-
-La Iglesia está llamada a reflejar esa compasión mediante cuidado, hospitalidad, justicia y ayuda concreta. Debe evitar la parcialidad, la humillación y el uso de la necesidad para controlar a otros. El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor en la comunidad.
-
-Seguir a Cristo implica ver al prójimo, acercarse con respeto y actuar con misericordia, anunciando el evangelio y sirviendo sin discriminación.
-''',
-        references: "Mateo 9:35-36; Lucas 10:25-37; Gálatas 5:22-23; Santiago 2:1-17.",
-      ),
+La Iglesia anuncia el evangelio y sirve al prójimo sin separar la verdad de la gracia. En Jesús vemos la compasión del Hijo enviado por el Padre y, por el Espíritu, aprendemos a reflejar ese amor en la vida comunitaria.''', references: "Mateo 5:7; 9:35-38; 25:31-46; Gálatas 5:22-23; Santiago 1:27; 2:14-17.")
     ],
-    conclusion: '''
-La compasión de Jesucristo revela la misericordia de Dios hacia quienes sufren y son excluidos. Jesús se acerca, escucha, sana, restaura y anuncia el Reino. Su misericordia no es indiferencia ante el pecado, sino amor que dignifica y llama a una vida transformada.
-
-La Iglesia debe reflejar ese carácter mediante ayuda concreta, hospitalidad, justicia y trato sin parcialidad. El Padre es misericordioso, el Hijo revela su carácter y el Espíritu produce amor y bondad en el pueblo de Dios.
-
-La fe se demuestra en el servicio al prójimo. Seguir a Cristo es detenerse ante la necesidad, actuar con respeto y anunciar el evangelio sin discriminación.
-''',
+    conclusion: '''Los discípulos de Jesús están llamados a mirar a las personas con dignidad, escuchar antes de juzgar, acompañar al enfermo, atender al necesitado y recibir con verdad a quien busca restauración. La compasión no es una estrategia de prestigio, sino fruto de haber recibido misericordia. La Iglesia anuncia el evangelio y sirve al prójimo sin separar la verdad de la gracia.''',
   ),
-
-  Study(
-    number: '117',
+number: '117',
     title: "La resurrección futura de los creyentes: cuerpo, transformación y esperanza",
     subtitle: "La promesa bíblica de la resurrección corporal y la renovación de la creación.",
     introduction: '''
