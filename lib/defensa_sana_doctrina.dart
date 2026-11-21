@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'data/defensa_estudios_estructura.dart';
 
 /// Catálogo de 100 temas y marco común de investigación apologética.
 class DefensaSanaDoctrinaPage extends StatefulWidget {
@@ -69,6 +70,15 @@ class _DefensaSanaDoctrinaPageState extends State<DefensaSanaDoctrinaPage> {
       'Arrepentimiento y conversión','Resurrección y segunda venida de Cristo']),
   ];
 
+  int _numeroTema(String tituloParte, int indiceTema) {
+    final indiceParte = partes.indexWhere((p) => p.titulo == tituloParte);
+    var numero = indiceTema + 1;
+    for (var i = 0; i < indiceParte; i++) {
+      numero += partes[i].temas.length;
+    }
+    return numero;
+  }
+
   @override
   void dispose() { _search.dispose(); super.dispose(); }
 
@@ -117,7 +127,10 @@ class _DefensaSanaDoctrinaPageState extends State<DefensaSanaDoctrinaPage> {
               ListTile(dense: true, leading: const Icon(Icons.menu_book_outlined, size: 20),
                 title: Text(p.temas[i]), trailing: const Icon(Icons.chevron_right),
                 onTap: () => Navigator.push(context, MaterialPageRoute(
-                  builder: (_) => DefensaTemaPage(titulo: p.temas[i], parte: p.titulo))))],
+                  builder: (_) => DefensaTemaPage(
+                  numero: _numeroTema(p.titulo, i),
+                  titulo: p.temas[i],
+                  parte: p.titulo))))],
           )),
         const SizedBox(height: 18),
         const Text('CRITERIO DE INVESTIGACIÓN',
@@ -137,56 +150,52 @@ class _Parte {
 }
 
 class DefensaTemaPage extends StatelessWidget {
+  final int numero;
   final String titulo;
   final String parte;
-  const DefensaTemaPage({super.key, required this.titulo, required this.parte});
-
-  static const apartados = <(String, String)>[
-    ('1. Identificación y contexto histórico',
-      'Registrar denominaciones históricas, fecha y lugar de origen, fundadores y personajes relacionados. Explicar el contexto político, religioso y cultural, distinguiendo datos firmes de asuntos discutidos.'),
-    ('2. Desarrollo y enseñanzas',
-      'Describir la evolución histórica y las enseñanzas a partir de fuentes primarias y declaraciones oficiales. Distinguir corrientes internas y evitar generalizaciones.'),
-    ('3. Argumentos y textos bíblicos utilizados',
-      'Identificar los argumentos reales del movimiento y los pasajes que utiliza. Examinar quién habla, a quién, cuándo, por qué y cómo se relaciona cada texto con el argumento.'),
-    ('4. Exégesis y armonía bíblica',
-      'Estudiar contexto inmediato, capítulo, libro, trasfondo histórico, gramática y vocabulario. Comparar con otros pasajes del Antiguo y Nuevo Testamento y analizar las aparentes contradicciones.'),
-    ('5. Evaluación y respuesta trinitaria',
-      'Presentar con justicia la interpretación alternativa y responder desde el conjunto de la Escritura. Distinguir lo que el pasaje afirma de aquello que no permite concluir.'),
-    ('6. Preguntas y respuestas apologéticas',
-      'Incluir preguntas trinitarias con respuestas bíblicas, objeciones frecuentes, preguntas difíciles para examinar argumentos y cuestiones para el diálogo respetuoso.'),
-    ('7. Conclusiones y fuentes',
-      'Resumir hallazgos e implicaciones para la Iglesia. Añadir fuentes históricas primarias, documentos oficiales, bibliografía académica y referencias bíblicas verificables.'),
-  ];
+  const DefensaTemaPage({super.key, required this.numero, required this.titulo, required this.parte});
 
   @override
-  Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(title: const Text('Investigación doctrinal')),
-    body: ListView(padding: const EdgeInsets.all(18), children: [
-      Container(padding: const EdgeInsets.all(18),
-        decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(16)),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          const Text('RUTA DE INVESTIGACIÓN',
-            style: TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold)),
-          const SizedBox(height: 8),
-          Text(titulo, style: const TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
-          const SizedBox(height: 8),
-          Text(parte, style: const TextStyle(color: Colors.white70)),
-        ])),
-      const SizedBox(height: 16),
-      const Text('Ficha metodológica: estos apartados indican cómo se desarrollará la investigación. No presentan como verificados datos que todavía no han sido documentados.',
-        style: TextStyle(height: 1.5)),
-      const SizedBox(height: 18),
-      for (final a in apartados) ...[
-        Text(a.$1, style: const TextStyle(color: Color(0xFF14243A), fontSize: 18, fontWeight: FontWeight.bold)),
+  Widget build(BuildContext context) {
+    final apartados = defensaEstructuras[numero] ?? const <String>[];
+    return Scaffold(
+      appBar: AppBar(title: const Text('Investigación doctrinal')),
+      body: ListView(padding: const EdgeInsets.all(18), children: [
+        Container(padding: const EdgeInsets.all(18),
+          decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(16)),
+          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text('ESTUDIO $numero · RUTA DE INVESTIGACIÓN',
+              style: const TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold)),
+            const SizedBox(height: 8),
+            Text(titulo, style: const TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
+            const SizedBox(height: 8),
+            Text(parte, style: const TextStyle(color: Colors.white70)),
+          ])),
+        const SizedBox(height: 16),
+        const Text('ESTRUCTURA PARTICULAR DEL ESTUDIO',
+          style: TextStyle(color: Color(0xFF14243A), fontWeight: FontWeight.bold)),
         const SizedBox(height: 6),
-        Text(a.$2, style: const TextStyle(height: 1.55)),
+        const Text('Este esquema se adapta al tema específico. Los apartados indican el orden de investigación; el contenido se desarrollará y documentará progresivamente.',
+          style: TextStyle(height: 1.5)),
         const SizedBox(height: 18),
-      ],
-      const Divider(),
-      const Text('REGLA EXEGÉTICA', style: TextStyle(color: Color(0xFF14243A), fontWeight: FontWeight.bold)),
-      const SizedBox(height: 6),
-      const Text('Ningún versículo se utilizará aislado. Se examinará su contexto inmediato, literario e histórico, su relación con el resto de la Biblia y la interpretación propuesta por el movimiento estudiado.',
-        style: TextStyle(height: 1.5)),
-    ]),
-  );
+        for (var i = 0; i < apartados.length; i++) ...[
+          Text('${i + 1}. ${apartados[i]}',
+            style: const TextStyle(color: Color(0xFF14243A), fontSize: 17, fontWeight: FontWeight.bold)),
+          const SizedBox(height: 14),
+        ],
+        const Divider(),
+        const Text('REGLA EXEGÉTICA OBLIGATORIA',
+          style: TextStyle(color: Color(0xFF14243A), fontWeight: FontWeight.bold)),
+        const SizedBox(height: 6),
+        const Text('Cada pasaje bíblico se estudiará en su contexto inmediato, literario, histórico, gramatical y canónico; se comparará con otros textos del Antiguo y Nuevo Testamento. Se expondrán las interpretaciones alternativas, se examinarán las aparentes contradicciones y se concluirá qué enseña el pasaje y qué no permite afirmar. La Escritura interpretará la Escritura.',
+          style: TextStyle(height: 1.5)),
+        const SizedBox(height: 14),
+        const Text('PREGUNTAS Y RESPUESTAS',
+          style: TextStyle(color: Color(0xFF14243A), fontWeight: FontWeight.bold)),
+        const SizedBox(height: 6),
+        const Text('Al desarrollar el estudio se incorporarán preguntas trinitarias con respuestas bíblicas, objeciones reales del tema y preguntas difíciles para comprobar la coherencia de los argumentos.',
+          style: TextStyle(height: 1.5)),
+      ]),
+    );
+  }
 }
