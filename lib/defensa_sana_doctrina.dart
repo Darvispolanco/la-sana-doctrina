@@ -110,7 +110,7 @@ class _DefensaSanaDoctrinaPageState extends State<DefensaSanaDoctrinaPage> {
           Card(child: ExpansionTile(
             leading: CircleAvatar(backgroundColor: const Color(0xFF14243A),
               foregroundColor: const Color(0xFFD5B46A),
-              child: Text((partes.indexOf(p) + 1).toString())),
+              child: Text((partes.indexWhere((original) => original.titulo == p.titulo) + 1).toString())),
             title: Text(p.titulo, style: const TextStyle(fontWeight: FontWeight.w700)),
             subtitle: Text(p.temas.length.toString() + ' temas'),
             children: [for (var i = 0; i < p.temas.length; i++)
