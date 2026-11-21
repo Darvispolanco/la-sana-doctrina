@@ -233,7 +233,7 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
       references: 'Deuteronomio 6:4; Isaías 45:5; Marcos 12:29; 1 Corintios 8:4-6.',
       relationship:
           'Marcos 12:28-34 muestra a Jesús afirmando el mandamiento de que Dios es uno. 1 Corintios 8:4-6 conserva el monoteísmo al hablar del Padre y de Jesucristo. La unidad divina debe armonizarse con los textos que distinguen al Padre, al Hijo y al Espíritu.',
-    ),,
+    ),
 
     _DictionaryEntry(
       term: 'Aseidad divina',
@@ -391,8 +391,77 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
       return entry.term.toLowerCase().contains(query) ||
           entry.category.toLowerCase().contains(query) ||
           entry.definition.toLowerCase().contains(query) ||
-          entry.references.toLowerCase().contains(query);
-    }).toList();
+          entry.references.toLowerCase().contains(query) ||
+          entry.relationship.toLowerCase().contains(query);
+    }).toList()
+      ..sort(
+        (a, b) => a.term.toLowerCase().compareTo(b.term.toLowerCase()),
+      );
+
+    final dictionaryItems = <Widget>[];
+    String? currentLetter;
+    for (final entry in filtered) {
+      final letter = entry.term.substring(0, 1).toUpperCase();
+      if (letter != currentLetter) {
+        currentLetter = letter;
+        dictionaryItems.add(
+          Padding(
+            padding: const EdgeInsets.fromLTRB(8, 16, 8, 8),
+            child: Text(
+              letter,
+              style: TextStyle(
+                color: Theme.of(context).colorScheme.primary,
+                fontSize: 18,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ),
+        );
+      }
+      dictionaryItems.add(
+        Card(
+          margin: const EdgeInsets.only(bottom: 9),
+          child: ExpansionTile(
+            leading: const Icon(Icons.menu_book_outlined),
+            title: Text(
+              entry.term,
+              style: const TextStyle(fontWeight: FontWeight.w700),
+            ),
+            subtitle: Text(entry.category),
+            children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'Definición',
+                      style: TextStyle(fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(entry.definition),
+                    const SizedBox(height: 12),
+                    const Text(
+                      'Fundamento bíblico (RVR1960)',
+                      style: TextStyle(fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(entry.references),
+                    const SizedBox(height: 12),
+                    const Text(
+                      'Relación y contexto de los pasajes',
+                      style: TextStyle(fontWeight: FontWeight.bold),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(entry.relationship),
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      );
+    }
 
     return ListView(
       padding: const EdgeInsets.all(16),
@@ -438,48 +507,7 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
               child: Text('No se encontraron términos relacionados.'),
             ),
           ),
-        for (final entry in filtered)
-          Card(
-            margin: const EdgeInsets.only(bottom: 9),
-            child: ExpansionTile(
-              leading: const Icon(Icons.menu_book_outlined),
-              title: Text(
-                entry.term,
-                style: const TextStyle(fontWeight: FontWeight.w700),
-              ),
-              subtitle: Text(entry.category),
-              children: [
-                Padding(
-                  padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      const Text(
-                        'Definición',
-                        style: TextStyle(fontWeight: FontWeight.bold),
-                      ),
-                      const SizedBox(height: 4),
-                      Text(entry.definition),
-                      const SizedBox(height: 12),
-                      const Text(
-                        'Fundamento bíblico (RVR1960)',
-                        style: TextStyle(fontWeight: FontWeight.bold),
-                      ),
-                      const SizedBox(height: 4),
-                      Text(entry.references),
-                      const SizedBox(height: 12),
-                      const Text(
-                        'Relación y contexto de los pasajes',
-                        style: TextStyle(fontWeight: FontWeight.bold),
-                      ),
-                      const SizedBox(height: 4),
-                      Text(entry.relationship),
-                    ],
-                  ),
-                ),
-              ],
-            ),
-          ),
+        ...dictionaryItems,
       ],
     );
   }
