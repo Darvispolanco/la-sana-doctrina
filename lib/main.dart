@@ -18751,20 +18751,140 @@ Este estudio no atribuye a Génesis una exposición trinitaria que el pasaje no 
     number: '92',
     title: "El pacto de Dios con Israel en el Sinaí: identidad, ley y vida del pueblo",
     subtitle: "El establecimiento del pacto mosaico en su contexto, sus términos y su función en la historia de Israel.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    introduction: '''
+El pacto del Sinaí ocupa un lugar central en la historia de Israel. Después de liberar al pueblo de la esclavitud de Egipto, Dios lo condujo al monte Sinaí y estableció con él una relación de pacto. Allí entregó sus mandamientos y las instrucciones que ordenarían la adoración, la justicia y la vida comunitaria de la nación.
+
+Este estudio examina el pacto mosaico en su propio contexto y lo distingue del pacto hecho con Abraham y del nuevo pacto anunciado por los profetas y establecido por Jesucristo. La secuencia es importante: Dios libera primero a Israel y después le enseña cómo debe vivir como pueblo suyo.
+
+El análisis respetará el sentido histórico y literario de Éxodo, Levítico y Deuteronomio, relacionará sus enseñanzas con el Nuevo Testamento y atenderá las aparentes contradicciones. La perspectiva trinitaria se desarrollará a partir del testimonio completo de las Escrituras, sin atribuir a los pasajes del Sinaí afirmaciones explícitas que no contienen.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 92. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del pacto sinaítico y conceptos fundamentales",
+        content: '''
+El pacto del Sinaí, también llamado pacto mosaico, es el compromiso establecido por Dios con Israel después de liberarlo de Egipto. En este pacto, Israel es constituido como pueblo del Señor y recibe mandamientos, disposiciones para el culto y normas para la vida comunitaria. No debe confundirse con el pacto abrahámico, que precede a Moisés y contiene la promesa de descendencia y bendición (Génesis 12:1–3; 15:1–21; Éxodo 2:24–25).
+
+La ley comprende más que una lista aislada de prohibiciones: regula la relación del pueblo con Dios y con el prójimo, establece el culto y ordena la justicia comunitaria. El estudio distinguirá el pacto como relación histórica, los mandamientos como sus estipulaciones y las consecuencias anunciadas por la obediencia o desobediencia.
+
+El punto de partida no es que Israel se ganó la liberación por cumplir la ley. Dios primero lo rescató de la esclavitud y después lo llamó a vivir como pueblo suyo (Éxodo 19:3–6; 20:1–2).
+''',
+        references: 'Éxodo 2:24–25; 19:3–6; 20:1–2; Deuteronomio 4:13–14; Gálatas 3:15–18.',
+      ),
+      StudySection(
+        title: "2. Contexto histórico: de Egipto al monte Sinaí",
+        content: '''
+Éxodo 1–18 narra la opresión de Israel, el llamado de Moisés, las plagas, la salida de Egipto y el paso por el mar. Éxodo 19 comienza ubicando al pueblo en el desierto de Sinaí, en el tercer mes después de su salida. Esta secuencia es esencial: el pacto se establece con un pueblo que ya ha experimentado la acción liberadora de Dios.
+
+En el mundo antiguo, los pactos podían incluir identificación de las partes, compromisos, estipulaciones y consecuencias. Esa comparación ayuda a reconocer la forma del relato, pero no debe hacer que impongamos al texto un modelo externo ni que ignoremos su propia presentación teológica.
+
+Dios recuerda cómo llevó a Israel sobre alas de águila y lo trajo a sí. La imagen comunica cuidado y liberación. La obediencia que sigue es respuesta al Dios que actuó primero, no el precio pagado para conseguir el éxodo.
+''',
+        references: 'Éxodo 1:8–14; 3:7–10; 12:31–42; 14:21–31; 19:1–6; Deuteronomio 5:6.',
+      ),
+      StudySection(
+        title: "3. La iniciativa divina y la identidad de Israel",
+        content: '''
+En Éxodo 19:3–6, Dios manda a Moisés recordar a Israel lo que hizo con Egipto y cómo lo condujo hasta el Sinaí. Luego declara que, si el pueblo escucha su voz y guarda el pacto, será su especial tesoro entre los pueblos, un reino de sacerdotes y gente santa. La elección de Israel tiene propósito: pertenecer al Señor y reflejar su santidad entre las naciones.
+
+La expresión «reino de sacerdotes» no significa que cada israelita desempeñara el oficio aarónico. En el contexto describe la vocación colectiva del pueblo bajo el gobierno de Dios y su llamado a ser una nación consagrada.
+
+La condición de obedecer no elimina la gracia que precede al pacto. Éxodo 20:2 vuelve a establecer el orden: «Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto». La identidad y la responsabilidad de Israel se fundamentan en la liberación recibida.
+''',
+        references: 'Éxodo 19:3–8; 20:1–2; Levítico 19:1–2; Deuteronomio 7:6–8; 1 Pedro 2:9–10.',
+      ),
+      StudySection(
+        title: "4. Los Diez Mandamientos dentro del pacto",
+        content: '''
+Éxodo 20 presenta los Diez Mandamientos después de la declaración de liberación. Los primeros mandamientos regulan la lealtad a Dios: no tener otros dioses, no fabricar imágenes para rendirles culto, no tomar su nombre en vano y guardar el día de reposo. Los siguientes ordenan relaciones fundamentales con el prójimo: honrar a los padres, proteger la vida, la fidelidad matrimonial, la propiedad, la verdad y el control del deseo.
+
+Deuteronomio 5 vuelve a presentar los mandamientos y los relaciona con la memoria del éxodo. Por eso no deben leerse como máximas descontextualizadas: fueron dados a Israel dentro de una relación de pacto y en una etapa concreta de la historia bíblica.
+
+Jesús resume la orientación moral de la ley en el amor a Dios y al prójimo (Mateo 22:34–40). Ese resumen no autoriza a ignorar el contexto de cada mandamiento; muestra la dirección hacia la cual apunta la voluntad moral de Dios.
+''',
+        references: 'Éxodo 20:1–17; Deuteronomio 5:1–22; Mateo 22:34–40; Romanos 13:8–10.',
+      ),
+      StudySection(
+        title: "5. El libro del pacto, el culto y la vida comunitaria",
+        content: '''
+Éxodo 20:22–23:33 amplía las instrucciones dadas a Israel. Incluye disposiciones sobre el altar, la justicia, la restitución, el trato al extranjero, la viuda y el huérfano, el descanso y las fiestas. Estas normas muestran que la fidelidad al pacto abarcaba tanto la adoración como la conducta social.
+
+Éxodo 24 describe la lectura del libro del pacto, la respuesta del pueblo y la ceremonia con sangre. La sangre señala solemnemente la ratificación del pacto. No se debe convertir cada detalle ceremonial en una alegoría sin apoyo textual; primero debe reconocerse su función dentro de la ceremonia narrada.
+
+El culto del tabernáculo, el sacerdocio y las ofrendas se desarrollan en los textos siguientes. Su función debe estudiarse en su marco levítico y no confundirse con la obra definitiva de Cristo, que Hebreos explica posteriormente.
+''',
+        references: 'Éxodo 20:22–23:33; 24:3–11; 25:1–9; Levítico 1:1–4; Deuteronomio 10:12–19.',
+      ),
+      StudySection(
+        title: "6. La ratificación del pacto y la responsabilidad de Israel",
+        content: '''
+En Éxodo 24, Moisés comunica las palabras del Señor, el pueblo responde que hará todo lo que Dios ha dicho, y el pacto es ratificado ceremonialmente. La lectura pública importa: el compromiso no se presenta como una experiencia secreta de Moisés, sino como una relación asumida por la comunidad.
+
+La historia posterior muestra que Israel quebrantó repetidamente el pacto. El episodio del becerro de oro en Éxodo 32 ocurre mientras Moisés recibe las tablas y evidencia la rapidez con que el pueblo se apartó del mandamiento contra la idolatría. La intercesión de Moisés y la renovación de las tablas en Éxodo 34 muestran juicio, misericordia y continuidad de la relación bajo la paciencia divina.
+
+La fidelidad de Dios no convierte la infidelidad humana en algo irrelevante. Deuteronomio 28–30 presenta bendiciones, maldiciones y un llamado a volver al Señor.
+''',
+        references: 'Éxodo 24:3–8; 32:1–35; 34:1–10; Deuteronomio 28:1–68; 30:1–10.',
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: el único Dios y la revelación del Padre, del Hijo y del Espíritu Santo",
+        content: '''
+En el relato del Sinaí, el sujeto que libera, habla y establece el pacto es el Señor, el único Dios de Israel. Éxodo 19–24 no formula explícitamente una exposición de tres personas; por tanto, no debemos introducir en cada aparición del nombre divino una identificación personal que el pasaje no hace.
+
+La lectura cristiana considera este acontecimiento dentro del testimonio completo de la Biblia. El Nuevo Testamento enseña que hay un solo Dios y distingue al Padre, al Hijo y al Espíritu Santo. Jesucristo es presentado como mediador del nuevo pacto, y el Espíritu Santo obra en la vida del pueblo de Dios. Estas verdades permiten una síntesis trinitaria sin borrar el sentido histórico del pacto mosaico.
+
+El Hijo no es el Padre, y el Espíritu Santo no es el Hijo. La unidad divina no significa confusión de personas; la distinción personal no significa tres dioses. La relación entre Sinaí y la revelación trinitaria debe establecerse mediante los textos explícitos del Nuevo Testamento, no mediante afirmaciones que Éxodo no contiene.
+''',
+        references: 'Deuteronomio 6:4; Mateo 28:19; Lucas 22:20; 1 Corintios 8:4–6; 2 Corintios 3:4–18; Hebreos 8:6; 9:15.',
+      ),
+      StudySection(
+        title: "8. El pacto mosaico y el nuevo pacto: continuidad, diferencia y cumplimiento",
+        content: '''
+El pacto del Sinaí y el nuevo pacto están relacionados dentro de la historia de la redención, pero no son idénticos. Jeremías 31:31–34 anuncia un nuevo pacto y contrasta su promesa con el pacto que Israel quebrantó al salir de Egipto. El texto promete la ley escrita en el corazón, conocimiento de Dios y perdón de los pecados.
+
+Jesús identifica la copa de la Cena con el nuevo pacto en su sangre (Lucas 22:20). Hebreos 8–10 desarrolla la superioridad del ministerio de Cristo y explica la función temporal y preparatoria del sistema sacerdotal y sacrificial anterior.
+
+Pablo enseña que la ley no puede dar vida ni anular la promesa hecha anteriormente a Abraham (Gálatas 3:15–25). Esto no significa que la ley fuera mala: era santa y buena, pero no podía resolver el problema del pecado ni justificar al pecador. El cumplimiento en Cristo debe explicarse sin declarar que el Antiguo Testamento carece de valor o que Dios cambió de carácter.
+''',
+        references: 'Jeremías 31:31–34; Lucas 22:19–20; Romanos 7:12; Gálatas 3:15–25; Hebreos 8:6–13; 10:1–18.',
+      ),
+      StudySection(
+        title: "9. Preguntas difíciles, aparentes contradicciones y respuestas bíblicas",
+        content: '''
+¿Israel fue liberado porque obedeció la ley? No. El éxodo precede a la entrega del pacto; la obediencia es respuesta a la liberación (Éxodo 19:4; 20:2).
+
+¿La ley mosaica contradice la promesa a Abraham? No. Pablo explica que la ley llegó después y no anuló la promesa previamente confirmada (Gálatas 3:15–18).
+
+¿La ley era mala porque no podía justificar? No. Pablo la llama santa, justa y buena; el problema no está en la ley, sino en el pecado humano y en la incapacidad de la ley para dar vida (Romanos 7:7–13; Gálatas 3:21–22).
+
+¿El nuevo pacto significa que Dios dejó de ser santo o que sus normas morales ya no importan? No. Jeremías 31 habla de la ley escrita en el corazón, y el Nuevo Testamento llama a los creyentes a vivir en santidad por la obra de Dios.
+
+¿Éxodo 19 enseña explícitamente la Trinidad? No. El pasaje habla del Señor que hizo salir a Israel de Egipto. La doctrina trinitaria se establece con el testimonio bíblico completo y con textos que distinguen al Padre, al Hijo y al Espíritu Santo.
+
+¿La Iglesia es simplemente Israel con otro nombre? Esa conclusión no debe imponerse a un solo texto. Deben examinarse cuidadosamente los pasajes que hablan de Israel, las naciones, la Iglesia y las promesas, respetando sus contextos.
+''',
+        references: 'Éxodo 19:3–6; 20:1–2; Jeremías 31:31–34; Romanos 7:12; Gálatas 3:15–22; Efesios 2:11–22; Hebreos 8:6–13.',
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El pacto del Sinaí enseña que Dios rescató a Israel y lo llamó a vivir como pueblo santo. La gracia liberadora precede a la responsabilidad de obedecer. La ley ordenaba la adoración, la justicia, el descanso y las relaciones comunitarias; mostraba la santidad de Dios y exponía el pecado, pero no podía otorgar por sí misma la vida ni la justificación.
+
+La historia del becerro de oro y las posteriores infidelidades de Israel muestran la gravedad del pecado y la necesidad de misericordia. Los profetas anunciaron un nuevo pacto, y Jesucristo lo inauguró mediante su sangre. La relación entre ambos pactos debe explicarse reconociendo tanto la continuidad del propósito de Dios como las diferencias históricas y teológicas que el Nuevo Testamento señala.
+
+Desde la fe trinitaria, confesamos que el único Dios se ha revelado como Padre, Hijo y Espíritu Santo. No atribuimos a Éxodo 19–24 una fórmula trinitaria que no contiene; leemos el Sinaí dentro de la revelación completa, en la que Cristo es mediador del nuevo pacto y el Espíritu obra en el pueblo de Dios.
+
+La aplicación para el creyente no consiste en trasladar sin distinción todas las estipulaciones nacionales de Israel a la Iglesia. Consiste en aprender de la santidad de Dios, de la seriedad de su palabra, de la justicia hacia el prójimo y de la necesidad de vivir en obediencia agradecida por la redención recibida.
+''',
+        references: 'Éxodo 19:3–6; 20:1–17; 24:3–8; Jeremías 31:31–34; Lucas 22:20; Gálatas 3:19–25; Hebreos 8:6–13.',
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El pacto del Sinaí muestra al Dios que rescata, llama y forma un pueblo para sí. Israel no obtuvo el éxodo por cumplir la ley; recibió la ley después de ser liberado. Los mandamientos ordenaban la relación con Dios y con el prójimo, y las disposiciones del pacto regulaban la adoración y la vida de la nación.
+
+La infidelidad de Israel puso de manifiesto la gravedad del pecado y la necesidad de misericordia. La ley era santa y buena, pero no podía dar vida ni justificar al pecador. Los profetas anunciaron un nuevo pacto y Jesucristo lo estableció mediante su sangre.
+
+La Iglesia debe leer estos textos con respeto a su contexto, reconocer su lugar en la historia de la redención y atender la enseñanza del Nuevo Testamento sobre su cumplimiento en Cristo. La confesión trinitaria afirma al único Dios, Padre, Hijo y Espíritu Santo, sin confundir las personas ni dividir la esencia divina.
+''',
   ),
   Study(
     number: '93',
