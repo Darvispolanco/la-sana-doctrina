@@ -20030,269 +20030,89 @@ La Iglesia debe enseñar a leer la Biblia con atención, humildad y rigor. Recon
     ],
     conclusion: '''Reconocer los géneros literarios permite comprender cómo comunica la Biblia y evita imponer al texto una forma de lectura inadecuada. La Iglesia debe examinar el contexto, la estructura y el argumento de cada pasaje, comparar las Escrituras y distinguir afirmación de inferencia. Esta disciplina sirve a la enseñanza fiel de la sana doctrina y a una lectura centrada en Cristo.''',
   ),
-number: '109',
+  Study(
+    number: '109',
     title: "La interpretación bíblica: principios para comprender fielmente las Escrituras",
-    subtitle: "Hermenéutica, exégesis, contexto y aplicación responsable de la Palabra de Dios.",
-    introduction: '''
-Interpretar la Biblia significa buscar y comprender el sentido que el texto comunica en su contexto, atendiendo a las palabras, la estructura, el género, los destinatarios y el propósito del autor. La aplicación debe surgir de una interpretación responsable, no de impresiones aisladas ni de la utilización de versículos como frases independientes.
+    subtitle: "Contexto, género, argumento, comparación de pasajes y aplicación responsable.",
+    introduction: '''La interpretación bíblica busca comprender fielmente el sentido de los textos inspirados en su contexto y aplicarlos de manera responsable. No consiste en imponer al pasaje ideas previas ni en encontrar significados secretos. El lector procura escuchar lo que el autor comunica mediante palabras, estructura, género y situación histórica.
 
-La Escritura es inspirada por Dios y fue comunicada mediante autores humanos en circunstancias históricas concretas. Por eso, estudiar su mensaje requiere atención al contexto original y a la unidad del canon. Los pasajes difíciles deben examinarse a la luz de los más claros, sin forzar armonizaciones ni ignorar tensiones reales.
-
-Este estudio presenta principios básicos de hermenéutica y exégesis para que la doctrina, incluida la enseñanza trinitaria, se construya a partir del testimonio completo de las Escrituras y no de palabras aisladas o argumentos preconcebidos.
-''',
+La Biblia fue escrita en idiomas, épocas y culturas distintas. La interpretación evita que se use de forma incorrecta y permite que su enseñanza guíe la fe y la vida.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Hermenéutica es el conjunto de principios que orientan la interpretación; exégesis es el trabajo de extraer del texto su sentido mediante el análisis cuidadoso. Eiségesis, en cambio, consiste en introducir en el pasaje ideas que no surgen de él. La aplicación pregunta cómo la verdad comprendida debe orientar la vida actual.
+      StudySection(title: "1. Definición y propósito de la interpretación bíblica", content: '''La interpretación bíblica busca comprender fielmente el sentido de los textos inspirados en su contexto y aplicarlos de manera responsable. No consiste en imponer al pasaje ideas previas ni en encontrar significados secretos. El lector procura escuchar lo que el autor comunica mediante palabras, estructura, género y situación histórica.
 
-Una lectura responsable distingue observación, interpretación y aplicación. Primero se identifica qué dice el texto; después se pregunta qué significa para sus primeros destinatarios; finalmente se considera cómo se aplica a la Iglesia y al creyente. Ninguna aplicación debe contradecir el sentido establecido por el contexto.
-''',
-        references: "Nehemías 8:1-8; Lucas 24:25-27; Hechos 17:11; 2 Timoteo 2:15; 3:16-17.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los textos bíblicos fueron escritos en hebreo, arameo y griego, en épocas y contextos diversos. Los lectores originales conocían costumbres, instituciones y expresiones que pueden requerir explicación actual. La distancia histórica no impide comprender el mensaje, pero obliga a estudiar con diligencia.
+La interpretación es necesaria porque la Biblia fue escrita en idiomas, épocas y culturas distintas. El propósito no es alejar el texto del creyente, sino evitar que se use de forma incorrecta y permitir que su enseñanza guíe la fe y la vida.''', references: "Nehemías 8:8; Lucas 24:27; 2 Timoteo 2:15; 2 Pedro 3:15-16."),
+      StudySection(title: "2. Contexto inmediato y argumento", content: '''El primer paso es leer el párrafo y el libro completos, observando qué viene antes y después. Una frase aislada puede parecer significar algo distinto cuando se separa de la pregunta que el autor responde o de la conclusión a la que conduce.
 
-La Biblia contiene distintos géneros literarios y cada uno debe leerse conforme a su forma. La narración, la poesía, la ley, la profecía, la parábola, la epístola y la apocalíptica no utilizan el lenguaje de idéntica manera. La interpretación también debe atender a la estructura del libro y al argumento de cada sección.
-''',
-        references: "Deuteronomio 6:6-9; Nehemías 8; prácticas de lectura y enseñanza en Israel.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Deuteronomio 6:6-9 ordena conservar y enseñar las palabras del pacto. Nehemías 8:1-8 relata la lectura pública de la ley y la explicación para que el pueblo comprendiera. Los levitas ayudaban a entender el sentido de la lectura, mostrando que la instrucción y la comprensión son parte de la vida comunitaria.
+En las cartas apostólicas, por ejemplo, una instrucción debe interpretarse dentro del argumento doctrinal y pastoral. En los relatos, las acciones de los personajes no son automáticamente mandatos. La unidad literaria permite distinguir la enseñanza del autor de los errores que describe.''', references: "Romanos 3:21-31; 1 Corintios 8–10; 2 Timoteo 3:16-17."),
+      StudySection(title: "3. Contexto histórico, cultural y geográfico", content: '''El intérprete considera quién escribe, a quién se dirige, qué circunstancias atraviesan los destinatarios y qué costumbres ayudan a comprender el pasaje. Las referencias a leyes, comercio, parentesco, agricultura o instituciones antiguas pueden aclarar el significado.
 
-Los profetas interpretaron acontecimientos a la luz de la ley; los sabios enseñaron discernimiento; los escribas copiaron y estudiaron los textos. La Escritura presenta un pueblo llamado no solo a oír, sino a comprender y obedecer la palabra de Dios. El estudio cuidadoso no es una invención moderna, sino una responsabilidad presente en la historia bíblica.
-''',
-        references: "Deuteronomio 6:4-9; Nehemías 8:1-8; Salmo 119; Esdras 7:10.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús interpretó las Escrituras y corrigió lecturas equivocadas. En Mateo 22:29 reprochó a quienes no conocían las Escrituras ni el poder de Dios. En Lucas 24:27 explicó lo que las Escrituras decían acerca de Él. Los apóstoles argumentaban a partir del texto y llamaban a examinar la enseñanza (Hechos 17:11).
+El contexto histórico no debe utilizarse para anular el mensaje, sino para comprenderlo. Cuando la información externa es incierta, debe evitarse presentarla como hecho seguro. La Escritura sigue siendo la fuente principal para determinar su propia enseñanza doctrinal.''', references: "Lucas 1:1-4; Hechos 17:1-9; 1 Corintios 11:17-34."),
+      StudySection(title: "4. Género literario y recursos del lenguaje", content: '''La Biblia contiene narración, ley, poesía, sabiduría, profecía, evangelio, parábola, carta y apocalíptica. Cada género utiliza recursos particulares. La poesía comunica mediante imágenes y paralelismos; las parábolas emplean relatos; las cartas desarrollan argumentos; y la literatura apocalíptica utiliza visiones y símbolos.
 
-Segunda de Timoteo 2:15 exhorta a manejar correctamente la palabra de verdad. Segunda de Timoteo 3:16-17 afirma que toda Escritura es inspirada por Dios y útil para enseñar, corregir e instruir. La autoridad bíblica exige interpretación fiel, no uso descuidado. La Iglesia debe distinguir el texto inspirado de sus propias explicaciones, que pueden ser corregidas.
-''',
-        references: "Mateo 22:29; Lucas 24:25-27; Hechos 17:11; 2 Timoteo 2:15; 3:16-17; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Nehemías 8:8 une lectura, explicación y comprensión: el pueblo escuchó la ley y recibió el sentido para entenderla. El pasaje no describe un método técnico exhaustivo, pero muestra que la lectura pública debe buscar comprensión real.
+El lector debe reconocer metáforas, hipérboles, ironías, proverbios y lenguaje figurado. Interpretar cada expresión de forma literal puede distorsionar el mensaje, del mismo modo que convertir toda frase en símbolo puede borrar el sentido claro del texto.''', references: "Salmos 23; Proverbios 26:4-5; Mateo 13:1-23; Apocalipsis 1:1-3."),
+      StudySection(title: "5. Estudio de palabras y límites del léxico", content: '''El estudio de palabras puede ayudar a identificar usos, matices y relaciones entre términos, pero no debe convertirse en una búsqueda de significados ocultos. Una palabra puede tener varios sentidos y el contexto determina cuál corresponde a un pasaje.
 
-Lucas 24:27 presenta a Jesús explicando desde Moisés y los Profetas lo que se refería a Él. El contexto es la conversación con los discípulos de Emaús, que no habían comprendido el significado de los acontecimientos. Jesús no utiliza un versículo aislado; recorre el testimonio de las Escrituras.
+La etimología por sí sola no define el significado actual de una palabra. Tampoco es correcto importar todos los posibles sentidos de un término a cada versículo. El intérprete debe observar cómo se utiliza en la frase, el párrafo y el libro.''', references: "Mateo 5:3; Juan 1:1; Romanos 3:25; Filipenses 2:6-11."),
+      StudySection(title: "6. Comparación de pasajes y unidad de la Escritura", content: '''Los textos claros ayudan a comprender los difíciles, pero la comparación debe respetar el contexto de cada pasaje. Una enseñanza no debe construirse mediante la unión de frases que responden a preguntas diferentes sin explicar su relación.
 
-Hechos 17:11 elogia a los bereanos porque recibieron la palabra con solicitud y examinaban diariamente las Escrituras para comprobar la enseñanza de Pablo. El texto promueve una actitud abierta y examinadora, no sospecha permanente ni aceptación acrítica. La autoridad apostólica y el examen bíblico aparecen juntos.
-''',
-        references: "Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 2:15.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La interpretación debe respetar el contexto inmediato, el libro completo, el contexto histórico y la relación canónica. Un pasaje no debe utilizarse para contradecir otro cuando ambos pueden comprenderse en sus propios términos. Las aparentes contradicciones deben examinarse preguntando si los autores hablan del mismo asunto, desde el mismo marco y con el mismo propósito.
+La Biblia presenta una historia de revelación progresiva. El Antiguo Testamento debe leerse en su propio contexto y también a la luz del cumplimiento en Cristo. La lectura canónica no borra las diferencias entre pactos, géneros y destinatarios.''', references: "Lucas 24:25-27, 44-47; Hechos 17:11; Romanos 15:4; Hebreos 1:1-3."),
+      StudySection(title: "7. Aparente contradicción y armonización responsable", content: '''Cuando dos pasajes parecen diferir, primero se deben comparar sus contextos, propósitos, destinatarios y vocabulario. A veces describen aspectos distintos de un mismo hecho; otras veces uno ofrece una visión general y otro añade detalles. No se debe declarar contradicción antes de examinar las opciones razonables.
 
-Los géneros literarios determinan cómo se comunica el sentido. Las metáforas son verdaderas como imágenes, las parábolas enseñan mediante relatos y las visiones utilizan símbolos. La interpretación también debe distinguir entre descripción y mandato, entre promesa específica y principio general, y entre una situación del pacto antiguo y su aplicación en el nuevo pacto.
+La armonización tampoco autoriza inventar datos para resolver toda dificultad. Si el texto no proporciona suficiente información, es legítimo reconocer el límite. La fidelidad exige distinguir entre lo que sabemos, lo que inferimos y lo que permanece sin resolver.''', references: "Mateo 27:5; Hechos 1:18; Romanos 3:28; Santiago 2:24."),
+      StudySection(title: "8. Cristo como centro de la lectura bíblica", content: '''Jesús enseñó que las Escrituras daban testimonio de Él y explicó a sus discípulos lo que se refería a su sufrimiento y gloria. Leer la Biblia centrada en Cristo no significa encontrar una referencia directa a Jesús en cada objeto o número, sino reconocer cómo la historia de la redención conduce a su persona y obra.
 
-El centro de la lectura cristiana es Cristo, pero no debe imponerse una alegoría arbitraria en cada frase. El propio Nuevo Testamento muestra cómo las Escrituras dan testimonio de Él.
-''',
-        references: "Salmo 119; Lucas 24:25-47; Hechos 17:11; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es la fuente de la revelación y el Dios que habló por los profetas; el Hijo es la Palabra encarnada y el centro del testimonio bíblico; el Espíritu Santo inspiró a los autores y guía a la Iglesia en la verdad. Segunda de Pedro 1:20-21 enseña que los profetas hablaron de parte de Dios impulsados por el Espíritu Santo.
+La interpretación cristiana debe respetar el sentido original y seguir las conexiones que el propio Nuevo Testamento establece. Cristo es la culminación de la revelación, no una excusa para ignorar el contexto de los pasajes anteriores.''', references: "Juan 5:39; Lucas 24:25-27, 44-47; Hebreos 1:1-3."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas de método", content: '''El Padre se revela y envía al Hijo; el Hijo es la Palabra encarnada; y el Espíritu Santo inspira las Escrituras y guía a la verdad. La doctrina trinitaria surge de la lectura conjunta de muchos pasajes y no de forzar una fórmula sobre cada versículo.
 
-Juan 1:1, 14 distingue al Verbo que estaba con Dios y era Dios, y que se hizo carne. El Padre no es el Hijo, y el Espíritu no es una fuerza creada. La interpretación trinitaria debe surgir de la lectura conjunta de los textos que afirman la unidad divina y la distinción personal.
+¿Puede una interpretación privada contradecir el conjunto de la Biblia? Debe ser examinada. ¿El contexto histórico elimina la aplicación actual? No; ayuda a establecerla correctamente. ¿Cada dificultad tiene solución explícita? No siempre. ¿La tradición o la experiencia reemplazan el texto? No; deben evaluarse bajo la autoridad de la Escritura.''', references: "Juan 1:1-14; 14:16-17, 26; 16:13; 2 Timoteo 3:16-17; 2 Pedro 1:20-21."),
+      StudySection(title: "10. Aplicación, enseñanza y conclusión", content: '''La interpretación responsable exige oración, estudio, humildad, comparación de pasajes y disposición a corregir ideas previas. Los maestros deben explicar el texto en su contexto y evitar utilizar versículos como frases aisladas para imponer opiniones.
 
-No se debe utilizar una supuesta iluminación espiritual para justificar una interpretación que contradiga el texto. El Espíritu de verdad no guía a la Iglesia a negar la Palabra que inspiró.
-''',
-        references: "Juan 1:1,14; 14:16-17; 2 Pedro 1:20-21; 2 Timoteo 3:16-17.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿El sentido literal significa que todo debe leerse palabra por palabra sin figuras? No. Significa comprender el sentido comunicado por el autor según el género; la poesía utiliza metáforas y sigue comunicando verdad.
-
-¿Puede un texto significar cualquier cosa para cada lector? No. Las aplicaciones pueden variar, pero el sentido debe controlarse por el texto, el contexto y la intención comunicativa.
-
-¿Los pasajes difíciles deben descartarse? No. Deben estudiarse con paciencia, comparando traducciones, contexto y textos relacionados. Cuando una cuestión permanece debatida, debe reconocerse el límite de la conclusión.
-
-¿La tradición o experiencia puede corregir la Biblia? No. Las tradiciones y experiencias deben evaluarse a la luz de la Escritura, no ocupar su lugar.
-
-¿La doctrina trinitaria se demuestra con una sola palabra? No. Debe estudiarse el conjunto del testimonio bíblico sobre el único Dios, el Padre, el Hijo y el Espíritu Santo.
-''',
-        references: "Mateo 22:29; Hechos 17:11; 2 Timoteo 2:15; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Por dónde comienza una interpretación? Respuesta: Por observar cuidadosamente el texto, su contexto inmediato, estructura y género.
-
-Pregunta: ¿Qué diferencia hay entre exégesis y eiségesis? Respuesta: La exégesis busca el sentido del texto; la eiségesis introduce ideas externas que el pasaje no sostiene.
-
-Pregunta: ¿Por qué comparar pasajes? Respuesta: Porque la Biblia ofrece un testimonio unido y los textos relacionados ayudan a comprender afirmaciones difíciles.
-
-Pregunta: ¿Cómo se aplica un texto antiguo? Respuesta: Se identifica primero su sentido para los destinatarios originales y después se establece el principio que corresponde a la vida actual.
-
-Pregunta: ¿Qué autoridad tiene la interpretación humana? Respuesta: Es secundaria y corregible; la autoridad normativa pertenece a la Escritura inspirada (2 Timoteo 3:16-17).
-''',
-        references: "Nehemías 8:8; Lucas 24:27; Hechos 17:11; 2 Timoteo 3:16-17.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La interpretación fiel exige humildad, diligencia y disposición a ser corregidos por la Palabra. El lector debe observar el texto, comprender su contexto, reconocer su género, seguir el argumento y comparar pasajes relacionados antes de formular una doctrina o aplicación.
-
-La inspiración de la Escritura no elimina la responsabilidad de estudiarla. Tampoco autoriza a imponer sentidos personales. La Iglesia debe examinar toda enseñanza y distinguir entre lo que el texto afirma y las conclusiones humanas.
-
-El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró las Escrituras. Interpretar correctamente es escuchar la voz de Dios en su Palabra y obedecerla con fe.
-''',
-        references: "Salmo 119:9-16; Lucas 24:27; 2 Timoteo 2:15; 3:16-17.",
-      ),
+La Iglesia crece cuando escucha la Escritura con atención y la aplica con fidelidad. La meta no es acumular datos, sino conocer a Dios, confiar en Cristo y vivir bajo la guía del Espíritu. Una sana interpretación protege la doctrina y produce obediencia, amor y madurez.''', references: "Nehemías 8:8; Hechos 17:11; 2 Timoteo 2:15; 3:16-17; Santiago 1:22-25.")
     ],
-    conclusion: '''
-La interpretación bíblica responsable busca el sentido del texto según su contexto, género y propósito. La exégesis evita introducir ideas ajenas y permite que la aplicación surja de una comprensión correcta. Los pasajes difíciles deben examinarse con paciencia y en relación con el conjunto de la Escritura.
-
-Jesús enseñó que las Escrituras daban testimonio de Él, y los apóstoles llamaron a examinar la enseñanza. La autoridad pertenece a la Palabra inspirada, mientras que las interpretaciones humanas son corregibles. El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró a los autores.
-
-Estudiar la Biblia es una responsabilidad de toda la Iglesia y debe producir fe, discernimiento y obediencia.
-''',
+    conclusion: '''La interpretación responsable exige oración, estudio, humildad, comparación de pasajes y disposición a corregir ideas previas. Los maestros deben explicar el texto en su contexto y evitar utilizar versículos aislados para imponer opiniones. La meta no es acumular datos, sino conocer a Dios, confiar en Cristo y vivir bajo la guía del Espíritu.''',
   ),
-
   Study(
     number: '110',
     title: "El canon de las Escrituras: reconocimiento y autoridad de los libros bíblicos",
-    subtitle: "La formación, recepción y autoridad del conjunto de libros reconocidos como Escritura.",
-    introduction: '''
-El canon bíblico es el conjunto de libros reconocidos por la comunidad de fe como Escritura normativa. La cuestión del canon no consiste en que una autoridad humana convierta un escrito ordinario en palabra de Dios, sino en cómo el pueblo de Dios reconoció los escritos que daban testimonio autorizado de su revelación.
+    subtitle: "La formación y recepción histórica del conjunto de libros reconocidos como Biblia.",
+    introduction: '''El canon se refiere al conjunto de libros reconocidos como Escritura con autoridad para la fe y la vida del pueblo de Dios. La Iglesia no convierte un libro en palabra de Dios por votación; reconoce los escritos que poseen autoridad por su origen y carácter inspirados.
 
-El Antiguo Testamento fue recibido por Israel y citado por Jesús y los apóstoles. El Nuevo Testamento surgió del testimonio apostólico acerca de Jesucristo y fue recibido por las iglesias. El proceso histórico incluyó lectura pública, circulación, comparación y discernimiento. No todos los escritos religiosos antiguos fueron considerados canónicos.
-
-Este estudio distingue autoridad divina, reconocimiento histórico y decisiones eclesiales. También explica por qué deben evitarse tanto la idea de que el canon apareció completo sin historia como la afirmación de que la Iglesia creó la autoridad de los libros.
-''',
+El canon debe distinguirse de las traducciones, ediciones y colecciones posteriores. Este estudio examina la autoridad de las Escrituras de Israel, el reconocimiento de los escritos apostólicos y las diferencias históricas entre tradiciones cristianas.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Canon significa regla o norma y, en el uso cristiano, designa los libros recibidos como Escritura. Inspiración se refiere al origen divino de la Escritura; reconocimiento canónico describe el proceso histórico por el que la comunidad identificó esos escritos como normativos. Estas ideas están relacionadas, pero no son idénticas.
+      StudySection(title: "1. Qué significa el canon de las Escrituras", content: '''La palabra canon se utiliza para referirse al conjunto de libros reconocidos como Escritura con autoridad para la fe y la vida del pueblo de Dios. La Iglesia no convierte un libro en palabra de Dios por votación; reconoce los escritos que poseen autoridad por su origen y carácter inspirados.
 
-El canon protestante contiene los libros del Antiguo y Nuevo Testamento recibidos en esa tradición. Las tradiciones cristianas difieren en el tratamiento de ciertos libros del período intertestamentario, por lo que es importante explicar qué colección se está utilizando. La Reina-Valera 1960 presenta el canon protestante de 66 libros.
-''',
-        references: "Lucas 24:44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21; 3:15-16.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Israel conservó y transmitió la Ley, los Profetas y los Escritos. Jesús se refiere a la Ley de Moisés, los Profetas y los Salmos como el conjunto de las Escrituras (Lucas 24:44). En el judaísmo del Segundo Templo circularon otros escritos religiosos, con diferentes grados de autoridad y recepción.
+El canon debe distinguirse de las traducciones, las ediciones y las colecciones posteriores. La pregunta principal es cuáles libros pertenecen a la Biblia y cómo el pueblo de Dios reconoció su autoridad.''', references: "Lucas 24:44; Romanos 3:2; 2 Timoteo 3:15-17; 2 Pedro 3:15-16."),
+      StudySection(title: "2. La autoridad de las Escrituras en Israel", content: '''Israel recibió la Ley, los Profetas y otros escritos como testimonio de la palabra y de las obras de Dios. Moisés escribió palabras del pacto; los profetas proclamaron el mensaje recibido; y los textos fueron preservados y leídos en la comunidad.
 
-Los escritos apostólicos circularon entre congregaciones y fueron leídos públicamente. Las iglesias comparaban su enseñanza con el testimonio apostólico y distinguían textos recibidos de otros escritos edificantes. La persecución, la distancia geográfica y las diferencias de lengua hicieron que el reconocimiento fuera un proceso histórico, no un único acto simultáneo.
-''',
-        references: "Judaísmo del Segundo Templo; circulación de escritos apostólicos; recepción en las iglesias antiguas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento da testimonio de la autoridad de la Ley y de los Profetas. Deuteronomio 31:24-26 habla del libro de la ley; Josué 1:7-8 llama a meditar en ella; Daniel 9:2 se refiere a los libros proféticos. Jesús y los apóstoles citan las Escrituras como autoridad.
+La autoridad no dependía de que un texto resultara popular. Los escritos eran recibidos por su relación con la revelación divina y el pacto. El pueblo tenía la responsabilidad de conservar, leer y obedecer la palabra.''', references: "Éxodo 24:3-8; Deuteronomio 31:24-26; Josué 1:7-8; Nehemías 8:1-8."),
+      StudySection(title: "3. La colección de la Ley, los Profetas y los Escritos", content: '''Jesús se refirió a la Ley de Moisés, los Profetas y los Salmos al explicar las Escrituras. Esta designación refleja la organización tripartita conocida en el judaísmo. El orden de los libros puede variar entre tradiciones y ediciones, pero el testimonio de Jesús confirma la autoridad de las Escrituras de Israel.
 
-El canon hebreo se organiza tradicionalmente en Ley, Profetas y Escritos. Las divisiones y el orden pueden variar entre ediciones, pero el testimonio de los libros es fundamental. La autoridad no depende de que un libro sea más antiguo o popular, sino de su relación con la revelación de Dios y su recepción como Escritura.
-''',
-        references: "Deuteronomio 31:24-26; Josué 1:7-8; Daniel 9:2; Lucas 24:44.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-El Nuevo Testamento presenta la enseñanza apostólica como fundamento doctrinal. Efesios 2:20 describe a la Iglesia edificada sobre el fundamento de apóstoles y profetas, con Cristo como piedra principal. Segunda de Pedro 3:15-16 menciona las cartas de Pablo junto con «las otras Escrituras», mostrando que algunos escritos apostólicos ya eran reconocidos con autoridad escritural.
+La expresión no pretende enumerar cada libro individual, sino señalar el conjunto de la revelación escrita recibida por el pueblo. La lectura cristiana reconoce estos escritos como Antiguo Testamento y los interpreta a la luz de Cristo.''', references: "Lucas 24:44; Mateo 5:17-18; 7:12; 22:40."),
+      StudySection(title: "4. Los escritos apostólicos y su autoridad", content: '''Los apóstoles fueron testigos autorizados de la vida, muerte y resurrección de Jesús. Sus enseñanzas fueron transmitidas oralmente y por escrito a las iglesias. Las cartas circularon entre congregaciones y eran leídas públicamente, mientras los evangelios preservaban el testimonio sobre Cristo.
 
-Primera de Timoteo 5:18 cita una enseñanza del Evangelio junto con Deuteronomio bajo la fórmula «la Escritura dice». Lucas 1:1-4 explica la investigación ordenada de los testimonios sobre Jesús. Estos pasajes muestran que la recepción de los escritos apostólicos se desarrolló dentro de la vida de las iglesias.
-''',
-        references: "Lucas 1:1-4; Efesios 2:19-20; 1 Timoteo 5:18; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Lucas 24:44 presenta la división «la ley de Moisés, los profetas y los salmos». Jesús utiliza el conjunto de las Escrituras para explicar que el Mesías debía padecer y resucitar. El pasaje demuestra que los textos antiguos eran recibidos como testimonio autorizado, aunque no ofrece una lista moderna de todos los libros.
+El Nuevo Testamento reconoce que algunos escritos apostólicos tenían autoridad comparable a las Escrituras. Esto no significa que cualquier texto antiguo que mencione a un apóstol pertenezca al canon; debe examinarse su origen y recepción.''', references: "1 Corintios 11:2; 14:37; Colosenses 4:16; 1 Tesalonicenses 5:27; 2 Pedro 3:15-16."),
+      StudySection(title: "5. Criterios históricos de reconocimiento", content: '''Entre los factores considerados por las comunidades cristianas estuvieron la relación con los apóstoles, la coherencia con la fe recibida, el uso extendido en las iglesias y el reconocimiento de su autoridad espiritual. Estos criterios describen el proceso histórico de discernimiento; no deben presentarse como una fórmula mecánica que sustituye la inspiración divina.
 
-Segunda de Pedro 3:15-16 reconoce las cartas de Pablo y las coloca junto a las demás Escrituras. El texto advierte que personas indoctas e inconstantes tuercen esos escritos. Esto presupone que la enseñanza apostólica tenía autoridad y debía interpretarse correctamente.
+Algunos escritos fueron discutidos durante un tiempo en ciertas regiones, mientras otros fueron recibidos ampliamente desde etapas tempranas. La historia del canon requiere estudiar testimonios antiguos con precisión y distinguir datos documentados de leyendas posteriores.''', references: "Hechos 2:42; 1 Corintios 15:1-11; 2 Timoteo 3:14-17; 2 Pedro 3:15-16."),
+      StudySection(title: "6. Diferencias entre tradiciones cristianas", content: '''Las tradiciones protestante, católica y ortodoxa comparten la mayor parte del canon bíblico, pero difieren en la cantidad y clasificación de algunos libros del Antiguo Testamento. Estas diferencias se relacionan con la recepción de los libros deuterocanónicos y con la historia de las colecciones bíblicas.
 
-Apocalipsis 22:18-19 advierte contra añadir o quitar de las palabras de la profecía de ese libro. No debe aplicarse sin explicación como si describiera por sí solo el cierre del canon completo; en su contexto se refiere a la profecía de Apocalipsis y expresa la seriedad de alterar el mensaje revelado.
-''',
-        references: "Lucas 24:44; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-El canon se relaciona con la historia de la revelación, la transmisión textual y la vida de la Iglesia. Los libros fueron escritos en circunstancias concretas y recibidos por comunidades que reconocieron su autoridad. El reconocimiento histórico no debe confundirse con la inspiración misma.
+Una explicación rigurosa debe describir la diferencia sin caricaturizar a otras comunidades. También debe distinguir entre el canon hebreo, la Septuaginta y las decisiones eclesiales posteriores. La comparación histórica no reemplaza el estudio del texto bíblico y de los testimonios antiguos.''', references: "Lucas 24:44; Romanos 3:2; testimonios históricos sobre las colecciones hebreas y cristianas antiguas."),
+      StudySection(title: "7. Canon, inspiración y preservación", content: '''La inspiración se refiere al origen divino de las Escrituras; el canon identifica cuáles escritos son reconocidos como parte de ellas; la preservación se relaciona con la transmisión del texto a través de manuscritos y copias. Son asuntos conectados, pero distintos.
 
-La Iglesia utilizó criterios como el vínculo apostólico, la coherencia con la fe recibida, el uso extendido en las congregaciones y la recepción histórica. Estos criterios describen el discernimiento eclesial, pero no deben presentarse como una fórmula mecánica capaz de crear autoridad divina.
+La existencia de variantes manuscritas no destruye por sí misma la confianza en la Biblia. La crítica textual compara testimonios antiguos para establecer la lectura más probable. La doctrina de la inspiración no exige afirmar que cada copia posterior carezca de errores de transmisión.''', references: "2 Timoteo 3:16-17; 2 Pedro 1:20-21; Salmo 119:89."),
+      StudySection(title: "8. El canon y Jesucristo", content: '''Jesús reconoció la autoridad de las Escrituras de Israel y afirmó que daban testimonio de Él. Después de su resurrección, explicó a sus discípulos cómo la Ley, los Profetas y los Salmos apuntaban al cumplimiento de la obra mesiánica.
 
-La autoridad de la Escritura orienta la doctrina y corrige a la Iglesia. El canon no está abierto a nuevas obras que puedan colocarse al mismo nivel normativo que los escritos apostólicos. Las tradiciones deben ser evaluadas por el testimonio bíblico.
-''',
-        references: "Deuteronomio 31:24-26; Lucas 24:44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21; 3:15-16.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el Dios que se revela y habla por medio de los profetas; el Hijo es la revelación culminante y el centro del testimonio; el Espíritu Santo inspiró a los autores de la Escritura. Segunda de Pedro 1:20-21 enseña que la profecía no surgió por voluntad humana, sino que los hombres hablaron de parte de Dios impulsados por el Espíritu.
+Los escritos apostólicos dan testimonio de Jesús y transmiten la enseñanza recibida de Él. El canon cristiano no desplaza a Cristo: preserva el testimonio inspirado que anuncia su persona, su obra y la esperanza de su regreso.''', references: "Juan 5:39; Lucas 24:25-27, 44-47; Juan 16:13-15; 1 Juan 1:1-4."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre es fuente de la revelación; el Hijo es la Palabra encarnada y el centro del testimonio bíblico; y el Espíritu Santo inspiró a los autores y guía a la Iglesia a la verdad. La doctrina trinitaria no depende de que la palabra Trinidad aparezca como término en el canon, sino del testimonio conjunto de las Escrituras.
 
-Juan 16:13-15 presenta al Espíritu guiando a los discípulos a la verdad y glorificando al Hijo. Hebreos 1:1-2 distingue la palabra antigua por los profetas y la revelación por el Hijo. Estas personas son distintas y actúan en la única obra de revelación del Dios trino.
+¿La Iglesia creó la Biblia? No; reconoció los escritos que recibió como autoritativos. ¿Todos los textos religiosos antiguos son canónicos? No. ¿Las diferencias entre tradiciones deben ocultarse? No; deben explicarse con precisión histórica y respeto. ¿El canon cambia según preferencias personales? No; la autoridad de la Escritura no depende del gusto individual.''', references: "Juan 1:1-14; 14:16-17, 26; 16:13; 2 Timoteo 3:16-17; 2 Pedro 1:20-21."),
+      StudySection(title: "10. Aplicación y responsabilidad de la Iglesia", content: '''La Iglesia recibe las Escrituras como norma para la enseñanza, la corrección y la formación espiritual. Debe estudiarlas, preservarlas, traducirlas con cuidado y transmitirlas a nuevas generaciones. El respeto al canon implica no añadir autoridad divina a escritos que no pertenecen a él ni ignorar los libros bíblicos por preferencias personales.
 
-La Iglesia recibe y reconoce las Escrituras; no crea la deidad del Hijo ni la autoridad del Espíritu. La doctrina trinitaria debe fundarse en los libros canónicos y en el testimonio completo de ellos.
-''',
-        references: "Hebreos 1:1-2; Juan 16:13-15; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La Iglesia creó el canon? No. La Iglesia reconoció y recibió los escritos que consideró inspirados y apostólicos; no otorgó por decisión humana su autoridad divina.
-
-¿El canon cayó del cielo como una lista ya encuadernada? No. Los libros fueron escritos, circularon y fueron reconocidos históricamente. La providencia de Dios no elimina el proceso histórico.
-
-¿Todos los escritos antiguos sobre Jesús son canónicos? No. La antigüedad o el título de un escrito no garantizan autoridad apostólica. Debe evaluarse su origen, contenido y recepción.
-
-¿La advertencia de Apocalipsis 22 cierra por sí sola la Biblia completa? En su contexto inmediato se refiere a las palabras de la profecía de Apocalipsis. No debe utilizarse como único argumento histórico para el canon completo.
-
-¿Por qué existen diferencias entre tradiciones cristianas sobre algunos libros? Las tradiciones han seguido historias distintas de recepción del conjunto veterotestamentario. Debe describirse esa diferencia con precisión y sin caricaturizar a otras comunidades.
-''',
-        references: "Lucas 24:44; 2 Pedro 3:15-16; Apocalipsis 22:18-19.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué significa canon? Respuesta: La colección de libros recibidos como norma de fe y práctica.
-
-Pregunta: ¿Quién inspiró las Escrituras? Respuesta: Dios, por medio del Espíritu Santo que impulsó a los autores humanos (2 Timoteo 3:16; 2 Pedro 1:20-21).
-
-Pregunta: ¿Cómo reconoció la Iglesia los escritos apostólicos? Respuesta: Mediante su vínculo con el testimonio apostólico, su recepción y uso en las congregaciones y su coherencia con la fe recibida.
-
-Pregunta: ¿La Iglesia tiene autoridad por encima de la Escritura? Respuesta: No. La Escritura instruye, corrige y equipa a la Iglesia (2 Timoteo 3:16-17).
-
-Pregunta: ¿Qué lugar ocupa Cristo? Respuesta: Es el centro de la revelación y aquel a quien dan testimonio la Ley, los Profetas y los Salmos (Lucas 24:44-47).
-''',
-        references: "2 Timoteo 3:16-17; Lucas 24:44-47; 2 Pedro 1:20-21; 3:15-16.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-El canon de las Escrituras es el conjunto de libros que la comunidad de fe reconoce como norma inspirada. Su historia incluye composición, circulación, lectura y discernimiento; reconocer la autoridad de un libro no equivale a crearla. Jesús y los apóstoles recibieron las Escrituras de Israel como autoridad y los escritos apostólicos fueron reconocidos en las iglesias.
-
-La Iglesia debe someter su doctrina a la Escritura y no colocar tradiciones o escritos posteriores al nivel de autoridad de los libros canónicos. La lectura responsable considera las diferencias históricas entre tradiciones cristianas y explica con claridad qué canon utiliza.
-
-El Padre se revela, el Hijo es el centro de la revelación y el Espíritu inspira la Escritura. La autoridad final para la fe y la práctica corresponde a la Palabra de Dios.
-''',
-        references: "2 Timoteo 3:16-17; Hebreos 1:1-2; Lucas 24:44-47.",
-      ),
+Comprender la historia del canon fortalece una confianza informada y ayuda a responder preguntas sin simplificaciones. La comunidad cristiana debe enseñar la autoridad de la Biblia con rigor histórico, claridad doctrinal y centralidad en Jesucristo.''', references: "Nehemías 8:8; Hechos 17:11; 2 Timoteo 3:14-17; Judas 3.")
     ],
-    conclusion: '''
-El canon de las Escrituras fue reconocido históricamente por el pueblo de Dios y las iglesias, pero su autoridad procede de la inspiración divina. La Iglesia recibió y discernió los libros; no los convirtió en Palabra de Dios por una decisión humana. Los escritos apostólicos fueron leídos, transmitidos y reconocidos conforme a su vínculo con el testimonio de Cristo.
-
-La Escritura es norma para la fe y la práctica y debe corregir toda tradición. El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspira a los autores. El estudio del canon fortalece la confianza responsable en los libros recibidos y llama a leerlos con diligencia.
-''',
+    conclusion: '''La historia del canon muestra cómo el pueblo de Dios recibió, conservó y reconoció los escritos inspirados. La Iglesia no crea la autoridad de la Escritura, sino que la reconoce y la transmite. Comprender el proceso histórico fortalece una confianza informada, ayuda a responder preguntas con precisión y mantiene la enseñanza centrada en Jesucristo.''',
   ),
-
-  Study(
-    number: '111',
+number: '111',
     title: "La transmisión del texto bíblico: manuscritos, copias y preservación",
     subtitle: "Cómo se copiaron, conservaron y compararon los textos de la Biblia a través de la historia.",
     introduction: '''
