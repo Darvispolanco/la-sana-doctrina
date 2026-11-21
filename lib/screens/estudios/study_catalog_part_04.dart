@@ -1370,7 +1370,6 @@ Study(
       StudySection(title: "32. El juicio y la consumación del Reino", content: "Al final, Dios juzgará con justicia y el reinado de Cristo será manifestado sin oposición. Esta consumación está relacionada con la segunda venida, el juicio final y la nueva creación, temas que se estudian de manera específica en otras lecciones.", references: "Mt 13:40-43; 25:31-34; 1 Co 15:24-28; Ap 21:1-4")
     ],
     conclusion: "El Reino de Dios es su gobierno soberano, anunciado en las Escrituras, manifestado decisivamente en Jesucristo y esperado en su plenitud. Jesús es el Rey prometido: su enseñanza, autoridad, servicio, muerte y resurrección revelan el carácter del Reino. El Espíritu Santo obra en quienes reciben el evangelio, y el Padre conduce su propósito hasta el cumplimiento.\\n\\nEl Reino no debe confundirse con una institución humana, un proyecto político ni la Iglesia considerada en todos sus límites visibles. La Iglesia pertenece a Cristo, anuncia el evangelio y vive como comunidad bajo su señorío. El Reino ya ha sido inaugurado por la venida del Hijo, pero su consumación aguarda el regreso de Cristo. Por eso los discípulos oran, sirven, practican la justicia, anuncian el evangelio y perseveran con esperanza, dando gloria al Padre, al Hijo y al Espíritu Santo.",
-  ),,
   ),
 Study(
     number: '90',
