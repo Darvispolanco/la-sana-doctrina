@@ -1075,6 +1075,40 @@ content:
 'La Biblia ofrece consuelo y seguridad a quienes pertenecen a Cristo. Juan 10:27-30 presenta a las ovejas de Jesús escuchando su voz y recibiendo vida eterna; nadie puede arrebatarlas de su mano. Romanos 8:28-39 declara que nada podrá separar a los creyentes del amor de Dios que es en Cristo Jesús. Efesios 1:13-14 habla del Espíritu Santo como sello y garantía de la herencia. Sin embargo, la seguridad bíblica no debe confundirse con una presunción que permita vivir deliberadamente en desobediencia sin arrepentimiento. Las Escrituras también llaman a permanecer en la fe, a perseverar y a examinar la propia vida. La esperanza cristiana está puesta en la fidelidad de Dios y en el cumplimiento de sus promesas, no en la confianza orgullosa en los méritos personales.',
 references: 'Juan 10:27-30; Romanos 8:28-39; 1 Corintios 10:12-13; Efesios 1:13-14; Colosenses 1:21-23; Hebreos 3:12-14.',
 ),
+
+StudySection(
+title: '10. Lectura contextual: la obra del Padre, del Hijo y del Espíritu en Efesios 1:3-14',
+content: '''
+Efesios 1:3-14 constituye uno de los pasajes más completos para estudiar la salvación desde una perspectiva trinitaria. Pablo no presenta tres planes de salvación ni tres obras independientes. Desarrolla una sola bendición divina y muestra cómo el propósito del Padre, la redención realizada por el Hijo y el sello del Espíritu Santo están unidos.
+
+En los versículos 3-6, el apóstol bendice al Dios y Padre de nuestro Señor Jesucristo y describe su propósito de escoger y adoptar un pueblo por medio de Jesucristo. El texto identifica al Padre como quien establece el propósito, pero no presenta al Hijo como un ser externo o ajeno a la obra divina: la elección y la adopción se realizan en Cristo.
+
+En los versículos 7-12, Pablo explica que en Cristo tenemos redención por su sangre y perdón de pecados conforme a las riquezas de la gracia de Dios. El Hijo no es presentado como un segundo dios que persuade a un Padre contrario a salvar. La redención expresa el propósito misericordioso del único Dios y se realiza mediante la entrega voluntaria del Hijo encarnado.
+
+En los versículos 13-14, quienes oyen y creen el evangelio son sellados con el Espíritu Santo de la promesa, quien es garantía de la herencia. El Espíritu no añade una salvación diferente a la de Cristo: aplica y confirma en los creyentes los beneficios de la obra redentora.
+
+El movimiento del pasaje debe respetarse: el Padre es quien bendice y establece el propósito; la redención está en el Hijo; y el Espíritu sella a quienes creen. Las personas no se confunden, pero tampoco se separa la obra divina. El pasaje termina en la alabanza de la gloria de Dios, mostrando que la salvación tiene una sola fuente, un solo propósito y una sola meta.
+''',
+references: 'Efesios 1:3-14; Juan 6:37-40; Juan 15:26; 1 Pedro 1:2.',
+),
+StudySection(
+title: '11. Preguntas y respuestas sobre la salvación trinitaria',
+content: '''
+¿El Padre, el Hijo y el Espíritu Santo realizan tres salvaciones distintas? No. La Escritura anuncia una sola salvación y un solo propósito divino. Las personas actúan de manera distinta, pero no como tres dioses ni mediante planes enfrentados (Efesios 1:3-14; 1 Pedro 1:2).
+
+¿Fue el Padre quien se encarnó y murió en la cruz? No. El Hijo es quien asumió la naturaleza humana y entregó su vida. El Padre envió al Hijo, y el Hijo obedeció voluntariamente la misión recibida (Juan 3:16-17; Gálatas 4:4-5; Filipenses 2:5-8).
+
+¿El Espíritu Santo reemplaza a Jesucristo en la salvación? No. Jesús prometió al Consolador, quien daría testimonio de Él y lo glorificaría. El Espíritu aplica la obra de Cristo y conduce a los creyentes a la verdad, sin convertirse en el Hijo (Juan 15:26; Juan 16:13-15; Tito 3:5-6).
+
+Si la salvación es por gracia, ¿las buenas obras carecen de importancia? No. Efesios 2:8-10 enseña que somos salvos por gracia mediante la fe, no por obras como causa de mérito; pero también enseña que somos creados en Cristo para buenas obras. La obediencia es fruto de la salvación, no su precio.
+
+¿La fe y el arrepentimiento son méritos que obligan a Dios a salvar? No. Son la respuesta al llamado del evangelio. La salvación nace de la gracia divina y el ser humano es llamado a arrepentirse y creer en Jesucristo (Marcos 1:14-15; Hechos 20:20-21; Efesios 2:8-9).
+
+¿La distinción entre las personas divide a Dios? No. La Biblia mantiene juntas la unidad divina y las relaciones personales. El Padre envía, el Hijo redime y el Espíritu sella, pero la salvación procede del único Dios (Efesios 1:3-14; 1 Corintios 8:4-6).
+''',
+references: 'Marcos 1:14-15; Juan 3:16-17; Juan 15:26; Juan 16:13-15; Hechos 20:20-21; Efesios 1:3-14; Efesios 2:8-10; Gálatas 4:4-7; Tito 3:4-7; 1 Pedro 1:2.',
+),
+
 ],
 conclusion:
 'La salvación procede de la gracia del Padre, se fundamenta en la obra redentora del Hijo y es aplicada en la vida del creyente por el Espíritu Santo. No se obtiene por méritos humanos, sino que se recibe mediante la fe en Jesucristo. Esta salvación produce arrepentimiento, una nueva relación con Dios, transformación y perseverancia. Comprenderla desde la enseñanza bíblica también permite reconocer la unidad de la obra divina y la distinción personal del Padre, del Hijo y del Espíritu Santo.',
