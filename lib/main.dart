@@ -21903,10 +21903,11 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
   String query = '';
   String category = 'Todas';
 
-  List<String> get categories => [
-    'Todas',
-    ...dictionaryTerms.map((term) => term.category).toSet().toList()..sort(),
-  ];
+  List<String> get categories {
+    final values = dictionaryTerms.map((term) => term.category).toSet().toList()
+      ..sort();
+    return ['Todas', ...values];
+  }
 
   @override
   Widget build(BuildContext context) {
