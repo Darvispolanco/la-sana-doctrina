@@ -19037,20 +19037,148 @@ Jesús es verdaderamente descendiente de David según la carne y, a la vez, el S
     number: '94',
     title: "Los pactos bíblicos y la unidad de la historia de la redención",
     subtitle: "La relación y distinción entre los pactos bíblicos sin confundir sus contextos, señales y propósitos.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    introduction: '''
+La Biblia presenta la obra salvadora de Dios como una historia que avanza mediante promesas y pactos. Desde la preservación de la creación después del diluvio hasta el nuevo pacto anunciado por los profetas y establecido por Jesucristo, las Escrituras muestran la fidelidad divina y el desarrollo de su propósito redentor. Sin embargo, no todos los pactos tienen el mismo destinatario, señal, función o administración.
+
+Este estudio examina los pactos con Noé, Abraham, Israel en el Sinaí, David y el nuevo pacto. Considera su contexto, la relación entre promesa y obediencia, la continuidad de la historia redentora y el cumplimiento en Jesucristo. La perspectiva trinitaria reconoce al Padre como autor del propósito, al Hijo como mediador del nuevo pacto y al Espíritu Santo como quien transforma y sella al pueblo de Dios.
+
+La meta es reconocer la unidad de la historia bíblica sin borrar las diferencias entre los pactos ni imponer al texto un esquema que no respete su contexto.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 94. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+La palabra hebrea berit y la griega diathēkē se traducen habitualmente como «pacto». Según el pasaje, puede designar un compromiso solemne, una promesa juramentada o una relación establecida por Dios. No debe reducirse automáticamente a un contrato moderno entre partes iguales: en muchos textos Dios toma la iniciativa y establece las condiciones de la relación.
+
+Este recorrido considera los pactos con Noé, Abraham, Israel en el Sinaí, David y el nuevo pacto anunciado por los profetas y establecido por Jesucristo. No pretende afirmar que la Biblia solo contenga estos pactos, sino estudiar momentos decisivos de la historia redentora.
+
+La unidad de la historia bíblica significa que Dios conduce su propósito hacia su cumplimiento en Cristo. La distinción entre pactos significa que cada uno conserva su contexto, destinatarios, señales, promesas y responsabilidades. Unidad no significa que todos sean idénticos ni que sus términos puedan intercambiarse sin justificación textual.
+''',
+        references: "Gn 6:18; 9:8-17; 15:18; 17:1-14; Ex 19:3-6; 2 S 7:12-16; Jer 31:31-34; Lc 22:20"
+      ),
+      StudySection(
+        title: "2. Contexto histórico y literario de los pactos",
+        content: '''
+Los pactos aparecen en momentos decisivos. Después del diluvio, Dios establece con Noé una promesa de preservación. Luego llama a Abraham y promete descendencia y bendición para las familias de la tierra. Tras liberar a Israel de Egipto, establece con el pueblo el pacto del Sinaí. Más adelante, promete a David una casa y un reino. Después de siglos de infidelidad, juicio y exilio, los profetas anuncian un nuevo pacto.
+
+El orden de estos acontecimientos importa. Israel no recibe la ley para conseguir que Dios lo saque de Egipto: la liberación precede a la entrega de la ley. La promesa a David no borra la promesa anterior a Abraham, y el nuevo pacto no se entiende ignorando la historia que lo prepara.
+
+La lectura debe atender al género y al contexto de cada pasaje: narración, legislación, poesía, profecía y enseñanza apostólica no comunican sus afirmaciones de idéntica manera. La secuencia bíblica muestra desarrollo progresivo, no una colección desordenada de promesas aisladas.
+''',
+        references: "Gn 6–9; 12:1-3; 15:1-21; Ex 19:1-6; 24:1-11; 2 S 7:1-17; Jer 31:31-34; Lc 22:14-20"
+      ),
+      StudySection(
+        title: "3. Los pactos con Noé y Abraham: preservación y promesa",
+        content: '''
+El pacto con Noé se establece después del diluvio. Su alcance incluye a Noé, su descendencia y los seres vivientes. Dios promete que las aguas no volverán a destruir toda carne mediante un diluvio universal, y el arco aparece como señal. El énfasis está en la preservación del orden creado y la continuidad de la vida; no debe confundirse con la justificación individual ni con el pacto nacional de Israel.
+
+El pacto con Abraham tiene otro énfasis. Dios lo llama, promete hacer de él una gran nación y anuncia que en él serán benditas todas las familias de la tierra. Génesis 15 relata la ratificación solemne de la promesa, y Génesis 17 desarrolla la señal de la circuncisión. La iniciativa es divina, mientras que la fe y la obediencia de Abraham aparecen como respuesta a la palabra recibida.
+
+Gálatas 3 conecta la promesa abrahámica con Cristo y la bendición de los gentiles. Esa conexión no convierte el pacto noético y el abrahámico en uno solo: cada uno tiene alcance y propósito propios.
+''',
+        references: "Gn 8:20-22; 9:8-17; 12:1-3; 15:1-21; 17:1-14; 22:15-18; Ro 4:1-25; Gá 3:6-18"
+      ),
+      StudySection(
+        title: "4. Los pactos del Sinaí y de David: pueblo, ley y reino",
+        content: '''
+El pacto del Sinaí se establece con Israel después de la liberación de Egipto. Dios recuerda que llevó al pueblo hacia sí y lo llama a ser especial tesoro, reino de sacerdotes y nación santa. Éxodo 20–23 contiene mandamientos y disposiciones para la vida comunitaria; Éxodo 24 narra la ratificación. La ley ordena la vida del pueblo del pacto: no es el precio que Israel pagó para obtener la liberación.
+
+En 2 Samuel 7, Dios promete a David una casa, una descendencia y un trono. Salomón realiza una parte histórica de la promesa al construir el templo, mientras que la dimensión de permanencia alimenta la esperanza mesiánica. El pacto davídico se concentra en la realeza y no es simplemente otra versión del pacto del Sinaí.
+
+Ambos se relacionan dentro de la historia de Israel, pero conservan funciones distintas. No se deben transferir sin explicación las señales y obligaciones del Sinaí al pacto davídico, ni utilizar la promesa real para borrar el lugar histórico de la ley.
+''',
+        references: "Ex 19:3-8; 20:1-17; 24:1-11; Dt 7:6-11; 2 S 7:8-16; Sal 89:3-4; 1 Cr 17:11-14"
+      ),
+      StudySection(
+        title: "5. El nuevo pacto anunciado y establecido por Cristo",
+        content: '''
+Jeremías 31:31-34 anuncia un nuevo pacto con la casa de Israel y la casa de Judá. Lo distingue del pacto hecho cuando Dios sacó a sus antepasados de Egipto, porque ellos lo quebrantaron. La promesa incluye la ley escrita en el corazón, el conocimiento de Dios y el perdón de la maldad.
+
+Ezequiel 36:25-27 amplía esta esperanza con imágenes de limpieza, corazón nuevo y Espíritu nuevo. Dios promete poner su Espíritu dentro de su pueblo y capacitarlo para andar en sus estatutos. La transformación es obra de Dios, no mérito autónomo del ser humano.
+
+En la última cena, Jesús identifica la copa con el nuevo pacto en su sangre. Hebreos 8–10 explica la superioridad de su mediación y la eficacia de su sacrificio frente a la repetición de los sacrificios levíticos. El nuevo pacto se entiende desde la persona y obra de Cristo: Él es el mediador que ofrece el sacrificio definitivo y abre el acceso a Dios.
+''',
+        references: "Jer 31:31-34; Ez 36:25-27; Mt 26:26-29; Mr 14:22-25; Lc 22:19-20; 1 Co 11:23-26; Heb 8:6-13; 9:11-15; 10:11-18"
+      ),
+      StudySection(
+        title: "6. Unidad de la historia redentora y cumplimiento en Cristo",
+        content: '''
+La unidad se observa en la dirección de las promesas: Dios preserva la creación; llama a Abraham y anuncia bendición para las naciones; forma a Israel; promete un rey de la casa de David; los profetas anuncian renovación; y el Nuevo Testamento proclama el cumplimiento en Jesucristo.
+
+Gálatas 3 enseña que la promesa a Abraham precede a la ley y que la ley posterior no la anula. Pablo identifica a Cristo como la descendencia en quien la promesa alcanza su cumplimiento y explica que quienes pertenecen a Cristo participan de la bendición prometida. Esto no significa que todos los pactos sean iguales, sino que la promesa de bendición llega a las naciones por medio de Cristo.
+
+En 2 Corintios 1:20, las promesas de Dios encuentran su «sí» en Cristo. No obstante, este principio no autoriza a reclamar indiscriminadamente cada promesa territorial, nacional o ceremonial como garantía individual. Es necesario identificar destinatario, contexto y modo de cumplimiento según el testimonio apostólico.
+''',
+        references: "Gn 12:1-3; Gá 3:8-29; 2 Co 1:18-22; Ef 1:9-10; Heb 1:1-2; 11:13-16"
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es presentado como quien elige, promete y lleva adelante el propósito salvador. Efesios 1:3-10 describe el designio de Dios de reunir todas las cosas en Cristo. La iniciativa divina atraviesa la historia de los pactos.
+
+El Hijo ocupa el centro del cumplimiento. Jesús es descendiente de Abraham y de David según la carne, mediador del nuevo pacto y quien entrega su sangre para el perdón. Hebreos presenta su sacerdocio y sacrificio como definitivos. El Hijo no es el Padre: el Padre envía y el Hijo viene y cumple la misión recibida. La distinción personal no divide la única naturaleza divina.
+
+El Espíritu Santo limpia, transforma, vivifica y sella al pueblo. Ezequiel anuncia que Dios pondrá su Espíritu dentro de los suyos; Jesús promete el Espíritu a sus discípulos; y Pablo enseña que los creyentes son sellados con el Espíritu de la promesa.
+
+No todos los pasajes de pacto contienen una exposición explícita de la Trinidad. La doctrina trinitaria surge al considerar el testimonio bíblico completo, sin atribuir a cada texto antiguo terminología que no utiliza.
+''',
+        references: "Is 42:1; Ez 36:25-27; Mt 3:16-17; Lc 22:20; Jn 14:16-17,26; Ef 1:3-14; Heb 9:14-15"
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Si todos los pactos pertenecen a una historia, entonces son iguales? No. La unidad del propósito no elimina diferencias de destinatarios, señales, obligaciones y circunstancias. Noé recibe una promesa de preservación; el Sinaí establece la vida de Israel; el pacto davídico trata de la dinastía; el nuevo pacto se centra en perdón y transformación mediante Cristo.
+
+¿El nuevo pacto contradice el Antiguo Testamento? Jeremías lo llama nuevo porque no es idéntico al pacto quebrantado en el éxodo. No significa que Dios haya sido infiel ni que la historia anterior carezca de valor. El nuevo pacto lleva a su meta la esperanza anunciada.
+
+¿La ley del Sinaí salva? La ley revela la voluntad de Dios y expone el pecado, pero la justificación no se obtiene por obras de la ley. Abraham fue contado justo por la fe antes de la entrega del Sinaí.
+
+¿Todas las promesas a Israel se transfieren sin distinción a la Iglesia? La participación de los gentiles en la bendición de Cristo debe explicarse con los textos apostólicos, no mediante una transferencia automática de cada promesa nacional o territorial.
+
+Son errores tanto separar los pactos hasta perder la continuidad como mezclarlos hasta borrar sus diferencias. La interpretación responsable respeta el contexto de cada pacto y el testimonio conjunto de las Escrituras.
+''',
+        references: "Gn 15:6; Jer 31:31-34; Ro 3:19-31; 4:1-16; Gá 3:15-29; Heb 8:6-13"
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+**¿Por qué estudiar los pactos?** Porque muestran cómo Dios desarrolla su propósito y permiten interpretar las promesas según contexto, destinatario y cumplimiento (Gn 9:8-17; 12:1-3; Ef 1:9-10).
+
+**¿El pacto con Noé es igual al de Abraham?** No. El primero se relaciona con la preservación de la creación; el segundo contiene promesas de descendencia, tierra y bendición para las familias de la tierra (Gn 9:8-17; 12:1-3; 15:1-21).
+
+**¿Israel recibió la ley para ser liberado de Egipto?** No. Dios primero lo liberó y después estableció el pacto del Sinaí (Ex 19:3-6; 20:1-2).
+
+**¿El pacto davídico se cumplió solamente en Salomón?** Salomón fue un cumplimiento histórico importante, pero los profetas mantuvieron la esperanza de un rey justo y el Nuevo Testamento identifica a Jesús como el heredero davídico cuyo reino no tiene fin (2 S 7:12-16; Is 9:6-7; Lc 1:32-33).
+
+**¿Qué hace nuevo al nuevo pacto?** El perdón, la ley escrita en el corazón y la obra transformadora del Espíritu; Jesús lo estableció mediante su sangre (Jer 31:31-34; Ez 36:25-27; Lc 22:20).
+
+**¿La salvación se obtiene guardando la ley mosaica?** No. La justificación se recibe por la fe, no por obras de la ley; la obediencia es fruto de la gracia (Ro 3:28; Gá 2:16; Ef 2:8-10).
+
+**¿Cómo se relacionan los pactos con la Trinidad?** El Padre lleva adelante su propósito, el Hijo media el nuevo pacto y el Espíritu transforma y sella al pueblo (Ef 1:3-14; Heb 9:14-15).
+
+**¿Puede reclamarse cualquier promesa antigua como garantía personal?** No sin estudiar primero el contexto y el cumplimiento que el Nuevo Testamento reconoce (2 Co 1:20; Gá 3:16-29).
+''',
+        references: "Gn 9:8-17; 12:1-3; Ex 19:3-6; 2 S 7:12-16; Jer 31:31-34; Lc 22:20; Ro 3:28; Ef 1:3-14"
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El estudio de los pactos enseña a leer la Biblia como una historia unificada sin borrar la diversidad de sus etapas. Dios preserva la creación, llama a Abraham, forma a Israel, promete un reino a David y anuncia un nuevo pacto establecido mediante Jesucristo. Cada etapa aporta un elemento específico y prepara la comprensión de la obra de Cristo.
+
+Esta visión evita dos errores: separar los pactos hasta perder la continuidad del propósito divino, o mezclarlos como si cada promesa, señal y obligación tuviera idéntico alcance en todas las épocas. La lectura fiel pregunta qué significó el texto para sus primeros destinatarios y cómo la revelación posterior desarrolla su sentido.
+
+La Iglesia vive bajo el nuevo pacto por medio de Jesucristo. Anuncia el perdón, depende de la obra del Espíritu, reconoce la fidelidad del Padre y procura obedecer desde un corazón transformado. La gracia no conduce a indiferencia moral, sino a fe, amor y obediencia.
+''',
+        references: "Jer 31:31-34; Ez 36:25-27; Lc 22:19-20; Ro 6:1-14; Ef 2:11-22; Heb 8:6-13"
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Los pactos bíblicos muestran la fidelidad de Dios y el desarrollo de su propósito redentor. El pacto con Noé afirma la preservación de la creación; el pacto con Abraham anuncia descendencia y bendición para las naciones; el pacto del Sinaí establece la identidad y responsabilidades de Israel; el pacto davídico sostiene la esperanza de un rey; y el nuevo pacto, anunciado por los profetas y establecido por Jesucristo, trae perdón y transformación interior.
+
+La unidad de esta historia no elimina las diferencias entre los pactos. Cada uno debe interpretarse en su contexto, respetando destinatarios, señales y propósitos. Todos se relacionan con el plan de Dios y encuentran su centro en Cristo, sin que cada promesa particular pueda aplicarse indiscriminadamente a cualquier persona o época.
+
+El Padre lleva adelante el propósito, el Hijo es mediador del nuevo pacto y el Espíritu Santo transforma al pueblo. Son personas distintas en el único Dios. Por medio de Cristo, la Iglesia participa de la bendición prometida y vive en esperanza, obediencia y gratitud.
+''',
   ),
   Study(
     number: '95',
