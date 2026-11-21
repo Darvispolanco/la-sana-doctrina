@@ -20838,9 +20838,65 @@ El Concilio de Jerusalén aborda después la cuestión de la incorporación de l
       StudySection(title: "8. Pablo y la misión a las naciones", content: '''Hechos narra los viajes misioneros de Pablo, la fundación de comunidades y la proclamación del evangelio en ciudades importantes. Pablo adapta su comunicación a los oyentes sin alterar el mensaje central de Cristo crucificado y resucitado.
 
 La misión incluye predicación, formación de discípulos, nombramiento de líderes y fortalecimiento de las iglesias. La expansión no depende de una sola persona, sino de la obra de Dios mediante muchos servidores.''', references: "Hechos 13–20; 14:21-23; 17:16-34; 20:17-35."),
-      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre envía y cumple sus promesas; el Hijo resucitado comisiona a los discípulos y es el contenido del evangelio; el Espíritu Santo capacita, guía y distribuye dones. Hechos distingue estas personas y presenta la misión como obra del único Dios.
+      StudySection(title: "9. Perspectiva trinitaria: el Padre, el Hijo y el Espíritu Santo en Hechos", content: '''El libro de Hechos no presenta una definición sistemática de la Trinidad mediante una sola frase. Su testimonio aparece en acontecimientos, discursos y decisiones de la Iglesia. Al reunirlos, encontramos al Padre que cumple sus promesas, al Hijo resucitado y exaltado que envía a sus testigos, y al Espíritu Santo que habla, dirige, capacita y da testimonio. No son tres dioses que colaboran desde fuera: la misión procede del único Dios, y las personas divinas actúan sin confundirse.
 
-¿Hechos enseña que toda iglesia debe repetir cada detalle de Pentecostés? No; debe observarse el propósito histórico y teológico del acontecimiento. ¿La persecución es siempre señal de fidelidad? No necesariamente. ¿La misión pertenece solo a pastores? No; toda la comunidad participa del testimonio.''', references: "Hechos 1:4-8; 2:32-36; 10:38; 13:2-4; 15:28."),
+**9.1. La promesa del Padre y la misión del Hijo (Hechos 1:4-8).**
+
+Antes de su ascensión, Jesús ordena a los discípulos esperar la promesa del Padre y anuncia que recibirán poder cuando venga sobre ellos el Espíritu Santo. El contexto distingue al que promete, al Hijo que comunica la promesa y al Espíritu que viene sobre los discípulos. El resultado es el testimonio de Cristo desde Jerusalén hasta lo último de la tierra. El Espíritu capacita a la Iglesia para dar testimonio del Señor resucitado; no anuncia un evangelio diferente ni reemplaza al Hijo.
+
+**9.2. El Padre resucita y exalta al Hijo; el Hijo derrama el Espíritu (Hechos 2:22-36).**
+
+En Pentecostés, Pedro anuncia que Jesús fue acreditado por Dios mediante milagros, entregado a la muerte y resucitado por Dios. Después afirma que Jesús fue exaltado a la diestra de Dios, recibió del Padre la promesa del Espíritu Santo y derramó lo que la multitud veía y oía. El discurso relaciona las acciones del Padre, del Hijo y del Espíritu en un mismo acontecimiento de salvación.
+
+El Salmo 110:1, citado en Hechos 2:34-35, distingue al Señor que habla del Señor invitado a sentarse a su diestra. Esta distinción no enseña la existencia de dos dioses; debe leerse junto con la confesión monoteísta de Israel y con el testimonio apostólico sobre la identidad divina de Cristo. La exaltación describe la posición y autoridad mesiánicas del Hijo encarnado, no el momento en que comenzó a ser divino.
+
+**9.3. Mentir al Espíritu Santo es mentir a Dios (Hechos 5:1-11).**
+
+En el episodio de Ananías y Safira, Pedro declara que Ananías mintió al Espíritu Santo y, a continuación, afirma que no mintió a los hombres, sino a Dios. El contexto no trata de un error involuntario, sino de una acción deliberada de engaño dentro de la comunidad. La relación entre las dos afirmaciones constituye una evidencia importante de la divinidad del Espíritu Santo.
+
+El relato también muestra su personalidad: el Espíritu puede ser objeto de una acción moral dirigida contra Él y está activamente presente en la vida de la Iglesia. No debe reducirse a una energía impersonal. La conclusión debe formularse con cuidado: el texto identifica la mentira contra el Espíritu como mentira contra Dios y, junto con otros pasajes, sostiene la confesión de su divinidad.
+
+**9.4. El Hijo exaltado es distinto del Padre (Hechos 7:54-60).**
+
+Mientras Esteban enfrenta a sus acusadores, lleno del Espíritu Santo, contempla la gloria de Dios y a Jesús de pie a la diestra de Dios. La escena presenta al Espíritu actuando en Esteban, a Dios cuya gloria se manifiesta y a Jesús exaltado. El relato mantiene una distinción real entre el Hijo glorificado y aquel a cuya diestra está.
+
+La expresión «a la diestra» es lenguaje bíblico de honor, autoridad y participación en el gobierno divino. No obliga a imaginar dos tronos o dos dioses. Debe compararse con Salmo 110:1, Hechos 2:33-36 y Hebreos 1:3. La visión confirma la exaltación de Cristo y la esperanza del testigo cristiano.
+
+**9.5. Dios ungió a Jesús con el Espíritu Santo (Hechos 10:34-43).**
+
+Al anunciar el evangelio en casa de Cornelio, Pedro resume el ministerio de Jesús diciendo que Dios le ungió con el Espíritu Santo y con poder. El contexto presenta a Jesús haciendo el bien y sanando a los oprimidos. El pasaje distingue a Dios, a Jesús y al Espíritu en la misión mesiánica de Cristo.
+
+Esta distinción no niega la divinidad del Hijo. Hechos describe la obra de Jesús en su condición de Mesías encarnado y siervo enviado, mientras otros textos apostólicos afirman su preexistencia y divinidad. No debemos convertir la unción del Espíritu en prueba de que Jesús era solamente un hombre, ni borrar la humanidad real de Cristo para defender su divinidad.
+
+**9.6. El Espíritu habla y envía a los misioneros (Hechos 13:1-4).**
+
+En la iglesia de Antioquía, mientras los creyentes ministran al Señor y ayunan, el Espíritu Santo declara: «Apartadme a Bernabé y a Saulo para la obra a que los he llamado». La narración continúa diciendo que fueron enviados por el Espíritu Santo. El Espíritu habla en primera persona, llama a los servidores y dirige la misión. Es una acción personal, no la descripción de una fuerza que los creyentes controlan.
+
+La comunidad participa mediante oración e imposición de manos, pero reconoce que la iniciativa pertenece al Espíritu. Este texto debe relacionarse con Hechos 8:29 y 16:6-10, donde el Espíritu dirige y orienta la misión. La obra es divina y, al mismo tiempo, se realiza por medio de personas e iglesias concretas.
+
+**9.7. El Espíritu Santo habla por medio de las Escrituras (Hechos 28:23-28).**
+
+Al final del libro, Pablo cita Isaías 6:9-10 y afirma que el Espíritu Santo habló correctamente por medio del profeta. Lucas atribuye al Espíritu las palabras de la Escritura y muestra continuidad entre la voz profética y el testimonio apostólico. El Espíritu no contradice la revelación anterior: es el mismo Dios quien habló por los profetas y ahora anuncia el cumplimiento de sus promesas en Jesucristo.
+
+Este pasaje debe leerse en su contexto: Pablo explica por qué algunos oyentes reciben el mensaje y otros lo rechazan, y anuncia que la salvación de Dios también ha sido enviada a los gentiles. No autoriza a colocar impresiones privadas al nivel de la Escritura.
+
+**9.8. ¿Por qué Hechos habla del bautismo en el nombre de Jesús?**
+
+Hechos menciona el bautismo en el nombre de Jesucristo (Hechos 2:38; 8:16; 10:48; 19:5), mientras Mateo 28:19 recoge el mandato de bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. Estos textos no deben enfrentarse como si uno anulara al otro. Hechos destaca que los creyentes reconocían a Jesús como Señor y Mesías y que su bautismo expresaba adhesión a Él.
+
+Lucas no afirma en esos relatos que las palabras «en el nombre de Jesús» sean una transcripción completa y exclusiva de la fórmula pronunciada en cada ceremonia. Mateo conserva la instrucción explícita de Jesús que nombra al Padre, al Hijo y al Espíritu Santo. Por tanto, no se debe utilizar una descripción resumida de Hechos para borrar el mandato trinitario de Mateo, ni ignorar que la fe y el bautismo apostólicos están centrados en Jesucristo.
+
+**9.9. Preguntas difíciles y respuestas bíblicas.**
+
+¿Hechos enseña que el Espíritu Santo es una fuerza impersonal? No. Habla, llama, envía y dirige; el conjunto de estos actos revela personalidad y, unido a Hechos 5:3-4, su divinidad (Hechos 5:3-4; 13:2-4; 16:6-7).
+
+¿Si Jesús recibe del Padre la promesa del Espíritu, entonces es inferior en naturaleza? El pasaje describe la obra del Hijo exaltado en la historia de la salvación. La misión y el orden de actuación no deben confundirse automáticamente con una diferencia de esencia. Debe compararse con Juan 1:1-3, 5:23 y Filipenses 2:6-11.
+
+¿La visión de Esteban demuestra que hay dos dioses? No. Distingue al Padre y al Hijo, pero la distinción personal no equivale a división de la esencia divina. Hechos 2:34-36 y la confesión de un solo Dios en Deuteronomio 6:4 y 1 Corintios 8:4-6 deben estudiarse conjuntamente.
+
+¿El Espíritu Santo reemplaza a Cristo en la Iglesia? No. El Espíritu capacita a los testigos para anunciar a Jesús y glorificarlo. La misión del Espíritu y la del Hijo no compiten, sino que se relacionan dentro de la obra del único Dios.
+
+¿Toda experiencia narrada en Hechos debe repetirse exactamente en cada congregación? No. Debemos distinguir entre acontecimientos fundacionales, instrucciones permanentes y circunstancias particulares. El libro enseña a depender del Espíritu y anunciar fielmente a Cristo, pero no convierte cada detalle narrativo en una regla universal.''', references: "Deuteronomio 6:4; Salmo 110:1; Isaías 6:9-10; Mateo 28:19; Juan 1:1-3; 5:23; Hechos 1:4-8; 2:22-36; 5:1-11; 7:54-60; 10:34-43; 13:1-4; 16:6-10; 28:23-28; 1 Corintios 8:4-6; Filipenses 2:6-11; Hebreos 1:3."),
       StudySection(title: "10. Aplicación y síntesis", content: '''Hechos enseña a la Iglesia a depender del Espíritu, anunciar a Cristo, perseverar en la enseñanza apostólica, cuidar a los necesitados y llevar el evangelio a todas las naciones. También advierte que la misión puede enfrentar oposición y requiere fidelidad, prudencia y unidad.
 
 La comunidad cristiana continúa el testimonio apostólico, no como repetición exacta de cada circunstancia histórica, sino como pueblo enviado por el Cristo resucitado y sostenido por el Espíritu para la gloria del Padre.''', references: "Hechos 1:8; 2:42-47; 4:29-31; 15:28; 28:30-31.")
