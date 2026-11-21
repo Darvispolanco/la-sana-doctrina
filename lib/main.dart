@@ -2015,7 +2015,9 @@ references: 'Juan 1:1-2; Juan 17:5, 24; Efesios 1:4; 1 Pedro 1:20.',
 StudySection(
 title: '3. El Padre es eternamente Padre',
 content:
-'La Biblia presenta al Padre en una relación eterna con el Hijo. Jesús no comenzó a ser Hijo cuando nació de María, porque antes de la encarnación ya hablaba de la gloria que compartía con el Padre. La expresión Padre identifica una relación personal y no simplemente una función temporal. El Hijo es eternamente Hijo, y el Padre es eternamente Padre. Esto no significa que uno sea más antiguo que el otro. Ambos son eternos y comparten plenamente la misma naturaleza divina. La relación de paternidad y filiación pertenece a la identidad personal de las personas divinas.',
+'La Biblia presenta al Padre en una relación eterna con el Hijo. Jesús no comenzó a ser Hijo cuando nació de María, porque antes de la encarnación ya hablaba de la gloria que compartía con el Padre (Juan 17:5). En Juan 17:24, dentro de la oración que Jesús dirige al Padre antes de su pasión, declara que el Padre lo amaba antes de la fundación del mundo. La paternidad del Padre y la filiación del Hijo, por tanto, no son nombres adoptados únicamente durante la encarnación ni funciones que comenzaron cuando Dios decidió salvar a la humanidad.
+
+El Padre es eternamente Padre y el Hijo es eternamente Hijo. Esto no significa que el Padre sea más antiguo, que el Hijo haya comenzado a existir o que uno posea más divinidad que el otro. La relación expresa distinción personal, no separación de esencia. Juan 1:1-2 mantiene juntas ambas verdades: el Verbo estaba con Dios y era Dios. Gálatas 4:4 habla del envío del Hijo cuando llegó el cumplimiento del tiempo; el envío pertenece a su misión histórica, no al comienzo de su existencia. Así se distingue la relación eterna entre el Padre y el Hijo de la encarnación y de la misión redentora.',
 references: 'Juan 1:1-2; Juan 17:5, 24; Gálatas 4:4; Hebreos 1:5-8.',
 ),
 StudySection(
@@ -2027,13 +2029,17 @@ references: 'Juan 1:1-3; Juan 1:14,18; Juan 3:16; Juan 5:26; Juan 17:5,24; Colos
 StudySection(
 title: '5. El Espíritu Santo existe eternamente',
 content:
-'El Espíritu Santo no comenzó a existir en Pentecostés ni apareció por primera vez durante el ministerio de Jesús. Génesis 1:2 lo presenta participando en el contexto de la creación, mientras que Hebreos 9:14 lo identifica como Espíritu eterno. Su obra aparece a lo largo de toda la historia bíblica. En el Nuevo Testamento se revela claramente su relación con el Padre y el Hijo. Por tanto, el Espíritu Santo no es una fuerza creada ni una influencia que comenzó a existir cuando Dios decidió enviarla al mundo. Es una persona divina que existe eternamente.',
+'El Espíritu Santo no comenzó a existir en Pentecostés ni apareció por primera vez durante el ministerio de Jesús. Génesis 1:2 lo presenta activo en el relato de la creación, y Hebreos 9:14 lo identifica como Espíritu eterno. El Salmo 139:7-10 enseña que nadie puede escapar de su presencia; el contexto del salmo celebra el conocimiento y la presencia de Dios en todo lugar. En 1 Corintios 2:10-11, Pablo enseña que el Espíritu escudriña las profundidades de Dios y conoce lo que pertenece a Dios. Estos pasajes, leídos en conjunto, concuerdan con la confesión de que el Espíritu no es una criatura ni una fuerza impersonal.
+
+La historia bíblica muestra su actividad antes de Pentecostés: está presente en la creación, capacita a los siervos de Dios, habla por los profetas y obra en la concepción y el ministerio de Jesús. En Hechos 2, Pentecostés no describe el origen del Espíritu, sino el cumplimiento de la promesa de su derramamiento sobre la comunidad del nuevo pacto. Por eso debemos distinguir su existencia eterna de las etapas particulares de su misión en la historia. El Espíritu Santo es eternamente divino y su obra se revela progresivamente en las Escrituras.',
 references: 'Génesis 1:2; Salmos 139:7-10; Juan 14:16-17; Hebreos 9:14.',
 ),
 StudySection(
 title: '6. El amor eterno entre el Padre y el Hijo',
 content:
-'Juan 17:24 es uno de los textos más importantes para comprender la relación eterna entre el Padre y el Hijo. Jesús declara que el Padre lo amaba antes de la fundación del mundo. El amor no apareció como consecuencia de la creación, sino que pertenece a la comunión eterna de Dios. Juan 3:35 también afirma que el Padre ama al Hijo y ha entregado todas las cosas en su mano. Esta relación demuestra que el Padre y el Hijo son personas distintas que mantienen una comunión verdadera. No son dos dioses independientes, sino personas que comparten la única esencia divina.',
+'Juan 17:24 es uno de los textos más importantes para comprender la relación eterna entre el Padre y el Hijo. En Juan 17 Jesús está orando antes de su arresto y pide al Padre por sus discípulos; al hacerlo, menciona la gloria y el amor que existían antes de la fundación del mundo. El texto no presenta el amor del Padre como una reacción a la creación ni como algo que comenzó cuando el Hijo vino al mundo. La comunión entre el Padre y el Hijo antecede a toda criatura.
+
+Juan 3:35 declara que el Padre ama al Hijo y ha entregado todas las cosas en su mano; Juan 5:20 vuelve a relacionar el amor del Padre con las obras que muestra al Hijo. Estos pasajes describen una relación personal real: hay quien ama y quien es amado, quien envía y quien es enviado. Sin embargo, esa distinción no convierte al Padre y al Hijo en dos dioses independientes. Juan 1:1 afirma tanto la relación del Verbo con Dios como su plena divinidad. La comunión eterna debe comprenderse junto con la unidad de la esencia divina.',
 references: 'Juan 3:35; Juan 5:20; Juan 17:23-24; Colosenses 1:13.',
 ),
 StudySection(
@@ -2093,7 +2099,9 @@ references: '2 Corintios 13:14; Mateo 28:19; Efesios 2:18; 1 Pedro 1:2.',
 StudySection(
 title: '16. Textos difíciles: ¿El Padre es anterior al Hijo?',
 content:
-'Algunos pasajes hablan del Padre como quien envía al Hijo o entrega autoridad al Hijo. Estas expresiones describen relaciones y misiones dentro de la obra divina, pero no demuestran que el Padre haya existido antes que el Hijo. Juan 1:1 afirma que el Verbo ya existía en el principio, y Juan 17:5 habla de la gloria compartida antes de la creación. La diferencia de misión no debe confundirse con una diferencia de antigüedad o naturaleza. El Padre y el Hijo son eternos. No hubo un momento en que el Hijo no existiera.',
+'Algunos pasajes hablan del Padre como quien envía al Hijo o le entrega una misión. Juan 1:1-3 y Juan 17:5 enseñan que el Hijo existía antes de la creación y compartía gloria con el Padre. También debe considerarse el lenguaje de Salmo 2:7: Mi Hijo eres tú; yo te he engendrado hoy. En su contexto, el Salmo 2 presenta la entronización del rey escogido por Dios frente a las naciones rebeldes. Hechos 13:32-33 relaciona este salmo con el cumplimiento de las promesas de Dios en Jesús, y Hebreos 1:5 lo utiliza para destacar la posición única del Hijo, superior a los ángeles.
+
+Por eso, la palabra hoy no debe aislarse del contexto y utilizarse para afirmar que el Hijo comenzó a existir en un día determinado. El mismo escrito de Hebreos presenta al Hijo como aquel por medio de quien Dios hizo el universo y afirma su permanencia eterna (Hebreos 1:2, 8-12). La generación eterna no significa creación ni comienzo temporal; expresa la relación eterna del Hijo con el Padre. La misión del Hijo y su obediencia en la encarnación deben distinguirse de su identidad y existencia divinas.',
 references: 'Juan 1:1-3; Juan 17:5, 24; Colosenses 1:16-17; Hebreos 1:8-12.',
 ),
 StudySection(
