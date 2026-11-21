@@ -1,11 +1,32 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
 
 await MobileAds.instance.initialize();
-
+await BookmarkStore.load();
 runApp(const SanaDoctrinaApp());
+}
+
+class BookmarkStore {
+  static const _key = 'la_sana_doctrina_saved_studies';
+  static final ValueNotifier<Set<String>> savedStudyIds = ValueNotifier(<String>{});
+  static Future<void> load() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      savedStudyIds.value = (prefs.getStringList(_key) ?? <String>[]).toSet();
+    } catch (_) {}
+  }
+  static Future<void> toggleStudy(String id) async {
+    final next = Set<String>.from(savedStudyIds.value);
+    if (!next.add(id)) next.remove(id);
+    savedStudyIds.value = next;
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setStringList(_key, next.toList()..sort());
+    } catch (_) {}
+  }
 }
 
 class SanaDoctrinaApp extends StatelessWidget {
@@ -49,12 +70,9 @@ State<HomeScreen> createState() => _HomeScreenState();
 class _HomeScreenState extends State<HomeScreen> {
 int selectedIndex = 0;
 
-static const pages = <Widget>[
-InicioTab(),
-EstudiosTab(),
-DiccionarioTab(),
-CuestionariosTab(),
-GuardadosTab(),
+List<Widget> get pages => <Widget>[
+  InicioTab(onNavigate: (i) { if (mounted) setState(() => selectedIndex = i); }),
+  const EstudiosTab(), const DiccionarioTab(), const CuestionariosTab(), const GuardadosTab(),
 ];
 
 static const titles = [
@@ -74,7 +92,7 @@ titles[selectedIndex],
 style: const TextStyle(fontWeight: FontWeight.w700),
 ),
 ),
-body: SafeArea(child: pages[selectedIndex]),
+body: IndexedStack(index: selectedIndex, children: pages),
 bottomNavigationBar: NavigationBar(
 selectedIndex: selectedIndex,
 onDestinationSelected: (value) =>
@@ -112,99 +130,56 @@ label: 'Guardados',
 }
 
 class InicioTab extends StatelessWidget {
-const InicioTab({super.key});
-
-@override
-Widget build(BuildContext context) {
-return ListView(
-padding: const EdgeInsets.all(18),
-children: [
-Container(
-padding: const EdgeInsets.all(22),
-decoration: BoxDecoration(
-color: const Color(0xFF14243A),
-borderRadius: BorderRadius.circular(22),
-),
-child: const Column(
-crossAxisAlignment: CrossAxisAlignment.start,
-children: [
-Icon(Icons.menu_book, color: Color(0xFFD5B46A), size: 36),
-SizedBox(height: 14),
-Text(
-'CONOCIENDO MÁS DE DIOS',
-style: TextStyle(
-color: Color(0xFFD5B46A),
-fontSize: 12,
-letterSpacing: 1.3,
-fontWeight: FontWeight.bold,
-),
-),
-SizedBox(height: 8),
-Text(
-'Crecer en la verdad de las Escrituras.',
-style: TextStyle(
-color: Colors.white,
-fontSize: 23,
-fontWeight: FontWeight.bold,
-),
-),
-SizedBox(height: 12),
-Text(
-'“Pero tú habla lo que está de acuerdo con la sana doctrina”.',
-style: TextStyle(
-color: Colors.white70,
-fontStyle: FontStyle.italic,
-),
-),
-SizedBox(height: 5),
-Text(
-'Tito 2:1',
-style: TextStyle(
-color: Color(0xFFD5B46A),
-fontWeight: FontWeight.bold,
-),
-),
-],
-),
-),
-const SizedBox(height: 22),
-const SectionHeading('Explora la aplicación'),
-const SizedBox(height: 10),
-const FeatureTile(
-icon: Icons.menu_book,
-title: 'Estudios bíblicos',
-subtitle: 'Aprende doctrina paso a paso.',
-),
-const FeatureTile(
-icon: Icons.search,
-title: 'Diccionario teológico',
-subtitle: 'Consulta términos y conceptos bíblicos.',
-),
-const FeatureTile(
-icon: Icons.quiz,
-title: 'Cuestionarios',
-subtitle: 'Repasa lo aprendido.',
-),
-const FeatureTile(
-icon: Icons.headphones,
-title: 'Enseñanzas en audio',
-subtitle: 'Escucha lecciones cuando estén disponibles.',
-),
-const SizedBox(height: 12),
-const Text(
-'Versión inicial de desarrollo · El contenido se incorporará por etapas.',
-textAlign: TextAlign.center,
-style: TextStyle(color: Colors.black54, fontSize: 12),
-),
-const SizedBox(height: 16),
-const HomeBannerAd(),
-],
-);
+  const InicioTab({super.key, required this.onNavigate});
+  final ValueChanged<int> onNavigate;
+  @override
+  Widget build(BuildContext context) => ListView(padding: const EdgeInsets.all(18), children: [
+    Container(
+      padding: const EdgeInsets.all(24),
+      decoration: BoxDecoration(
+        gradient: const LinearGradient(begin: Alignment.topLeft, end: Alignment.bottomRight,
+          colors: [Color(0xFF14243A), Color(0xFF243F5D)]),
+        borderRadius: BorderRadius.circular(24),
+        boxShadow: const [BoxShadow(color: Color(0x2414243A), blurRadius: 18, offset: Offset(0, 8))],
+      ),
+      child: const Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Icon(Icons.menu_book_rounded, color: Color(0xFFD5B46A), size: 38),
+        SizedBox(height: 16),
+        Text('CONOCIENDO MÁS DE DIOS', style: TextStyle(color: Color(0xFFD5B46A),
+          fontSize: 12, letterSpacing: 1.5, fontWeight: FontWeight.w800)),
+        SizedBox(height: 10),
+        Text('Crecer en la verdad de las Escrituras.', style: TextStyle(color: Colors.white,
+          fontSize: 25, height: 1.2, fontWeight: FontWeight.w800)),
+        SizedBox(height: 14),
+        Text('“Pero tú habla lo que está de acuerdo con la sana doctrina”.',
+          style: TextStyle(color: Colors.white70, height: 1.45, fontStyle: FontStyle.italic)),
+        SizedBox(height: 6),
+        Text('Tito 2:1', style: TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold)),
+      ]),
+    ),
+    const SizedBox(height: 26), const SectionHeading('Explora la aplicación'), const SizedBox(height: 8),
+    FeatureTile(icon: Icons.menu_book_rounded, title: 'Estudios bíblicos',
+      subtitle: 'Explora los 150 estudios y profundiza en cada tema.', onTap: () => onNavigate(1)),
+    FeatureTile(icon: Icons.search_rounded, title: 'Diccionario teológico',
+      subtitle: 'Busca conceptos y términos de la sana doctrina.', onTap: () => onNavigate(2)),
+    FeatureTile(icon: Icons.quiz_rounded, title: 'Evaluaciones bíblicas',
+      subtitle: 'Comprueba lo aprendido con preguntas explicadas.', onTap: () => onNavigate(3)),
+    FeatureTile(icon: Icons.bookmark_rounded, title: 'Mis guardados',
+      subtitle: 'Vuelve rápidamente a tus estudios favoritos.', onTap: () => onNavigate(4)),
+    const SizedBox(height: 12), const HomeBannerAd(), const SizedBox(height: 14),
+    const Text('Contenido de estudio fundamentado en las Escrituras.',
+      textAlign: TextAlign.center, style: TextStyle(color: Colors.black54, fontSize: 12)),
+  ]);
 }
+class EstudiosTab extends StatefulWidget {
+  const EstudiosTab({super.key});
+  @override
+  State<EstudiosTab> createState() => _EstudiosTabState();
 }
-
-class EstudiosTab extends StatelessWidget {
-const EstudiosTab({super.key});
+class _EstudiosTabState extends State<EstudiosTab> {
+  final _searchController = TextEditingController();
+  @override
+  void dispose() { _searchController.dispose(); super.dispose(); }
 
 static const studies = <Study>[
 Study(
@@ -21598,52 +21573,53 @@ Study(
     ),
 ];
 
-@override
-Widget build(BuildContext context) {
-return ListView(
-padding: const EdgeInsets.all(16),
-children: [
-const Text(
-'Biblioteca de formación bíblica',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 6),
-const Text(
-'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
-),
-const SizedBox(height: 14),
-for (final study in studies)
-Card(
-clipBehavior: Clip.antiAlias,
-child: ListTile(
-contentPadding: const EdgeInsets.all(12),
-leading: CircleAvatar(
-backgroundColor: const Color(0xFFE9DFC8),
-child: Text(
-study.number,
-style: const TextStyle(
-color: Color(0xFF14243A),
-fontWeight: FontWeight.bold,
-),
-),
-),
-title: Text(
-study.title,
-style: const TextStyle(fontWeight: FontWeight.bold),
-),
-subtitle: Padding(
-padding: const EdgeInsets.only(top: 5),
-child: Text(study.subtitle),
-),
-trailing: const Icon(Icons.chevron_right),
-onTap: () {
-Navigator.push(
-context,
-MaterialPageRoute(
-builder: (_) => StudyDetailPage(study: study),
-),
-);
-},
+ 
+  @override
+  Widget build(BuildContext context) {
+    final q = _searchController.text.trim().toLowerCase();
+    final results = _EstudiosTabState.studies.where((x) =>
+      x.number.toLowerCase().contains(q) || x.title.toLowerCase().contains(q) ||
+      x.subtitle.toLowerCase().contains(q)).toList(growable: false);
+    return Column(children: [
+      Padding(padding: const EdgeInsets.fromLTRB(16,16,16,10), child: TextField(
+        controller: _searchController, onChanged: (_) => setState(() {}),
+        textInputAction: TextInputAction.search,
+        decoration: InputDecoration(hintText: 'Buscar por título, tema o número...',
+          prefixIcon: const Icon(Icons.search),
+          suffixIcon: _searchController.text.isEmpty ? null : IconButton(
+            tooltip: 'Limpiar búsqueda', onPressed: () { _searchController.clear(); setState(() {}); },
+            icon: const Icon(Icons.close)),
+          filled: true, fillColor: Colors.white,
+          border: OutlineInputBorder(borderRadius: BorderRadius.circular(16), borderSide: BorderSide.none)),
+      )),
+      Padding(padding: const EdgeInsets.fromLTRB(18,0,18,10), child: Align(
+        alignment: Alignment.centerLeft, child: Text('${results.length} estudios disponibles',
+          style: const TextStyle(color: Color(0xFF526174), fontWeight: FontWeight.w600)))),
+      Expanded(child: results.isEmpty
+        ? const _EmptySearchState(title: 'No encontramos ese estudio',
+            message: 'Prueba con otra palabra o con el número del estudio.')
+        : ListView.separated(
+          padding: const EdgeInsets.fromLTRB(16,0,16,20), itemCount: results.length,
+          separatorBuilder: (_,__) => const SizedBox(height: 8),
+          itemBuilder: (context,i) {
+            final study = results[i];
+            return Card(clipBehavior: Clip.antiAlias, child: ListTile(
+              contentPadding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+              leading: CircleAvatar(backgroundColor: const Color(0xFFE9DFC8),
+                foregroundColor: const Color(0xFF14243A),
+                child: Text(study.number, style: const TextStyle(fontWeight: FontWeight.bold))),
+              title: Text(study.title, maxLines: 2, overflow: TextOverflow.ellipsis,
+                style: const TextStyle(fontWeight: FontWeight.w700)),
+              subtitle: Padding(padding: const EdgeInsets.only(top: 5),
+                child: Text(study.subtitle, maxLines: 2, overflow: TextOverflow.ellipsis)),
+              trailing: const Icon(Icons.chevron_right_rounded),
+              onTap: () => Navigator.push(context, MaterialPageRoute(
+                builder: (_) => StudyDetailPage(study: study))),
+            ));
+          },
+        )),
+    ]);
+  },
 ),
 ),
 ],
@@ -21692,9 +21668,15 @@ const navy = Color(0xFF14243A);
 const gold = Color(0xFFD5B46A);
 
 return Scaffold(
-appBar: AppBar(
-title: Text(study.title),
-),
+appBar: AppBar(title: Text(study.title, maxLines: 1, overflow: TextOverflow.ellipsis),
+  actions: [ValueListenableBuilder<Set<String>>(valueListenable: BookmarkStore.savedStudyIds,
+    builder: (context,saved,_) {
+      final active = saved.contains(study.number);
+      return IconButton(tooltip: active ? 'Quitar de guardados' : 'Guardar estudio',
+        onPressed: () => BookmarkStore.toggleStudy(study.number),
+        icon: Icon(active ? Icons.bookmark : Icons.bookmark_border,
+          color: active ? const Color(0xFFD5B46A) : null));
+    })]),
 body: ListView(
 padding: const EdgeInsets.all(20),
 children: [
@@ -21820,120 +21802,269 @@ letterSpacing: 1,
 }
 }
 
-class DiccionarioTab extends StatelessWidget {
-const DiccionarioTab({super.key});
-
-@override
-Widget build(BuildContext context) {
-const terms = [
-('Atributo', 'Cualidad o perfección que describe el ser y carácter de Dios.'),
-('Doctrina', 'Enseñanza o conjunto de enseñanzas que se presentan como verdad.'),
-('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
-('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
-('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),
-];
-
-return ListView(
-padding: const EdgeInsets.all(16),
-children: [
-const Text(
-'Términos teológicos',
-style: TextStyle(fontSize: 19, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 12),
-for (final term in terms)
-Card(
-child: ExpansionTile(
-title: Text(
-term.$1,
-style: const TextStyle(fontWeight: FontWeight.w600),
-),
-children: [
-Padding(
-padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
-child: Align(
-alignment: Alignment.centerLeft,
-child: Text(term.$2),
-),
-),
-],
-),
-),
-],
-);
+class DiccionarioTab extends StatefulWidget {
+  const DiccionarioTab({super.key});
+  @override
+  State<DiccionarioTab> createState() => _DiccionarioTabState();
 }
+class _DiccionarioTabState extends State<DiccionarioTab> {
+  final _searchController = TextEditingController();
+  static const terms = <(String,String,String)>[
+    ('Adopción','Dios recibe como hijos a quienes están unidos a Cristo y les concede una nueva relación filial.','Romanos 8:15-17; Gálatas 4:4-7'),
+    ('Atributo divino','Cualidad verdadera que la Escritura revela acerca del ser y carácter de Dios.','Éxodo 34:6-7; Salmo 145:8-9'),
+    ('Bautismo','Ordenanza instituida por Jesucristo como testimonio público de fe y discipulado.','Mateo 28:19-20; Romanos 6:3-4'),
+    ('Canon bíblico','Conjunto de libros reconocidos como Escritura inspirada y norma para la fe y la vida.','2 Timoteo 3:16-17; 2 Pedro 1:20-21'),
+    ('Cristología','Estudio de la persona, naturaleza y obra de Jesucristo.','Juan 1:1-18; Colosenses 1:15-20'),
+    ('Comunión','Relación de participación y compañerismo que Dios concede a su pueblo.','1 Corintios 1:9; 2 Corintios 13:14'),
+    ('Deidad','Naturaleza divina; aquello que pertenece propiamente a Dios.','Colosenses 2:9; Romanos 1:20'),
+    ('Doctrina','Enseñanza que debe evaluarse conforme al testimonio completo de las Escrituras.','Tito 2:1; Hechos 17:11'),
+    ('Encarnación','El Verbo eterno asumió verdadera naturaleza humana sin dejar de ser Dios.','Juan 1:1,14; Filipenses 2:5-8'),
+    ('Escatología','Estudio de las enseñanzas bíblicas acerca del regreso de Cristo y la consumación.','1 Tesalonicenses 4:13-18; Apocalipsis 21:1-5'),
+    ('Esencia divina','La única naturaleza o ser divino que pertenece plenamente al Padre, al Hijo y al Espíritu Santo.','Deuteronomio 6:4; Juan 1:1; Hechos 5:3-4'),
+    ('Espíritu Santo','Persona divina que enseña, guía, santifica y da testimonio de Jesucristo.','Juan 14:16-17,26; Hechos 5:3-4'),
+    ('Exégesis','Análisis de un pasaje para determinar su sentido según el contexto y el lenguaje.','Nehemías 8:8; 2 Timoteo 2:15'),
+    ('Fe','Confianza y dependencia de Dios y de su promesa revelada en Jesucristo.','Romanos 10:9-17; Hebreos 11:1-6'),
+    ('Filiación eterna','Relación eterna del Hijo con el Padre, expresada en la revelación de su identidad como Hijo.','Juan 1:1-2,18; Juan 17:5,24'),
+    ('Gracia','Favor inmerecido de Dios, por el cual salva y sostiene a su pueblo.','Efesios 2:8-10; Tito 3:4-7'),
+    ('Hermenéutica','Principios y métodos para interpretar correctamente los textos bíblicos.','Lucas 24:27; 2 Pedro 3:15-16'),
+    ('Hipóstasis','Término teológico histórico para hablar de subsistencia personal; no sustituye el lenguaje bíblico.','Juan 1:1-2; Hebreos 1:3'),
+    ('Inmanencia','Presencia y actividad de Dios en la creación, sin que la creación sea parte de su esencia.','Jeremías 23:23-24; Hechos 17:27-28'),
+    ('Inmutabilidad','Perfección por la cual Dios no cambia en su ser, carácter ni fidelidad.','Malaquías 3:6; Santiago 1:17'),
+    ('Inspiración','Obra del Espíritu Santo por la que las Escrituras fueron dadas mediante autores humanos.','2 Timoteo 3:16; 2 Pedro 1:20-21'),
+    ('Justificación','Acto de Dios por el que declara justo al pecador que recibe por fe la obra de Cristo.','Romanos 3:21-28; Romanos 5:1'),
+    ('Monoteísmo','Confesión bíblica de que existe un solo Dios verdadero.','Deuteronomio 6:4; 1 Corintios 8:4-6'),
+    ('Naturaleza divina','Lo que Dios es en su ser; el Padre, el Hijo y el Espíritu Santo son plenamente divinos.','Juan 1:1; Colosenses 2:9; Hechos 5:3-4'),
+    ('Omnipotencia','Poder soberano de Dios para realizar todo lo que corresponde a su naturaleza y voluntad santa.','Génesis 18:14; Lucas 1:37'),
+    ('Omnipresencia','Presencia de Dios que no queda limitada por lugar alguno.','Salmo 139:7-10; Jeremías 23:23-24'),
+    ('Omnisciencia','Conocimiento perfecto y completo de Dios.','Salmo 139:1-6; Hebreos 4:13'),
+    ('Persona divina','Distinción personal real en el único Dios: Padre, Hijo y Espíritu Santo; no son tres seres separados.','Mateo 3:16-17; Mateo 28:19'),
+    ('Pericóresis','Término teológico que expresa la mutua comunión de las personas divinas sin confusión ni separación.','Juan 14:10-11; Juan 17:21'),
+    ('Providencia','Gobierno y cuidado continuo de Dios sobre su creación.','Mateo 6:25-34; Colosenses 1:16-17'),
+    ('Reconciliación','Obra por la que Dios restaura la relación con Él mediante la muerte de Jesucristo.','Romanos 5:10-11; 2 Corintios 5:18-21'),
+    ('Redención','Liberación del pecado mediante la obra sacrificial de Jesucristo.','Marcos 10:45; Efesios 1:7'),
+    ('Revelación','Acción por la que Dios se da a conocer mediante sus obras, las Escrituras y el Hijo.','Hebreos 1:1-3; 2 Timoteo 3:16-17'),
+    ('Santificación','Obra de Dios por la que el creyente es apartado para Él y transformado en obediencia.','1 Corintios 6:11; 1 Tesalonicenses 5:23'),
+    ('Soteriología','Estudio de la salvación y sus beneficios.','Romanos 3:21-26; Efesios 2:1-10'),
+    ('Trinidad','Enseñanza que resume el testimonio bíblico: un solo Dios en tres personas distintas, Padre, Hijo y Espíritu Santo.','Deuteronomio 6:4; Mateo 28:19; 2 Corintios 13:14'),
+    ('Unidad divina','La unicidad del ser de Dios: no existen tres dioses, sino un solo Dios.','Deuteronomio 6:4; Isaías 45:5; 1 Corintios 8:4-6'),
+  ];
+  @override
+  void dispose() { _searchController.dispose(); super.dispose(); }
+  @override
+  Widget build(BuildContext context) {
+    final q = _searchController.text.trim().toLowerCase();
+    final found = terms.where((x) => x.$1.toLowerCase().contains(q) ||
+      x.$2.toLowerCase().contains(q) || x.$3.toLowerCase().contains(q)).toList();
+    return Column(children: [
+      Padding(padding: const EdgeInsets.fromLTRB(16,16,16,10), child: TextField(
+        controller: _searchController, onChanged: (_) => setState(() {}),
+        decoration: InputDecoration(hintText: 'Buscar término teológico...', prefixIcon: const Icon(Icons.search),
+          suffixIcon: _searchController.text.isEmpty ? null : IconButton(
+            tooltip: 'Limpiar búsqueda', onPressed: () { _searchController.clear(); setState(() {}); },
+            icon: const Icon(Icons.close)),
+          filled: true, fillColor: Colors.white,
+          border: OutlineInputBorder(borderRadius: BorderRadius.circular(16), borderSide: BorderSide.none)),
+      )),
+      Padding(padding: const EdgeInsets.fromLTRB(18,0,18,10), child: Align(alignment: Alignment.centerLeft,
+        child: Text('${found.length} términos encontrados',
+          style: const TextStyle(color: Color(0xFF526174), fontWeight: FontWeight.w600)))),
+      Expanded(child: found.isEmpty
+        ? const _EmptySearchState(title: 'No encontramos ese término',
+            message: 'Prueba con otra palabra o una referencia bíblica.')
+        : ListView.separated(padding: const EdgeInsets.fromLTRB(16,0,16,20),
+          itemCount: found.length, separatorBuilder: (_,__) => const SizedBox(height: 7),
+          itemBuilder: (context,i) {
+            final term = found[i];
+            return Card(clipBehavior: Clip.antiAlias, child: ExpansionTile(
+              leading: const Icon(Icons.bookmark_outline, color: Color(0xFF14243A)),
+              title: Text(term.$1, style: const TextStyle(fontWeight: FontWeight.w700)),
+              childrenPadding: const EdgeInsets.fromLTRB(16,0,16,16),
+              expandedCrossAxisAlignment: CrossAxisAlignment.start,
+              children: [Text(term.$2, style: const TextStyle(height: 1.5)),
+                const SizedBox(height: 10),
+                Text('Referencias: ${term.$3}', style: const TextStyle(
+                  color: Color(0xFF526174), fontSize: 12, fontWeight: FontWeight.w600))],
+            ));
+          })),
+    ]);
+  }
 }
-
+class _EmptySearchState extends StatelessWidget {
+  const _EmptySearchState({required this.title, required this.message});
+  final String title, message;
+  @override
+  Widget build(BuildContext context) => Center(child: Padding(
+    padding: const EdgeInsets.all(28), child: Column(mainAxisSize: MainAxisSize.min, children: [
+      const Icon(Icons.search_off_rounded, size: 46, color: Color(0xFF7B8794)),
+      const SizedBox(height: 12),
+      Text(title, style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w700)),
+      const SizedBox(height: 6),
+      Text(message, textAlign: TextAlign.center, style: const TextStyle(color: Color(0xFF657386))),
+    ]),
+  ));
+}
+class QuizQuestion {
+  const QuizQuestion({required this.question, required this.options, required this.correctIndex,
+    required this.explanation, required this.reference});
+  final String question; final List<String> options; final int correctIndex;
+  final String explanation; final String reference;
+}
 class CuestionariosTab extends StatelessWidget {
-const CuestionariosTab({super.key});
-
-@override
-Widget build(BuildContext context) {
-return Center(
-child: Padding(
-padding: const EdgeInsets.all(28),
-child: Column(
-mainAxisSize: MainAxisSize.min,
-children: [
-const Icon(
-Icons.quiz_outlined,
-size: 58,
-color: Color(0xFF14243A),
-),
-const SizedBox(height: 14),
-const Text(
-'Evaluaciones bíblicas',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 8),
-const Text(
-'Aquí estarán los cuestionarios por tema, con preguntas, respuestas y explicación bíblica.',
-textAlign: TextAlign.center,
-),
-const SizedBox(height: 16),
-FilledButton(
-onPressed: () => _showComingSoon(context, 'Cuestionarios'),
-child: const Text('Próximamente'),
-),
-],
-),
-),
-);
+  const CuestionariosTab({super.key});
+  static const questions = <QuizQuestion>[
+    QuizQuestion(question:'¿Qué afirma Deuteronomio 6:4 acerca de Dios?',
+      options:['Que existen tres dioses','Que el Señor es uno','Que Dios cambia de persona','Que el Hijo fue creado'],
+      correctIndex:1, explanation:'La fe bíblica es monoteísta. La doctrina trinitaria no enseña tres dioses, sino un solo Dios.',
+      reference:'Deuteronomio 6:4; 1 Corintios 8:4-6'),
+    QuizQuestion(question:'En el bautismo de Jesús, ¿qué personas aparecen?',
+      options:['Solo Jesús','El Padre y Jesús, pero no el Espíritu','El Padre, el Hijo y el Espíritu Santo','Tres manifestaciones de una persona'],
+      correctIndex:2, explanation:'El Hijo es bautizado, el Espíritu desciende y la voz del Padre se oye desde los cielos.',
+      reference:'Mateo 3:16-17'),
+    QuizQuestion(question:'¿Qué enseña Juan 1:1 acerca del Verbo?',
+      options:['Que era una criatura','Que era Dios y estaba con Dios','Que era el Espíritu Santo','Que comenzó a existir en Belén'],
+      correctIndex:1, explanation:'El texto distingue al Verbo de aquel con quien estaba y afirma su naturaleza divina.',
+      reference:'Juan 1:1-3,14'),
+    QuizQuestion(question:'¿Cómo presenta Mateo 28:19 la fórmula bautismal?',
+      options:['En el nombre del Padre, del Hijo y del Espíritu Santo','En los nombres de tres dioses','Solo en el nombre del Padre','En el nombre de los apóstoles'],
+      correctIndex:0, explanation:'El mandato menciona a las tres personas y utiliza la expresión singular «nombre».',
+      reference:'Mateo 28:18-20'),
+    QuizQuestion(question:'Según Hechos 5:3-4, mentir al Espíritu Santo equivale a mentir a...',
+      options:['Un ángel','La Iglesia','Dios','Un profeta'], correctIndex:2,
+      explanation:'Pedro identifica el engaño contra el Espíritu Santo como una mentira contra Dios.',
+      reference:'Hechos 5:3-4'),
+    QuizQuestion(question:'¿Qué relación muestra Juan 17:1-5?',
+      options:['El Padre y el Hijo son la misma persona','El Hijo ora al Padre y habla de la gloria compartida','Jesús no existía antes de nacer','El Espíritu Santo es el Padre'],
+      correctIndex:1, explanation:'La oración de Jesús muestra distinción personal y menciona la gloria que tenía con el Padre antes que el mundo existiera.',
+      reference:'Juan 17:1-5,24'),
+    QuizQuestion(question:'¿Qué hace el Espíritu Santo según Juan 14:26?',
+      options:['Reemplaza a Jesucristo','Enseña y recuerda las palabras de Jesús','Niega la enseñanza del Padre','Es una fuerza impersonal'],
+      correctIndex:1, explanation:'Jesús habla del Consolador como quien enseña y recuerda lo que Él ha dicho.',
+      reference:'Juan 14:16-17,26'),
+    QuizQuestion(question:'¿Qué expresa 2 Corintios 13:14?',
+      options:['Una bendición que menciona a Cristo, Dios y el Espíritu Santo','Tres caminos de salvación','Una lista de tres ángeles','Una contradicción sobre Dios'],
+      correctIndex:0, explanation:'La bendición relaciona la gracia de Cristo, el amor de Dios y la comunión del Espíritu Santo.',
+      reference:'2 Corintios 13:14'),
+  ];
+  @override
+  Widget build(BuildContext context) => ListView(padding: const EdgeInsets.all(18), children: [
+    Container(padding: const EdgeInsets.all(22), decoration: BoxDecoration(
+      color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(22)),
+      child: const Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Icon(Icons.quiz_rounded, color: Color(0xFFD5B46A), size: 36), SizedBox(height: 14),
+        Text('EVALUACIÓN BÍBLICA', style: TextStyle(color: Color(0xFFD5B46A), fontSize: 12, letterSpacing: 1.2, fontWeight: FontWeight.bold)),
+        SizedBox(height: 8),
+        Text('Fundamentos de la Trinidad', style: TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
+        SizedBox(height: 8),
+        Text('Preguntas para repasar la unidad de Dios y la distinción del Padre, del Hijo y del Espíritu Santo.',
+          style: TextStyle(color: Colors.white70, height: 1.45)),
+      ])),
+    const SizedBox(height: 18),
+    Card(child: Padding(padding: const EdgeInsets.all(16), child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      const Row(children:[Icon(Icons.menu_book_outlined,color:Color(0xFF14243A)),SizedBox(width:9),
+        Text('Prueba de conocimientos',style:TextStyle(fontWeight:FontWeight.bold))]),
+      const SizedBox(height:8), Text('${questions.length} preguntas · Respuestas explicadas',
+        style: const TextStyle(color: Color(0xFF657386))),
+      const SizedBox(height:14),
+      SizedBox(width:double.infinity, child:FilledButton.icon(
+        onPressed:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>const QuizPage())),
+        icon:const Icon(Icons.play_arrow_rounded),label:const Text('Comenzar evaluación'))),
+    ]))),
+    const SizedBox(height:12),
+    const Text('Lee las referencias bíblicas de cada explicación y comprueba las respuestas en su contexto.',
+      style:TextStyle(color:Color(0xFF657386),height:1.45)),
+  ]);
 }
+class QuizPage extends StatefulWidget {
+  const QuizPage({super.key});
+  @override State<QuizPage> createState()=>_QuizPageState();
 }
-
+class _QuizPageState extends State<QuizPage> {
+  int index=0, score=0; int? selected; bool finished=false;
+  void answer(int i) {
+    if(selected!=null)return;
+    setState(() { selected=i; if(i==CuestionariosTab.questions[index].correctIndex)score++; });
+  }
+  void next() {
+    if(index==CuestionariosTab.questions.length-1) { setState(()=>finished=true); }
+    else { setState(() { index++; selected=null; }); }
+  }
+  void restart()=>setState(() { index=0; score=0; selected=null; finished=false; });
+  @override
+  Widget build(BuildContext context) {
+    if(finished) {
+      final pct=(score/CuestionariosTab.questions.length*100).round();
+      return Scaffold(appBar:AppBar(title:const Text('Resultado de la evaluación')),
+        body:Center(child:Padding(padding:const EdgeInsets.all(28),child:Column(mainAxisSize:MainAxisSize.min,children:[
+          Icon(pct>=70?Icons.verified_rounded:Icons.menu_book_rounded,size:66,color:const Color(0xFFD5B46A)),
+          const SizedBox(height:16),const Text('Evaluación completada',style:TextStyle(fontSize:22,fontWeight:FontWeight.bold)),
+          const SizedBox(height:8),Text('Obtuviste $score de ${CuestionariosTab.questions.length} respuestas correctas ($pct%).',
+            textAlign:TextAlign.center,style:const TextStyle(fontSize:17)),
+          const SizedBox(height:10),Text(pct>=70?'Buen trabajo. Sigue profundizando en los pasajes bíblicos.':
+            'Repasa los estudios y vuelve a intentarlo.',textAlign:TextAlign.center,
+            style:const TextStyle(color:Color(0xFF657386),height:1.45)),
+          const SizedBox(height:22),SizedBox(width:double.infinity,child:FilledButton.icon(
+            onPressed:restart,icon:const Icon(Icons.refresh_rounded),label:const Text('Repetir evaluación'))),
+          TextButton(onPressed:()=>Navigator.pop(context),child:const Text('Volver a cuestionarios')),
+        ]))));
+    }
+    final q=CuestionariosTab.questions[index], correct=selected==q.correctIndex;
+    return Scaffold(appBar:AppBar(title:const Text('Evaluación bíblica')),
+      body:SafeArea(child:Column(children:[
+        LinearProgressIndicator(value:(index+1)/CuestionariosTab.questions.length,minHeight:5,
+          backgroundColor:const Color(0xFFE4E8ED),color:const Color(0xFFD5B46A)),
+        Expanded(child:ListView(padding:const EdgeInsets.all(18),children:[
+          Text('PREGUNTA ${index+1} DE ${CuestionariosTab.questions.length}',
+            style:const TextStyle(color:Color(0xFF657386),fontSize:12,letterSpacing:1,fontWeight:FontWeight.bold)),
+          const SizedBox(height:12),Text(q.question,style:const TextStyle(fontSize:21,height:1.3,fontWeight:FontWeight.bold,color:Color(0xFF14243A))),
+          const SizedBox(height:20),
+          for(var i=0;i<q.options.length;i++) Padding(padding:const EdgeInsets.only(bottom:10),
+            child:Card(color:selected==null?Colors.white:i==q.correctIndex?const Color(0xFFE6F4EA):
+              selected==i?const Color(0xFFFCE8E6):Colors.white,
+              child:ListTile(onTap:selected==null?()=>answer(i):null,
+                leading:CircleAvatar(backgroundColor:const Color(0xFFE9DFC8),foregroundColor:const Color(0xFF14243A),
+                  child:Text(String.fromCharCode(65+i))),
+                title:Text(q.options[i]),
+                trailing:selected==null?const Icon(Icons.circle_outlined,size:20):
+                  i==q.correctIndex?const Icon(Icons.check_circle,color:Color(0xFF25834A)):
+                  selected==i?const Icon(Icons.cancel,color:Color(0xFFC23B32)):null))),
+          if(selected!=null)Container(padding:const EdgeInsets.all(16),
+            decoration:BoxDecoration(color:correct?const Color(0xFFE6F4EA):const Color(0xFFFCE8E6),borderRadius:BorderRadius.circular(16)),
+            child:Column(crossAxisAlignment:CrossAxisAlignment.start,children:[
+              Text(correct?'Respuesta correcta':'Revisa esta respuesta',
+                style:TextStyle(fontWeight:FontWeight.bold,color:correct?const Color(0xFF216E3A):const Color(0xFF9B2C26))),
+              const SizedBox(height:6),Text(q.explanation,style:const TextStyle(height:1.45)),
+              const SizedBox(height:8),Text('Lee: ${q.reference}',style:const TextStyle(fontWeight:FontWeight.w700,fontSize:12)),
+            ])),
+        ])),
+        Padding(padding:const EdgeInsets.all(18),child:SizedBox(width:double.infinity,
+          child:FilledButton(onPressed:selected==null?null:next,
+            child:Text(index==CuestionariosTab.questions.length-1?'Ver resultado':'Siguiente pregunta')))),
+      ])));
+  }
+}
 class GuardadosTab extends StatelessWidget {
-const GuardadosTab({super.key});
-
-@override
-Widget build(BuildContext context) {
-return const Center(
-child: Padding(
-padding: EdgeInsets.all(28),
-child: Column(
-mainAxisSize: MainAxisSize.min,
-children: [
-Icon(
-Icons.bookmark_border,
-size: 58,
-color: Color(0xFF14243A),
-),
-SizedBox(height: 14),
-Text(
-'Tus estudios guardados',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
-SizedBox(height: 8),
-Text(
-'Aquí aparecerán los estudios y versículos que marques como favoritos.',
-textAlign: TextAlign.center,
-),
-],
-),
-),
-);
-}
+  const GuardadosTab({super.key});
+  @override
+  Widget build(BuildContext context)=>ValueListenableBuilder<Set<String>>(
+    valueListenable:BookmarkStore.savedStudyIds,builder:(context,saved,_) {
+      final items=_EstudiosTabState.studies.where((x)=>saved.contains(x.number)).toList();
+      if(items.isEmpty)return const _EmptySearchState(
+        title:'Todavía no tienes estudios guardados',
+        message:'Abre cualquier estudio y toca el marcador para guardarlo aquí.');
+      return ListView.separated(padding:const EdgeInsets.all(16),itemCount:items.length,
+        separatorBuilder:(_,__)=>const SizedBox(height:8),itemBuilder:(context,i) {
+          final study=items[i];
+          return Card(child:ListTile(
+            leading:CircleAvatar(backgroundColor:const Color(0xFFE9DFC8),foregroundColor:const Color(0xFF14243A),
+              child:Text(study.number,style:const TextStyle(fontWeight:FontWeight.bold))),
+            title:Text(study.title,maxLines:2,overflow:TextOverflow.ellipsis),
+            subtitle:Text(study.subtitle,maxLines:2,overflow:TextOverflow.ellipsis),
+            onTap:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>StudyDetailPage(study:study))),
+            trailing:IconButton(tooltip:'Quitar de guardados',
+              onPressed:()=>BookmarkStore.toggleStudy(study.number),icon:const Icon(Icons.bookmark_remove_outlined)),
+          ));
+        });
+    });
 }
 
 class FeatureTile extends StatelessWidget {
@@ -21942,17 +22073,20 @@ super.key,
 required this.icon,
 required this.title,
 required this.subtitle,
-});
+    required this.onTap,
+  });
 
-final IconData icon;
-final String title;
-final String subtitle;
+  final IconData icon;
+  final String title;
+  final String subtitle;
+  final VoidCallback onTap;
 
 @override
 Widget build(BuildContext context) {
 return Card(
 child: ListTile(
-leading: Icon(
+      onTap: onTap,
+      leading: Icon(
 icon,
 color: const Color(0xFF14243A),
 size: 28,
