@@ -18561,25 +18561,191 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "35. Síntesis doctrinal: promesa, Cristo y bendición", content: "El pacto abrahámico muestra la iniciativa y fidelidad de Dios, la respuesta de fe de Abraham, la continuidad de la promesa en la historia de Israel y su culminación en Jesucristo. La bendición alcanza a las naciones por medio del Mesías y es recibida por la fe. El Padre, el Hijo y el Espíritu Santo obran en perfecta unidad, manteniendo la distinción personal revelada en las Escrituras.", references: "Gn 12:1-3; 15:1-6; 17:1-8; Mt 1:1; Gá 3:14-29; Ef 1:3-14"),
     ],
     conclusion: "El pacto de Dios con Abraham no es un episodio aislado ni una promesa desconectada del evangelio. Es una etapa fundamental de la historia de la redención: Dios llamó, prometió, confirmó su palabra y condujo la historia hasta Jesucristo. En Él la bendición anunciada a Abraham alcanza a las naciones, y quienes pertenecen al Hijo por la fe participan de la herencia prometida. La respuesta apropiada es confiar en la fidelidad de Dios, vivir en obediencia y dar gloria al Padre, al Hijo y al Espíritu Santo.",
-  ),,
+  ),
   Study(
     number: '91',
     title: "El pacto de Dios con Noé: preservación de la creación y compromiso divino",
     subtitle: "El pacto noético, el diluvio, la señal del arcoíris y la preservación del orden creado.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    introduction: '''
+Génesis 6–9 presenta uno de los relatos decisivos de los primeros capítulos de la Biblia: la corrupción de la humanidad, el juicio del diluvio, la preservación de Noé y su familia, y el establecimiento de un pacto de Dios con toda criatura viviente. Este estudio se concentra en el pacto con Noé y en lo que el texto afirma sobre la preservación de la vida y la continuidad del orden creado.
+
+El relato no debe separarse de su contexto. Génesis 1–5 presenta la creación, la dignidad humana, la entrada del pecado y la expansión de la violencia. Génesis 6 describe una tierra corrompida; Génesis 7–8 narra el diluvio y la salida de las aguas; Génesis 9 registra la bendición, las disposiciones para la vida humana y la promesa divina señalada por el arcoíris. El pacto noético se entiende dentro de esta secuencia.
+
+El énfasis del pacto no es que la humanidad haya alcanzado perfección moral después del diluvio. Génesis 8:21 reconoce que la inclinación del corazón humano continúa siendo problemática. La continuidad de la creación descansa en el compromiso misericordioso de Dios, no en la impecabilidad de Noé ni de sus descendientes.
+
+La lectura cristiana relaciona este acontecimiento con otros pasajes, especialmente 1 Pedro 3:18–22, 2 Pedro 2:5 y Mateo 24:37–39. Estas conexiones deben respetar el sentido original de Génesis y no convertir cada detalle del relato en una alegoría arbitraria. En perspectiva trinitaria, también debemos ser precisos: Génesis 6–9 habla de Dios y de su Espíritu en el contexto del juicio, pero no expone por sí solo una formulación completa de la Trinidad. La doctrina trinitaria se establece al considerar el testimonio conjunto de toda la Escritura.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 91. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+El pacto con Noé, llamado tradicionalmente pacto noético, es el compromiso que Dios establece después del diluvio con Noé, sus descendientes y todo ser viviente. Génesis 9:8–17 expresa su alcance universal: incluye a la humanidad y a los animales, y su señal visible es el arcoíris puesto en las nubes.
+
+La palabra pacto en este pasaje señala una relación establecida por iniciativa divina y acompañada de una promesa. El texto repite que Dios establece su pacto y declara que no volverá a destruir toda carne mediante un diluvio que cubra la tierra. No se presenta como un acuerdo entre partes con igual poder, sino como una promesa soberana de Dios.
+
+Es importante distinguir tres elementos relacionados, pero no idénticos: el relato del diluvio (Génesis 6–8), las disposiciones dadas a la humanidad después del diluvio (Génesis 9:1–7) y la promesa del pacto con su señal (Génesis 9:8–17). El estudio se centra en el tercer elemento sin ignorar los otros dos.
+
+Este pacto tampoco significa que nunca volverá a ocurrir una inundación local, que el pecado haya desaparecido o que la humanidad ya no esté sujeta a la muerte. La promesa específica es que Dios no volverá a destruir toda carne mediante las aguas de un diluvio universal como el narrado en el pasaje.
+''',
+        references: 'Génesis 6:5–13; 8:20–22; 9:1–17.',
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Génesis 6–9 pertenece a la sección inicial del libro, que presenta los orígenes del mundo, de la humanidad, del pecado y de las primeras generaciones. El relato del diluvio no aparece aislado: responde a la violencia y corrupción descritas en Génesis 6:5–13 y continúa la historia de la creación y la caída de Génesis 1–3.
+
+En Génesis 6:11–13, la tierra aparece llena de violencia y corrompida delante de Dios. El juicio no se presenta como un capricho: el narrador lo relaciona con la maldad humana. A la vez, Génesis 6:8 afirma que Noé halló gracia ante los ojos de Jehová. La preservación de Noé se atribuye al favor divino, aunque el relato también lo describe como un hombre justo en su generación y obediente a la palabra recibida (Génesis 6:9, 22).
+
+El relato utiliza repeticiones, instrucciones detalladas y una secuencia de juicio, preservación y nueva salida a la tierra. Estas características subrayan la seriedad del juicio y la continuidad de la intención creadora de Dios. La salida del arca y la bendición de Génesis 9 recuerdan el mandato de multiplicarse dado al ser humano en Génesis 1:28.
+
+Al comparar el relato bíblico con narraciones antiguas del diluvio del entorno del antiguo Cercano Oriente, se observan motivos compartidos, como una gran inundación y la preservación de sobrevivientes. Sin embargo, el mensaje teológico de Génesis se distingue por su presentación del único Dios, su juicio moral sobre la violencia, su gracia hacia Noé y su compromiso con todas las criaturas. La comparación cultural ayuda a comprender el entorno literario, pero no sustituye el análisis del texto bíblico.
+''',
+        references: 'Génesis 1:26–28; 3:1–24; 6:5–22; 7:1–24; 8:1–22; 9:1–17.',
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+La base del pacto se encuentra en Génesis 8:20–22 y 9:1–17. Después de salir del arca, Noé edifica un altar y ofrece holocaustos. Génesis 8:21 relata que Jehová percibió el olor grato y declaró que no volvería a maldecir la tierra de la misma manera ni a destruir todo ser viviente como había hecho. El texto no enseña que el sacrificio obligara a Dios; presenta la respuesta divina dentro de su propia decisión misericordiosa.
+
+Génesis 8:22 anuncia la continuidad de los ciclos de siembra y cosecha, frío y calor, verano e invierno, día y noche, mientras la tierra permanezca. La promesa se refiere a la estabilidad del orden creado para la vida humana. No afirma que cada región tendrá siempre el mismo clima ni que desaparecerán las catástrofes naturales.
+
+En Génesis 9:1–7 Dios bendice a Noé y a sus hijos, les manda fructificar y multiplicarse, regula la relación de la humanidad con los animales y prohíbe derramar sangre humana. La razón dada en el versículo 6 es la imagen de Dios en el ser humano. Así, la preservación de la vida no elimina la responsabilidad moral; la reafirma.
+
+Génesis 9:8–17 amplía explícitamente el pacto a Noé, sus descendientes y todo ser viviente. El arcoíris es la señal del pacto. La repetición de la promesa destaca su amplitud y permanencia: la creación no será nuevamente destruida por un diluvio que acabe con toda carne. Este pacto prepara el escenario histórico en el que se desarrollarán los pactos posteriores, incluido el llamado de Abraham en Génesis 12, pero no debe confundirse con ellos.
+''',
+        references: 'Génesis 8:20–22; 9:1–17; 12:1–3; Isaías 54:9–10.',
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento utiliza el diluvio para enseñar sobre el juicio, la fe y la esperanza, pero no reemplaza el significado histórico y literario de Génesis.
+
+En Mateo 24:37–39, Jesús compara los días de Noé con la venida del Hijo del Hombre. Las personas continuaban con sus actividades cotidianas y no comprendieron la gravedad de la situación hasta que llegó el diluvio. El énfasis de Jesús está en la inesperada llegada del juicio y en la necesidad de estar preparados. El pasaje no autoriza a calcular fechas ni a identificar cada acontecimiento contemporáneo con el diluvio.
+
+Lucas 17:26–27 presenta una comparación semejante. El punto es la falta de preparación de quienes viven sin atender la advertencia divina. La aplicación de Jesús se dirige a sus oyentes y llama a una vigilancia responsable.
+
+Hebreos 11:7 presenta a Noé como ejemplo de fe: advertido por Dios acerca de acontecimientos todavía no vistos, actuó con reverencia y preparó el arca. El texto destaca que la fe bíblica no es una opinión pasiva; responde a la palabra de Dios mediante obediencia.
+
+Primera de Pedro 3:18–22 relaciona el arca, el agua, la salvación y el bautismo, y sitúa todo dentro de la obra de Cristo: el justo padeció por los injustos para llevarnos a Dios y resucitó. Segunda de Pedro 2:5 llama a Noé pregonero de justicia y recuerda que Dios juzgó al mundo antiguo, pero preservó a Noé. Estos pasajes muestran que el diluvio se convirtió en advertencia y figura dentro de la enseñanza apostólica, siempre subordinada a la obra salvadora de Jesucristo.
+''',
+        references: 'Mateo 24:36–44; Lucas 17:26–30; Hebreos 11:7; 1 Pedro 3:18–22; 2 Pedro 2:4–9.',
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Génesis 6:5–8 describe la condición moral de la humanidad y presenta dos realidades que deben mantenerse juntas: la maldad humana es profunda y Noé halla gracia delante de Dios. El texto no enseña que Noé se salvara por ser absolutamente perfecto; la gracia aparece antes de la descripción de su obediencia (Génesis 6:8–9).
+
+Génesis 8:1 dice que Dios se acordó de Noé y de los animales que estaban con él. La expresión no implica que Dios hubiera olvidado información. En el lenguaje bíblico, que Dios se acuerde significa que actúa fielmente en favor de aquellos a quienes dirige su atención. El contexto confirma esta idea: Dios hace pasar un viento sobre la tierra y las aguas comienzan a bajar.
+
+Génesis 8:21–22 no debe leerse como si la humanidad hubiera quedado libre del pecado. El mismo versículo 21 reconoce que la inclinación del corazón humano es mala desde su juventud. La promesa de preservar los ciclos de la tierra se da a pesar de esa realidad, no porque el problema moral haya sido solucionado.
+
+Génesis 9:11 contiene el núcleo de la promesa: no habrá otro diluvio que destruya toda carne. Los versículos 12–17 presentan el arcoíris como señal del pacto. Cuando el texto dice que Dios verá la señal y se acordará del pacto, utiliza lenguaje relacional para comunicar la certeza de su compromiso. No significa que Dios necesite una ayuda visual para recordar.
+
+La expresión “toda carne” debe leerse según el alcance que el propio pasaje define: la humanidad y los seres vivientes de la tierra. El propósito del texto es proclamar la promesa divina de preservación frente a una destrucción total por agua, no ofrecer un tratado técnico sobre todos los procesos geológicos o meteorológicos.
+''',
+        references: 'Génesis 6:5–9; 8:1, 20–22; 9:8–17.',
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+El pacto con Noé se relaciona con la creación. Génesis 1:26–28 presenta al ser humano como imagen de Dios y encargado de ejercer dominio responsable sobre los seres vivientes. Después del diluvio, Génesis 9:1–7 reafirma la multiplicación humana y la responsabilidad respecto de la vida. El relato presenta continuidad con la creación, aunque ahora reconoce explícitamente la violencia y establece disposiciones para proteger la vida.
+
+Isaías 54:9–10 utiliza las aguas de Noé como comparación para comunicar la firmeza de la misericordia y del pacto de paz de Dios con su pueblo. El profeta no está repitiendo todo Génesis 9, sino empleando la promesa conocida como imagen de seguridad: así como Dios declaró que las aguas no volverían a cubrir la tierra, afirma la firmeza de su misericordia.
+
+El pacto noético también permite comprender por qué la historia humana continúa después del juicio. En Hechos 14:15–17, Pablo habla del Dios vivo que hizo el cielo, la tierra y el mar, y que da lluvias y tiempos fructíferos. En Hechos 17:24–28 declara que Dios da a todos vida, aliento y todas las cosas. Estos pasajes no citan directamente el pacto de Noé, pero concuerdan con la enseñanza bíblica de que la vida y la provisión dependen de Dios.
+
+La preservación presente no significa aprobación divina de toda conducta humana ni ausencia de juicio futuro. Segunda de Pedro 3:3–13 distingue el juicio antiguo por agua del juicio futuro y dirige la esperanza hacia cielos nuevos y tierra nueva. No debemos confundir la promesa de Génesis 9 —no destruir toda carne mediante otro diluvio— con la afirmación de que Dios nunca juzgará el pecado.
+''',
+        references: 'Génesis 1:26–28; 9:1–17; Isaías 54:9–10; Hechos 14:15–17; 17:24–28; 2 Pedro 3:3–13.',
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+Génesis 6–9 identifica a Jehová como quien juzga la maldad, preserva a Noé, establece el pacto y promete sostener el orden creado. El pasaje no desarrolla una exposición explícita de las tres personas divinas. Por ello, no debemos afirmar que el arcoíris sea una representación bíblica directa de la Trinidad ni asignar arbitrariamente cada elemento del relato a una persona divina.
+
+Génesis 6:3 menciona el Espíritu de Dios en una declaración difícil cuya interpretación se discute. En su contexto, el versículo anuncia el límite de la paciencia divina frente a la corrupción humana. La referencia al Espíritu no basta, por sí sola, para formular toda la doctrina de su persona; debe leerse junto con pasajes más claros del resto de la Escritura.
+
+El Nuevo Testamento revela con mayor amplitud la obra del Padre, del Hijo y del Espíritu Santo. Primera de Pedro 1:2 menciona la presciencia de Dios Padre, la santificación del Espíritu y la obediencia a Jesucristo. Mateo 28:19 coloca al Padre, al Hijo y al Espíritu Santo en la fórmula bautismal. Estos textos muestran una relación trinitaria que no debe imponerse artificialmente sobre cada detalle de Génesis.
+
+La relación con Noé también se comprende a la luz de Cristo. Primera de Pedro 3:18 afirma que Jesucristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios. El arca fue el medio de preservación de Noé y su familia en el relato; el pasaje apostólico utiliza esa historia para hablar del bautismo y de la salvación vinculada a la resurrección de Jesucristo. No significa que el arca sea Cristo en cada detalle ni que el agua tenga poder salvador independiente.
+
+La perspectiva trinitaria responsable confiesa al único Dios y reconoce al Padre, al Hijo y al Espíritu Santo según la revelación completa de las Escrituras. En este estudio, la conexión principal es que el Dios que preserva la creación es el mismo Dios cuya obra redentora se revela plenamente en Jesucristo y se aplica en la vida de los creyentes por el Espíritu Santo.
+''',
+        references: 'Génesis 6:3; Mateo 28:19; 1 Pedro 1:2; 3:18–22; 2 Corintios 13:14.',
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿El pacto significa que nunca habrá otra inundación? No. Génesis 9:11 especifica que Dios no volverá a destruir toda carne mediante un diluvio que cubra la tierra. Las inundaciones locales no contradicen esa promesa.
+
+¿El pacto significa que Dios ya no juzga el pecado? Tampoco. El pasaje promete preservación frente a un tipo concreto de destrucción; otros textos enseñan que Dios continúa siendo justo y que habrá juicio (2 Pedro 2:4–9; 3:7–13).
+
+¿Noé fue preservado porque era perfecto? Génesis 6:8 afirma que halló gracia ante los ojos de Jehová. Génesis 6:9 describe su integridad relativa a su generación y su caminar con Dios. La gracia y la obediencia aparecen juntas; el relato no presenta a Noé como un ser sin pecado.
+
+¿El arcoíris obliga a Dios a cumplir? No. Es la señal que Dios mismo establece para confirmar su promesa. El lenguaje de “acordarse” comunica fidelidad y acción, no una limitación de la memoria divina.
+
+¿Génesis 6:3 enseña claramente toda la doctrina del Espíritu Santo? No por sí solo. Es un texto complejo y no debe utilizarse aislado para construir una doctrina completa. La identidad y divinidad del Espíritu se estudian mediante el testimonio más amplio y claro de las Escrituras.
+
+¿El diluvio de Génesis y el juicio futuro de 2 Pedro 3 se contradicen? No necesariamente. Pedro distingue el juicio pasado por agua del juicio futuro descrito en su enseñanza. Génesis 9 promete que no habrá otra destrucción universal de toda carne mediante un diluvio; no afirma que nunca habrá juicio de Dios.
+
+Un error frecuente es convertir el arcoíris en un símbolo doctrinal que el texto no define. Otro es reducir el pacto a una promesa privada para Noé, cuando Génesis 9 lo extiende a sus descendientes y a todo ser viviente. También es incorrecto usar la preservación de la naturaleza para negar la responsabilidad humana de cuidarla.
+''',
+        references: 'Génesis 6:3, 8–9; 8:21–22; 9:8–17; 2 Pedro 2:4–9; 3:3–13.',
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+**Pregunta: ¿Con quién hizo Dios el pacto después del diluvio?**
+Respuesta: Con Noé, sus descendientes y todo ser viviente que salió del arca, según Génesis 9:8–10. Su alcance incluye a la humanidad y a los animales.
+
+**Pregunta: ¿Cuál fue la promesa central?**
+Respuesta: Que no volvería a destruir toda carne mediante las aguas de un diluvio que cubriera la tierra (Génesis 9:11).
+
+**Pregunta: ¿Cuál es la señal del pacto?**
+Respuesta: El arcoíris puesto en las nubes, que sirve como señal del pacto entre Dios y la tierra (Génesis 9:12–17).
+
+**Pregunta: ¿Por qué el pacto es importante si el ser humano siguió pecando?**
+Respuesta: Precisamente porque Génesis 8:21 reconoce que la inclinación humana continúa siendo mala. La preservación descansa en el compromiso de Dios, no en la perfección de la humanidad.
+
+**Pregunta: ¿Qué enseña Jesús mediante los días de Noé?**
+Respuesta: Que las personas pueden continuar con sus ocupaciones sin prestar atención a la advertencia divina, y que deben vivir preparadas para la venida del Hijo del Hombre (Mateo 24:37–44).
+
+**Pregunta: ¿Qué relación establece Pedro entre el diluvio y el bautismo?**
+Respuesta: Primera de Pedro 3:18–22 utiliza la experiencia de Noé y el agua como figura relacionada con el bautismo, pero centra la salvación en Jesucristo resucitado. El agua no se presenta como poder independiente de Cristo.
+
+**Pregunta: ¿El pacto noético demuestra por sí solo la Trinidad?**
+Respuesta: No. Génesis 9 enseña el compromiso del único Dios con la creación. La doctrina trinitaria se establece al reunir este testimonio con pasajes que revelan al Padre, al Hijo y al Espíritu Santo.
+
+**Pregunta: ¿Qué responsabilidad humana aparece junto con la promesa?**
+Respuesta: Respetar la vida humana, porque el ser humano fue hecho a imagen de Dios, y ejercer responsablemente su relación con los demás seres vivientes (Génesis 9:1–7).
+''',
+        references: 'Génesis 8:20–22; 9:1–17; Mateo 24:37–44; Hebreos 11:7; 1 Pedro 3:18–22.',
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El pacto con Noé enseña que la continuidad de la vida creada depende de la fidelidad de Dios. La humanidad no debe interpretar la estabilidad cotidiana como prueba de que el pecado carece de importancia. La paciencia divina permite la continuidad de la historia, pero también mantiene la responsabilidad moral.
+
+La dignidad de la vida humana exige rechazar la violencia y reconocer que cada persona ha sido creada a imagen de Dios (Génesis 9:6). La autoridad humana sobre los animales no es una autorización para el abuso, sino una responsabilidad que debe ejercerse bajo el señorío del Creador.
+
+La señal del arcoíris recuerda una promesa divina dirigida a toda la creación. Su sentido bíblico no debe reemplazarse por interpretaciones especulativas. La seguridad del pacto se encuentra en la palabra de Dios, no en una supuesta virtud mágica de la señal.
+
+La historia de Noé también llama a una fe que escucha y obedece. Hebreos 11:7 no elogia una curiosidad religiosa, sino la respuesta de Noé a la advertencia recibida. Jesús, por su parte, utiliza aquellos días para llamar a sus oyentes a estar preparados.
+
+En síntesis, el pacto noético proclama la preservación misericordiosa de la creación, reafirma la dignidad de la vida y mantiene abierta la historia en la que Dios desarrolla su propósito redentor. La lectura trinitaria debe ser fiel al texto: Génesis presenta la acción del único Dios; el conjunto de la revelación muestra al Padre, al Hijo y al Espíritu Santo, y el Nuevo Testamento dirige nuestra atención a Jesucristo como aquel que padeció, resucitó y lleva a los suyos a Dios.
+''',
+        references: 'Génesis 8:20–22; 9:1–17; Hebreos 11:7; Mateo 24:36–44; 1 Pedro 3:18–22.',
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+El pacto de Dios con Noé es una promesa de preservación dirigida no solamente a una familia, sino también a sus descendientes y a todo ser viviente. Después del juicio del diluvio, Dios declara que la continuidad del orden creado no será interrumpida nuevamente por una destrucción universal mediante las aguas.
+
+El relato mantiene unidas la justicia y la misericordia: Dios toma en serio la violencia humana, preserva a Noé por gracia y establece un compromiso cuya señal es el arcoíris. Sin embargo, la humanidad continúa necesitando dirección moral y redención.
+
+El Nuevo Testamento recuerda a Noé como ejemplo de fe y utiliza el diluvio como advertencia sobre el juicio y la necesidad de estar preparados. Primera de Pedro dirige la mirada a Jesucristo, cuya muerte y resurrección constituyen el centro de la esperanza cristiana.
+
+Este estudio no atribuye a Génesis una exposición trinitaria que el pasaje no formula explícitamente. Confiesa, a la luz de toda la Biblia, que el único Dios se ha revelado como Padre, Hijo y Espíritu Santo. La preservación de la creación y la redención en Cristo pertenecen al propósito del mismo Dios fiel.
+''',
   ),
   Study(
     number: '92',
