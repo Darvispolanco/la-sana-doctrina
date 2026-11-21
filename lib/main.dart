@@ -20358,267 +20358,89 @@ La Iglesia anuncia el evangelio y sirve al prójimo sin separar la verdad de la 
     ],
     conclusion: '''Los discípulos de Jesús están llamados a mirar a las personas con dignidad, escuchar antes de juzgar, acompañar al enfermo, atender al necesitado y recibir con verdad a quien busca restauración. La compasión no es una estrategia de prestigio, sino fruto de haber recibido misericordia. La Iglesia anuncia el evangelio y sirve al prójimo sin separar la verdad de la gracia.''',
   ),
-number: '117',
+  Study(
+    number: '117',
     title: "La resurrección futura de los creyentes: cuerpo, transformación y esperanza",
-    subtitle: "La promesa bíblica de la resurrección corporal y la renovación de la creación.",
-    introduction: '''
-La esperanza cristiana no consiste en una existencia desencarnada para siempre, sino en la resurrección futura de los creyentes y la transformación de su cuerpo. La Biblia enseña que la muerte es un enemigo real, pero no tendrá la última palabra: Jesucristo resucitó como primicia de quienes le pertenecen y garantiza la resurrección final.
+    subtitle: "La promesa de vida incorruptible y la renovación de la creación.",
+    introduction: '''La resurrección futura es la esperanza bíblica de que Dios levantará a los muertos y transformará a su pueblo para vivir en la nueva creación. No es simplemente la supervivencia del alma ni una metáfora de renovación emocional. La Escritura anuncia una victoria real sobre la muerte.
 
-Primera de Corintios 15 desarrolla la naturaleza del cuerpo resucitado, su continuidad con el cuerpo presente y su transformación por el poder de Dios. Primera de Tesalonicenses 4 consuela a la Iglesia ante la muerte de creyentes y afirma que los muertos en Cristo resucitarán. La esperanza no se basa en especulaciones sobre detalles no revelados, sino en la victoria de Cristo.
-
-Este estudio distingue resurrección, inmortalidad, transformación y nueva creación, y considera su fundamento trinitario.
-''',
+La resurrección de Jesucristo es el fundamento y las primicias de esa esperanza. Los creyentes serán levantados por el poder de Dios y recibirán una existencia incorruptible, conforme al patrón de la resurrección del Señor.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Resurrección futura es la restauración de la vida corporal por el poder de Dios. No es simplemente la supervivencia del alma ni la reanimación temporal de un cadáver. El cuerpo será transformado e incorruptible, conforme al modelo de la resurrección de Cristo.
+      StudySection(title: "1. La esperanza de la resurrección futura", content: '''La resurrección futura es la esperanza bíblica de que Dios levantará a los muertos y transformará a su pueblo para vivir en la nueva creación. No es simplemente la supervivencia del alma ni una metáfora de renovación emocional. La Escritura anuncia una victoria real sobre la muerte.
 
-La esperanza cristiana mantiene continuidad personal y corporal, pero también transformación. «Cuerpo espiritual» en 1 Corintios 15 no significa cuerpo hecho de espíritu, sino cuerpo vivificado y gobernado por el Espíritu. La Biblia no revela todos los detalles físicos, por lo que se deben evitar especulaciones.
-''',
-        references: "Juan 5:28-29; 1 Corintios 15:20-58; Filipenses 3:20-21; Romanos 8:11.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-En el mundo antiguo existían diversas ideas sobre la muerte y la vida futura. Algunos grupos judíos afirmaban la resurrección, mientras otros la rechazaban (Hechos 23:6-8). Los Evangelios presentan controversias de Jesús con saduceos que negaban la resurrección.
+La resurrección de Jesucristo es el fundamento y las primicias de esa esperanza. Los creyentes serán levantados por el poder de Dios y recibirán una existencia incorruptible, conforme al patrón de la resurrección del Señor.''', references: "Daniel 12:1-3; Juan 5:24-29; 1 Corintios 15:12-23."),
+      StudySection(title: "2. La esperanza en el Antiguo Testamento", content: '''El Antiguo Testamento contiene expresiones de esperanza en la victoria de Dios sobre la muerte. Daniel 12 anuncia que muchos despertarán, unos para vida eterna y otros para condenación. Isaías 25 habla de la destrucción de la muerte y de la consolación de Dios.
 
-Pablo escribe a Corinto para corregir confusiones sobre la resurrección corporal. Algunos aceptaban que Cristo resucitó, pero negaban la resurrección de los muertos. Su argumento muestra que la resurrección de Jesús y la esperanza de los creyentes están inseparablemente conectadas.
-''',
-        references: "Judaísmo del Segundo Templo; debate entre fariseos y saduceos; comunidad de Corinto.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento contiene expresiones de esperanza ante la muerte. Job 19:25-27 habla de la confianza en el Redentor; Salmo 16 expresa confianza en que Dios no abandonará a su fiel en el Seol; Isaías 26:19 anuncia que los muertos vivirán; Daniel 12:2 habla de resurrección para vida o vergüenza.
+Estos textos deben leerse en su contexto y dentro del desarrollo de la revelación. La esperanza de resurrección se hace más explícita en el Nuevo Testamento, donde la resurrección de Jesús constituye la garantía de la futura restauración.''', references: "Job 19:25-27; Isaías 25:6-9; 26:19; Daniel 12:1-3."),
+      StudySection(title: "3. La resurrección corporal y la identidad personal", content: '''1 Corintios 15 enseña que la resurrección no es la simple reanimación del cuerpo mortal en las mismas condiciones. Pablo utiliza la imagen de la semilla para explicar continuidad y transformación: lo sembrado y lo levantado guardan relación, pero la condición final es gloriosa e incorruptible.
 
-Estos textos tienen contextos y grados de claridad diferentes. La doctrina completa se desarrolla con mayor claridad en el Nuevo Testamento, pero la esperanza no aparece sin raíces en la revelación anterior.
-''',
-        references: "Job 19:25-27; Salmo 16:9-11; Isaías 26:19; Daniel 12:2.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús declara que los muertos oirán su voz y saldrán a resurrección de vida o de condenación (Juan 5:28-29). Pablo enseña que Cristo es primicia de los que durmieron y que, así como en Adán todos mueren, en Cristo serán vivificados (1 Corintios 15:20-23).
+La esperanza cristiana incluye la redención del cuerpo y no desprecia la creación material. Dios no salva al ser humano mediante la destrucción de su humanidad, sino mediante la transformación que vence la corrupción y la muerte.''', references: "Romanos 8:18-25; 1 Corintios 15:35-54; Filipenses 3:20-21."),
+      StudySection(title: "4. Cristo como primicias de los resucitados", content: '''Pablo llama a Cristo primicias de los que durmieron. La imagen agrícola señala que su resurrección inaugura y garantiza la cosecha futura. Si Cristo no hubiera resucitado, la fe sería vana; pero el testimonio apostólico proclama que verdaderamente resucitó.
 
-Primera de Tesalonicenses 4:13-18 consuela a los creyentes: los muertos en Cristo resucitarán y los vivos serán reunidos con el Señor. Filipenses 3:20-21 afirma que Cristo transformará el cuerpo de humillación para hacerlo semejante a su cuerpo glorioso. La esperanza se relaciona con la venida de Cristo y la consumación del Reino.
-''',
-        references: "Juan 5:21-29; 11:25-26; 1 Corintios 15; 1 Tesalonicenses 4:13-18; Filipenses 3:20-21.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-1 Corintios 15:20 llama a Cristo primicias de los que durmieron. En el contexto agrícola, las primicias anticipan la cosecha completa. La resurrección de Jesús no es un caso aislado: inaugura y garantiza la resurrección de quienes le pertenecen.
+La resurrección de Jesús no es solo una señal de que su enseñanza fue importante. Es el acontecimiento que confirma su victoria sobre el pecado y la muerte y fundamenta la esperanza de quienes le pertenecen.''', references: "Lucas 24:1-12; Hechos 2:22-36; 1 Corintios 15:12-23."),
+      StudySection(title: "5. La transformación del cuerpo", content: '''1 Corintios 15 describe el cuerpo resucitado como incorruptible, glorioso, poderoso y espiritual. La expresión cuerpo espiritual no significa una existencia sin cuerpo, sino una vida corporal plenamente vivificada y gobernada por el Espíritu. Filipenses 3:21 afirma que Cristo transformará el cuerpo de humillación para hacerlo semejante al suyo glorioso.
 
-En 15:42-44, Pablo contrasta corrupción e incorrupción, deshonra y gloria, debilidad y poder. «Se siembra cuerpo animal, resucitará cuerpo espiritual» no elimina la corporeidad; describe un cuerpo transformado por el poder del Espíritu. La analogía de la semilla muestra continuidad y diferencia.
+La Biblia no proporciona todos los detalles físicos de la condición futura. Por ello, no se deben construir especulaciones sobre características que el texto no revela. La certeza central es la transformación completa y la comunión eterna con Dios.''', references: "1 Corintios 15:42-54; Filipenses 3:20-21; 1 Juan 3:2."),
+      StudySection(title: "6. La resurrección y el juicio", content: '''Juan 5:28-29 presenta una resurrección de vida y una resurrección de condenación. Daniel 12 también distingue destinos finales. La esperanza cristiana no elimina la responsabilidad moral: la historia culmina en el juicio justo de Dios.
 
-Filipenses 3:20-21 señala que Cristo transformará nuestro cuerpo conforme al suyo. La esperanza no depende de la capacidad humana de reconstruir el cuerpo, sino del poder soberano del Señor.
-''',
-        references: "1 Corintios 15:20-23, 42-44; Filipenses 3:20-21.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La resurrección se relaciona con la creación y la caída: Dios creó al ser humano corporal y promete redimirlo plenamente. También se relaciona con la resurrección de Jesús, la venida del Señor, el juicio y la nueva creación. No debe separarse de la esperanza de que Dios renovará todas las cosas.
+La salvación es por gracia y se recibe mediante la fe, pero la vida transformada evidencia la realidad de esa fe. El juicio no debe convertirse en especulación sobre el destino de personas particulares; corresponde a Dios juzgar con justicia y verdad.''', references: "Daniel 12:1-3; Juan 5:24-29; Romanos 2:5-11; Apocalipsis 20:11-15."),
+      StudySection(title: "7. La creación renovada y la vida eterna", content: '''La esperanza final incluye cielos nuevos y tierra nueva, donde la justicia habita y la muerte ya no existe. Apocalipsis describe la presencia de Dios con su pueblo, el fin del llanto y la desaparición del dolor. La redención alcanza la creación y no se limita a una experiencia interior individual.
 
-La muerte de los creyentes se describe como sueño en sentido de descanso y expectativa de despertar; no debe utilizarse la metáfora para negar la realidad de la muerte. Los textos apostólicos consuelan a quienes lloran y orientan su esperanza a la reunión con Cristo.
+Romanos 8 presenta a la creación aguardando la manifestación de los hijos de Dios. La resurrección del cuerpo y la renovación de la creación forman parte de una misma esperanza cósmica.''', references: "Isaías 65:17-25; Romanos 8:18-25; 2 Pedro 3:13; Apocalipsis 21:1-5."),
+      StudySection(title: "8. La resurrección y la vida presente", content: '''La esperanza futura sostiene la perseverancia, la santidad y el servicio. Pablo concluye su enseñanza sobre la resurrección exhortando a permanecer firmes, sabiendo que el trabajo en el Señor no es vano. La doctrina no invita a escapar de las responsabilidades actuales, sino a vivir con fidelidad a la luz del futuro prometido.
 
-Apocalipsis 21–22 presenta la consumación con Dios habitando con su pueblo. La esperanza es corporal, comunitaria y cósmica, no una huida definitiva de la creación.
-''',
-        references: "Génesis 1–3; Isaías 26:19; Daniel 12:2; Juan 11; 1 Corintios 15; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre resucitó a Jesús y dará vida a los creyentes; el Hijo es la resurrección y la vida, y transformará el cuerpo de los suyos; el Espíritu que levantó a Jesús vivificará también los cuerpos mortales. Romanos 8:11 relaciona explícitamente la obra del Espíritu con la resurrección futura.
+La esperanza también consuela ante la muerte y el duelo. La Iglesia acompaña a quienes sufren sin negar el dolor, anunciando que la muerte no tendrá la última palabra para quienes pertenecen a Cristo.''', references: "1 Tesalonicenses 4:13-18; 1 Corintios 15:54-58; 2 Corintios 4:14-18."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre resucitó a Jesús y promete vida a quienes están unidos a Él; el Hijo es las primicias y resucitará a los suyos; el Espíritu que levantó a Jesús dará vida a los cuerpos mortales. La obra es del único Dios y las personas se distinguen en el testimonio bíblico.
 
-Juan 5:21-29 presenta la autoridad del Hijo para dar vida y ejecutar juicio, en relación con el Padre que lo envió. La distinción personal no divide la acción divina: la resurrección es obra del único Dios. El Padre no es el Hijo y el Espíritu no es una fuerza creada.
+¿La resurrección es solo simbólica? No; la enseñanza apostólica afirma una resurrección real. ¿El cuerpo será idéntico en su condición actual? Será transformado e incorruptible. ¿La vida eterna significa existencia sin creación material? La esperanza bíblica incluye cuerpo y nueva creación. ¿Se puede fijar el momento exacto? No; se llama a velar y perseverar.''', references: "Juan 5:21; Romanos 8:11; 1 Corintios 15:20-54; 1 Tesalonicenses 4:13-18."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La resurrección futura da sentido a la fe, al servicio y a la esperanza cristiana. El creyente no necesita negar el dolor de la muerte, pero puede afrontarlo confiando en la promesa de Dios. La Iglesia debe enseñar esta esperanza con claridad, sin especulaciones sobre detalles no revelados.
 
-La esperanza trinitaria descansa en el Dios que crea, redime y vivifica. El creyente pertenece a Cristo y recibe vida por el Espíritu para la gloria del Padre.
-''',
-        references: "Juan 5:21-29; Romanos 8:11; 1 Corintios 15:20-23.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La resurrección es solo espiritual? No. Los textos hablan de resurrección corporal y transformación, no de una mera continuidad de ideas o recuerdos.
-
-¿El cuerpo resucitado será idéntico en condición al actual? Habrá continuidad personal, pero transformación: será incorruptible y glorioso. La Escritura no detalla cada aspecto físico.
-
-¿Los muertos en Cristo están olvidados hasta la venida? Primera de Tesalonicenses 4 consuela afirmando que Dios traerá con Jesús a quienes durmieron en Él y que resucitarán. No se debe construir una teoría completa sobre el estado intermedio con un solo término figurado.
-
-¿La resurrección es solo para creyentes? Juan 5:28-29 habla de resurrección de vida y de juicio. La resurrección y el destino final deben estudiarse con el conjunto de la enseñanza bíblica.
-
-¿La esperanza cristiana desprecia el cuerpo? No. Dios creó al ser humano corporal y promete redimirlo; el cuerpo tiene dignidad y debe honrarse.
-''',
-        references: "Juan 5:28-29; 1 Corintios 15:42-44; 1 Tesalonicenses 4:13-18.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Quién es la primicia de la resurrección? Respuesta: Jesucristo, cuya resurrección garantiza la de quienes le pertenecen (1 Corintios 15:20-23).
-
-Pregunta: ¿Qué significa cuerpo espiritual? Respuesta: Un cuerpo real transformado y vivificado por el Espíritu, no una existencia sin cuerpo (1 Corintios 15:42-44).
-
-Pregunta: ¿Qué sucederá con los creyentes muertos? Respuesta: Resucitarán cuando venga el Señor y serán reunidos con Él (1 Tesalonicenses 4:13-18).
-
-Pregunta: ¿Quién vivificará nuestros cuerpos? Respuesta: El Espíritu de Dios que levantó a Jesús dará vida a los cuerpos mortales (Romanos 8:11).
-
-Pregunta: ¿Cuál es el destino final? Respuesta: La vida con Dios en la nueva creación, donde la muerte y el dolor serán quitados (Apocalipsis 21:1-4).
-''',
-        references: "1 Corintios 15:20-23,42-44; 1 Tesalonicenses 4:13-18; Romanos 8:11.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La resurrección futura afirma la dignidad del cuerpo y la victoria definitiva de Dios sobre la muerte. Jesucristo resucitado es la primicia y garantía de la transformación de los creyentes. La esperanza no se basa en especulaciones, sino en la promesa de que el Señor levantará a los suyos.
-
-El Padre da vida, el Hijo es la resurrección y el Espíritu vivificará nuestros cuerpos. La muerte sigue siendo dolorosa, pero no es el destino final de quienes pertenecen a Cristo. La Iglesia debe consolar, perseverar y vivir con esperanza, sabiendo que la obra del Señor no es en vano.
-''',
-        references: "Romanos 8:11; 1 Corintios 15:58; 1 Tesalonicenses 4:13-18; Apocalipsis 21:1-4.",
-      ),
+Cristo resucitado es las primicias; quienes le pertenecen serán transformados por el poder del Padre y la acción vivificante del Espíritu. La promesa final no es una existencia frágil, sino vida incorruptible en la presencia de Dios y en la creación renovada.''', references: "Romanos 8:11, 18-25; 1 Corintios 15:20-58; Apocalipsis 21:1-5.")
     ],
-    conclusion: '''
-La resurrección futura es la esperanza de que Dios levantará y transformará corporalmente a quienes pertenecen a Cristo. Jesús resucitado es la primicia y garantía; su pueblo será revestido de incorruptibilidad y vivirá en la nueva creación. La muerte es real y dolorosa, pero no tendrá la última palabra.
-
-El Padre da vida, el Hijo ejerce autoridad para resucitar y el Espíritu vivificará los cuerpos mortales. La Iglesia debe consolar a quienes lloran, perseverar y honrar el cuerpo, esperando la consumación prometida.
-''',
+    conclusion: '''La resurrección futura da sentido a la fe, al servicio y a la esperanza cristiana. El creyente puede afrontar el dolor de la muerte confiando en la promesa de Dios. Cristo resucitado es las primicias; quienes le pertenecen serán transformados por el poder del Padre y la acción vivificante del Espíritu. La promesa final es vida incorruptible en la presencia de Dios y en la creación renovada.''',
   ),
-
   Study(
     number: '118',
     title: "La seguridad de la salvación: fundamento, evidencias y confianza en Dios",
-    subtitle: "La confianza del creyente en la obra de Cristo y las señales de una fe viva.",
-    introduction: '''
-La seguridad de la salvación es la confianza fundamentada en la promesa de Dios y en la obra suficiente de Jesucristo. No debe confundirse con presunción, indiferencia moral o la idea de que una decisión pasada permite vivir deliberadamente en el pecado. La Biblia ofrece consuelo a quienes confían en Cristo y también llama a examinar la fe y perseverar.
+    subtitle: "La obra de Cristo, el testimonio del Espíritu y el llamado bíblico a perseverar.",
+    introduction: '''La seguridad de la salvación es la confianza fundada en la promesa de Dios y en la obra suficiente de Jesucristo. No descansa en la perfección personal ni en una emoción constante, sino en la fidelidad del Padre, la mediación del Hijo y el testimonio del Espíritu.
 
-La seguridad se apoya en la gracia, la muerte y resurrección de Jesús, la fidelidad del Padre y el testimonio del Espíritu. Las evidencias de una fe viva incluyen confianza en Cristo, arrepentimiento, amor, obediencia y perseverancia. Estas evidencias no compran la salvación; manifiestan la obra de Dios en la persona.
-
-Este estudio examina los textos de promesa y advertencia, evitando tanto la desesperación del creyente sincero como la falsa tranquilidad de quien rechaza el llamado a la santidad.
-''',
+La Biblia también llama a examinar la fe y perseverar. La seguridad no debe convertirse en presunción que ignora el pecado, ni las advertencias deben convertirse en temor permanente que niega la gracia de Dios.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Seguridad de salvación es la confianza de que Dios cumple su promesa de salvar a quienes están en Cristo. La certeza no se fundamenta en la perfección personal, sino en la fidelidad de Dios y la suficiencia de la obra de Jesús.
+      StudySection(title: "1. Definición de la seguridad de la salvación", content: '''La seguridad de la salvación es la confianza fundada en la promesa de Dios y en la obra suficiente de Jesucristo. No descansa en la perfección personal ni en una emoción constante, sino en la fidelidad del Padre, la mediación del Hijo y el testimonio del Espíritu.
 
-Presunción es afirmar seguridad mientras se rechaza la fe y la obediencia. Duda puede surgir en creyentes que luchan por comprender su condición. La Escritura ofrece promesas para consolar y advertencias para despertar. Ambas deben leerse juntas, sin cancelar una con la otra.
-''',
-        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:13-14; 1 Juan 5:11-13.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Las comunidades del Nuevo Testamento enfrentaban persecución, falsos maestros y tentaciones de abandonar la fe. Las cartas pastorales y generales combinan afirmaciones de confianza con exhortaciones a perseverar. Juan escribe para que los creyentes sepan que tienen vida eterna (1 Juan 5:13), mientras Hebreos advierte contra la apostasía.
+La Biblia también llama a examinar la fe y perseverar. La seguridad no debe convertirse en presunción que ignora el pecado, ni la advertencia debe convertirse en temor permanente que niega la gracia de Dios.''', references: "Juan 10:27-30; Romanos 8:1, 31-39; 1 Juan 5:11-13."),
+      StudySection(title: "2. El fundamento objetivo: la obra de Cristo", content: '''La confianza del creyente se apoya en la muerte y resurrección de Jesús. Él llevó el pecado, venció la muerte y permanece como mediador. La salvación no se sostiene por méritos humanos ni por la repetición de sacrificios.
 
-La seguridad cristiana no es una técnica psicológica ni una conclusión basada únicamente en emociones. Está vinculada con el evangelio recibido, la comunión con Cristo y el testimonio del Espíritu. La vida cristiana incluye crecimiento y lucha, por lo que la evaluación debe considerar la dirección de la vida y no exigir perfección instantánea.
-''',
-        references: "Comunidades cristianas ante persecución, falsos maestros y exhortaciones apostólicas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento presenta a Dios como fiel a su pacto y refugio de quienes confían en Él. Salmo 23 expresa confianza en el cuidado del Señor; Isaías 43 promete su presencia en medio de las aguas y el fuego; Jeremías 31 anuncia perdón y un nuevo pacto.
+Romanos 5 enseña que la justificación se recibe por la fe y que, estando justificados, tenemos paz con Dios. Hebreos afirma que Cristo puede salvar perpetuamente a quienes se acercan a Dios por medio de Él, porque vive para interceder.''', references: "Romanos 3:21-26; 5:1-11; Hebreos 7:24-25; 10:10-14."),
+      StudySection(title: "3. Las promesas del Padre", content: '''Jesús enseña que nadie puede arrebatar a sus ovejas de la mano del Padre y de la suya. El lenguaje expresa seguridad en el cuidado divino y la unidad de la obra del Padre y del Hijo. La promesa no autoriza a ignorar el llamado a escuchar la voz de Cristo y seguirle.
 
-Estas promesas no significan que el pueblo nunca enfrentaría disciplina o sufrimiento. La seguridad descansa en el carácter de Dios y en su fidelidad, mientras los profetas llaman al arrepentimiento y a la obediencia. El Nuevo Testamento muestra cómo las promesas alcanzan su cumplimiento en Cristo.
-''',
-        references: "Salmos 23; 46; Isaías 43:1-7; Jeremías 31:31-34.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Juan 10:27-30 presenta a las ovejas que oyen la voz de Jesús y reciben vida eterna; nadie las arrebata de su mano ni de la mano del Padre. Romanos 8:31-39 afirma que nada puede separar al creyente del amor de Dios en Cristo. Efesios 1:13-14 habla del Espíritu como sello y garantía de la herencia.
+Romanos 8 afirma que nada podrá separar a los creyentes del amor de Dios en Cristo. La seguridad está arraigada en el propósito y amor de Dios, no en la capacidad humana de controlar todas las circunstancias.''', references: "Juan 6:37-40; 10:27-30; Romanos 8:28-39."),
+      StudySection(title: "4. El testimonio del Espíritu Santo", content: '''El Espíritu Santo da testimonio de que los creyentes son hijos de Dios y confirma la obra de adopción. Romanos 8 relaciona su presencia con la pertenencia a Cristo y con la esperanza de la redención futura.
 
-Primera de Juan 5:11-13 declara que quien tiene al Hijo tiene la vida. A la vez, 1 Juan 2:3-6 y 3:14 relacionan el conocimiento de Dios con obediencia y amor. Hebreos 3:12-14 advierte contra un corazón malo de incredulidad y llama a retener firme la confianza hasta el fin.
+El testimonio del Espíritu no debe reducirse a una sensación emocional que varía de un día a otro. Su obra se reconoce también en la fe en Cristo, la transformación del carácter, la oración y el fruto espiritual. El Espíritu no contradice la Escritura que inspiró.''', references: "Romanos 8:9-17, 23; Gálatas 4:4-7; 5:22-25; Efesios 1:13-14."),
+      StudySection(title: "5. La fe y las evidencias de una vida transformada", content: '''La salvación es por gracia mediante la fe, no por obras que permitan presumir. Sin embargo, la fe verdadera produce fruto y una nueva orientación de vida. Santiago enseña que una fe sin obras está muerta; Pablo afirma que somos creados en Cristo para buenas obras.
 
-La seguridad bíblica, por tanto, tiene fundamento objetivo en Cristo y produce evidencias en la vida. No se sostiene en una emoción cambiante ni en una obra humana que compre el favor de Dios.
-''',
-        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:3-14; 1 Juan 2:3-6; 5:11-13; Hebreos 3:12-14.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Juan 10:27-30 vincula vida eterna con escuchar y seguir a Jesús. La seguridad descansa en la mano del Hijo y del Padre. El contexto presenta a Jesús como el buen pastor que conoce a sus ovejas y entrega su vida por ellas. La afirmación no debe separarse de la descripción de sus ovejas como quienes oyen y siguen.
+Las obras no compran la salvación ni reemplazan a Cristo. Son evidencia de una vida transformada. El examen personal debe conducir al arrepentimiento y a la confianza en Jesús, no a comparaciones orgullosas ni a una búsqueda obsesiva de méritos.''', references: "Efesios 2:8-10; Santiago 2:14-26; Gálatas 5:22-23; 1 Juan 2:3-6."),
+      StudySection(title: "6. Las advertencias bíblicas y la perseverancia", content: '''La Escritura advierte contra apartarse, endurecer el corazón y abandonar la fe. Estas advertencias son medios que Dios utiliza para llamar a su pueblo a perseverar. No deben eliminarse para construir una seguridad superficial, ni interpretarse de modo que anulen las promesas de Dios.
 
-Romanos 8:31-39 presenta una cadena de preguntas retóricas: si Dios es por nosotros, quién contra nosotros; quién acusará a los escogidos; quién separará del amor de Cristo. La conclusión no niega la tribulación, sino que afirma que ninguna de esas realidades puede separar al creyente del amor de Dios en Cristo.
+Hebreos exhorta a mantener firme la confianza y a no retroceder. Jesús habla de permanecer en Él. La perseverancia no es autosuficiencia: es continuar dependiendo de la gracia y atendiendo a la palabra de Cristo.''', references: "Hebreos 3:12-14; 6:9-12; 10:19-39; Juan 15:1-10."),
+      StudySection(title: "7. Distinguir convicción, duda y presunción", content: '''Un creyente puede atravesar momentos de duda, cansancio o confusión sin que eso signifique automáticamente que ha perdido la salvación. Los salmos muestran a personas que expresan preguntas y vuelven a afirmar su confianza en Dios. La respuesta pastoral debe dirigir a Cristo y a sus promesas.
 
-1 Juan 5:13 explica que el propósito de escribir es que los creyentes sepan que tienen vida eterna. La certeza se apoya en el testimonio acerca del Hijo. Las advertencias de Hebreos deben leerse sin reducirlas a amenazas vacías ni utilizarlas para negar las promesas explícitas.
-''',
-        references: "Juan 10:27-30; Romanos 8:31-39; 1 Juan 5:13.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La seguridad se relaciona con la justificación, adopción, santificación y perseverancia. La justificación descansa en la obra de Cristo; la adopción describe la nueva relación filial; la santificación muestra el fruto progresivo de la gracia; la perseverancia llama a permanecer en la fe.
+La presunción, en cambio, utiliza la gracia como excusa para persistir deliberadamente en el pecado. Primera de Juan presenta pruebas de fe, obediencia y amor. Estas pruebas deben utilizarse para orientar y restaurar, no para condenar sin escuchar ni conocer la situación de alguien.''', references: "Salmos 42–43; Marcos 9:24; 1 Juan 1:5–2:6; 3:14-18."),
+      StudySection(title: "8. La seguridad y la disciplina de Dios", content: '''Hebreos 12 enseña que Dios disciplina a sus hijos para su bien y para que participen de su santidad. La disciplina no debe confundirse con condenación ni con la ausencia del amor divino. La corrección llama a crecer y a abandonar aquello que destruye la comunión con Dios.
 
-Las advertencias bíblicas son medios reales para exhortar al pueblo a no endurecerse. No contradicen las promesas, sino que impiden convertirlas en licencia para la incredulidad. Las evidencias no son una lista para medir a otros con dureza, sino una ayuda para examinar la propia vida con humildad.
+La Iglesia también tiene responsabilidad de exhortar, acompañar y restaurar con mansedumbre. La disciplina bíblica no es abuso ni control de conciencias; debe realizarse con verdad, justicia, humildad y propósito restaurador.''', references: "Hebreos 12:5-11; Gálatas 6:1-2; 2 Corintios 2:5-11."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre adopta y guarda a sus hijos; el Hijo murió, resucitó e intercede por ellos; el Espíritu sella y da testimonio de la adopción. Estas acciones distinguen a las personas divinas dentro de la obra del único Dios.
 
-La seguridad también debe expresarse pastoralmente: consolar al débil, corregir la falsa confianza y animar al creyente a mirar a Cristo, no a depender de su estado emocional.
-''',
-        references: "Romanos 6; 8; Efesios 2:8-10; Hebreos 3:12-14; 1 Juan 2–5.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre guarda a los suyos y los adopta; el Hijo da vida eterna y sostiene a sus ovejas; el Espíritu sella y da testimonio de que pertenecen a Dios. Efesios 1:3-14 presenta al Padre que elige, al Hijo en quien hay redención y al Espíritu como sello y garantía.
+¿La seguridad significa que puedo vivir sin arrepentirme? No; la gracia produce transformación. ¿Las dudas momentáneas prueban pérdida de salvación? No necesariamente. ¿Las obras salvan? No; evidencian la fe. ¿Las advertencias bíblicas deben ignorarse? No; forman parte del llamado de Dios a perseverar.''', references: "Juan 10:27-30; Romanos 8:14-17, 31-39; Efesios 1:13-14; Hebreos 3:12-14."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La seguridad cristiana debe conducir a gratitud, obediencia y perseverancia. El creyente mira a Cristo como fundamento, escucha las promesas del Padre y depende del Espíritu para vivir en santidad. Cuando surgen dudas, debe volver a la palabra, buscar acompañamiento pastoral responsable y recordar que la salvación es obra de la gracia.
 
-Romanos 8:15-17 relaciona el Espíritu de adopción con el clamor «Abba, Padre» y la condición de coherederos con Cristo. La distinción personal es clara: el Padre adopta, el Hijo es el Hijo y el Espíritu da testimonio. La salvación es obra del único Dios, no de tres agentes independientes.
-
-La seguridad trinitaria no se basa en una experiencia extraordinaria, sino en el evangelio y en la presencia del Espíritu que produce fe, amor y obediencia.
-''',
-        references: "Efesios 1:3-14; Romanos 8:15-17; Juan 10:27-30.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La seguridad significa que puedo vivir como quiera? No. Romanos 6 rechaza usar la gracia como permiso para permanecer en el pecado. La fe viva produce una nueva orientación.
-
-¿Las dudas prueban que alguien no es salvo? No necesariamente. La Biblia consuela a creyentes débiles y llama a mirar las promesas de Dios. Debe distinguirse una lucha sincera de un rechazo deliberado y persistente de Cristo.
-
-¿Las advertencias de Hebreos contradicen Juan 10? No. Las promesas aseguran el poder de Cristo y las advertencias llaman a perseverar. No deben separarse ni simplificarse; los debates teológicos sobre la relación exacta se deben abordar con respeto al texto.
-
-¿Las obras son la base de la seguridad? No. Son fruto y evidencia de la fe, no mérito que compra la salvación (Efesios 2:8-10).
-
-¿Puede una persona confiar solo en una oración pasada? Una experiencia pasada debe evaluarse a la luz de la fe presente en Cristo y sus frutos. La Escritura llama a permanecer en Él.
-''',
-        references: "Juan 10:27-30; Romanos 6; Hebreos 3:12-14; Efesios 2:8-10.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿En qué se fundamenta la seguridad? Respuesta: En la promesa de Dios y la obra suficiente de Jesucristo (Juan 10:27-30; Romanos 8:31-39).
-
-Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Sella a los creyentes y da testimonio de su adopción (Efesios 1:13-14; Romanos 8:15-16).
-
-Pregunta: ¿Las obras salvan? Respuesta: No; la salvación es por gracia mediante la fe, y las buenas obras son fruto de esa gracia (Efesios 2:8-10).
-
-Pregunta: ¿Por qué hay advertencias? Respuesta: Para llamar a perseverar y no endurecer el corazón ante Dios (Hebreos 3:12-14).
-
-Pregunta: ¿Qué debe hacer quien duda? Respuesta: Volver a las promesas de Cristo, examinar su fe con humildad y buscar acompañamiento bíblico, sin basar su confianza únicamente en emociones.
-''',
-        references: "Juan 10:27-30; Romanos 8:31-39; Efesios 1:13-14; Hebreos 3:12-14.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La seguridad de la salvación descansa en el carácter fiel de Dios y en la obra completa de Jesucristo. El creyente no necesita alcanzar perfección para acercarse a Cristo, pero tampoco debe utilizar la gracia como permiso para vivir en rebelión. Las promesas consuelan y las advertencias llaman a perseverar.
-
-El Padre adopta y guarda, el Hijo da vida eterna y el Espíritu sella y da testimonio. Las obras no compran la salvación, pero la fe viva produce amor, obediencia y perseverancia. La Iglesia debe consolar a los que luchan y llamar al arrepentimiento a quienes presumen sin fruto.
-
-La mirada debe permanecer en Cristo, fundamento de la esperanza y fuente de vida eterna.
-''',
-        references: "Romanos 8:31-39; Efesios 2:8-10; 1 Juan 5:11-13.",
-      ),
+La Iglesia enseña tanto las promesas como las advertencias bíblicas, evitando la presunción y el temor paralizante. La verdadera confianza descansa en Dios y produce una vida que busca permanecer en Cristo.''', references: "Juan 15:1-10; Romanos 8:1, 31-39; Filipenses 1:6; 1 Juan 5:11-13.")
     ],
-    conclusion: '''
-La seguridad de la salvación se fundamenta en la fidelidad del Padre y la obra suficiente del Hijo, y es confirmada por el Espíritu. Las promesas bíblicas consuelan al creyente; las advertencias lo llaman a perseverar. No hay contradicción entre confianza y exhortación cuando ambas se leen en su contexto.
-
-Las obras no compran la salvación, pero la fe viva produce amor y obediencia. La Iglesia debe evitar tanto la condenación de quien lucha sinceramente como la falsa tranquilidad de quien rechaza la verdad. La confianza cristiana mira a Cristo y permanece en Él.
-''',
+    conclusion: '''La seguridad cristiana conduce a gratitud, obediencia y perseverancia. El creyente mira a Cristo como fundamento, escucha las promesas del Padre y depende del Espíritu para vivir en santidad. La Iglesia enseña tanto las promesas como las advertencias bíblicas, evitando la presunción y el temor paralizante. La verdadera confianza descansa en Dios y produce una vida que busca permanecer en Cristo.''',
   ),
-
-  Study(
-    number: '119',
+number: '119',
     title: "La perseverancia en la fe: permanecer en Cristo hasta el fin",
     subtitle: "La constancia del creyente, las advertencias bíblicas y la fidelidad de Dios.",
     introduction: '''
