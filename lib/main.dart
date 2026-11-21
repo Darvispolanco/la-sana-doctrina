@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dictionary_extra.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
@@ -21824,16 +21825,18 @@ class DictionaryTerm {
   final String definition;
   final String category;
   final String references;
+  final String context;
 
   const DictionaryTerm(
     this.term,
     this.definition,
     this.category,
-    this.references,
-  );
+    this.references, {
+    this.context = '',
+  });
 }
 
-const List<DictionaryTerm> dictionaryTerms = [
+final List<DictionaryTerm> dictionaryTerms = [
   DictionaryTerm('Adopción', 'Acto de gracia por el que Dios recibe como hijos a quienes están unidos a Cristo.', 'Salvación', 'Romanos 8:15-17; Gálatas 4:4-7'),
   DictionaryTerm('Adoración', 'Respuesta reverente de amor, honra y obediencia que se dirige a Dios.', 'Vida cristiana', 'Juan 4:23-24; Romanos 12:1'),
   DictionaryTerm('Atributo divino', 'Perfección propia del ser y carácter de Dios, como su santidad, amor y eternidad.', 'Teología', 'Éxodo 34:6-7; Salmo 90:2'),
@@ -21890,6 +21893,14 @@ const List<DictionaryTerm> dictionaryTerms = [
   DictionaryTerm('Resurrección', 'Levantamiento de entre los muertos; Jesucristo resucitó corporalmente y es primicia de los creyentes.', 'Cristología', 'Lucas 24:39; 1 Corintios 15:20-22'),
   DictionaryTerm('Unigénito', 'Término bíblico que expresa la singularidad de la relación del Hijo con el Padre.', 'Cristología', 'Juan 1:14,18; 3:16'),
   DictionaryTerm('Paráclito', 'Término griego usado para el Consolador o Ayudador prometido por Jesús, referido al Espíritu Santo.', 'Trinidad', 'Juan 14:16,26; 15:26'),
+
+  ...additionalDictionaryEntries.map((entry) => DictionaryTerm(
+        entry['term']!,
+        entry['definition']!,
+        entry['category']!,
+        entry['references']!,
+        context: entry['context']!,
+      )),
 ];
 
 class DiccionarioTab extends StatefulWidget {
@@ -21917,7 +21928,8 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
       final matchesQuery = normalized.isEmpty ||
           term.term.toLowerCase().contains(normalized) ||
           term.definition.toLowerCase().contains(normalized) ||
-          term.references.toLowerCase().contains(normalized);
+          term.references.toLowerCase().contains(normalized) ||
+          term.context.toLowerCase().contains(normalized);
       return matchesCategory && matchesQuery;
     }).toList()
       ..sort((a, b) => a.term.toLowerCase().compareTo(b.term.toLowerCase()));
@@ -21992,6 +22004,15 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(term.definition),
+                        if (term.context.isNotEmpty) ...[
+                          const SizedBox(height: 10),
+                          const Text(
+                            'Contexto en los estudios',
+                            style: TextStyle(fontWeight: FontWeight.w700),
+                          ),
+                          const SizedBox(height: 4),
+                          Text(term.context),
+                        ],
                         const SizedBox(height: 9),
                         Text(
                           'Referencias bíblicas: ' + term.references,
