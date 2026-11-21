@@ -160,4 +160,9 @@ const Map<String, String> legacyDictionaryContexts = {
   'Presciencia': 'Se estudia como conocimiento previo de Dios, atendiendo al sentido específico de cada pasaje.',
   'Resurrección': 'Se refiere especialmente a la resurrección corporal de Jesucristo y a la esperanza futura de los creyentes.',
   'Paráclito': 'Título relacionado con el Consolador prometido por Jesús, identificado en el contexto de Juan con el Espíritu Santo.',
+
+  'Logos': 'Se estudia en Juan 1 para explicar que el Verbo eterno estaba con Dios y era Dios.',
+  'Pacto': 'Aparece en los estudios sobre las promesas de Dios a su pueblo y el nuevo pacto establecido por medio de Jesucristo.',
+  'Reconciliación': 'Se utiliza en los estudios de salvación para describir la restauración de la relación con Dios mediante la muerte de Cristo.',
+  'Unigénito': 'Se estudia en Juan 1 y Juan 3 para explicar la relación singular del Hijo con el Padre, sin inferir que sea una criatura.',
 };
