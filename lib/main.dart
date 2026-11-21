@@ -16993,242 +16993,6 @@ Study(
     ],
     conclusion: "La paz pertenece al carácter perfecto del único Dios y no debe confundirse con una emoción pasajera ni con la ausencia de dificultades. En la salvación, el Padre reconcilia por medio del Hijo y el Espíritu Santo aplica esa obra, dando acceso al Padre y formando en los creyentes una vida de paz. Por eso, la iglesia está llamada a unir verdad, justicia, perdón, santidad y amor. La paz presente es un don real, aunque todavía esperamos su plenitud cuando el reino de Dios sea consumado. Toda gloria pertenece al Padre, al Hijo y al Espíritu Santo, un solo Dios en tres personas.",
   )
-];
-
-@override
-Widget build(BuildContext context) {
-return ListView(
-padding: const EdgeInsets.all(16),
-children: [
-const Text(
-'Biblioteca de formación bíblica',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
-const SizedBox(height: 6),
-const Text(
-'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
-),
-const SizedBox(height: 14),
-for (final study in studies)
-Card(
-clipBehavior: Clip.antiAlias,
-child: ListTile(
-contentPadding: const EdgeInsets.all(12),
-leading: CircleAvatar(
-backgroundColor: const Color(0xFFE9DFC8),
-child: Text(
-study.number,
-style: const TextStyle(
-color: Color(0xFF14243A),
-fontWeight: FontWeight.bold,
-),
-),
-),
-title: Text(
-study.title,
-style: const TextStyle(fontWeight: FontWeight.bold),
-),
-subtitle: Padding(
-padding: const EdgeInsets.only(top: 5),
-child: Text(study.subtitle),
-),
-trailing: const Icon(Icons.chevron_right),
-onTap: () {
-Navigator.push(
-context,
-MaterialPageRoute(
-builder: (_) => StudyDetailPage(study: study),
-),
-);
-},
-),
-),
-],
-);
-}
-}
-
-class Study {
-final String number;
-final String title;
-final String subtitle;
-final String introduction;
-final List<StudySection> sections;
-final String conclusion;
-
-const Study({
-required this.number,
-required this.title,
-required this.subtitle,
-required this.introduction,
-required this.sections,
-required this.conclusion,
-});
-}
-
-class StudySection {
-final String title;
-final String content;
-final String references;
-
-const StudySection({
-required this.title,
-required this.content,
-required this.references,
-});
-}
-
-class StudyDetailPage extends StatelessWidget {
-final Study study;
-
-const StudyDetailPage({super.key, required this.study});
-
-@override
-Widget build(BuildContext context) {
-const navy = Color(0xFF14243A);
-const gold = Color(0xFFD5B46A);
-
-return Scaffold(
-appBar: AppBar(
-title: Text(study.title),
-),
-body: ListView(
-padding: const EdgeInsets.all(20),
-children: [
-Container(
-padding: const EdgeInsets.all(20),
-decoration: BoxDecoration(
-color: navy,
-borderRadius: BorderRadius.circular(18),
-),
-child: Column(
-crossAxisAlignment: CrossAxisAlignment.start,
-children: [
-Text(
-'ESTUDIO ${study.number}',
-style: const TextStyle(
-color: gold,
-fontWeight: FontWeight.bold,
-letterSpacing: 1.2,
-),
-),
-const SizedBox(height: 10),
-Text(
-study.title,
-style: const TextStyle(
-color: Colors.white,
-fontSize: 25,
-fontWeight: FontWeight.bold,
-),
-),
-const SizedBox(height: 8),
-Text(
-study.subtitle,
-style: const TextStyle(color: Colors.white70),
-),
-],
-),
-),
-const SizedBox(height: 22),
-const Text(
-'INTRODUCCIÓN',
-style: TextStyle(
-color: navy,
-fontWeight: FontWeight.bold,
-letterSpacing: 1,
-),
-),
-const SizedBox(height: 8),
-Text(
-study.introduction,
-style: const TextStyle(fontSize: 16, height: 1.65),
-),
-const SizedBox(height: 24),
-for (final section in study.sections) ...[
-Text(
-section.title,
-style: const TextStyle(
-color: navy,
-fontSize: 19,
-fontWeight: FontWeight.bold,
-),
-),
-const SizedBox(height: 9),
-Text(
-section.content,
-style: const TextStyle(fontSize: 16, height: 1.65),
-),
-const SizedBox(height: 12),
-Container(
-padding: const EdgeInsets.all(12),
-decoration: BoxDecoration(
-color: const Color(0xFFEFE9DC),
-borderRadius: BorderRadius.circular(10),
-),
-child: Row(
-crossAxisAlignment: CrossAxisAlignment.start,
-children: [
-const Icon(Icons.menu_book, color: navy),
-const SizedBox(width: 9),
-Expanded(
-child: Text(
-'Referencias bíblicas: ${section.references}',
-style: const TextStyle(
-color: navy,
-fontWeight: FontWeight.w600,
-),
-),
-),
-],
-),
-),
-const SizedBox(height: 24),
-],
-const Divider(),
-const Text(
-'CONCLUSIÓN',
-style: TextStyle(
-color: navy,
-fontWeight: FontWeight.bold,
-letterSpacing: 1,
-),
-),
-const SizedBox(height: 8),
-Text(
-study.conclusion,
-style: const TextStyle(fontSize: 16, height: 1.65),
-),
-const SizedBox(height: 30),
-const Center(
-child: Text(
-'LA SANA DOCTRINA · CONOCIENDO MÁS DE DIOS',
-textAlign: TextAlign.center,
-style: TextStyle(
-color: Colors.black54,
-fontSize: 11,
-fontWeight: FontWeight.bold,
-letterSpacing: 1,
-),
-),
-),const SizedBox(height: 20),
-],
-),
-);
-}
-}
-
-class DiccionarioTab extends StatelessWidget {
-const DiccionarioTab({super.key});
-
-@override
-Widget build(BuildContext context) {
-const terms = [
-('Atributo', 'Cualidad o perfección que describe el ser y carácter de Dios.'),
-('Doctrina', 'Enseñanza o conjunto de enseñanzas que se presentan como verdad.'),
-('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
-('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
-('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
-('Revelación', 'Acción por la que Dios se da a conocer.'),
 Study(
   number: '69',
   title: "La Iglesia de Jesucristo: su identidad, fundamento, naturaleza y misión en la comunión del Dios trino",
@@ -18496,6 +18260,7 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "32. La finalidad: conocer y glorificar a Dios", content: "El propósito de la iluminación no es la fama del intérprete ni la discusión interminable, sino conocer mejor a Dios, amarle, obedecerle y edificar a la Iglesia mediante la verdad.", references: "Ef 1:17-19; Col 1:9-12; 1 Co 10:31")
     ],
     conclusion: "La iluminación del Espíritu Santo es la ayuda divina por la cual los creyentes comprenden y reciben la verdad de las Escrituras. No agrega autoridad a la Biblia ni permite contradecirla; impulsa a leer con atención, interpretar en contexto, examinar toda enseñanza y obedecer lo que Dios ha revelado. La dependencia del Espíritu y el estudio responsable no compiten: se complementan.\\n\\nEsta obra pertenece al único Dios trino: el Padre concede sabiduría y abre el entendimiento, el Hijo es la revelación culminante y el centro del mensaje, y el Espíritu Santo enseña, recuerda y aplica la verdad. El resultado esperado es una fe más firme, un carácter transformado, amor por Cristo y edificación de la Iglesia para la gloria de Dios."
+  ),
   Study(
     number: '87',
     title: "La regeneración espiritual: el nuevo nacimiento y la obra vivificadora del Espíritu Santo",
@@ -18616,8 +18381,7 @@ Jesucristo es la revelación culminante del Padre y el centro del testimonio bí
       StudySection(title: "32. El juicio y la consumación del Reino", content: "Al final, Dios juzgará con justicia y el reinado de Cristo será manifestado sin oposición. Esta consumación está relacionada con la segunda venida, el juicio final y la nueva creación, temas que se estudian de manera específica en otras lecciones.", references: "Mt 13:40-43; 25:31-34; 1 Co 15:24-28; Ap 21:1-4")
     ],
     conclusion: "El Reino de Dios es su gobierno soberano, anunciado en las Escrituras, manifestado decisivamente en Jesucristo y esperado en su plenitud. Jesús es el Rey prometido: su enseñanza, autoridad, servicio, muerte y resurrección revelan el carácter del Reino. El Espíritu Santo obra en quienes reciben el evangelio, y el Padre conduce su propósito hasta el cumplimiento.\\n\\nEl Reino no debe confundirse con una institución humana, un proyecto político ni la Iglesia considerada en todos sus límites visibles. La Iglesia pertenece a Cristo, anuncia el evangelio y vive como comunidad bajo su señorío. El Reino ya ha sido inaugurado por la venida del Hijo, pero su consumación aguarda el regreso de Cristo. Por eso los discípulos oran, sirven, practican la justicia, anuncian el evangelio y perseveran con esperanza, dando gloria al Padre, al Hijo y al Espíritu Santo.",
-  ),,
-
+   ),
   Study(
     number: '90',
     title: "El pacto de Dios con Abraham: promesas, descendencia y cumplimiento en Jesucristo",
@@ -21831,7 +21595,242 @@ Este estudio cierra el catálogo de 150 temas y reúne principios que atraviesan
     ],
     conclusion: '''La Iglesia recibió un evangelio que no le pertenece y que no puede modificar. Su tarea es conservarlo, enseñarlo, examinar toda doctrina a la luz de las Escrituras y transmitirlo con fidelidad a nuevas generaciones. La sana doctrina permanece unida al amor, la santidad y la misión. El Padre envía al Hijo, el Hijo revela al Padre y salva a su pueblo, y el Espíritu guía en la verdad y glorifica a Cristo.''',
   ),
+];
 
+@override
+Widget build(BuildContext context) {
+return ListView(
+padding: const EdgeInsets.all(16),
+children: [
+const Text(
+'Biblioteca de formación bíblica',
+style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+),
+const SizedBox(height: 6),
+const Text(
+'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
+),
+const SizedBox(height: 14),
+for (final study in studies)
+Card(
+clipBehavior: Clip.antiAlias,
+child: ListTile(
+contentPadding: const EdgeInsets.all(12),
+leading: CircleAvatar(
+backgroundColor: const Color(0xFFE9DFC8),
+child: Text(
+study.number,
+style: const TextStyle(
+color: Color(0xFF14243A),
+fontWeight: FontWeight.bold,
+),
+),
+),
+title: Text(
+study.title,
+style: const TextStyle(fontWeight: FontWeight.bold),
+),
+subtitle: Padding(
+padding: const EdgeInsets.only(top: 5),
+child: Text(study.subtitle),
+),
+trailing: const Icon(Icons.chevron_right),
+onTap: () {
+Navigator.push(
+context,
+MaterialPageRoute(
+builder: (_) => StudyDetailPage(study: study),
+),
+);
+},
+),
+),
+],
+);
+}
+}
+
+class Study {
+final String number;
+final String title;
+final String subtitle;
+final String introduction;
+final List<StudySection> sections;
+final String conclusion;
+
+const Study({
+required this.number,
+required this.title,
+required this.subtitle,
+required this.introduction,
+required this.sections,
+required this.conclusion,
+});
+}
+
+class StudySection {
+final String title;
+final String content;
+final String references;
+
+const StudySection({
+required this.title,
+required this.content,
+required this.references,
+});
+}
+
+class StudyDetailPage extends StatelessWidget {
+final Study study;
+
+const StudyDetailPage({super.key, required this.study});
+
+@override
+Widget build(BuildContext context) {
+const navy = Color(0xFF14243A);
+const gold = Color(0xFFD5B46A);
+
+return Scaffold(
+appBar: AppBar(
+title: Text(study.title),
+),
+body: ListView(
+padding: const EdgeInsets.all(20),
+children: [
+Container(
+padding: const EdgeInsets.all(20),
+decoration: BoxDecoration(
+color: navy,
+borderRadius: BorderRadius.circular(18),
+),
+child: Column(
+crossAxisAlignment: CrossAxisAlignment.start,
+children: [
+Text(
+'ESTUDIO ${study.number}',
+style: const TextStyle(
+color: gold,
+fontWeight: FontWeight.bold,
+letterSpacing: 1.2,
+),
+),
+const SizedBox(height: 10),
+Text(
+study.title,
+style: const TextStyle(
+color: Colors.white,
+fontSize: 25,
+fontWeight: FontWeight.bold,
+),
+),
+const SizedBox(height: 8),
+Text(
+study.subtitle,
+style: const TextStyle(color: Colors.white70),
+),
+],
+),
+),
+const SizedBox(height: 22),
+const Text(
+'INTRODUCCIÓN',
+style: TextStyle(
+color: navy,
+fontWeight: FontWeight.bold,
+letterSpacing: 1,
+),
+),
+const SizedBox(height: 8),
+Text(
+study.introduction,
+style: const TextStyle(fontSize: 16, height: 1.65),
+),
+const SizedBox(height: 24),
+for (final section in study.sections) ...[
+Text(
+section.title,
+style: const TextStyle(
+color: navy,
+fontSize: 19,
+fontWeight: FontWeight.bold,
+),
+),
+const SizedBox(height: 9),
+Text(
+section.content,
+style: const TextStyle(fontSize: 16, height: 1.65),
+),
+const SizedBox(height: 12),
+Container(
+padding: const EdgeInsets.all(12),
+decoration: BoxDecoration(
+color: const Color(0xFFEFE9DC),
+borderRadius: BorderRadius.circular(10),
+),
+child: Row(
+crossAxisAlignment: CrossAxisAlignment.start,
+children: [
+const Icon(Icons.menu_book, color: navy),
+const SizedBox(width: 9),
+Expanded(
+child: Text(
+'Referencias bíblicas: ${section.references}',
+style: const TextStyle(
+color: navy,
+fontWeight: FontWeight.w600,
+),
+),
+),
+],
+),
+),
+const SizedBox(height: 24),
+],
+const Divider(),
+const Text(
+'CONCLUSIÓN',
+style: TextStyle(
+color: navy,
+fontWeight: FontWeight.bold,
+letterSpacing: 1,
+),
+),
+const SizedBox(height: 8),
+Text(
+study.conclusion,
+style: const TextStyle(fontSize: 16, height: 1.65),
+),
+const SizedBox(height: 30),
+const Center(
+child: Text(
+'LA SANA DOCTRINA · CONOCIENDO MÁS DE DIOS',
+textAlign: TextAlign.center,
+style: TextStyle(
+color: Colors.black54,
+fontSize: 11,
+fontWeight: FontWeight.bold,
+letterSpacing: 1,
+),
+),
+),const SizedBox(height: 20),
+],
+),
+);
+}
+}
+
+class DiccionarioTab extends StatelessWidget {
+const DiccionarioTab({super.key});
+
+@override
+Widget build(BuildContext context) {
+const terms = <(String, String)>[
+('Atributo', 'Cualidad o perfección que describe el ser y carácter de Dios.'),
+('Doctrina', 'Enseñanza o conjunto de enseñanzas que se presentan como verdad.'),
+('Exégesis', 'Análisis cuidadoso de un texto para comprender su sentido.'),
+('Gracia', 'Favor de Dios que no se obtiene como mérito humano.'),
+('Justificación', 'Acto por el cual Dios declara justo al pecador que cree en Cristo.'),
+('Revelación', 'Acción por la que Dios se da a conocer.'),
 ];
 
 return ListView(
