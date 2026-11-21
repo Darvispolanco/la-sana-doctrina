@@ -22133,7 +22133,7 @@ const List<QuizPack> quizPacks = [
       QuizQuestion(question: '¿Qué enseña 2 Timoteo 3:16 acerca de la Escritura?', options: ['Que solo algunas partes son útiles', 'Que toda Escritura es inspirada por Dios y útil para formar', 'Que la experiencia sustituye la Biblia', 'Que la Biblia no corrige la conducta'], correctIndex: 1, explanation: 'Pablo afirma el origen divino y la utilidad de la Escritura para enseñar, corregir e instruir en justicia.', references: '2 Timoteo 3:16-17'),
       QuizQuestion(question: '¿Cómo debe evaluarse una supuesta revelación que contradice el evangelio apostólico?', options: ['Aceptarla por la autoridad de quien la afirma', 'Colocarla por encima de la Escritura', 'Rechazar la contradicción y examinar toda afirmación por la enseñanza apostólica', 'Considerarla automáticamente verdadera si es reciente'], correctIndex: 2, explanation: 'La Iglesia debe probar las afirmaciones y permanecer en el evangelio recibido, sin aceptar otro mensaje contrario.', references: 'Gálatas 1:8-9; 1 Juan 4:1; Judas 3'),
     ],
-  ),,
+  ),
   QuizPack(
     title: 'Defensa: discernimiento bíblico',
     description: 'Autoridad de la Escritura, interpretación y evaluación de enseñanzas.',
