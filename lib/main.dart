@@ -20517,79 +20517,529 @@ La esperanza cristiana no niega la fragilidad humana; se apoya en la resurrecci�
   Study(
     number: '105',
     title: "Los profetas de Israel: llamado, mensaje y responsabilidad del mensajero",
-    subtitle: "El oficio profético, sus funciones en el pacto y la diferencia entre profeta verdadero y falso.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La vocación profética, la autoridad de la palabra de Dios y la fidelidad del mensajero.",
+    introduction: '''
+Los profetas de Israel fueron llamados para comunicar la palabra de Dios en momentos decisivos de la historia del pacto. Denunciaron idolatría e injusticia, llamaron al arrepentimiento, anunciaron juicio y proclamaron restauración. Su autoridad no procedía de prestigio personal, sino del mensaje que habían recibido del Señor.
+
+La Escritura presenta distintos tipos de actividad profética: llamados personales, visiones, acciones simbólicas, denuncias públicas, anuncios de juicio y promesas de esperanza. No todos los profetas desempeñaron la misma función ni hablaron en idénticas circunstancias. Para comprenderlos es necesario estudiar su contexto histórico, los destinatarios y el propósito de cada oráculo.
+
+El Nuevo Testamento reconoce la continuidad del testimonio profético y presenta a Jesucristo como la revelación culminante de Dios. La Iglesia debe examinar toda enseñanza, distinguir la profecía bíblica de las afirmaciones humanas y permanecer sometida a la autoridad de las Escrituras.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 105. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Profeta es un mensajero llamado para hablar en nombre de Dios. En hebreo, nabi designa al profeta, mientras que expresiones como «vidente» destacan la recepción de una visión. El profeta no era simplemente un adivino ni un comentarista político; su tarea principal era transmitir la palabra divina a una comunidad concreta.
+
+La profecía podía anunciar acontecimientos futuros, pero también interpretaba el presente a la luz del pacto. El mensaje incluía advertencia, exhortación, denuncia, consuelo y promesa. La fidelidad se medía por la correspondencia con la revelación de Dios, no por la popularidad del mensajero.
+''',
+        references: "Deuteronomio 13:1-5; 18:15-22; Hebreos 1:1-2; 1 Corintios 14:29-33.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los profetas sirvieron durante períodos de monarquía, división del reino, crisis asiria, exilio babilónico y restauración. Algunos actuaron en la corte o cerca de ella; otros se dirigieron al pueblo, a sacerdotes y gobernantes. Los libros proféticos suelen incluir encabezados que ubican el ministerio en reinados determinados.
+
+La literatura profética contiene poesía, narración, visiones y acciones simbólicas. Isaías, Jeremías y Ezequiel combinan anuncios de juicio con esperanza. Oseas utiliza su experiencia familiar como señal profética; Amós denuncia la opresión; Hageo exhorta a reconstruir el templo. No se debe interpretar un oráculo sin conocer su situación histórica.
+''',
+        references: "1 Reyes 22; Jeremías 23; Ezequiel 1–3; contexto de los profetas.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Deuteronomio 18:15-22 establece criterios sobre el profeta y advierte contra hablar presuntuosamente en nombre de Dios. El pueblo debía escuchar la palabra verdadera y rechazar la presunción. En 1 Samuel 3, Samuel recibe su llamado en un período de corrupción sacerdotal y se convierte en profeta reconocido.
+
+Elías y Eliseo confrontan la idolatría y muestran la autoridad del Señor frente a los cultos de Baal. Los profetas escritores llaman a Israel y Judá a regresar al pacto. Jeremías anuncia juicio por la infidelidad, pero también promete un nuevo pacto (Jeremías 31:31-34). Ezequiel anuncia restauración y un corazón nuevo (Ezequiel 36:24-28).
+''',
+        references: "Deuteronomio 13; 18; 1 Samuel 3; 1 Reyes 18; 22; Jeremías 31; Ezequiel 36.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento presenta a Juan el Bautista como profeta que prepara el camino del Señor. Jesús reconoce la función de los profetas anteriores y anuncia que las Escrituras dan testimonio de Él. También denuncia a quienes persiguen a los mensajeros de Dios y rechazan la verdad.
+
+Hechos describe profetas en la Iglesia primitiva, como Agabo (Hechos 11:27-30; 21:10-11), y Pablo regula el ejercicio de la profecía en la congregación (1 Corintios 14:29-33). La enseñanza apostólica exige examinar y discernir, no aceptar automáticamente toda afirmación que se presente como palabra divina. Hebreos 1:1-2 afirma que Dios habló antiguamente por los profetas y ha hablado por el Hijo.
+''',
+        references: "Mateo 11:7-15; Lucas 24:25-27; Hechos 2:14-21; 11:27-30; 1 Corintios 14:29-33; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Deuteronomio 18:18-22 distingue al mensajero verdadero del que habla presuntuosamente. La señal no debe aislarse del resto de la ley: un mensaje que conduzca a otros dioses contradice la revelación del Señor (Deuteronomio 13:1-5). La fidelidad doctrinal es indispensable.
+
+Jeremías 23 denuncia a profetas que hablan visiones de su propio corazón y no del Señor. El contraste entre paja y trigo muestra la diferencia entre palabras vacías y la palabra divina que transforma. En 1 Reyes 22, el profeta Micaías se opone a una mayoría que anuncia lo que el rey desea escuchar. La cantidad de voces no determina la verdad.
+
+Hebreos 1:1-2 establece la culminación de la revelación en el Hijo. No significa que Dios haya dejado de ser el Dios que habló por los profetas, sino que la revelación en Cristo es decisiva y superior. La enseñanza posterior debe ser fiel al testimonio apostólico.
+''',
+        references: "Deuteronomio 13:1-5; 18:18-22; Jeremías 23:16-32; 1 Reyes 22:13-28; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La profecía está vinculada con el pacto: los profetas recuerdan la ley, denuncian su quebrantamiento y anuncian las consecuencias de la infidelidad. También se relaciona con la esperanza mesiánica, el nuevo pacto, la restauración y el día del Señor.
+
+Los profetas no deben separarse de la ley ni de la sabiduría. La denuncia de Amós contra la injusticia coincide con las exigencias éticas del pacto; la visión de Isaías sobre la santidad de Dios orienta su llamado; Jeremías y Ezequiel explican el exilio como juicio y anuncian restauración.
+
+El Nuevo Testamento lee las promesas proféticas a la luz de Jesús. Algunas se cumplen directamente en su ministerio; otras describen la esperanza del pueblo de Dios y su consumación. Debe distinguirse lo que el texto afirma de las conjeturas sobre fechas o acontecimientos actuales.
+''',
+        references: "Deuteronomio 18; Amós 5:21-24; Jeremías 31:31-34; Ezequiel 36:24-28; Lucas 24:25-27.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es quien habla y envía mensajeros; el Hijo es la Palabra encarnada y la revelación culminante; el Espíritu Santo inspira la Escritura y capacita a los mensajeros para testificar. Hebreos 1:1-2 distingue la comunicación antigua por los profetas y la revelación final en el Hijo.
+
+Primera de Pedro 1:10-12 relaciona la actividad de los profetas con el Espíritu de Cristo que daba testimonio anticipado de los padecimientos y glorias del Mesías. En Hechos 2, el derramamiento del Espíritu cumple la promesa profética y capacita a la Iglesia para anunciar las obras de Dios.
+
+La distinción trinitaria no convierte a las personas en tres fuentes separadas de verdad. El único Dios se revela y actúa; el Padre, el Hijo y el Espíritu son personalmente distintos. La Iglesia debe evaluar sus afirmaciones a la luz de la revelación bíblica y no colocar una supuesta voz profética por encima de la Escritura.
+''',
+        references: "Hebreos 1:1-2; 1 Pedro 1:10-12; Hechos 2:16-21; Juan 14:16-17.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Todo profeta anunciaba el futuro? No. La tarea principal era comunicar la palabra de Dios; podía incluir anuncios futuros, pero también denuncias, llamados al arrepentimiento y consuelo.
+
+¿Una señal cumplida demuestra que cualquier mensaje es verdadero? No. Deuteronomio 13 enseña que incluso una señal no legitima un llamado a la idolatría. La fidelidad al Dios verdadero es esencial.
+
+¿La mayoría de profetas determina la verdad? No. Micaías se opuso a una mayoría que engañaba al rey (1 Reyes 22). La autoridad procede de Dios y su palabra, no del número de seguidores.
+
+¿Puede una profecía actual contradecir la Biblia? No debe aceptarse tal afirmación. La enseñanza apostólica ordena examinarlo todo y retener lo bueno (1 Tesalonicenses 5:20-21); la Escritura conserva autoridad normativa.
+
+¿Hebreos 1:1-2 significa que los profetas ya no tienen valor? No. El Antiguo Testamento sigue siendo Palabra de Dios, pero su testimonio alcanza su culminación en el Hijo.
+''',
+        references: "Deuteronomio 13:1-5; 18:20-22; 1 Reyes 22; 1 Tesalonicenses 5:20-21.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué distingue a un profeta verdadero? Respuesta: La fidelidad al Dios revelado, la coherencia con su palabra y el cumplimiento de lo anunciado cuando el mensaje incluye una predicción (Deuteronomio 13:1-5; 18:20-22).
+
+Pregunta: ¿Por qué los profetas denunciaban a los reyes? Respuesta: Porque la autoridad civil estaba sometida al pacto y no podía justificar idolatría o injusticia (1 Samuel 15; 1 Reyes 21; Amós 5).
+
+Pregunta: ¿Qué lugar tiene Jesús en la profecía? Respuesta: Es el Hijo por quien Dios ha hablado de manera culminante (Hebreos 1:1-2) y aquel a quien señalan las Escrituras (Lucas 24:25-27).
+
+Pregunta: ¿Cómo debe actuar la Iglesia ante una profecía? Respuesta: Debe discernir, examinar y mantener el orden congregacional (1 Corintios 14:29-33; 1 Tesalonicenses 5:20-21).
+
+Pregunta: ¿Puede el mensajero corregir la Escritura? Respuesta: No. El mensajero está sometido a la palabra que anuncia; no posee autoridad para añadir una doctrina contraria al evangelio.
+''',
+        references: "Deuteronomio 13:1-5; 18:20-22; 1 Corintios 14:29-33; Hebreos 1:1-2.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+El ministerio profético enseña que la verdad de Dios no depende de la aprobación humana. Los profetas llamaron a la fidelidad, denunciaron la injusticia y anunciaron esperanza, aun cuando el mensaje resultaba impopular. Su autoridad estaba sometida a la revelación del Señor.
+
+La Iglesia debe leerlos en su contexto histórico y literario, reconocer su testimonio de Cristo y evitar tanto el desprecio de la profecía bíblica como la credulidad ante afirmaciones humanas. Toda enseñanza debe ser examinada a la luz de las Escrituras.
+
+El Padre habla y envía, el Hijo es la revelación culminante y el Espíritu inspira y capacita. La responsabilidad del mensajero es transmitir fielmente la verdad; la del oyente, recibirla con discernimiento y obediencia.
+''',
+        references: "Hebreos 1:1-2; 1 Tesalonicenses 5:20-21; 1 Corintios 14:29-33.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Los profetas fueron mensajeros llamados por Dios para interpretar la historia a la luz del pacto, denunciar idolatría e injusticia y anunciar juicio y esperanza. Su autoridad no provenía de popularidad ni de señales aisladas, sino de la fidelidad al Señor y a su revelación.
+
+El testimonio profético alcanza su culminación en Jesucristo, el Hijo por quien Dios ha hablado. El Espíritu capacita el testimonio y la Iglesia debe discernir toda enseñanza sin permitir que una afirmación humana se coloque por encima de la Escritura.
+
+El llamado actual es escuchar la Palabra, practicar la justicia, examinar toda enseñanza y anunciar fielmente el evangelio del Padre, del Hijo y del Espíritu Santo.
+''',
   ),
+
   Study(
     number: '106',
     title: "La literatura profética: juicio, restauración y esperanza mesiánica",
-    subtitle: "Cómo interpretar los oráculos proféticos en su contexto histórico y reconocer sus horizontes de cumplimiento.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Los mensajes proféticos, sus géneros y el desarrollo de la esperanza bíblica.",
+    introduction: '''
+La literatura profética reúne mensajes que interpretan la historia de Israel y de las naciones bajo el gobierno de Dios. Sus temas principales incluyen la santidad divina, el pecado, el juicio, el arrepentimiento, la restauración, el nuevo pacto y la esperanza mesiánica. Los libros proféticos no son calendarios secretos de acontecimientos: son textos situados en circunstancias concretas y dirigidos a comunidades reales.
+
+Los profetas utilizaron oráculos, visiones, poesía, lamentos, narraciones y acciones simbólicas. Algunas profecías anuncian acontecimientos próximos; otras presentan horizontes de restauración que se desarrollan a lo largo de la historia bíblica. Una interpretación responsable debe identificar el contexto original y examinar cómo el Nuevo Testamento relaciona esos textos con Cristo.
+
+Este estudio distingue juicio y esperanza, continuidad y cumplimiento, evitando tanto reducir cada profecía a un evento político antiguo como trasladarla automáticamente a titulares contemporáneos.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 106. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Literatura profética es el conjunto de libros y textos que transmiten mensajes recibidos por los profetas. Un oráculo es una declaración profética; una visión comunica mediante imágenes; una acción simbólica representa un mensaje; y un anuncio de juicio expone las consecuencias del quebrantamiento del pacto.
+
+Restauración no significa solamente retorno geográfico: puede incluir perdón, renovación del corazón, justicia, reunión del pueblo y presencia de Dios. Esperanza mesiánica se refiere a las promesas relacionadas con el rey ungido, el descendiente de David y el gobierno justo de Dios. Estos conceptos deben definirse a partir de cada pasaje.
+''',
+        references: "Isaías 1:10-17; Jeremías 31:31-34; Miqueas 5:2; Hechos 2:16-33.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los profetas hablaron durante la monarquía, la amenaza de imperios, la caída de Samaria, la destrucción de Jerusalén, el exilio y la restauración. Isaías y Miqueas ministraron en tiempos de crisis asiria; Jeremías antes y durante la caída de Jerusalén; Ezequiel entre los exiliados; Hageo y Zacarías después del retorno.
+
+La forma poética es frecuente y utiliza paralelismo, metáforas, imágenes de juicio y promesas. Las visiones de Daniel y Zacarías tienen símbolos que deben interpretarse dentro del libro y de la historia bíblica. Los encabezados históricos y las referencias a reyes ayudan a ubicar los mensajes.
+''',
+        references: "Isaías 1–12; Jeremías 7; 23; 31; Ezequiel 36–37; contexto exílico.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Deuteronomio 28 presenta bendiciones y maldiciones del pacto, marco que los profetas aplican a la historia nacional. Isaías 1 denuncia el culto hipócrita; Jeremías 7 advierte que el templo no protege a quienes persisten en la injusticia; Ezequiel interpreta el exilio como juicio y anuncia un corazón nuevo.
+
+Isaías 9 y 11 presentan la esperanza de un gobernante davídico justo. Jeremías 23:5-6 anuncia un renuevo justo de David. Miqueas 5:2 relaciona al gobernante esperado con Belén. Estos textos no deben separarse de su contexto inmediato ni de su desarrollo canónico. La restauración incluye la renovación del pueblo y el gobierno fiel de Dios.
+''',
+        references: "Deuteronomio 28; Isaías 1; 9; 11; Jeremías 23; 31; Ezequiel 36.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Los Evangelios identifican a Jesús con la esperanza mesiánica de Israel y citan textos proféticos para explicar su nacimiento, ministerio, muerte y resurrección. Lucas 4 presenta a Jesús leyendo Isaías 61 y aplicando el mensaje de buenas nuevas a su misión. Mateo 1–2 relaciona acontecimientos de la infancia con textos proféticos.
+
+Hechos y las cartas apostólicas interpretan la resurrección y exaltación de Jesús como cumplimiento de las promesas. Pedro cita Joel 2 en Hechos 2 y explica el derramamiento del Espíritu. Pablo relaciona la esperanza de Israel con el evangelio a las naciones. Apocalipsis utiliza imágenes proféticas para anunciar juicio y nueva creación, sin que cada símbolo deba convertirse en predicción literal aislada.
+''',
+        references: "Lucas 4:16-21; Mateo 1–2; Hechos 2:16-36; Hebreos 8; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Isaías 1:10-17 muestra que el problema no era la existencia de sacrificios, sino la separación entre culto e injusticia. Dios llama a cesar el mal, aprender a hacer el bien y defender al vulnerable. El oráculo debe leerse en el contexto de una sociedad religiosa que no vivía conforme al pacto.
+
+Jeremías 31:31-34 anuncia un nuevo pacto en el que la ley será escrita en el corazón y el pueblo conocerá al Señor. Hebreos 8 cita este texto para explicar la obra de Cristo y el carácter superior del nuevo pacto. El cumplimiento no elimina el contexto israelita original; muestra cómo la promesa se realiza en la obra redentora del Mesías.
+
+Miqueas 5:2 anuncia un gobernante que saldrá de Belén. Mateo 2:5-6 cita el texto al explicar el nacimiento de Jesús. El evangelista relaciona la esperanza davídica con Cristo, pero la interpretación debe considerar el marco del profeta y la aplicación del Evangelio.
+''',
+        references: "Isaías 1:10-17; Jeremías 31:31-34; Miqueas 5:2; Mateo 2:5-6; Hebreos 8:6-13.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La literatura profética debe leerse junto con la ley, los libros históricos y los sapienciales. El juicio anunciado por los profetas no es arbitrario: responde a la idolatría, la injusticia y el quebrantamiento del pacto. Las promesas de restauración tampoco son optimismo vacío; se fundamentan en la fidelidad y misericordia de Dios.
+
+La esperanza mesiánica se desarrolla desde la promesa a David hasta los anuncios de un rey justo, un siervo sufriente y un nuevo pacto. Los textos tienen matices distintos y no deben fusionarse sin análisis. El Nuevo Testamento presenta a Jesús como el Mesías, pero también conserva la tensión entre cumplimiento inaugurado y consumación futura.
+
+La Iglesia lee los profetas como Escritura y recibe su llamado a la justicia, la fidelidad y la esperanza, sin apropiarse descuidadamente de cada promesa nacional como si se hubiera dirigido originalmente a una congregación moderna.
+''',
+        references: "Deuteronomio 28; Isaías 1; Jeremías 7; 23; 31; Ezequiel 36; Hechos 2; Apocalipsis 21–22.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es quien anuncia juicio y promete restauración; el Hijo cumple la esperanza mesiánica y revela al Padre; el Espíritu Santo inspira el testimonio profético y es derramado sobre el pueblo según la promesa. En Hechos 2:16-33, Pedro relaciona la promesa del Espíritu, la exaltación de Jesús y la acción del Padre.
+
+Hebreos 1:1-2 enseña que Dios habló por los profetas y ha hablado por el Hijo. Primera de Pedro 1:10-12 atribuye al Espíritu de Cristo el testimonio anticipado sobre los sufrimientos y glorias del Mesías. Estos pasajes distinguen al Padre, al Hijo y al Espíritu, sin presentar tres dioses ni confundir las personas.
+
+La esperanza profética es obra del único Dios. La Iglesia debe proclamar a Cristo y vivir por el Espíritu en obediencia al Padre, respetando el contexto original de las promesas.
+''',
+        references: "Hebreos 1:1-2; 1 Pedro 1:10-12; Hechos 2:16-33; Juan 14:16-17.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Toda profecía de restauración se cumplió al volver del exilio? No. El retorno fue un cumplimiento histórico importante, pero algunos textos presentan una esperanza más amplia que el Nuevo Testamento relaciona con Cristo y la nueva creación.
+
+¿Toda profecía mesiánica se refiere exclusivamente a Jesús en su sentido original? No necesariamente. Debe estudiarse primero el contexto histórico y literario; luego se examina cómo el Nuevo Testamento aplica el texto a Cristo.
+
+¿Los símbolos proféticos deben interpretarse literalmente? No siempre. La poesía y la apocalíptica utilizan imágenes; el género y las explicaciones internas del libro orientan la lectura.
+
+¿Podemos identificar fechas actuales a partir de las profecías? No se debe afirmar más de lo que el texto revela. Jesús advierte contra pretensiones de conocer tiempos que el Padre ha reservado (Mateo 24:36; Hechos 1:7).
+
+¿El juicio profético contradice el amor de Dios? No. El juicio expresa su santidad y justicia; la restauración manifiesta su misericordia y fidelidad.
+''',
+        references: "Mateo 24:36; Hechos 1:7; Isaías 1:10-17; Jeremías 31:31-34.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Por qué anunciaban juicio los profetas? Respuesta: Porque el pueblo quebrantaba el pacto mediante idolatría, injusticia y desobediencia (Deuteronomio 28; Jeremías 7; Amós 5).
+
+Pregunta: ¿Qué es el nuevo pacto? Respuesta: La promesa de Dios de escribir su ley en el corazón, perdonar la maldad y establecer una relación renovada con su pueblo (Jeremías 31:31-34; Hebreos 8:6-13).
+
+Pregunta: ¿Quién es el Mesías prometido? Respuesta: Jesús, el Hijo de David, cuya misión y reino cumplen las promesas mesiánicas (Mateo 1:1; Lucas 1:32-33; Hechos 2:29-36).
+
+Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Inspira el testimonio profético y es derramado conforme a la promesa anunciada por Joel (Hechos 2:16-21).
+
+Pregunta: ¿Cómo debe leerse una profecía? Respuesta: Considerando su contexto, género, destinatarios, horizonte histórico y relación con el conjunto de la Escritura.
+''',
+        references: "Jeremías 31:31-34; Mateo 1:1; Lucas 1:32-33; Hechos 2:16-36.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La literatura profética anuncia juicio porque Dios es santo y llama a su pueblo a abandonar idolatría e injusticia. También proclama restauración porque el Señor es fiel a sus promesas. El lector debe respetar los contextos históricos, los géneros literarios y el desarrollo de cada anuncio.
+
+El Nuevo Testamento presenta a Jesús como el Mesías en quien convergen las promesas, y al Espíritu como aquel que capacita al pueblo para testificar. No debemos convertir símbolos en cálculos ni trasladar sin explicación cada promesa nacional a una situación moderna.
+
+La lectura fiel produce arrepentimiento, justicia, esperanza y fidelidad al evangelio. El Padre cumple sus propósitos, el Hijo reina como Mesías y el Espíritu sostiene el testimonio de la Iglesia.
+''',
+        references: "Lucas 4:16-21; Hechos 2:16-36; Hebreos 8:6-13; Apocalipsis 21–22.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La literatura profética interpreta la historia a la luz del pacto: denuncia el pecado, anuncia juicio y proclama restauración. Sus mensajes incluyen poesía, oráculos, visiones y acciones simbólicas, por lo que deben leerse según su contexto y género.
+
+El Nuevo Testamento presenta a Jesucristo como el Mesías en quien se cumplen las promesas y al Espíritu como aquel que capacita el testimonio. La esperanza profética no autoriza cálculos de fechas ni aplicaciones arbitrarias; llama a la fidelidad, la justicia y la confianza en Dios.
+
+El Padre cumple sus promesas, el Hijo reina como Mesías y el Espíritu sostiene a la Iglesia. La respuesta es vivir en arrepentimiento, esperanza y obediencia.
+''',
   ),
+
   Study(
     number: '107',
     title: "La tipología bíblica: figuras, patrones y cumplimiento en Cristo",
-    subtitle: "Criterios bíblicos para reconocer tipos y correspondencias sin convertir cada detalle en alegoría.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Cómo reconocer correspondencias bíblicas sin imponer simbolismos ajenos al texto.",
+    introduction: '''
+La tipología bíblica estudia personas, acontecimientos e instituciones del Antiguo Testamento que, dentro de la historia de la revelación, anticipan o prefiguran realidades que alcanzan su cumplimiento en Cristo y en el pueblo de Dios. No es una licencia para asignar significados ocultos a cada objeto o detalle narrativo. Las correspondencias deben estar apoyadas por el propio desarrollo de la Escritura.
+
+El Nuevo Testamento identifica a Adán como figura del que había de venir, relaciona la Pascua con Cristo y presenta el tabernáculo y los sacrificios como sombras de realidades superiores. Estas relaciones se establecen mediante argumentos apostólicos y deben estudiarse en sus contextos originales.
+
+Una interpretación responsable distingue tipología, profecía directa, alegoría y aplicación moral. Así se evita tanto ignorar la unidad de la Biblia como inventar equivalencias que el texto no enseña.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 107. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Tipo es una realidad histórica que funciona como patrón o figura de una realidad posterior dentro del plan de Dios. Antitipo es el cumplimiento correspondiente. La tipología no niega la historicidad del acontecimiento antiguo; parte de ella y reconoce una relación que la revelación posterior hace explícita.
+
+Debe distinguirse de la alegoría libre, que atribuye sentidos simbólicos sin control textual. También se distingue de una profecía verbal directa: en la tipología, la correspondencia puede surgir de una persona, institución o acontecimiento que anticipa una obra posterior. El criterio fundamental es el apoyo canónico, especialmente las conexiones explícitas del Nuevo Testamento.
+''',
+        references: "Romanos 5:12-21; 1 Corintios 5:7; Hebreos 8:5; 9:23-24; Lucas 24:25-27.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La lectura tipológica se desarrolla dentro de la unidad de la Biblia y de la revelación progresiva. Israel vivió acontecimientos históricos que después fueron recordados y reinterpretados por los profetas y apóstoles. El éxodo, el sacerdocio, el templo, el sacrificio y el reinado davídico se convierten en marcos para comprender la obra de Cristo.
+
+En el judaísmo del Segundo Templo existían formas de interpretación que relacionaban textos antiguos con la situación presente. Sin embargo, la tipología cristiana debe seguir los argumentos del Nuevo Testamento, no asumir que cualquier semejanza literaria constituye un tipo inspirado. La historia de Israel conserva su sentido propio aun cuando anticipa una realidad mayor.
+''',
+        references: "Éxodo 12; Levítico 16; Segundo Templo; lectura apostólica del Antiguo Testamento.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Romanos 5:12-21 compara a Adán y Cristo: por un hombre entró el pecado y por un hombre viene la justificación y la vida. El argumento no convierte a Adán en una alegoría; reconoce su lugar histórico y lo presenta como figura en una comparación teológica.
+
+Éxodo 12 narra la Pascua, y Pablo afirma que Cristo, nuestra Pascua, fue sacrificado (1 Corintios 5:7). El Nuevo Testamento establece la relación, pero no obliga a asignar un simbolismo independiente a cada utensilio o detalle de la comida pascual.
+
+El sacerdocio y los sacrificios se relacionan con Cristo en Hebreos 7–10. El tabernáculo y sus servicios se describen como figura y sombra de las realidades celestiales (Hebreos 8:5; 9:23-24). El rey David y sus promesas anticipan al Mesías, según el desarrollo de los Evangelios y Hechos.
+''',
+        references: "Génesis 1–3; Éxodo 12; 1 Corintios 10:1-11; Romanos 5:12-21; Hebreos 8–10.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús interpreta las Escrituras como testimonio de su misión (Lucas 24:25-27, 44-47). Los apóstoles explican que la historia de Israel encuentra su sentido redentor en la muerte y resurrección del Mesías. Primera de Pedro 3:20-21 relaciona el diluvio con el bautismo mediante una correspondencia explícita, y Hebreos utiliza el sacerdocio antiguo para explicar el ministerio superior de Cristo.
+
+La tipología también puede orientar la comprensión de la Iglesia. Israel es descrito como pueblo llamado a anunciar las virtudes de Dios, y los creyentes son piedras vivas edificadas como casa espiritual (1 Pedro 2:4-10). Estas conexiones deben leerse cuidadosamente para no borrar las diferencias históricas entre Israel, Cristo y la Iglesia.
+''',
+        references: "Lucas 24:25-47; Romanos 5:12-21; 1 Corintios 5:7; 10:1-11; Hebreos 8–10; 1 Pedro 3:20-21; 2:4-10.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Romanos 5:14 llama a Adán figura del que había de venir. Pablo desarrolla una comparación entre la transgresión de uno y la obediencia de Cristo. El tipo y su cumplimiento no son idénticos en todos los aspectos: la gracia de Cristo supera la consecuencia del pecado.
+
+Hebreos 8:5 describe el servicio terrenal como figura y sombra de las cosas celestiales. El contexto trata del sacerdocio y del santuario; por tanto, la afirmación no autoriza a convertir cada detalle de la arquitectura en un código secreto. Hebreos 9:24 aclara que Cristo entró en el cielo mismo, no en un santuario hecho por manos humanas.
+
+1 Corintios 10:1-11 presenta los acontecimientos del éxodo como ejemplos para la Iglesia. Pablo extrae advertencias sobre idolatría, incredulidad y murmuración. La historia conserva su realidad y se convierte en instrucción para el pueblo de Dios.
+''',
+        references: "Romanos 5:14-19; Hebreos 8:5; 9:23-24; 1 Corintios 10:1-11.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La tipología conecta la creación, los pactos, el éxodo, el sacerdocio, el reino y la esperanza profética. No sustituye el sentido histórico original; muestra cómo Dios conduce la historia hacia su propósito redentor. La lectura tipológica debe armonizar con la enseñanza explícita y no contradecir el contexto.
+
+La Pascua apunta a Cristo; Adán sirve como figura en Romanos 5; el sacerdocio y el santuario preparan el lenguaje de Hebreos; y los acontecimientos del desierto instruyen a la Iglesia en 1 Corintios 10. Estas correspondencias tienen apoyo apostólico. Otras propuestas pueden ser útiles como ilustraciones, pero no deben elevarse a doctrina obligatoria sin fundamento.
+
+La tipología también preserva la unidad de la Biblia: el mismo Dios que actuó en la historia de Israel lleva a cumplimiento sus promesas en Cristo.
+''',
+        references: "Génesis 1–3; Éxodo 12; Levítico 16; Romanos 5; 1 Corintios 5; 10; Hebreos 8–10.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre ordena la historia de la salvación y cumple sus promesas; el Hijo es el centro y cumplimiento de las figuras que el Nuevo Testamento identifica; el Espíritu Santo inspira las Escrituras y ayuda a comprender su testimonio. Lucas 24 presenta a Jesús explicando cómo la Ley, los Profetas y los Salmos daban testimonio de Él.
+
+La tipología no debe convertirse en un método para descubrir tres personas en cada objeto del tabernáculo. La doctrina trinitaria se fundamenta en textos que distinguen al Padre, al Hijo y al Espíritu. La lectura tipológica sirve para comprender la obra del Hijo dentro del propósito del único Dios y no para construir alegorías trinitarias arbitrarias.
+
+La unidad divina y la distinción personal permanecen: el Padre envía, el Hijo cumple la redención y el Espíritu aplica la obra y conduce a la verdad.
+''',
+        references: "Lucas 24:25-47; Juan 14:16-17; 1 Pedro 1:10-12; Efesios 1:3-14.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Todo personaje bíblico es un tipo de Cristo? No. La correspondencia debe estar apoyada por el texto bíblico y no por semejanzas imaginadas.
+
+¿La tipología niega la historia de Israel? No. El tipo es una realidad histórica que conserva su significado original y además participa en un patrón redentor.
+
+¿Tipología y alegoría son lo mismo? No. La tipología parte de correspondencias históricas y canónicas; la alegoría libre puede asignar sentidos sin apoyo textual.
+
+¿Cada detalle del tabernáculo representa algo específico de Jesús? No debe afirmarse sin evidencia bíblica. Hebreos identifica el santuario como figura y sombra, pero no ofrece un código individual para cada medida y material.
+
+¿La tipología reemplaza el sentido literal? No. Primero se estudia el contexto y el sentido histórico; luego se considera el desarrollo que la Escritura misma establece.
+''',
+        references: "Romanos 5:14; 1 Corintios 5:7; Hebreos 8:5; 9:23-24.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué relación establece Romanos 5 entre Adán y Cristo? Respuesta: Adán es figura del que había de venir; Pablo contrasta la transgresión con la obediencia y el don de gracia de Cristo.
+
+Pregunta: ¿Por qué Pablo llama a Cristo nuestra Pascua? Respuesta: Para explicar la relación entre la liberación pascual y la muerte redentora de Jesús (1 Corintios 5:7).
+
+Pregunta: ¿Qué significa que el santuario era sombra? Respuesta: Que su servicio terrenal anticipaba realidades superiores cumplidas en el ministerio de Cristo (Hebreos 8:5; 9:23-24).
+
+Pregunta: ¿Cómo evitar interpretaciones inventadas? Respuesta: Examinando el contexto original y exigiendo apoyo canónico para cada correspondencia.
+
+Pregunta: ¿Cuál es el centro de la tipología cristiana? Respuesta: Jesucristo y el cumplimiento de las promesas de Dios, según Lucas 24:25-27 y 44-47.
+''',
+        references: "Romanos 5:12-21; 1 Corintios 5:7; Hebreos 8:5; Lucas 24:25-47.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La tipología bíblica ayuda a reconocer la unidad de la historia de la redención. Adán, la Pascua, el éxodo, el sacerdocio y el santuario ofrecen patrones que el Nuevo Testamento relaciona con Cristo. Estas correspondencias no eliminan la historicidad ni el sentido original de los acontecimientos.
+
+La interpretación responsable evita alegorías libres y no convierte cada detalle en una doctrina. Primero estudia el contexto; luego reconoce las relaciones que la propia Escritura establece. Cristo es el centro del cumplimiento, dentro del propósito del Padre y de la obra del Espíritu.
+
+Leer tipológicamente es contemplar la fidelidad de Dios a lo largo de la historia, sin añadir significados que el texto no sostiene.
+''',
+        references: "Lucas 24:25-47; Romanos 5:12-21; Hebreos 8–10.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La tipología bíblica reconoce patrones históricos que la propia Escritura relaciona con el cumplimiento en Cristo. Adán, la Pascua, el éxodo y el sacerdocio son ejemplos explícitos. La tipología no elimina el sentido original ni autoriza a inventar significados ocultos en cada detalle.
+
+El método exige contexto, coherencia canónica y atención a los argumentos apostólicos. Cristo es el centro del cumplimiento y la historia de Israel conserva su lugar dentro del plan de Dios. El Padre cumple sus promesas, el Hijo las lleva a plenitud y el Espíritu inspira el testimonio bíblico.
+
+La tipología fortalece la comprensión de la unidad de las Escrituras cuando se practica con rigor y humildad.
+''',
   ),
+
   Study(
     number: '108',
     title: "Los géneros literarios de la Biblia: cómo reconocerlos e interpretarlos",
-    subtitle: "Narrativa, poesía, ley, profecía, evangelios, parábolas, cartas y apocalíptica en su forma propia.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La importancia de identificar narración, poesía, ley, profecía, sabiduría, evangelio, epístola y apocalíptica.",
+    introduction: '''
+La Biblia contiene una diversidad de géneros literarios: narración, ley, poesía, sabiduría, profecía, evangelio, parábola, epístola y literatura apocalíptica. Cada género comunica la verdad de manera propia. Leer un poema como si fuera una crónica, o una parábola como si cada detalle fuera una descripción histórica, puede conducir a conclusiones equivocadas.
+
+Reconocer el género no reduce la autoridad de la Escritura; permite escuchar correctamente lo que el texto afirma. La interpretación debe considerar vocabulario, estructura, contexto histórico, propósito del autor y relación con el conjunto bíblico. La Biblia es Palabra de Dios y también literatura comunicada mediante autores humanos y formas reconocibles.
+
+Este estudio ofrece principios para leer responsablemente, evitando tanto el literalismo que ignora las figuras como la interpretación alegórica que inventa sentidos sin fundamento.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 108. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Género literario es una forma reconocible de comunicación con convenciones propias. La narración cuenta acontecimientos; la ley establece instrucciones; la poesía utiliza imágenes y paralelismos; la sabiduría forma el discernimiento; la profecía anuncia y exhorta; las epístolas argumentan y corrigen; la apocalíptica comunica mediante visiones y símbolos.
+
+El sentido literal no significa leer cada palabra de manera plana. En poesía, el sentido literal incluye metáforas; en parábolas, la enseñanza se comunica mediante una historia ilustrativa; en apocalíptica, los símbolos forman parte de la comunicación intencional. La pregunta correcta es qué quiso comunicar el texto en su forma literaria.
+''',
+        references: "Salmo 23; Marcos 4:30-32; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Los libros bíblicos surgieron en contextos históricos diversos: monarquía, exilio, retorno, vida de Jesús y expansión de la Iglesia. Los autores utilizaron formas de escritura conocidas en su época, pero su mensaje se integra en el canon de las Escrituras.
+
+La narración histórica puede incluir discursos y genealogías; los profetas combinan poesía y relato; los Evangelios presentan acontecimientos y enseñanzas; las cartas responden a problemas de comunidades concretas. Conocer el contexto evita trasladar directamente una instrucción local a todos los tiempos sin considerar su fundamento y alcance.
+''',
+        references: "Contextos históricos de los géneros bíblicos; Salmos; profetas; Evangelios; cartas; Apocalipsis.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+La Biblia muestra variedad desde Génesis hasta los profetas. Génesis utiliza narración; Levítico contiene legislación cultual; Salmos presenta poesía y oración; Proverbios reúne dichos; Isaías y Jeremías combinan oráculos y narraciones; Daniel incluye relato y visión apocalíptica.
+
+El Antiguo Testamento debe leerse atendiendo a la forma y al propósito de cada libro. Las leyes del pacto tienen un contexto histórico específico, aunque revelan principios teológicos que el resto de la Biblia desarrolla. Los poemas expresan verdad mediante imágenes y no deben tratarse como manuales técnicos.
+''',
+        references: "Génesis; Levítico; Salmos; Proverbios; Isaías; Daniel.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento contiene cuatro Evangelios, Hechos, cartas y Apocalipsis. Los Evangelios narran la vida, muerte y resurrección de Jesús con énfasis teológicos propios. Hechos relata la expansión de la Iglesia; las epístolas argumentan y aplican la enseñanza apostólica a comunidades; Apocalipsis utiliza visiones y símbolos para exhortar y anunciar la victoria de Dios.
+
+Las parábolas de Jesús no deben convertirse en alegorías ilimitadas. Las cartas deben leerse atendiendo a sus destinatarios y argumentos. Apocalipsis debe interpretarse dentro de su lenguaje simbólico y de sus referencias al Antiguo Testamento, sin convertir cada imagen en una equivalencia moderna automática.
+''',
+        references: "Lucas 24:27,44-47; Marcos 4:1-34; Gálatas 4:21-31; Apocalipsis 1:1-20; 2 Timoteo 3:16-17.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Salmo 23 utiliza la imagen del pastor para expresar el cuidado de Dios. La metáfora comunica una verdad real, aunque Dios no sea literalmente un pastor humano con rebaño físico. Marcos 4:30-32 presenta la parábola de la semilla de mostaza; su propósito es ilustrar el crecimiento del reino, no ofrecer una clasificación botánica exhaustiva.
+
+Gálatas 4:21-31 utiliza una lectura figurada en un argumento específico sobre los pactos. Ese uso apostólico no autoriza a convertir cualquier narración en alegoría. Apocalipsis 1:20 ofrece una clave interpretativa explícita para ciertos símbolos: las estrellas y candeleros representan realidades identificadas por el propio texto.
+
+La regla es atender a las señales del pasaje: comparaciones, paralelismos, fórmulas proféticas, destinatarios, estructura y explicaciones internas. El género guía la lectura sin eliminar el sentido histórico ni la autoridad del mensaje.
+''',
+        references: "Salmo 23; Marcos 4:30-32; Gálatas 4:21-31; Apocalipsis 1:20.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Los géneros deben relacionarse con la unidad de la Biblia. Una narración puede describir un acto sin aprobarlo; una ley puede pertenecer al pacto de Israel y requerir interpretación a la luz del Nuevo Testamento; una promesa profética puede tener cumplimiento histórico y horizonte mesiánico. La lectura canónica permite armonizar sin borrar las diferencias.
+
+La poesía expresa doctrina mediante imágenes; las epístolas desarrollan argumentos; la apocalíptica utiliza símbolos que remiten a textos anteriores. Los Evangelios muestran a Cristo como centro del testimonio bíblico (Lucas 24:27, 44-47). El intérprete debe permitir que los pasajes claros iluminen los difíciles, sin forzar contradicciones ni inventar armonizaciones.
+''',
+        references: "Génesis–Apocalipsis; Lucas 24:27,44-47; 2 Timoteo 3:16-17.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es el Dios que se revela mediante las Escrituras; el Hijo es la Palabra encarnada y el centro del testimonio bíblico; el Espíritu Santo inspiró a los autores y guía a la Iglesia a la verdad. Segunda de Timoteo 3:16-17 afirma la inspiración y utilidad de la Escritura; 2 Pedro 1:20-21 explica que la profecía no surgió por voluntad humana, sino que los hombres hablaron de parte de Dios impulsados por el Espíritu Santo.
+
+Juan 1:1, 14 distingue al Verbo que estaba con Dios y era Dios, y que se hizo carne. El Padre no es el Hijo, y el Espíritu no es una fuerza creada. La doctrina trinitaria se establece por el testimonio completo de la Biblia, no por atribuir artificialmente cada género a una persona divina.
+''',
+        references: "Juan 1:1,14; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Reconocer géneros significa negar la inspiración? No. La inspiración divina no elimina las formas literarias humanas; las utiliza para comunicar la verdad.
+
+¿Todo lo narrado en la Biblia es aprobado por Dios? No. La narración puede registrar acciones pecaminosas para enseñar sus consecuencias. Debe distinguirse descripción de aprobación.
+
+¿El sentido literal excluye metáforas? No. El sentido literal es el sentido comunicado por el autor según el género; en poesía, incluye imágenes y comparaciones.
+
+¿Las parábolas son relatos históricos? Su función principal es ilustrativa y didáctica. No se debe exigir que cada detalle corresponda a un hecho histórico independiente.
+
+¿Apocalipsis debe leerse todo literalmente? El libro señala su carácter de revelación mediante visiones y símbolos. La interpretación debe atender a sus claves internas y a su uso del Antiguo Testamento.
+''',
+        references: "Marcos 4:30-32; 2 Timoteo 3:16-17; Apocalipsis 1:1-20.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Por qué identificar el género? Respuesta: Para comprender qué tipo de afirmación realiza el texto y evitar interpretaciones que contradigan su forma literaria.
+
+Pregunta: ¿Cómo se interpreta la poesía? Respuesta: Prestando atención al paralelismo, las imágenes, el contexto y el propósito del poema.
+
+Pregunta: ¿Cómo se interpreta una epístola? Respuesta: Siguiendo el argumento, los destinatarios, la situación y la aplicación de la enseñanza.
+
+Pregunta: ¿Qué hacer con los símbolos apocalípticos? Respuesta: Buscar las explicaciones que el propio libro ofrece y sus referencias al resto de la Escritura.
+
+Pregunta: ¿Quién es el centro del testimonio bíblico? Respuesta: Jesucristo, a quien la Ley, los Profetas y los Salmos señalan según Lucas 24:27, 44-47.
+''',
+        references: "Salmo 23; Marcos 4:1-34; Lucas 24:27,44-47; 2 Timoteo 3:16-17.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La diversidad literaria de la Biblia requiere una lectura atenta. Identificar el género permite distinguir narración, mandato, poesía, parábola, argumento y visión simbólica. No se debe convertir una metáfora en descripción física ni una narración de pecado en aprobación moral.
+
+La inspiración divina no elimina la forma literaria; la utiliza. El contexto histórico, el propósito del autor y la relación canónica orientan la interpretación. Cristo es el centro del testimonio bíblico, y el Espíritu inspiró las Escrituras para instruir al pueblo de Dios.
+
+Leer fielmente exige humildad, estudio y disposición a obedecer lo que el texto realmente enseña, sin añadir sentidos arbitrarios ni ignorar su autoridad.
+''',
+        references: "Lucas 24:27,44-47; 2 Timoteo 3:16-17; 2 Pedro 1:20-21.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La Biblia comunica la verdad mediante diversos géneros literarios. Cada forma requiere atención a su vocabulario, estructura, contexto y propósito. Reconocer el género no reduce la inspiración ni la autoridad de las Escrituras; permite comprenderlas correctamente.
+
+La narración describe acontecimientos, la poesía utiliza imágenes, las epístolas desarrollan argumentos y la apocalíptica comunica mediante símbolos. Cristo es el centro del testimonio bíblico, y el Espíritu inspiró a los autores humanos para transmitir la palabra de Dios.
+
+La interpretación fiel evita tanto el literalismo que ignora las figuras como la alegoría arbitraria. El objetivo es escuchar y obedecer lo que Dios ha comunicado en el texto.
+''',
   ),
+
   Study(
     number: '109',
     title: "La interpretación bíblica: principios para comprender fielmente las Escrituras",
