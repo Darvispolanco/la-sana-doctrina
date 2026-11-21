@@ -67,14 +67,13 @@ class _HomeBannerAdState extends State<HomeBannerAd> {
 BannerAd? _bannerAd;
 bool _isLoaded = false;
 
-// ID de prueba de Google.
-// Sustituir por el ID real cuando la aplicación esté lista.
-static const String _testAdUnitId =
-'ca-app-pub-3940256099942544/6300978111';
+// Unidad de banner de producción registrada por el propietario en AdMob.
+static const String _bannerAdUnitId =
+    'ca-app-pub-3642704038738168/1492221540';
 
 void _loadBanner() {
 final banner = BannerAd(
-adUnitId: _testAdUnitId,
+adUnitId: _bannerAdUnitId,
 size: AdSize.banner,
 request: const AdRequest(),
 listener: BannerAdListener(
