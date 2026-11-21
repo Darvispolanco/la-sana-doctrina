@@ -1,0 +1,1000 @@
+references: 'Efesios 1:13-14; Efesios 4:30; 2 Corintios 1:21-22.'
+),
+StudySection(title: '26. La Trinidad y el cumplimiento de las promesas',
+content:
+'La obra salvadora revela la participación personal del Padre, del Hijo y del Espíritu Santo. El Padre establece el propósito, el Hijo realiza la redención y el Espíritu aplica sus beneficios. Esta distinción no significa que existan tres voluntades divinas enfrentadas, sino una sola obra del único Dios en tres personas distintas.',
+references: 'Efesios 1:3-14; 1 Pedro 1:2; Tito 3:4-7.'
+),
+StudySection(
+title: '27. La fidelidad de Dios en la encarnación',
+content:
+'La encarnación demuestra que Dios cumplió las promesas relacionadas con la venida del Salvador. El Hijo eterno asumió una naturaleza humana y entró verdaderamente en nuestra historia. En Jesús se manifiestan la fidelidad del propósito divino y la cercanía de Dios con la humanidad.',
+references: 'Juan 1:14; Gálatas 4:4-5; Hebreos 2:14-17.'
+),
+StudySection(
+title: '28. La fidelidad de Cristo hasta la muerte',
+content:
+'Jesús permaneció obediente al Padre hasta entregar su vida en la cruz. Su fidelidad demuestra que cumplió plenamente la misión redentora. No abandonó su propósito ante el sufrimiento, sino que se entregó voluntariamente por los pecadores.',
+references: 'Lucas 22:39-46; Juan 10:17-18; Filipenses 2:8.'
+),
+StudySection(
+title: '29. La resurrección como confirmación de la fidelidad divina',
+content:
+'La resurrección de Cristo confirma que Dios cumplió su propósito salvador y venció el poder de la muerte. Los apóstoles proclamaron que este acontecimiento ocurrió conforme a las Escrituras. La esperanza cristiana no descansa en una idea abstracta, sino en un acontecimiento histórico central para la fe.',
+references: 'Salmos 16:8-11; Hechos 2:22-32; 1 Corintios 15:3-8.'
+),
+StudySection(
+title: '30. La fidelidad de Dios en la justificación',
+content:
+'La justificación demuestra que Dios cumple su promesa de salvación mediante la fe en Jesucristo. El creyente es declarado justo por la obra del Hijo y no por sus propios méritos. La fidelidad divina sostiene la seguridad de quienes confían en el evangelio.',
+references: 'Romanos 3:21-26; Romanos 5:1-2; Gálatas 2:16.'
+),
+StudySection(
+title: '31. La fidelidad de Dios en la adopción',
+content:
+'La adopción espiritual es un privilegio concedido a quienes reciben a Cristo. Dios no solamente perdona, sino que incorpora a los creyentes a su familia y les concede una herencia. El Espíritu Santo da testimonio de esta relación y fortalece la confianza filial.',
+references: 'Juan 1:12-13; Romanos 8:14-17; Gálatas 4:4-7.'
+),
+StudySection(
+title: '32. La fidelidad de Dios en la santificación',
+content:
+'La santificación implica una vida de transformación y crecimiento en obediencia. Pablo afirma que Dios es fiel y que Él realizará su obra en los creyentes. Esta promesa no elimina la responsabilidad de obedecer, sino que ofrece fundamento para depender de Dios mientras se avanza en la vida cristiana.',
+references: '1 Tesalonicenses 5:23-24; Filipenses 2:12-13; Hebreos 12:14.'
+),
+StudySection(
+title: '33. Dios es fiel para perdonar',
+content:
+'La Escritura enseña que Dios es fiel y justo para perdonar los pecados cuando los confesamos. Esta promesa no debe utilizarse como permiso para practicar el mal. La confesión bíblica reconoce la culpa y busca una relación restaurada con Dios, confiando en la obra de Jesucristo.',
+references: '1 Juan 1:7-9; Salmos 32:1-5; Proverbios 28:13.'
+),
+StudySection(
+title: '34. La fidelidad de Dios en la tentación',
+content:
+'Pablo enseña que Dios es fiel y no permitirá que la tentación supere aquello que podemos soportar, sino que dará también la salida. El contexto advierte sobre la idolatría y la presunción espiritual. El texto no promete una vida sin pruebas, sino la fidelidad de Dios para sostener al creyente y llamarlo a actuar responsablemente.',
+references: '1 Corintios 10:12-14; Santiago 1:12-15.'
+),
+StudySection(
+title: '35. La fidelidad de Dios en la prueba',
+content:
+'Las pruebas no significan automáticamente que Dios haya abandonado al creyente. La Escritura presenta a Dios como quien sostiene, fortalece y acompaña a su pueblo en medio de la dificultad. La fidelidad divina no garantiza que toda prueba termine rápidamente, pero sí ofrece fundamento para confiar en Él.',
+references: 'Isaías 43:1-3; Salmos 46:1-3; 1 Pedro 5:10.'
+),
+StudySection(
+title: '36. La fidelidad de Dios y la oración',
+content:
+'La oración cristiana se fundamenta en el carácter confiable de Dios. Los creyentes pueden presentar sus necesidades con confianza, pero deben hacerlo conforme a su voluntad. La fidelidad divina no significa que Dios concederá cualquier petición exactamente como se solicita, sino que siempre actuará conforme a su sabiduría y bondad.',
+references: 'Mateo 6:9-13; 1 Juan 5:14-15; Filipenses 4:6-7.'
+),
+StudySection(
+title: '37. La fidelidad de Dios y las promesas personales',
+content:
+'No toda expectativa, deseo o impresión personal constituye una promesa divina. Para afirmar que Dios ha prometido algo es necesario examinar la Escritura y su contexto. El creyente debe evitar atribuir al Señor palabras que no ha hablado y aprender a distinguir entre las promesas bíblicas, la sabiduría para decidir y las expectativas personales.',
+references: 'Deuteronomio 18:20-22; Jeremías 23:16-22; 1 Tesalonicenses 5:20-21.'
+),
+StudySection(
+title: '38. ¿Por qué algunas promesas parecen tardar?',
+content:
+'La Biblia presenta personas que esperaron durante largos períodos antes de ver el cumplimiento de una promesa. La espera no significa necesariamente abandono. Dios actúa conforme a su tiempo y propósito, aunque el creyente no siempre comprenda el proceso. La fe aprende a perseverar sin exigir que Dios se ajuste a nuestros calendarios.',
+references: 'Génesis 21:1-2; Habacuc 2:2-3; Hebreos 6:13-15.'
+),
+StudySection(
+title: '39. La fidelidad de Dios y la espera',
+content:
+'Esperar en Dios significa confiar en su carácter mientras se permanece en obediencia. No es pasividad irresponsable ni una excusa para evitar decisiones necesarias. El creyente puede actuar con sabiduría y diligencia, mientras reconoce que los resultados finales están bajo la soberanía del Señor.',
+references: 'Salmos 27:13-14; Isaías 40:28-31; Salmos 37:3-7.'
+),
+StudySection(
+title: '40. La fidelidad de Dios y el sufrimiento',
+content:
+'El sufrimiento puede generar preguntas profundas acerca de la presencia y fidelidad de Dios. La historia de Job y los salmos de lamento muestran que la fe bíblica permite expresar dolor y preguntas sin abandonar la confianza en el Señor. No debemos ofrecer explicaciones simplistas ni culpar automáticamente a quien atraviesa una situación difícil.',
+references: 'Job 1:20-22; Salmos 13:1-6; Romanos 8:18-28.'
+),
+StudySection(
+title: '41. La fidelidad de Dios y la seguridad de la salvación',
+content:
+'La seguridad de la salvación descansa en la obra de Cristo y en la fidelidad de Dios. Jesús declara que sus ovejas reciben vida eterna y que nadie puede arrebatarlas de su mano. Estos textos deben estudiarse junto con las exhortaciones bíblicas a permanecer en la fe y no apartarse de Cristo.',
+references: 'Juan 10:27-30; Filipenses 1:6; Hebreos 3:12-14.'
+),
+StudySection(
+title: '42. ¿Puede Dios permanecer fiel cuando el ser humano es infiel?',
+content:
+'Pablo afirma que, aunque los seres humanos sean infieles, Dios permanece fiel porque no puede negarse a sí mismo. El contexto no enseña que la infidelidad humana carezca de consecuencias ni que todos sean aprobados independientemente de su respuesta. Enseña que Dios no deja de ser verdadero y justo.',
+references: 'Romanos 3:3-4; 2 Timoteo 2:11-13.'
+),
+StudySection(
+title: '43. La fidelidad y las advertencias bíblicas',
+content:
+'Las advertencias de la Escritura también forman parte de la verdad que Dios comunica. No debemos seleccionar solamente las promesas agradables y descartar los llamados al arrepentimiento, la obediencia y la perseverancia. La fidelidad de Dios incluye cumplir sus declaraciones de bendición y sus advertencias de juicio.',
+references: 'Deuteronomio 28:1-68; Hebreos 10:26-31; Gálatas 6:7-8.'
+),
+StudySection(
+title: '44. La fidelidad de Dios y la iglesia',
+content:
+'La iglesia pertenece a Dios y está llamada a permanecer en Cristo. La fidelidad divina sostiene a la comunidad de creyentes, pero también la llama a vivir en verdad, unidad y santidad. La confianza en Dios debe producir responsabilidad y no indiferencia frente a la doctrina o la conducta.',
+references: '1 Corintios 1:4-9; Efesios 4:1-6; 1 Pedro 2:9-10.'
+),
+StudySection(
+title: '45. La fidelidad de Dios en el ministerio cristiano',
+content:
+'El servicio cristiano requiere fidelidad, perseverancia y dependencia de Dios. El éxito de un ministerio no debe medirse únicamente por popularidad, recursos o resultados visibles. La Escritura llama a los servidores a administrar fielmente lo que han recibido y a permanecer firmes en la tarea encomendada.',
+references: '1 Corintios 4:1-2; Colosenses 4:17; 2 Timoteo 4:7-8.'
+),
+StudySection(
+title: '46. La fidelidad de Dios y la segunda venida de Cristo',
+content:
+'La promesa del regreso de Jesucristo constituye una esperanza central de la iglesia. Aunque los creyentes no conocen el día ni la hora, pueden confiar en que Dios cumplirá lo anunciado. La espera debe producir vigilancia, santidad y perseverancia, no especulación ni establecimiento de fechas.',
+references: 'Mateo 24:36; Juan 14:1-3; Hechos 1:9-11; Tito 2:13.'
+),
+StudySection(
+title: '47. La fidelidad de Dios y la resurrección futura',
+content:
+'La esperanza cristiana incluye la resurrección de los muertos y la transformación de quienes pertenecen a Cristo. La promesa se fundamenta en la resurrección del propio Jesús. Dios no abandona su creación ni deja incompleto su propósito de redención.',
+references: '1 Corintios 15:20-26; 1 Tesalonicenses 4:13-18; Filipenses 3:20-21.'
+),
+StudySection(
+title: '48. La fidelidad de Dios y la nueva creación',
+content:
+'La Escritura anuncia cielos nuevos y tierra nueva donde habitará la justicia. Esta esperanza muestra que el propósito divino no termina en la experiencia presente de la iglesia. Dios llevará su obra a la consumación y eliminará definitivamente aquello que contradice su voluntad.',
+references: 'Isaías 65:17; 2 Pedro 3:13; Apocalipsis 21:1-5.'
+),
+StudySection(
+title: '49. Errores frecuentes sobre la fidelidad de Dios',
+content:
+'Entre los errores frecuentes están afirmar que Dios prometió todo lo que deseamos, interpretar cualquier pensamiento como una revelación infalible, pensar que la fidelidad garantiza ausencia de sufrimiento o creer que la espera significa abandono. La fidelidad debe entenderse según la Palabra, el carácter y el propósito revelado de Dios.',
+references: 'Deuteronomio 18:20-22; 1 Tesalonicenses 5:20-21; 2 Timoteo 2:13.'
+),
+StudySection(
+title: '50. La fidelidad del único Dios trino',
+content:
+'La fidelidad pertenece a la única naturaleza divina compartida plenamente por el Padre, el Hijo y el Espíritu Santo. El Padre cumple su propósito, el Hijo realiza fielmente la redención y el Espíritu Santo sella a los creyentes como garantía de la herencia prometida. Estas acciones personales no dividen a Dios en tres seres ni confunden a las personas. La Trinidad actúa en perfecta unidad. Por eso, la confianza cristiana descansa en el único Dios que es verdadero, inmutable y fiel para siempre.',
+references: 'Efesios 1:3-14; 1 Corintios 1:9; Hebreos 10:23; 2 Corintios 13:14.'
+),
+],
+conclusion:
+'La fidelidad de Dios es la garantía de que Él permanece verdadero a su carácter, su Palabra y sus propósitos. Desde los pactos del Antiguo Testamento hasta la salvación realizada en Jesucristo, la historia bíblica muestra que el Señor cumple sus promesas. El Padre establece el propósito eterno, el Hijo cumple fielmente la misión redentora y el Espíritu Santo aplica la obra de salvación y sella a los creyentes. Esta doctrina no garantiza que todas nuestras expectativas personales se cumplirán, ni elimina las pruebas, sino que nos enseña a confiar en lo que Dios realmente ha prometido. Por tanto, debemos vivir con fe, paciencia, obediencia y esperanza, sabiendo que el único Dios trino nunca deja de ser fiel.',
+),
+
+Study(
+number: '46',
+title: 'La soberanía de Dios: su autoridad sobre la creación, la historia y la salvación',
+subtitle: 'El gobierno supremo del Padre, del Hijo y del Espíritu Santo sobre todas las cosas',
+introduction:
+'La soberanía de Dios es la enseñanza bíblica de que el Señor posee autoridad suprema sobre toda la creación y gobierna conforme a su sabiduría, justicia y voluntad. Nada está por encima de su autoridad, ningún acontecimiento escapa a su conocimiento y ningún poder puede frustrar definitivamente sus propósitos. Esta doctrina debe estudiarse junto con la santidad, el amor, la justicia y la fidelidad de Dios. La soberanía divina no significa que Dios sea autor del pecado ni que los seres humanos carezcan de responsabilidad moral. Las Escrituras presentan al Padre como soberano, al Hijo como Señor y Rey, y al Espíritu Santo como Dios que obra eficazmente en la creación, la providencia y la salvación. Por tanto, estudiar la soberanía de Dios permite comprender mejor su grandeza, confiar en su gobierno y vivir con obediencia delante de Él.',
+sections: [
+StudySection(
+title: '1. Definición bíblica de la soberanía de Dios',
+content:
+'La soberanía de Dios significa que Él tiene autoridad suprema sobre todo cuanto existe. No recibe su autoridad de ninguna criatura, institución o poder externo. Su gobierno procede de su propia naturaleza divina. La Biblia enseña que Dios hace conforme a su voluntad en los cielos y en la tierra. Esta verdad no presenta a Dios como un gobernante injusto o caprichoso, sino como el Señor perfectamente sabio, santo y justo. Su soberanía está inseparablemente relacionada con sus atributos.',
+references: 'Salmos 103:19; Daniel 4:35; 1 Timoteo 6:15.'
+),
+StudySection(
+title: '2. Dios es el único soberano absoluto',
+content:
+'Las autoridades humanas tienen límites, dependen de circunstancias y pueden perder su posición. Dios, en cambio, no tiene superior. Su autoridad no está condicionada por la aprobación humana ni por el poder de otras criaturas. La Escritura lo presenta como Rey de los siglos, inmortal e invisible. Esto significa que ningún gobierno, ejército, imperio o fuerza espiritual puede colocarse por encima de Él. Todos los poderes creados están sujetos a su autoridad.',
+references: '1 Timoteo 1:17; Salmos 47:7-8; Isaías 40:22-23.'
+),
+StudySection(
+title: '3. La soberanía y la unidad de Dios',
+content:
+'La soberanía pertenece al único Dios verdadero. El cristianismo trinitario no enseña que existan tres soberanos independientes ni tres dioses que compiten por el gobierno del universo. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina. Por eso, la autoridad divina no está dividida entre tres seres. Las personas son distintas, pero no constituyen tres poderes divinos separados. La soberanía es una expresión de la única esencia de Dios.',
+references: 'Deuteronomio 6:4; Isaías 45:5-6; Efesios 4:5-6.'
+),
+StudySection(
+title: '4. El Padre y su autoridad soberana',
+content:
+'Las Escrituras presentan al Padre como aquel de quien proceden los propósitos divinos y que gobierna todas las cosas conforme a su voluntad. Jesús enseñó a sus discípulos a dirigirse al Padre como Señor del cielo y de la tierra. Esto no significa que el Padre sea más Dios que el Hijo o que el Espíritu Santo. Significa que la Biblia identifica personalmente al Padre en la administración de los propósitos divinos, sin negar la plena divinidad de las otras dos personas.',
+references: 'Mateo 11:25-26; Efesios 1:3-6; 1 Corintios 8:6.'
+),
+StudySection(
+title: '5. El Hijo participa plenamente del gobierno divino',
+content:
+'Jesucristo no es una criatura elevada a una posición de autoridad. El Nuevo Testamento enseña que todas las cosas fueron creadas por medio de Él y que todas subsisten en Él. Después de su resurrección declaró que toda autoridad le había sido dada en el cielo y en la tierra. Su autoridad mesiánica se manifiesta en la historia de la redención, pero su relación con la creación es anterior a su encarnación. El Hijo comparte la naturaleza divina y ejerce el señorío que corresponde a Dios.',
+references: 'Juan 1:1-3; Colosenses 1:16-17; Mateo 28:18.'
+),
+StudySection(
+title: '6. El Espíritu Santo y la obra soberana de Dios',
+content:
+'El Espíritu Santo no es una fuerza impersonal que actúa separadamente de Dios. Es la persona divina que participa en las obras de Dios. En la creación aparece relacionado con la actividad creadora y en la vida de los creyentes obra regeneración, santificación y fortalecimiento. Su acción no es independiente de la voluntad divina ni compite con el Padre y el Hijo. El Espíritu es plenamente Dios y actúa en perfecta unidad con ellos.',
+references: 'Génesis 1:2; Salmos 104:30; Hechos 5:3-4; 1 Corintios 12:11.'
+),
+StudySection(
+title: '7. La soberanía de Dios sobre la creación',
+content:
+'Dios no solamente dio origen al universo, sino que continúa siendo su Señor. La creación depende de Él para su existencia y conservación. Los cielos, la tierra, los mares, los animales y los seres humanos no existen de manera autónoma. Todo lo creado permanece bajo la autoridad de su Creador. Esta verdad debe producir reverencia y responsabilidad, pues el mundo no nos pertenece de manera absoluta: somos administradores de lo que Dios ha creado.',
+references: 'Génesis 1:1; Salmos 24:1; Nehemías 9:6.'
+),
+StudySection(
+title: '8. Dios gobierna sobre los cielos y la tierra',
+content:
+'La autoridad divina no está limitada a una región geográfica, una cultura o una dimensión de la existencia. Dios reina sobre los cielos y la tierra. No existe un territorio donde su autoridad deje de ser válida. Los seres humanos pueden ignorarlo o rebelarse contra Él, pero esa rebelión no elimina su señorío. La creación entera permanece bajo su dominio, aunque todavía existan manifestaciones de pecado y desorden que esperan su resolución definitiva.',
+references: 'Deuteronomio 10:14; Salmos 115:3; Mateo 5:34-35.'
+),
+StudySection(
+title: '9. La soberanía de Dios sobre las naciones',
+content:
+'Las naciones, sus fronteras y sus estructuras políticas no están fuera del conocimiento y gobierno de Dios. La Biblia enseña que Él tiene autoridad sobre los pueblos y que puede levantar o quitar gobernantes. Esto no significa que todo gobierno sea justo ni que cada decisión de una autoridad humana represente la voluntad moral de Dios. Significa que ninguna nación posee poder absoluto y que todos los gobernantes tendrán que responder delante del Juez de toda la tierra.',
+references: 'Salmos 22:28; Daniel 2:21; Hechos 17:26.'
+),
+StudySection(
+title: '10. Dios es soberano sobre los acontecimientos históricos',
+content:
+'La historia humana no es una sucesión de acontecimientos completamente independientes de Dios. Las Escrituras muestran que el Señor dirige la historia hacia el cumplimiento de sus propósitos. Los acontecimientos políticos, sociales y religiosos pueden parecer desconectados, pero Dios no pierde el control de su plan redentor. Esto no autoriza a interpretar cada acontecimiento como si conociéramos exactamente la intención divina detrás de él. Debemos distinguir entre lo que Dios ha revelado y aquello que permanece oculto.',
+references: 'Isaías 46:9-10; Hechos 17:26; Efesios 1:11.'
+),
+StudySection(
+title: '11. La providencia divina',
+content:
+'La providencia es la obra mediante la cual Dios sostiene, dirige y gobierna su creación. Dios no abandonó el universo después de crearlo. La Biblia presenta su cuidado sobre la naturaleza y sobre la vida humana. La providencia incluye el sostenimiento de la existencia, la disposición de circunstancias y la realización de sus propósitos. Sin embargo, no debemos confundir providencia con una explicación automática de cada detalle: algunas situaciones no pueden comprenderse plenamente desde nuestra perspectiva limitada.',
+references: 'Salmos 145:15-16; Mateo 6:26-30; Hebreos 1:3.'
+),
+StudySection(
+title: '12. La diferencia entre soberanía y providencia',
+content:
+'La soberanía describe la autoridad suprema de Dios; la providencia describe su gobierno y cuidado activo sobre lo creado. Ambas realidades están relacionadas, pero no son exactamente la misma expresión. Dios es soberano porque tiene autoridad sobre todas las cosas, y manifiesta esa soberanía mediante su providencia. Esta distinción ayuda a comprender que el gobierno divino no es solamente un título, sino una realidad que se manifiesta en la conservación y dirección de la creación.',
+references: 'Salmos 103:19; Colosenses 1:17; Hebreos 1:3.'
+),
+StudySection(
+title: '13. Dios sostiene continuamente la existencia',
+content:
+'La creación depende continuamente de Dios. Pablo afirma que todas las cosas subsisten en Cristo. Esto significa que el universo no posee independencia absoluta frente a su Creador. La existencia de cada criatura depende de la voluntad y el poder sustentador de Dios. Esta verdad debe conducir a la humildad: la vida no es una posesión autónoma que podamos reclamar como si no tuviéramos ninguna dependencia de nuestro Creador.',
+references: 'Colosenses 1:16-17; Hechos 17:24-28; Hebreos 1:3.'
+),
+StudySection(
+title: '14. La soberanía y las leyes de la naturaleza',
+content:
+'Las regularidades que observamos en la naturaleza no compiten con la soberanía divina. La Biblia presenta a Dios como quien establece y sostiene el orden de la creación. Las leyes físicas describen regularidades del mundo creado, pero no constituyen poderes superiores a Dios. El estudio científico de la naturaleza puede ayudarnos a conocer mejor el funcionamiento de la creación, mientras la teología reflexiona sobre su origen, dependencia y propósito.',
+references: 'Génesis 8:22; Salmos 148:5-6; Jeremías 33:25.'
+),
+StudySection(
+title: '15. La soberanía de Dios y los milagros',
+content:
+'Los milagros son acontecimientos extraordinarios mediante los cuales Dios manifiesta su poder y cumple propósitos particulares. Las señales realizadas por Jesús confirmaron su identidad y anunciaron la llegada del reino de Dios. La soberanía divina significa que Dios no está limitado por las posibilidades ordinarias de la naturaleza. Sin embargo, no debemos afirmar que cada situación difícil necesariamente terminará con un milagro visible. La fe bíblica confía en Dios sin exigirle que actúe de una manera determinada.',
+references: 'Éxodo 14:21-31; Juan 2:11; Hechos 3:6-10.'
+),
+StudySection(
+title: '16. Dios gobierna sin perder su santidad',
+content:
+'La soberanía de Dios nunca debe separarse de su santidad. Dios no utiliza su autoridad para realizar maldad, engaño o injusticia. Todo lo que hace es coherente con su carácter perfecto. Su gobierno no está sometido a una norma externa que sea superior a Él, pero tampoco es arbitrario. La justicia y la santidad pertenecen a su propia naturaleza. Por eso, su autoridad es digna de confianza y no debe compararse con los abusos de poder humanos.',
+references: 'Salmos 99:1-4; Habacuc 1:13; Apocalipsis 15:3-4.'
+),
+StudySection(
+title: '17. La soberanía y la sabiduría infinita de Dios',
+content:
+'Dios gobierna con conocimiento perfecto. Los seres humanos toman decisiones con información limitada y pueden equivocarse al evaluar las consecuencias. Dios no enfrenta esa limitación. Su sabiduría le permite conocer perfectamente las circunstancias y actuar de acuerdo con sus propósitos. Cuando no comprendemos lo que ocurre, no debemos concluir que Dios carece de sabiduría. La Escritura nos llama a confiar en Él incluso cuando nuestra comprensión es incompleta.',
+references: 'Romanos 11:33-36; Salmos 147:5; Isaías 55:8-9.'
+),
+StudySection(
+title: '18. La soberanía y la libertad humana',
+content:
+'La Biblia presenta a Dios como soberano y a los seres humanos como responsables de sus decisiones. Ambas enseñanzas deben conservarse. Las personas eligen, desean, obedecen, desobedecen y responden moralmente por sus acciones. La soberanía divina no convierte a los seres humanos en máquinas sin voluntad ni elimina la responsabilidad personal. Aunque existen diferentes explicaciones teológicas sobre cómo se relacionan la voluntad divina y la libertad humana, todas deben tomar en serio los textos bíblicos que afirman ambas realidades.',
+references: 'Deuteronomio 30:19; Josué 24:15; Filipenses 2:12-13.'
+),
+StudySection(
+title: '19. La responsabilidad moral del ser humano',
+content:
+'Dios llama a las personas a obedecer sus mandamientos y responsabilizarse por sus decisiones. La soberanía no puede utilizarse como excusa para justificar el pecado. Nadie puede afirmar que su maldad deja de ser culpable porque Dios gobierna el universo. Las Escrituras llaman al arrepentimiento, a la justicia y a la obediencia. La responsabilidad moral permanece porque el ser humano es una criatura capaz de responder ante su Creador.',
+references: 'Ezequiel 18:20; Romanos 14:12; Gálatas 6:7-8.'
+),
+StudySection(
+title: '20. La soberanía divina y el problema del mal',
+content:
+'Una de las preguntas más difíciles de la teología es cómo puede existir el mal en un mundo gobernado por un Dios santo y poderoso. La Biblia no presenta el mal como una fuerza igual a Dios ni enseña que Dios sea moralmente culpable de la maldad humana. Reconoce la realidad del pecado, la rebelión y el sufrimiento, y anuncia que Dios juzgará el mal y establecerá plenamente su justicia. No todas las preguntas relacionadas con este tema reciben una explicación detallada, por lo que debemos evitar respuestas simplistas.',
+references: 'Génesis 3:1-19; Santiago 1:13-17; Apocalipsis 21:4.'
+),
+StudySection(
+title: '21. ¿Es Dios el autor del pecado?',
+content:
+'La Biblia rechaza la idea de que Dios sea tentador o autor moral del pecado. Santiago enseña que Dios no tienta a nadie con el mal. La santidad divina excluye que Él practique maldad o encuentre placer en la injusticia. Cuando estudiamos los textos que relacionan la voluntad de Dios con acontecimientos donde aparece el pecado humano, debemos distinguir entre el gobierno soberano de Dios y la responsabilidad moral de quienes realizan el mal. Dios puede limitar, juzgar o encaminar acontecimientos sin compartir la maldad de sus autores.',
+references: 'Santiago 1:13-15; 1 Juan 1:5; Salmos 5:4.'
+),
+StudySection(
+title: '22. El caso de José y la soberanía de Dios',
+content:
+'La historia de José muestra cómo Dios puede llevar adelante sus propósitos incluso cuando otras personas actúan con intenciones perversas. Sus hermanos lo trataron injustamente, pero posteriormente José reconoció que Dios había encaminado aquella situación para preservar muchas vidas. El relato no declara inocentes a sus hermanos; reconoce su maldad y, al mismo tiempo, la capacidad de Dios para obrar en medio de circunstancias difíciles. Este pasaje enseña providencia sin eliminar responsabilidad humana.',
+references: 'Génesis 37:18-28; Génesis 45:4-8; Génesis 50:19-20.'
+),
+StudySection(
+title: '23. La soberanía de Dios en el caso de Faraón',
+content:
+'El relato del éxodo afirma que Dios endureció el corazón de Faraón y también describe la resistencia y el endurecimiento del propio Faraón. Estos textos deben estudiarse conjuntamente. El gobernante egipcio no aparece como una persona inocente obligada a cometer injusticias, sino como alguien que se opuso al mandato divino y oprimió al pueblo. Dios manifestó su poder mediante juicios que revelaron su autoridad. El pasaje enseña que la resistencia humana no puede frustrar el propósito redentor de Dios.',
+references: 'Éxodo 7:3-5; Éxodo 8:15; Éxodo 9:12; Éxodo 14:4.'
+),
+StudySection(
+title: '24. La soberanía de Dios y los gobernantes humanos',
+content:
+'Romanos 13 enseña que las autoridades civiles tienen una función dentro del orden establecido por Dios. Este pasaje no convierte a todos los gobernantes en personas justas ni obliga a considerar moralmente correcto todo lo que ordenen. La misma Biblia contiene ejemplos de autoridades que actuaron injustamente y de creyentes que tuvieron que obedecer a Dios antes que a los hombres. La autoridad humana es limitada y debe ejercerse con justicia.',
+references: 'Romanos 13:1-7; Hechos 5:27-29; Daniel 6:10.'
+),
+StudySection(
+title: '25. Dios puede derribar el orgullo de los poderosos',
+content:
+'La historia de Nabucodonosor muestra que el poder político y la grandeza humana no colocan a nadie por encima de Dios. El rey fue confrontado con su orgullo y tuvo que reconocer que el Altísimo gobierna sobre el reino de los hombres. El relato advierte contra la arrogancia y enseña que toda autoridad humana es temporal. La grandeza verdadera no consiste en atribuirse una independencia absoluta, sino en reconocer al Señor.',
+references: 'Daniel 4:28-37; Proverbios 16:18; Santiago 4:6.'
+),
+StudySection(
+title: '26. La soberanía divina y las decisiones humanas',
+content:
+'Proverbios 16:9 enseña que el ser humano puede planificar su camino mientras Dios dirige sus pasos. El texto no condena la planificación ni presenta la responsabilidad personal como algo inútil. Enseña que nuestros planes están sujetos al gobierno de Dios. Por eso debemos trabajar, pensar y tomar decisiones con responsabilidad, reconociendo que no tenemos control absoluto sobre el futuro. La confianza en Dios no elimina la prudencia; la fundamenta.',
+references: 'Proverbios 16:9; Proverbios 19:21; Santiago 4:13-15.'
+),
+StudySection(
+title: '27. La soberanía de Dios sobre el tiempo',
+content:
+'Dios no está limitado por la percepción humana del tiempo. La Escritura presenta su eternidad y su conocimiento de todas las generaciones. Para nosotros, algunos acontecimientos parecen demorarse demasiado; sin embargo, la espera humana no significa que Dios haya perdido el control. La Biblia enseña que existe un tiempo apropiado para sus propósitos. Esta verdad invita a la paciencia y a evitar imponer a Dios nuestros propios calendarios.',
+references: 'Salmos 90:1-4; Eclesiastés 3:1-11; 2 Pedro 3:8-9.'
+),
+StudySection(
+title: '28. La soberanía y las promesas de Dios',
+content:
+'Las promesas divinas son confiables porque proceden del Dios soberano y fiel. Ningún poder creado puede impedir definitivamente el cumplimiento de lo que Dios ha prometido. Sin embargo, debemos interpretar cada promesa según su contexto y destinatarios. No todas las promesas particulares hechas a Israel, a los apóstoles o a determinados personajes bíblicos pueden aplicarse directamente a cada creyente. La soberanía nos llama a confiar en las promesas que realmente encontramos en las Escrituras.',
+references: 'Números 23:19; Josué 21:45; 2 Corintios 1:20.'
+),
+StudySection(
+title: '29. La soberanía divina y los pactos bíblicos',
+content:
+'Los pactos bíblicos muestran la iniciativa de Dios en la historia de la redención. Desde las promesas a Abraham hasta el nuevo pacto anunciado por los profetas y establecido por Jesucristo, Dios desarrolla su propósito salvador. El cumplimiento de estos pactos no depende de la capacidad humana para controlar la historia. Dios permanece fiel a su Palabra. La historia de los pactos revela la continuidad del plan divino y su culminación en Cristo.',
+references: 'Génesis 12:1-3; Jeremías 31:31-34; Lucas 22:20.'
+),
+StudySection(
+title: '30. La elección divina en el plan de salvación',
+content:
+'Las Escrituras hablan de la elección de Dios en relación con su propósito salvador. Efesios 1 presenta la elección en Cristo y destaca la gracia divina como fundamento de la salvación. Este tema ha sido interpretado de diferentes maneras dentro de la teología cristiana. Un estudio responsable debe reconocer la iniciativa de Dios, la centralidad de Cristo y los llamados bíblicos a creer y perseverar. No debemos utilizar la elección para alimentar orgullo, desprecio hacia otros o especulaciones que vayan más allá de la revelación.',
+references: 'Efesios 1:3-12; Juan 15:16; 1 Pedro 1:1-2.'
+),
+StudySection(
+title: '31. La soberanía de Dios en la salvación',
+content:
+'La salvación no es una obra que el ser humano pueda producir independientemente de Dios. El Padre envía al Hijo, el Hijo realiza la obra redentora y el Espíritu Santo aplica esa obra al corazón de las personas. La salvación tiene su origen en la gracia divina y no en el mérito humano. Al mismo tiempo, el evangelio llama a las personas a arrepentirse y creer. La soberanía divina y la responsabilidad de responder al evangelio aparecen juntas en la enseñanza bíblica.',
+references: 'Juan 3:16-17; Efesios 2:8-10; Tito 3:4-7.'
+),
+StudySection(
+title: '32. El Padre y el propósito eterno de salvación',
+content:
+'El Padre aparece en el Nuevo Testamento como quien establece el propósito de salvación y envía al Hijo al mundo. Su iniciativa no nace de una obligación externa, sino de su amor y misericordia. La elección y la adopción se presentan como expresiones de su gracia. Sin embargo, el propósito del Padre no debe separarse de la obra del Hijo ni de la aplicación del Espíritu Santo. La salvación es una obra divina unificada.',
+references: 'Juan 6:37-40; Efesios 1:3-6; Gálatas 4:4-6.'
+),
+StudySection(
+title: '33. El Hijo y el cumplimiento del propósito salvador',
+content:
+'Jesucristo es el centro de la obra redentora. El Hijo eterno asumió la naturaleza humana, vivió sin pecado, murió por los pecadores y resucitó. Su obra no fue un acontecimiento accidental ni una derrota de los propósitos divinos. La cruz manifiesta el amor, la justicia y la sabiduría de Dios. Por medio de Cristo, quienes creen reciben reconciliación con Dios y esperanza de vida eterna.',
+references: 'Juan 10:17-18; Romanos 5:8-11; 1 Corintios 1:23-24.'
+),
+StudySection(
+title: '34. El Espíritu Santo aplica la obra de salvación',
+content:
+'El Espíritu Santo obra en las personas para conducirlas a la vida nueva. Jesús enseñó que el nacimiento espiritual es obra del Espíritu. Pablo relaciona la salvación con la regeneración y la renovación producidas por Él. El Espíritu convence de pecado, da testimonio de Cristo, habita en los creyentes y los santifica. Su ministerio no sustituye la obra del Hijo, sino que aplica y hace efectiva en la vida del creyente la salvación realizada por Cristo.',
+references: 'Juan 3:5-8; Juan 16:7-14; Tito 3:5-6.'
+),
+StudySection(
+title: '35. La soberanía y la proclamación del evangelio',
+content:
+'El gobierno soberano de Dios no elimina la necesidad de predicar el evangelio. Jesús ordenó hacer discípulos de todas las naciones. Pablo enseñó que la fe viene por el oír la palabra de Cristo. Dios utiliza la proclamación del evangelio como medio para llamar a las personas a la salvación. Por tanto, la iglesia no debe permanecer pasiva bajo el argumento de que Dios ya conoce a quienes salvará. La soberanía divina impulsa la misión y sostiene la esperanza del evangelista.',
+references: 'Mateo 28:18-20; Romanos 10:13-17; 1 Corintios 1:21.'
+),
+StudySection(
+title: '36. La soberanía de Dios y la oración',
+content:
+'La oración no informa a Dios de algo que desconoce ni obliga al Señor a cambiar su carácter. Es una expresión de comunión, dependencia y confianza. La Biblia invita a pedir, interceder y presentar nuestras necesidades delante de Dios. Aunque el Señor conoce todas las cosas, ha establecido la oración como parte de la vida de sus hijos. Orar no significa controlar la voluntad divina, sino buscar su dirección y confiar en su sabiduría.',
+references: 'Mateo 6:8-10; Filipenses 4:6-7; 1 Juan 5:14-15.'
+),
+StudySection(
+title: '37. ¿La oración puede cambiar los acontecimientos?',
+content:
+'La Biblia contiene relatos donde Dios responde a la oración y actúa en favor de personas y comunidades. También presenta situaciones donde la respuesta divina no coincide con lo que los creyentes esperaban. La oración tiene importancia real, pero no convierte al ser humano en dueño de los resultados. Dios escucha conforme a su voluntad y sabiduría. Por eso, la oración bíblica combina petición sincera, perseverancia y disposición para aceptar la voluntad del Señor.',
+references: 'Éxodo 32:9-14; 2 Reyes 20:1-6; Mateo 26:39.'
+),
+StudySection(
+title: '38. La soberanía divina frente al sufrimiento',
+content:
+'El sufrimiento constituye una realidad dolorosa de la experiencia humana. La Biblia no lo minimiza ni exige que las personas oculten su tristeza. Los salmos expresan angustia, preguntas y peticiones de ayuda. La soberanía de Dios ofrece la seguridad de que el sufrimiento no tiene la última palabra y de que el Señor permanece presente con quienes confían en Él. Sin embargo, no debemos afirmar que conocemos la razón específica de cada tragedia o dolor.',
+references: 'Salmos 34:18; Romanos 8:18; 2 Corintios 1:3-5.'
+),
+StudySection(
+title: '39. El libro de Job y los límites del conocimiento humano',
+content:
+'Job sufrió pérdidas profundas sin conocer inicialmente el contexto celestial de su prueba. Sus amigos intentaron explicar su sufrimiento mediante conclusiones equivocadas. El libro enseña que el ser humano no posee conocimiento suficiente para interpretar todos los acontecimientos. Dios confronta la limitación de Job, pero también rechaza las explicaciones injustas de sus amigos. La enseñanza central no es que todo sufrimiento tenga una causa que podamos descubrir, sino que debemos reconocer los límites de nuestra comprensión y la grandeza de Dios.',
+references: 'Job 1:1-22; Job 38:1-7; Job 42:1-7.'
+),
+StudySection(
+title: '40. La soberanía y la presencia de Dios en la prueba',
+content:
+'La presencia de Dios no significa que el creyente nunca enfrentará dificultades. Jesús advirtió que sus discípulos tendrían aflicciones, pero también les aseguró su victoria. La Biblia enseña que Dios fortalece, consuela y sostiene a los suyos en medio de las pruebas. No debemos medir el amor de Dios únicamente por la ausencia de problemas. Su fidelidad permanece incluso cuando las circunstancias son difíciles y todavía no comprendemos lo que ocurre.',
+references: 'Juan 16:33; Isaías 43:1-2; 2 Corintios 12:9-10.'
+),
+StudySection(
+title: '41. La soberanía divina y la perseverancia cristiana',
+content:
+'La vida cristiana requiere perseverancia. Las Escrituras llaman a permanecer en la fe, resistir la tentación y continuar obedeciendo a Cristo. La confianza en el poder de Dios no debe producir descuido espiritual. Filipenses enseña que Dios obra en los creyentes para producir tanto el querer como el hacer, mientras los exhorta a vivir responsablemente. La perseverancia cristiana implica dependencia de Dios y compromiso real con la obediencia.',
+references: 'Filipenses 1:6; Filipenses 2:12-13; Hebreos 10:35-39.'
+),
+StudySection(
+title: '42. La soberanía y la seguridad de los creyentes',
+content:
+'Jesús enseñó que sus ovejas están bajo su cuidado y que nadie puede arrebatarlas de su mano. Esta promesa ofrece seguridad en el poder y la fidelidad del Señor. La seguridad cristiana no debe convertirse en una autorización para vivir deliberadamente en pecado. El mismo Nuevo Testamento contiene exhortaciones a permanecer en Cristo y advertencias contra el abandono de la fe. La seguridad debe estudiarse junto con la perseverancia, la obediencia y las demás enseñanzas bíblicas.',
+references: 'Juan 10:27-30; Romanos 8:31-39; Hebreos 3:12-14.'
+),
+StudySection(
+title: '43. La soberanía de Dios y la disciplina espiritual',
+content:
+'Dios utiliza la enseñanza de su Palabra, la corrección y la comunión cristiana para formar el carácter de sus hijos. La disciplina divina no debe confundirse con condenación ni con maltrato humano. Hebreos presenta la disciplina como parte de la formación espiritual. El creyente responde con humildad, arrepentimiento y obediencia. Reconocer la soberanía de Dios significa aceptar que Él tiene autoridad para corregir nuestras actitudes y orientar nuestra vida conforme a su voluntad.',
+references: 'Hebreos 12:5-11; Proverbios 3:11-12; 2 Timoteo 3:16-17.'
+),
+StudySection(
+title: '44. La soberanía y la autoridad de la iglesia',
+content:
+'Cristo es la cabeza de la iglesia. Ningún líder humano posee autoridad absoluta sobre la comunidad cristiana. Los pastores y responsables deben servir con humildad, fidelidad bíblica y responsabilidad. La autoridad eclesial tiene límites y debe ejercerse de acuerdo con las enseñanzas de Cristo. La iglesia pertenece al Señor, no a una persona, familia o institución humana. Por eso, toda autoridad dentro de ella debe someterse a la Palabra de Dios.',
+references: 'Efesios 1:20-23; Colosenses 1:18; 1 Pedro 5:1-4.'
+),
+StudySection(
+title: '45. La soberanía divina y los dones espirituales',
+content:
+'El Espíritu Santo distribuye los dones conforme a su voluntad. Pablo enseña que hay diversidad de dones, ministerios y operaciones, pero un mismo Dios que obra en todos. Ningún creyente puede atribuirse superioridad espiritual por poseer una capacidad determinada. Los dones tienen como propósito la edificación de la iglesia y deben ejercerse con amor, orden y sujeción a la enseñanza apostólica. La soberanía del Espíritu excluye la manipulación de los dones para obtener prestigio personal.',
+references: '1 Corintios 12:4-11; 1 Corintios 14:26-33; Efesios 4:11-13.'
+),
+StudySection(
+title: '46. Los textos difíciles sobre la voluntad de Dios',
+content:
+'Algunos pasajes describen a Dios como quien se arrepiente, cambia una decisión anunciada o responde a una situación humana. Estos textos no deben utilizarse aisladamente para concluir que Dios es inconstante o que ignora el futuro. La Biblia también declara que Dios no es hombre para mentir ni cambiar arbitrariamente. En determinados relatos, el lenguaje describe un cambio en la manera en que Dios trata con las personas cuando estas cambian su conducta. Debemos respetar el género literario, el contexto y el conjunto de la revelación bíblica.',
+references: 'Génesis 6:6-7; Números 23:19; 1 Samuel 15:10-11, 28-29; Jeremías 18:7-10.'
+),
+StudySection(
+title: '47. ¿Por qué Dios permite que existan injusticias?',
+content:
+'La existencia de injusticias no demuestra que Dios sea indiferente o incapaz de actuar. La Escritura denuncia la opresión, condena la corrupción y anuncia el juicio divino. Dios puede permitir temporalmente acciones que desaprueba moralmente, pero nunca declara justo lo que es injusto. La paciencia divina no equivale a aprobación. Los creyentes están llamados a practicar la justicia, defender al vulnerable y esperar el juicio perfecto del Señor.',
+references: 'Miqueas 6:8; Isaías 1:16-17; Romanos 2:5-8.'
+),
+StudySection(
+title: '48. La soberanía de Dios y el juicio final',
+content:
+'La historia se dirige hacia un juicio en el que Dios manifestará plenamente su justicia. Jesucristo es presentado como el Juez establecido por el Padre. Cada persona responderá por sus obras y nadie podrá utilizar su posición social, riqueza o poder para escapar de la justicia divina. El juicio final demuestra que la maldad no permanecerá para siempre y que Dios establecerá el orden justo que corresponde a su santidad.',
+references: 'Hechos 17:30-31; Romanos 2:5-11; Apocalipsis 20:11-15.'
+),
+StudySection(
+title: '49. La soberanía divina y la consumación del reino',
+content:
+'La soberanía de Dios alcanzará su manifestación definitiva cuando sean eliminados el pecado, la muerte y toda oposición a su reino. Apocalipsis presenta una nueva creación donde Dios habitará con su pueblo y ya no habrá muerte ni dolor. El reino de Dios no depende del éxito de los proyectos humanos ni puede ser destruido por las fuerzas del mal. La esperanza cristiana está fundamentada en la promesa de que el Señor cumplirá su propósito eterno.',
+references: '1 Corintios 15:24-28; Apocalipsis 11:15; Apocalipsis 21:1-5.'
+),
+StudySection(
+title: '50. Vivir confiando en la soberanía de Dios',
+content:
+'Reconocer la soberanía divina debe transformar la manera de vivir. El creyente aprende a planificar con humildad, obedecer la Palabra, orar con confianza, trabajar con responsabilidad y enfrentar la incertidumbre sin desesperación. No significa permanecer pasivo ni justificar la injusticia. Significa reconocer que nuestra vida está delante del Señor y que sus propósitos son más grandes que nuestra comprensión. La soberanía de Dios debe producir adoración, obediencia, esperanza y confianza en el Padre, en el Hijo y en el Espíritu Santo.',
+references: 'Proverbios 3:5-6; Romanos 8:28; Colosenses 3:17; Santiago 4:15.'
+),
+],
+conclusion:
+'La soberanía de Dios revela que el único Señor verdadero posee autoridad suprema sobre la creación, la historia y la salvación. El Padre gobierna conforme a su propósito eterno, el Hijo comparte plenamente la autoridad divina y ejerce su señorío como Salvador y Rey, y el Espíritu Santo obra poderosamente en la creación y en la vida de los creyentes. Esta doctrina no convierte a Dios en autor del pecado ni elimina la responsabilidad humana. Tampoco promete que comprenderemos todas las circunstancias de nuestra vida. Nos enseña que Dios es santo, justo, sabio y fiel; que podemos confiar en Él incluso cuando no entendemos lo que sucede; y que nuestra respuesta debe ser vivir en obediencia, humildad, oración y esperanza. La soberanía divina no debe producir orgullo ni pasividad, sino una confianza reverente en el Dios trino que gobierna todas las cosas y llevará su propósito redentor hasta su cumplimiento.'
+),
+
+Study(
+number: '47',
+title: 'La omnisciencia de Dios: su conocimiento perfecto del pasado, presente y futuro',
+subtitle: 'El conocimiento infinito del Padre, del Hijo y del Espíritu Santo',
+introduction:
+'La omnisciencia es el atributo por el cual Dios conoce perfectamente todas las cosas. Su conocimiento no tiene límites, no depende de investigaciones, no aumenta por adquirir información y no está sujeto a errores. Dios conoce la creación, la historia, las intenciones del corazón humano y todo aquello que para nosotros permanece desconocido. La Biblia también enseña que el conocimiento divino incluye el pasado, el presente y el futuro. Esta doctrina debe estudiarse dentro de la fe trinitaria: el Padre conoce perfectamente, el Hijo posee conocimiento divino y el Espíritu Santo conoce las profundidades de Dios. No existen tres conocimientos divinos independientes, sino un único conocimiento perfecto perteneciente a la única naturaleza divina. Comprender esta verdad nos conduce a la humildad, la confianza, la sinceridad y la adoración.',
+sections: [
+StudySection(
+title: '1. Definición de la omnisciencia divina',
+content:
+'La omnisciencia significa que Dios conoce todas las cosas de manera perfecta. No existe información que pueda sorprenderlo, realidad que escape a su conocimiento o acontecimiento que deba investigar para comprenderlo. Su conocimiento es completo y verdadero. Los seres humanos aprendemos progresivamente, corregimos errores y descubrimos aspectos de la realidad que antes desconocíamos. Dios no necesita pasar por ese proceso porque su conocimiento pertenece a su naturaleza eterna.',
+references: 'Salmos 147:5; Isaías 40:28; 1 Juan 3:20.'
+),
+StudySection(
+title: '2. Dios conoce todas las cosas',
+content:
+'La Escritura afirma que el conocimiento de Dios es incomparable. Él conoce aquello que existe, aquello que sucede y las realidades que nosotros no podemos observar. No hay una región del universo que permanezca fuera de su conocimiento. Esta enseñanza no significa que Dios aprenda cada acontecimiento cuando sucede, sino que su conocimiento no está limitado por nuestra perspectiva temporal o espacial.',
+references: 'Salmos 139:1-6; Hebreos 4:13; 1 Juan 3:20.'
+),
+StudySection(
+title: '3. El conocimiento divino es perfecto',
+content:
+'El conocimiento humano puede ser parcial, confuso o equivocado. Dios, en cambio, conoce sin error. Nunca interpreta incorrectamente una situación ni llega a una conclusión basada en información incompleta. Su conocimiento está relacionado con su verdad y sabiduría. Por eso, sus juicios son justos y sus decisiones no proceden de ignorancia o confusión.',
+references: 'Job 37:16; Salmos 19:7-9; Romanos 11:33.'
+),
+StudySection(
+title: '4. La omnisciencia pertenece al único Dios',
+content:
+'La omnisciencia es un atributo de la naturaleza divina. En la doctrina de la Trinidad no existen tres dioses con conocimientos separados o contradictorios. El Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única esencia divina. Por tanto, el conocimiento infinito no pertenece exclusivamente a una persona excluyendo a las otras. Cada una es plenamente Dios y posee todos los atributos propios de la divinidad.',
+references: 'Deuteronomio 6:4; Juan 1:1; Hechos 5:3-4.'
+),
+StudySection(
+title: '5. El Padre conoce perfectamente todas las cosas',
+content:
+'Jesús enseñó que el Padre conoce las necesidades de sus hijos antes de que se las pidan. Esta enseñanza no busca desanimar la oración, sino mostrar que la relación con Dios está fundamentada en su conocimiento y cuidado. El Padre no necesita recibir información para comprender nuestras circunstancias. Conoce nuestras necesidades, limitaciones y circunstancias mucho mejor de lo que nosotros mismos podemos comprenderlas.',
+references: 'Mateo 6:8; Mateo 6:31-32; 1 Juan 3:20.'
+),
+StudySection(
+title: '6. Jesucristo posee conocimiento divino',
+content:
+'El Evangelio de Juan presenta a Jesucristo como el Verbo eterno que estaba con Dios y era Dios. Durante su ministerio manifestó un conocimiento extraordinario de los pensamientos, circunstancias y realidades de las personas. Conocía lo que había en el ser humano y revelaba aspectos que no podían explicarse mediante observación ordinaria. Estas manifestaciones deben interpretarse dentro del testimonio completo del Nuevo Testamento sobre su identidad divina.',
+references: 'Juan 1:1-3; Juan 2:24-25; Juan 16:30.'
+),
+StudySection(
+title: '7. El Espíritu Santo conoce las profundidades de Dios',
+content:
+'Pablo explica que el Espíritu todo lo escudriña, aun las profundidades de Dios. La comparación con el espíritu del ser humano que conoce lo que hay en él permite comprender la intimidad de su conocimiento. El Espíritu Santo no es una fuerza externa que intenta descubrir información acerca de Dios. Conoce perfectamente las profundidades divinas y participa plenamente de la naturaleza de Dios.',
+references: '1 Corintios 2:10-11; Romanos 8:26-27.'
+),
+StudySection(
+title: '8. Dios conoce el pasado',
+content:
+'Nada de lo que ocurrió en la historia ha desaparecido del conocimiento divino. Dios conoce los acontecimientos pasados, las decisiones tomadas y las circunstancias que los acompañaron. Los seres humanos podemos olvidar hechos o interpretar incorrectamente nuestra propia historia, pero Dios no sufre pérdida de información. Su conocimiento del pasado es perfecto y no depende de registros humanos.',
+references: 'Isaías 46:9-10; Salmos 90:1-2; Hebreos 4:13.'
+),
+StudySection(
+title: '9. Dios conoce el presente',
+content:
+'Dios conoce plenamente todo lo que sucede ahora. Ninguna persona, lugar o acontecimiento está oculto ante Él. Aunque los seres humanos solo observamos una parte de la realidad, Dios conoce la totalidad. Esta verdad ofrece consuelo a quienes sienten que sus circunstancias pasan inadvertidas y también constituye una advertencia para quienes creen que pueden ocultar sus acciones delante del Señor.',
+references: 'Salmos 139:7-12; Proverbios 15:3; Hebreos 4:13.'
+),
+StudySection(
+title: '10. Dios conoce el futuro',
+content:
+'Las Escrituras enseñan que Dios anuncia acontecimientos antes de que sucedan. Su conocimiento del futuro no depende de probabilidades o cálculos humanos. Puede revelar acontecimientos porque su conocimiento es perfecto y su propósito permanece firme. Las profecías bíblicas muestran que la historia no toma a Dios por sorpresa. Sin embargo, no debemos atribuir a cada persona una capacidad de conocer el futuro que pertenece únicamente a Dios.',
+references: 'Isaías 46:9-10; Isaías 48:3-5; Hechos 2:23.'
+),
+StudySection(
+title: '11. El conocimiento de Dios no aumenta',
+content:
+'Dios no pasa de ignorar una realidad a conocerla. Si su conocimiento pudiera aumentar, significaría que anteriormente existía una limitación en Él. La Biblia presenta a Dios como perfecto y sin necesidad de recibir enseñanza. Su conocimiento no es un proceso de aprendizaje, sino una perfección de su naturaleza eterna.',
+references: 'Isaías 40:13-14; Romanos 11:34; Salmos 147:5.'
+),
+StudySection(
+title: '12. Dios conoce los pensamientos humanos',
+content:
+'Los pensamientos pueden permanecer ocultos para otras personas, pero no para Dios. Él conoce nuestras intenciones, razonamientos y motivaciones. Esto impide reducir la vida espiritual a una apariencia externa. Una persona puede presentar una imagen de obediencia delante de los demás mientras conserva intenciones contrarias a la voluntad divina. Dios conoce la realidad interior y juzga con verdad.',
+references: '1 Crónicas 28:9; Salmos 139:1-4; Mateo 9:4.'
+),
+StudySection(
+title: '13. Dios conoce las intenciones del corazón',
+content:
+'Las intenciones revelan la orientación interior de una persona. Dos acciones externamente parecidas pueden proceder de motivaciones muy diferentes. Dios conoce esa diferencia y no juzga únicamente por la apariencia. Esto debe llevarnos a examinar nuestras motivaciones delante de Él, procurando que nuestras palabras, decisiones y obras procedan de una fe sincera.',
+references: '1 Samuel 16:7; Proverbios 16:2; Jeremías 17:10.'
+),
+StudySection(
+title: '14. Dios conoce nuestras palabras',
+content:
+'La Biblia enseña que Dios conoce las palabras antes de que lleguen a nuestra boca. Esto incluye lo que expresamos públicamente y aquello que decimos en privado. Las palabras revelan aspectos de nuestro corazón y pueden utilizarse para edificar o destruir. La omnisciencia divina debe motivarnos a hablar con verdad, respeto y responsabilidad, recordando que nuestra comunicación también está delante del Señor.',
+references: 'Salmos 139:4; Mateo 12:36-37; Efesios 4:29.'
+),
+StudySection(
+title: '15. Dios conoce nuestras necesidades',
+content:
+'Jesús enseñó que el Padre conoce las necesidades de sus hijos. La preocupación humana no añade información al conocimiento divino. Podemos presentar nuestras peticiones porque Dios nos invita a depender de Él. Su conocimiento perfecto no elimina nuestra responsabilidad de trabajar y actuar prudentemente, sino que nos permite vivir sin convertir la preocupación en el centro de nuestra existencia.',
+references: 'Mateo 6:25-34; Filipenses 4:6-7; 1 Pedro 5:7.'
+),
+StudySection(
+title: '16. Dios conoce las debilidades humanas',
+content:
+'Dios conoce nuestras limitaciones físicas, emocionales y espirituales. No necesita que aparentemos una fortaleza que no tenemos. La Biblia presenta a Dios como compasivo y conocedor de nuestra condición. Esta verdad no justifica el pecado, pero permite acercarnos a Él con sinceridad, reconociendo nuestras debilidades y buscando su ayuda.',
+references: 'Salmos 103:13-14; Hebreos 4:15-16; Mateo 26:41.'
+),
+StudySection(
+title: '17. Dios conoce la condición espiritual de cada persona',
+content:
+'La apariencia religiosa no puede engañar al Señor. Él conoce si una persona vive en una relación auténtica con Él o si solamente conserva una conducta externa. Jesús confrontó repetidamente la hipocresía religiosa porque Dios exige una adoración sincera. Esta enseñanza invita a buscar una vida coherente entre la confesión pública de fe y la conducta cotidiana.',
+references: 'Mateo 15:7-9; Apocalipsis 2:2-4; 2 Timoteo 3:5.'
+),
+StudySection(
+title: '18. La omnisciencia y la santidad de Dios',
+content:
+'Dios conoce perfectamente cada pecado y cada intención injusta. Nada puede ocultarse ante su santidad. Esto significa que su juicio no se basa en rumores, prejuicios o información incompleta. Al mismo tiempo, su conocimiento permite comprender la profundidad de su misericordia, pues conoce la condición humana y llama al arrepentimiento. La omnisciencia debe producir reverencia y una búsqueda sincera de santidad.',
+references: 'Salmos 90:8; Proverbios 15:3; Hebreos 4:13.'
+),
+StudySection(
+title: '19. La omnisciencia y la justicia divina',
+content:
+'Un juez humano puede cometer errores porque desconoce hechos importantes o interpreta incorrectamente las pruebas. Dios no tiene esa limitación. Conoce todas las circunstancias, intenciones y acciones. Por eso, su juicio es perfectamente justo. Nadie será condenado por una acusación falsa ni declarado inocente mediante engaño. La justicia divina no depende de apariencias.',
+references: 'Génesis 18:25; Romanos 2:2-6; Apocalipsis 20:12.'
+),
+StudySection(
+title: '20. La omnisciencia y la misericordia',
+content:
+'Dios conoce la realidad completa de nuestra condición y aun así manifiesta misericordia hacia quienes se acercan a Él mediante la fe y el arrepentimiento. Su misericordia no nace de ignorar nuestros pecados, sino de su gracia y amor. La cruz de Cristo demuestra que Dios no trata el pecado como algo insignificante, sino que ofrece redención por medio del sacrificio de su Hijo.',
+references: 'Salmos 103:8-14; Romanos 5:8; Efesios 2:4-5.'
+),
+StudySection(
+title: '21. La omnisciencia y la presciencia',
+content:
+'La presciencia es el conocimiento anticipado de acontecimientos o personas. En el lenguaje bíblico, el conocimiento previo de Dios puede relacionarse con su propósito y elección, no solamente con la observación anticipada de hechos. Romanos 8 y 1 Pedro 1 utilizan este lenguaje en contextos de salvación. Los intérpretes cristianos han debatido cómo se relaciona la presciencia con la elección divina. Debemos estudiar cada pasaje en su contexto y evitar presentar una explicación discutida como si fuera la única formulación posible de la Biblia.',
+references: 'Romanos 8:29-30; 1 Pedro 1:1-2; Hechos 2:23.'
+),
+StudySection(
+title: '22. ¿Conocer anticipadamente significa causar cada decisión?',
+content:
+'Una pregunta importante es si el hecho de que Dios conozca una decisión futura significa que obliga a la persona a tomarla. Conocer y causar no son conceptos idénticos. La Biblia afirma tanto el conocimiento divino como la responsabilidad humana. La relación filosófica entre ambos temas ha recibido distintas explicaciones teológicas. Lo que no debemos hacer es negar uno de los dos testimonios bíblicos para simplificar el otro.',
+references: 'Deuteronomio 30:19; Hechos 2:23; Romanos 14:12.'
+),
+StudySection(
+title: '23. Dios conoce las decisiones antes de que ocurran',
+content:
+'Los relatos proféticos muestran que Dios puede anunciar decisiones humanas antes de que sean ejecutadas. Jesús anunció la negación de Pedro antes de que sucediera. Este conocimiento no debe utilizarse para concluir que Pedro carecía de responsabilidad. El relato muestra que Jesús conocía lo que iba a ocurrir y que Pedro seguía siendo responsable de su conducta. La omnisciencia divina supera nuestra capacidad de comprender completamente la relación entre conocimiento y decisión.',
+references: 'Mateo 26:31-35, 69-75; Lucas 22:31-34.'
+),
+StudySection(
+title: '24. La predicción de la traición de Judas',
+content:
+'Jesús anunció que uno de sus discípulos lo entregaría. El conocimiento anticipado de esa traición demuestra que el acontecimiento no tomó por sorpresa al Señor. Sin embargo, el hecho de que Jesús conociera lo que Judas haría no convierte la traición en una acción moralmente correcta. Judas actuó con responsabilidad por su conducta. La soberanía y el conocimiento divino no eliminan la culpabilidad de quien practica la maldad.',
+references: 'Juan 6:64, 70-71; Juan 13:18-27; Mateo 26:14-16.'
+),
+StudySection(
+title: '25. Dios conoce las posibilidades humanas',
+content:
+'En algunos relatos bíblicos, Dios habla de lo que habría sucedido bajo determinadas condiciones. Jesús menciona ciudades que se habrían arrepentido si hubieran presenciado ciertas obras. Estos pasajes muestran que la Escritura puede hablar de posibilidades contrafácticas. No debemos concluir que Dios necesita experimentar esas posibilidades para conocerlas. El texto destaca la responsabilidad de quienes recibieron evidencia y no respondieron con arrepentimiento.',
+references: 'Mateo 11:20-24; Mateo 12:41-42.'
+),
+StudySection(
+title: '26. Dios conoce los acontecimientos que todavía no vemos',
+content:
+'Los seres humanos observamos solamente una parte de la historia y desconocemos muchas consecuencias de nuestras decisiones. Dios conoce el conjunto completo de los acontecimientos. Esto no significa que debamos intentar adivinar el futuro mediante señales, supersticiones o prácticas prohibidas por las Escrituras. La respuesta bíblica es confiar en Dios, obedecer su Palabra y tomar decisiones responsables con la información que tenemos.',
+references: 'Deuteronomio 29:29; Proverbios 27:1; Santiago 4:13-16.'
+),
+StudySection(
+title: '27. ¿Por qué Dios pregunta si conoce todas las cosas?',
+content:
+'En diferentes pasajes Dios formula preguntas a los seres humanos. Por ejemplo, pregunta a Adán dónde está y a Caín dónde está su hermano. Estas preguntas no demuestran ignorancia divina. Funcionan como llamados a responder, reconocer la verdad y enfrentar la responsabilidad personal. Dios utiliza el diálogo para revelar el estado del corazón humano, no porque necesite recibir información que desconoce.',
+references: 'Génesis 3:9-13; Génesis 4:9-10; Job 38:1-4.'
+),
+StudySection(
+title: '28. ¿Por qué Dios prueba a las personas?',
+content:
+'La Biblia afirma que Dios probó a Abraham. La prueba no tenía como finalidad que Dios descubriera algo desconocido, sino que la fe y obediencia de Abraham se manifestaran en una situación concreta. Las pruebas pueden revelar la condición de nuestro corazón y formar perseverancia. Debemos distinguir las pruebas que Dios permite o utiliza de la tentación al pecado, pues Santiago enseña que Dios no tienta a nadie con el mal.',
+references: 'Génesis 22:1-14; Deuteronomio 8:2; Santiago 1:2-4, 13.'
+),
+StudySection(
+title: '29. El caso de Abraham y el conocimiento de Dios',
+content:
+'Cuando Abraham fue probado, el relato termina afirmando que Dios conoció que Abraham le temía. Esta expresión narrativa comunica que la obediencia se hizo evidente en el acontecimiento. No significa que Dios hubiera estado ignorando el corazón de Abraham hasta ese momento. El contexto muestra una prueba de fe y una provisión divina que también apunta al tema del sacrificio y la confianza.',
+references: 'Génesis 22:1-14; Hebreos 11:17-19; Santiago 2:21-23.'
+),
+StudySection(
+title: '30. El lenguaje bíblico sobre el arrepentimiento de Dios',
+content:
+'Algunos pasajes dicen que Dios se arrepintió de haber hecho algo o que cambió su trato con una persona o nación. Estas expresiones deben interpretarse considerando el lenguaje humano utilizado para comunicar acciones divinas. La Biblia también declara que Dios no miente ni cambia como los seres humanos. En contextos narrativos, el lenguaje puede describir un cambio en la relación histórica de Dios con las personas sin enseñar que su conocimiento era incompleto o que su carácter es inestable.',
+references: 'Génesis 6:6-7; Números 23:19; 1 Samuel 15:10-11, 29.'
+),
+StudySection(
+title: '31. Dios conoce el corazón antes de la conversión',
+content:
+'La conversión no proporciona a Dios información que antes desconocía. Él conoce la condición espiritual de cada persona y sabe cuándo alguien se arrepiente y cree. El evangelio anuncia que Dios llama a los pecadores a reconciliarse con Él por medio de Jesucristo. La respuesta humana al evangelio no ocurre fuera del conocimiento divino. El Señor conoce perfectamente tanto nuestra condición anterior como la transformación que produce su gracia.',
+references: 'Jeremías 17:10; Hechos 15:8-9; 1 Tesalonicenses 1:4-5.'
+),
+StudySection(
+title: '32. La omnisciencia y la elección en Cristo',
+content:
+'Efesios 1 enseña que Dios escogió a los creyentes en Cristo antes de la fundación del mundo. El pasaje destaca el propósito eterno del Padre y la centralidad del Hijo. Romanos 8 relaciona el conocimiento previo con la conformidad a la imagen de Cristo. Estos textos deben interpretarse dentro de su contexto de salvación, santidad y adopción. La doctrina de la elección no debe convertirse en motivo de superioridad humana, sino en razón para glorificar la gracia de Dios.',
+references: 'Efesios 1:3-6; Romanos 8:28-30; 2 Timoteo 1:9.'
+),
+StudySection(
+title: '33. La omnisciencia y la oración',
+content:
+'Si Dios conoce nuestras necesidades, ¿por qué debemos orar? Porque la oración no existe para informar a Dios, sino para expresar dependencia, comunión y confianza. Jesús enseñó a sus discípulos a pedir al Padre y a buscar su voluntad. La oración forma parte de la relación que Dios ha establecido con su pueblo. Que el Señor conozca nuestras necesidades no convierte la oración en algo innecesario, sino que nos permite acercarnos con confianza.',
+references: 'Mateo 6:7-13; Filipenses 4:6-7; 1 Juan 5:14-15.'
+),
+StudySection(
+title: '34. La omnisciencia y la confesión del pecado',
+content:
+'Confesar nuestros pecados no significa comunicarle a Dios algo que desconoce. Significa reconocer delante de Él la verdad sobre nuestra conducta y abandonar la pretensión de justificarnos. La confesión bíblica se relaciona con arrepentimiento, perdón y restauración. Como Dios conoce nuestro corazón, no tiene sentido presentar excusas engañosas. Debemos acercarnos con sinceridad y confiar en la fidelidad de su promesa de perdón.',
+references: 'Salmos 32:3-5; Proverbios 28:13; 1 Juan 1:8-9.'
+),
+StudySection(
+title: '35. La omnisciencia y la sinceridad cristiana',
+content:
+'El creyente debe procurar una vida sin doblez. Dios conoce tanto las acciones visibles como las motivaciones ocultas. La sinceridad no significa perfección sin errores, sino una disposición auténtica a vivir en la verdad, reconocer el pecado y obedecer al Señor. La conciencia de que Dios conoce todo debe alejarnos de la hipocresía y acercarnos a una vida íntegra.',
+references: 'Salmos 139:23-24; 2 Corintios 1:12; Efesios 6:6.'
+),
+StudySection(
+title: '36. La omnisciencia y la sabiduría divina',
+content:
+'El conocimiento y la sabiduría están relacionados, pero no son idénticos. El conocimiento implica conocer la realidad; la sabiduría implica actuar correctamente conforme a la verdad. Dios no solamente posee conocimiento infinito, sino también sabiduría perfecta. Nunca utiliza su conocimiento para propósitos injustos ni toma decisiones equivocadas. Sus obras manifiestan una sabiduría que supera la comprensión humana.',
+references: 'Romanos 11:33; Romanos 16:27; Santiago 3:17.'
+),
+StudySection(
+title: '37. La omnisciencia y las profecías bíblicas',
+content:
+'Las profecías muestran que Dios conoce acontecimientos futuros y revela aquello que considera necesario para sus propósitos. Las profecías mesiánicas encuentran su cumplimiento en Jesucristo y muestran la continuidad del plan redentor. No debemos interpretar cada detalle de los acontecimientos actuales como cumplimiento profético sin fundamento textual. La interpretación debe comenzar con el significado del pasaje en su contexto original y continuar considerando el conjunto de las Escrituras.',
+references: 'Isaías 53:1-12; Miqueas 5:2; Lucas 24:25-27.'
+),
+StudySection(
+title: '38. El conocimiento de Cristo durante su encarnación',
+content:
+'El Hijo eterno asumió una verdadera naturaleza humana. Los Evangelios muestran que Jesús experimentó crecimiento humano, hambre, cansancio y otras condiciones propias de la humanidad. También existen pasajes donde declara que no conoce el día ni la hora de su regreso. Estos textos deben estudiarse considerando la realidad de la encarnación, la distinción entre naturaleza divina y humana y el propósito de sus declaraciones. No debemos negar su divinidad ni convertir su humanidad en una apariencia.',
+references: 'Lucas 2:52; Marcos 13:32; Filipenses 2:5-8.'
+),
+StudySection(
+title: '39. Marcos 13:32 y el día que nadie conoce',
+content:
+'Jesús declaró que nadie conoce el día ni la hora, ni los ángeles, ni el Hijo, sino el Padre. Este es uno de los pasajes que requiere especial cuidado al estudiar la persona de Cristo. La doctrina cristiana reconoce que el Hijo es verdaderamente Dios y verdaderamente hombre. Durante su encarnación asumió una condición humana real y vivió su misión mesiánica en obediencia al Padre. Las distintas explicaciones teológicas de este texto deben respetar tanto la humanidad auténtica de Jesús como el testimonio bíblico de su plena divinidad. No es correcto utilizar una sola frase para negar todo lo que el Nuevo Testamento enseña sobre el Hijo.',
+references: 'Marcos 13:32; Juan 1:1-3; Colosenses 2:9; Filipenses 2:6-8.'
+),
+StudySection(
+title: '40. Juan 16:30 y el conocimiento de Jesús',
+content:
+'Los discípulos reconocieron que Jesús conocía todas las cosas y que no necesitaba que alguien le preguntara. Esta declaración aparece en el contexto de la revelación de Jesús sobre su relación con el Padre y su origen divino. El texto contribuye al testimonio del Evangelio de Juan acerca de la identidad del Hijo. Debe leerse junto con los pasajes que muestran su verdadera humanidad y su misión en obediencia al Padre.',
+references: 'Juan 16:25-30; Juan 2:24-25; Juan 21:17.'
+),
+StudySection(
+title: '41. La omnisciencia y la obra del Espíritu Santo',
+content:
+'El Espíritu Santo conoce las profundidades de Dios y guía a los creyentes en la verdad. Su conocimiento no es parcial ni adquirido mediante aprendizaje externo. Como persona divina, conoce perfectamente y actúa en perfecta unidad con el Padre y el Hijo. Cuando Jesús promete la guía del Espíritu, presenta un ministerio personal relacionado con la verdad de Dios y la revelación de Cristo.',
+references: '1 Corintios 2:10-12; Juan 14:26; Juan 16:13-14.'
+),
+StudySection(
+title: '42. El Espíritu Santo conoce nuestras necesidades en la oración',
+content:
+'Romanos 8 enseña que el Espíritu ayuda nuestra debilidad y que intercede por los creyentes conforme a la voluntad de Dios. El pasaje no presenta al Espíritu como alguien que desconoce nuestra situación, sino como quien participa personalmente en la ayuda divina. Incluso cuando no sabemos cómo orar, no estamos abandonados. El Espíritu obra en favor de los creyentes conforme al propósito de Dios.',
+references: 'Romanos 8:26-27; 1 Corintios 2:10-11.'
+),
+StudySection(
+title: '43. La omnisciencia y la guía divina',
+content:
+'Dios conoce el camino completo de nuestra vida, mientras nosotros vemos solamente una parte. La guía divina debe buscarse principalmente mediante la Escritura, la oración, la sabiduría y el consejo responsable. No debemos afirmar que cada pensamiento, coincidencia o emoción constituye automáticamente una revelación de Dios. La omnisciencia divina nos permite confiar en su dirección sin abandonar el discernimiento bíblico.',
+references: 'Salmos 32:8; Proverbios 3:5-6; Santiago 1:5.'
+),
+StudySection(
+title: '44. Dios conoce el sufrimiento de las personas',
+content:
+'La Biblia presenta a Dios como conocedor del dolor humano. En el éxodo, el Señor declara que ha visto la aflicción de su pueblo, ha escuchado su clamor y conoce sus angustias. Esta expresión muestra que el sufrimiento no es invisible para Dios. La omnisciencia divina no debe utilizarse para silenciar a quien sufre, sino para ofrecer esperanza y recordar que el Señor conoce perfectamente cada circunstancia.',
+references: 'Éxodo 3:7-8; Salmos 56:8; Mateo 10:29-31.'
+),
+StudySection(
+title: '45. La omnisciencia y la confianza en tiempos difíciles',
+content:
+'Cuando no comprendemos una situación, podemos descansar en el conocimiento perfecto de Dios. No necesitamos fingir que entendemos todas las circunstancias ni elaborar explicaciones sin fundamento. Podemos presentar nuestras preguntas delante del Señor y continuar obedeciendo su Palabra. La confianza cristiana no se basa en conocer el futuro, sino en conocer al Dios que nunca se equivoca.',
+references: 'Salmos 23:1-4; Romanos 8:28; Filipenses 4:6-7.'
+),
+StudySection(
+title: '46. La omnisciencia y el juicio final',
+content:
+'El juicio final será realizado con conocimiento perfecto. Apocalipsis describe libros abiertos y a las personas juzgadas conforme a sus obras. La imagen comunica que nada quedará oculto y que el juicio de Dios será completo. Los seres humanos pueden manipular testimonios o esconder acciones, pero no pueden engañar al Señor. La esperanza del creyente está en la justicia de Dios y en la salvación que recibe por medio de Jesucristo.',
+references: 'Romanos 2:16; Apocalipsis 20:11-15; 2 Corintios 5:10.'
+),
+StudySection(
+title: '47. La omnisciencia y la esperanza del creyente',
+content:
+'Dios conoce el futuro y ha revelado que la historia culminará con la victoria de Cristo. El creyente no necesita conocer cada acontecimiento futuro para vivir con esperanza. La promesa de la resurrección, la vida eterna y la nueva creación es suficiente para sostener la fe. El conocimiento perfecto de Dios garantiza que sus promesas no descansan en información incompleta ni en expectativas inciertas.',
+references: 'Juan 14:1-3; 1 Corintios 15:51-57; Apocalipsis 21:1-5.'
+),
+StudySection(
+title: '48. La omnisciencia no justifica la curiosidad supersticiosa',
+content:
+'Conocer que Dios sabe todas las cosas no significa que los seres humanos puedan descubrir el futuro mediante adivinación, horóscopos o prácticas espiritistas. La Biblia prohíbe buscar orientación mediante tales medios. Dios ha revelado en las Escrituras lo necesario para conocerlo y vivir en obediencia. La curiosidad por lo oculto no debe sustituir la confianza en su Palabra.',
+references: 'Deuteronomio 18:9-14; Isaías 8:19-20; Gálatas 5:19-21.'
+),
+StudySection(
+title: '49. La respuesta correcta ante el conocimiento perfecto de Dios',
+content:
+'La respuesta adecuada a la omnisciencia divina es vivir con sinceridad, humildad y reverencia. Debemos reconocer que no podemos engañar al Señor ni esconder nuestra condición espiritual. También debemos recordar que Dios conoce nuestras necesidades y puede sostenernos. Su conocimiento debe motivarnos a abandonar la hipocresía, buscar el arrepentimiento y vivir de acuerdo con la verdad revelada en Cristo.',
+references: 'Salmos 139:23-24; 1 Pedro 1:14-16; Hebreos 4:14-16.'
+),
+StudySection(
+title: '50. La omnisciencia como motivo de adoración',
+content:
+'El conocimiento infinito de Dios revela una grandeza que supera toda comprensión humana. El Padre conoce perfectamente, el Hijo posee plenamente la naturaleza divina y el Espíritu Santo conoce las profundidades de Dios. No son tres dioses con conocimientos separados, sino las tres personas del único Dios verdadero. Esta doctrina nos conduce a adorar con reverencia, confiar en la sabiduría divina y vivir con la seguridad de que nuestra existencia nunca está oculta ante el Señor.',
+references: 'Romanos 11:33-36; 1 Corintios 2:10-11; Colosenses 2:9.'
+),
+],
+conclusion:
+'La omnisciencia de Dios enseña que el Señor conoce perfectamente todas las cosas: el pasado, el presente, el futuro, las intenciones, las palabras y las decisiones humanas. Su conocimiento no aumenta, no comete errores y no depende de información externa. El Padre, el Hijo y el Espíritu Santo comparten plenamente este atributo porque poseen la única naturaleza divina. Los pasajes que describen preguntas de Dios, pruebas a los seres humanos o expresiones como el arrepentimiento divino deben interpretarse en su contexto, sin atribuir ignorancia o inconstancia al Señor. La omnisciencia no elimina la responsabilidad humana ni convierte la oración en algo innecesario. Al contrario, nos invita a vivir con sinceridad, buscar la sabiduría divina, confiar en medio de la incertidumbre y recordar que Dios conoce nuestra condición mejor que nosotros mismos. El conocimiento perfecto del Dios trino debe producir humildad, obediencia, confianza y adoración.'
+),
+
+Study(
+number: '48',
+title: 'La omnipresencia de Dios: su presencia en todo lugar y su cercanía con la creación',
+subtitle: 'La presencia ilimitada del Padre, del Hijo y del Espíritu Santo',
+introduction:
+'La omnipresencia es el atributo por el cual Dios está presente en todo lugar y no está limitado por el espacio creado. Ninguna región del universo puede contenerlo, excluirlo o mantenerlo fuera de su conocimiento y presencia. La Biblia enseña que Dios llena los cielos y la tierra, pero también revela que mantiene una relación especial con su pueblo. Es importante distinguir entre la presencia universal de Dios, su manifestación particular y la habitación del Espíritu Santo en los creyentes. Desde la doctrina trinitaria, el Padre, el Hijo y el Espíritu Santo son personas distintas que comparten plenamente la única naturaleza divina. Por eso, la omnipresencia no pertenece a tres dioses separados, sino al único Dios verdadero. Este estudio examina el fundamento bíblico de esta doctrina, sus implicaciones y algunos textos difíciles relacionados con la presencia divina.',
+sections: [
+StudySection(
+title: '1. Definición de la omnipresencia',
+content:
+'La omnipresencia significa que Dios está presente en todo lugar. No existe un espacio donde su presencia esté ausente ni una región que se encuentre fuera de su alcance. Dios no necesita desplazarse de un sitio a otro como las criaturas, porque no está limitado por las dimensiones espaciales. Su presencia es una realidad propia de su naturaleza divina y no depende de las condiciones físicas del universo.',
+references: 'Salmos 139:7-10; Jeremías 23:23-24; Hechos 17:27-28.'
+),
+StudySection(
+title: '2. Dios no está limitado por el espacio',
+content:
+'Los seres humanos ocupamos lugares determinados y no podemos estar físicamente en todas partes al mismo tiempo. Dios no comparte esa limitación. La creación espacial depende de Él, pero Él no depende del espacio para existir. La omnipresencia no significa que Dios sea un objeto extendido por el universo, sino que su presencia divina no está restringida por las dimensiones de lo creado.',
+references: '1 Reyes 8:27; Isaías 66:1; Hechos 17:24.'
+),
+StudySection(
+title: '3. La omnipresencia pertenece al único Dios',
+content:
+'La omnipresencia es un atributo de la naturaleza divina. El cristianismo trinitario confiesa un solo Dios que existe eternamente como Padre, Hijo y Espíritu Santo. No existen tres dioses ocupando lugares diferentes ni tres seres divinos independientes. Las tres personas comparten la misma esencia divina. Por eso, la presencia divina no se divide en tres presencias separadas que compitan entre sí.',
+references: 'Deuteronomio 6:4; Mateo 28:19; Efesios 4:4-6.'
+),
+StudySection(
+title: '4. La presencia del Padre en toda la creación',
+content:
+'Las Escrituras presentan al Padre como el Dios que está por encima de todo, obra por medio de todos y está en todos, según el contexto de Efesios 4. Esta expresión destaca su autoridad y su relación con la comunidad creyente. El Padre no está limitado a un templo o territorio. Su presencia y autoridad alcanzan toda la creación, aunque la Biblia también habla de una comunión especial con quienes le pertenecen.',
+references: 'Efesios 4:6; Mateo 6:9; 1 Reyes 8:27.'
+),
+StudySection(
+title: '5. La presencia divina del Hijo',
+content:
+'El Hijo eterno comparte plenamente la naturaleza divina. El Nuevo Testamento enseña que todas las cosas fueron creadas por medio de Él y que en Él habita corporalmente toda la plenitud de la Deidad. Su encarnación no significó que dejara de ser Dios ni que la naturaleza divina quedara limitada a un cuerpo humano. Jesucristo asumió una verdadera naturaleza humana sin abandonar su divinidad.',
+references: 'Juan 1:1-3, 14; Colosenses 1:16-17; Colosenses 2:9.'
+),
+StudySection(
+title: '6. La presencia del Espíritu Santo',
+content:
+'El Espíritu Santo es una persona divina y no una energía impersonal distribuida por el universo. La Biblia lo presenta actuando en la creación, guiando al pueblo de Dios y habitando en los creyentes. Su presencia no significa que sea una parte de Dios separada del Padre y del Hijo. El Espíritu comparte plenamente la naturaleza divina y obra en perfecta unidad con las otras personas de la Trinidad.',
+references: 'Génesis 1:2; Salmos 139:7; 1 Corintios 3:16.'
+),
+StudySection(
+title: '7. Dios llena los cielos y la tierra',
+content:
+'Jeremías transmite la declaración de Dios de que llena los cielos y la tierra. Esta expresión enseña que ningún lugar queda fuera de su presencia. No significa que el universo sea una parte de Dios ni que Dios esté compuesto por los elementos de la creación. Significa que toda la realidad creada está permanentemente delante de Él y depende de su poder.',
+references: 'Jeremías 23:23-24; Salmos 139:7-12; Isaías 6:3.'
+),
+StudySection(
+title: '8. Dios está presente en los cielos',
+content:
+'La Biblia habla del cielo como lugar de manifestación especial de la gloria y del trono de Dios. Sin embargo, no enseña que el Señor esté encerrado en ese lugar como si no pudiera estar presente en la tierra. El lenguaje del cielo expresa la majestad y el gobierno divino. Dios reina desde los cielos y su presencia alcanza toda la creación.',
+references: 'Salmos 11:4; Mateo 6:9; 1 Reyes 8:27.'
+),
+StudySection(
+title: '9. Dios está presente en la tierra',
+content:
+'La tierra no está separada de la presencia divina. Dios observa, sostiene y gobierna lo que sucede en ella. Los seres humanos pueden ignorar su autoridad, pero no pueden escapar de su presencia. Esta realidad debe producir reverencia y responsabilidad, porque cada acción humana ocurre delante del Señor.',
+references: 'Salmos 33:13-15; Proverbios 15:3; Jeremías 23:24.'
+),
+StudySection(
+title: '10. Dios está presente en los lugares ocultos',
+content:
+'Las profundidades, las habitaciones cerradas y los lugares que parecen inaccesibles no están fuera del alcance de Dios. Salmos 139 enseña que ni la oscuridad puede ocultar algo de su presencia. Esto demuestra que la omnipresencia no depende de la visibilidad humana. Aunque una persona pueda esconderse de otras personas, nunca puede ocultarse del conocimiento y la presencia del Señor.',
+references: 'Salmos 139:7-12; Job 34:21-22; Hebreos 4:13.'
+),
+StudySection(
+title: '11. La presencia de Dios no significa que todo sea Dios',
+content:
+'Es necesario distinguir la omnipresencia bíblica del panteísmo. El panteísmo identifica a Dios con el universo o considera que todo cuanto existe es divino. La Biblia enseña, en cambio, que Dios es el Creador y que la creación es distinta de Él. Dios está presente en todo lugar, pero los árboles, montañas, animales y seres humanos no son partes de su esencia. El Creador permanece distinto de su creación.',
+references: 'Génesis 1:1; Salmos 90:2; Hechos 17:24-25.'
+),
+StudySection(
+title: '12. La diferencia entre omnipresencia y panteísmo',
+content:
+'La omnipresencia afirma que Dios está presente en toda la creación sin quedar limitado por ella. El panteísmo, en cambio, confunde la identidad de Dios con el conjunto de lo existente. La Biblia mantiene una distinción clara entre Creador y criatura. Dios sostiene el universo, pero el universo no es Dios. Esta diferencia protege la doctrina de la trascendencia y la personalidad divina.',
+references: 'Isaías 40:25-26; Hechos 17:24-29; Romanos 1:25.'
+),
+StudySection(
+title: '13. La diferencia entre omnipresencia y panenteísmo',
+content:
+'El panenteísmo suele describir a Dios como presente en el universo mientras el universo está de alguna manera contenido en Él. Esta propuesta tiene diferentes formulaciones filosóficas, pero no debe confundirse automáticamente con la enseñanza bíblica. La Escritura afirma que toda la creación depende de Dios y que Él está presente en ella, sin enseñar que el universo sea una parte de su esencia. La distinción entre Creador y criatura permanece fundamental.',
+references: 'Génesis 1:1; Isaías 66:1-2; Colosenses 1:16-17.'
+),
+StudySection(
+title: '14. La presencia universal y la presencia especial de Dios',
+content:
+'Dios está presente en toda la creación, pero la Biblia también habla de una presencia especial relacionada con su manifestación, su pacto y su comunión con el pueblo. Esta distinción no significa que Dios esté físicamente ausente de otros lugares. Significa que en determinadas circunstancias revela su gloria, establece comunión o manifiesta su acción de una manera particular.',
+references: 'Éxodo 33:14-16; Salmos 16:11; Mateo 18:20.'
+),
+StudySection(
+title: '15. Dios se manifestó a Moisés',
+content:
+'En Éxodo, Dios se manifestó a Moisés mediante la zarza ardiente y posteriormente en el monte Sinaí. Estas manifestaciones no significan que Dios estuviera limitado a aquellos lugares. Fueron revelaciones particulares de su presencia y santidad. Moisés recibió una comisión divina y aprendió que el Dios que lo enviaba era santo y fiel a sus promesas.',
+references: 'Éxodo 3:1-6; Éxodo 19:16-20; Éxodo 33:18-23.'
+),
+StudySection(
+title: '16. La nube y el fuego como manifestaciones de la presencia divina',
+content:
+'Durante el éxodo, Dios guio a Israel mediante una columna de nube durante el día y una columna de fuego durante la noche. Estas señales manifestaban su dirección y cuidado sobre el pueblo. No eran límites físicos de la presencia divina ni significaban que Dios solamente existiera dentro de aquella manifestación. Eran señales visibles de su gobierno y fidelidad.',
+references: 'Éxodo 13:21-22; Éxodo 14:19-20; Números 9:15-23.'
+),
+StudySection(
+title: '17. El tabernáculo y la presencia de Dios',
+content:
+'El tabernáculo fue el lugar establecido para el culto y la manifestación de la gloria de Dios en medio de Israel. Su construcción comunicaba que el Señor quería habitar en medio de su pueblo conforme al pacto. Sin embargo, el tabernáculo no contenía la totalidad de Dios ni limitaba su presencia a una estructura. Era un espacio de encuentro y adoración dentro de la historia de la redención.',
+references: 'Éxodo 25:8-9; Éxodo 40:34-38; Levítico 26:11-12.'
+),
+StudySection(
+title: '18. El templo de Jerusalén y la omnipresencia',
+content:
+'Cuando Salomón dedicó el templo, reconoció que ni los cielos podían contener a Dios. El edificio tenía una función especial en el culto de Israel, pero no encerraba al Señor. Esta confesión es fundamental para comprender la diferencia entre un lugar de adoración y la omnipresencia divina. El templo señalaba la presencia del Dios del pacto sin limitar su autoridad universal.',
+references: '1 Reyes 8:10-13, 27-30; 2 Crónicas 6:18.'
+),
+StudySection(
+title: '19. Dios no habita en templos hechos por manos humanas',
+content:
+'Pablo enseñó que Dios no habita en templos hechos por manos humanas como si necesitara un edificio para existir. Esta enseñanza no desprecia los lugares de reunión cristianos, sino que rechaza la idea de que una construcción pueda contener o controlar a Dios. La iglesia se reúne para adorar, aprender y tener comunión, pero la presencia divina no está limitada a sus paredes.',
+references: 'Hechos 7:48-50; Hechos 17:24-25; Juan 4:21-24.'
+),
+StudySection(
+title: '20. La presencia de Dios en la adoración',
+content:
+'La adoración es una respuesta del pueblo de Dios a su grandeza y santidad. Cuando la iglesia se reúne, reconoce la presencia del Señor y busca honrarlo conforme a su Palabra. No debemos afirmar que Dios está ausente de cualquier lugar donde no haya una reunión religiosa. La adoración comunitaria es una expresión especial de comunión con Él, pero su presencia no depende de una ubicación determinada.',
+references: 'Salmos 95:1-7; Juan 4:23-24; Hebreos 10:24-25.'
+),
+StudySection(
+title: '21. Jesús y la presencia del Padre',
+content:
+'Jesús habló de su relación única con el Padre y enseñó que quien lo veía a Él conocía al Padre en el sentido de su perfecta revelación. Esto no significa que el Hijo sea la misma persona que el Padre. El Padre y el Hijo son distintos, pero el Hijo revela perfectamente al Padre porque comparte la naturaleza divina. La presencia y obra de Dios se manifiestan de manera especial en el ministerio de Jesucristo.',
+references: 'Juan 1:18; Juan 14:9-11; Juan 17:1-5.'
+),
+StudySection(
+title: '22. La encarnación y la presencia divina',
+content:
+'La encarnación significa que el Hijo eterno asumió una naturaleza humana real. En Jesucristo, Dios se acercó a la humanidad de una manera extraordinaria. Juan afirma que el Verbo se hizo carne y habitó entre nosotros. Esto no significa que Dios comenzara a existir cuando nació Jesús ni que el Padre y el Espíritu Santo dejaran de ser distintos. El Hijo vino al mundo sin dejar de ser quien eternamente es.',
+references: 'Juan 1:14; Gálatas 4:4-5; Filipenses 2:6-8.'
+),
+StudySection(
+title: '23. Emanuel: Dios con nosotros',
+content:
+'El nombre Emanuel significa Dios con nosotros y aparece en la profecía de Isaías retomada por Mateo. Su cumplimiento en Jesucristo revela que la presencia de Dios se manifestó de manera personal en la encarnación del Hijo. Jesús no fue simplemente un mensajero que habló acerca de Dios; es el Hijo eterno que asumió nuestra humanidad. Su presencia entre los seres humanos constituye una parte central del mensaje del evangelio.',
+references: 'Isaías 7:14; Mateo 1:22-23; Juan 1:14.'
+),
+StudySection(
+title: '24. Jesucristo promete estar con sus discípulos',
+content:
+'Antes de ascender, Jesús prometió estar con sus discípulos todos los días hasta el fin del mundo. Esta promesa sostiene la misión de la iglesia. No significa que el cuerpo humano glorificado de Cristo se encuentre físicamente en todos los lugares, sino que el Señor resucitado acompaña y sostiene a su pueblo mediante su autoridad y presencia divina. La promesa está relacionada con la misión de hacer discípulos.',
+references: 'Mateo 28:18-20; Efesios 1:20-23; Hebreos 13:5-6.'
+),
+StudySection(
+title: '25. El Espíritu Santo habita en los creyentes',
+content:
+'El Nuevo Testamento enseña que el Espíritu Santo habita en quienes pertenecen a Cristo. Esta habitación expresa una relación especial y permanente con Dios. El Espíritu no se limita a visitar ocasionalmente al creyente, sino que lo identifica como perteneciente al Señor y obra en su transformación. Esta verdad no significa que Dios esté ausente de las personas que todavía no creen, sino que describe una relación particular de comunión y pertenencia.',
+references: 'Romanos 8:9-11; 1 Corintios 6:19; Efesios 1:13-14.'
+),
+StudySection(
+title: '26. El cuerpo del creyente como templo del Espíritu Santo',
+content:
+'Pablo enseña que el cuerpo del creyente es templo del Espíritu Santo. En su contexto, esta enseñanza está relacionada con la santidad y con el uso responsable del cuerpo. La presencia del Espíritu debe influir en nuestra conducta, decisiones y manera de vivir. El cuerpo no debe tratarse como algo sin importancia, porque pertenece al Señor y está llamado a glorificarlo.',
+references: '1 Corintios 6:18-20; 1 Corintios 3:16-17.'
+),
+StudySection(
+title: '27. La iglesia como morada de Dios',
+content:
+'La comunidad cristiana es descrita como un edificio espiritual en el cual Dios habita por su Espíritu. Esta imagen destaca la unidad de los creyentes y la obra de Cristo como fundamento. La iglesia no es solamente una institución humana ni una reunión ocasional. Es una comunidad llamada a vivir en santidad, amor y comunión bajo el señorío de Jesucristo.',
+references: 'Efesios 2:19-22; 1 Pedro 2:4-5; 1 Corintios 3:16.'
+),
+StudySection(
+title: '28. La presencia de Dios en la oración personal',
+content:
+'La oración es una expresión de comunión con Dios. El creyente puede orar en cualquier lugar porque el Señor no está limitado por edificios, horarios o distancias. Jesús enseñó a buscar al Padre con sinceridad y sin convertir la oración en una exhibición pública. La omnipresencia divina permite comprender que podemos acudir a Dios en cualquier circunstancia, con reverencia y confianza.',
+references: 'Mateo 6:5-8; Filipenses 4:6-7; Salmos 145:18.'
+),
+StudySection(
+title: '29. La presencia de Dios en el sufrimiento',
+content:
+'La omnipresencia de Dios ofrece consuelo en medio del sufrimiento. El salmista afirma que aun en el valle de sombra de muerte no necesita temer porque Dios está con él. Esto no significa que los creyentes nunca experimenten dolor, sino que no están abandonados. La presencia divina sostiene, acompaña y ofrece esperanza incluso cuando las circunstancias no cambian inmediatamente.',
+references: 'Salmos 23:4; Salmos 34:18; Isaías 43:1-2.'
+),
+StudySection(
+title: '30. La presencia de Dios en los momentos de temor',
+content:
+'El temor puede hacer que una persona se sienta sola o desprotegida. La Biblia recuerda repetidamente que Dios acompaña a quienes confían en Él. Su presencia no debe entenderse como una promesa de ausencia absoluta de peligros, sino como una garantía de que el Señor permanece fiel. La confianza cristiana se fundamenta en el carácter de Dios y no en la seguridad de que todas las circunstancias serán fáciles.',
+references: 'Josué 1:5-9; Isaías 41:10; Salmos 46:1-3.'
+),
+StudySection(
+title: '31. La presencia de Dios y la santidad',
+content:
+'La presencia de Dios está inseparablemente relacionada con su santidad. En la Biblia, quienes experimentan una manifestación especial de la gloria divina reconocen su propia condición delante del Señor. La cercanía de Dios no debe utilizarse para tratarlo con irreverencia. Al contrario, su presencia debe conducirnos a una vida de obediencia, pureza y respeto por su Palabra.',
+references: 'Éxodo 3:5-6; Isaías 6:1-5; 1 Pedro 1:15-16.'
+),
+StudySection(
+title: '32. La presencia de Dios y el pecado',
+content:
+'El pecado afecta la comunión del ser humano con Dios, pero no elimina la omnipresencia divina. Adán y Eva intentaron esconderse después de desobedecer, aunque no podían escapar de la presencia del Creador. El pecado produce separación relacional y culpabilidad, pero no crea un espacio donde Dios deje de estar presente. El arrepentimiento permite restaurar la comunión mediante la gracia divina.',
+references: 'Génesis 3:8-10; Salmos 51:10-12; Isaías 59:1-2.'
+),
+StudySection(
+title: '33. ¿Dios se aleja de los pecadores?',
+content:
+'Algunos textos hablan de que Dios esconde su rostro o se aparta de personas que persisten en la maldad. Estas expresiones describen el retiro del favor, la comunión o la manifestación de su bendición. No significan que Dios deje de ser omnipresente. El Señor continúa conociendo y gobernando todas las cosas, incluso cuando una persona experimenta las consecuencias de su rebelión.',
+references: 'Deuteronomio 31:17-18; Isaías 59:1-2; Salmos 139:7-12.'
+),
+StudySection(
+title: '34. La presencia de Dios y el arrepentimiento',
+content:
+'El arrepentimiento implica reconocer el pecado y regresar al Señor. La omnipresencia divina significa que no necesitamos buscar un lugar geográfico especial para comenzar a acercarnos a Él. Podemos confesar nuestra condición y pedir misericordia desde cualquier lugar. La restauración no depende de una ubicación física, sino de la gracia de Dios y de la obra redentora de Jesucristo.',
+references: 'Salmos 32:5; Hechos 3:19; 1 Juan 1:9.'
+),
+StudySection(
+title: '35. ¿Por qué parece que Dios está lejos?',
+content:
+'La Biblia contiene oraciones donde los creyentes preguntan por qué Dios parece distante. Estos textos expresan experiencias reales de angustia y espera. Sentir que Dios está lejos no demuestra que su presencia haya desaparecido. La omnipresencia es una verdad acerca de Dios, no una emoción que deba experimentarse de la misma manera en todo momento. La fe puede expresarse mediante preguntas sinceras y perseverancia.',
+references: 'Salmos 10:1; Salmos 13:1-6; Salmos 22:1-5.'
+),
+StudySection(
+title: '36. El silencio de Dios y su presencia',
+content:
