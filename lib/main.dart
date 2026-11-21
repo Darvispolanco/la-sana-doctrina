@@ -20440,258 +20440,89 @@ La Iglesia enseña tanto las promesas como las advertencias bíblicas, evitando 
     ],
     conclusion: '''La seguridad cristiana conduce a gratitud, obediencia y perseverancia. El creyente mira a Cristo como fundamento, escucha las promesas del Padre y depende del Espíritu para vivir en santidad. La Iglesia enseña tanto las promesas como las advertencias bíblicas, evitando la presunción y el temor paralizante. La verdadera confianza descansa en Dios y produce una vida que busca permanecer en Cristo.''',
   ),
-number: '119',
+  Study(
+    number: '119',
     title: "La perseverancia en la fe: permanecer en Cristo hasta el fin",
-    subtitle: "La constancia del creyente, las advertencias bíblicas y la fidelidad de Dios.",
-    introduction: '''
-La perseverancia en la fe es la continuidad de la confianza en Cristo y la fidelidad a su palabra a lo largo de la vida. La Biblia presenta la vida cristiana como un camino que requiere permanecer, resistir la tentación, crecer en amor y no abandonar la esperanza. La perseverancia no es autosuficiencia ni mérito humano: depende de la gracia y del poder de Dios.
+    subtitle: "La gracia que sostiene al creyente y el llamado bíblico a perseverar.",
+    introduction: '''La perseverancia en la fe es la continuidad de una vida de confianza en Cristo, sostenida por la gracia de Dios y expresada en obediencia, amor y fidelidad. No es autosuficiencia ni mérito humano, sino permanecer en el Señor a través de pruebas, tentaciones y cambios de circunstancias.
 
-Las Escrituras contienen promesas de que Dios sostiene a su pueblo y advertencias contra la incredulidad, el engaño y el abandono. Ambas clases de textos deben escucharse. Las promesas fortalecen la confianza; las advertencias despiertan y llaman a la comunidad a permanecer fiel.
-
-Este estudio distingue perseverancia de perfección sin pecado y de una seguridad presuntuosa. La meta es una fe madura que continúa mirando a Jesús hasta el fin.
-''',
+La Escritura presenta promesas de preservación y exhortaciones reales a perseverar. Ambas deben mantenerse: Dios guarda a los suyos y llama a su pueblo a permanecer en la fe.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Perseverancia es permanecer en la fe y obediencia a Cristo a través de pruebas y tentaciones. No significa ausencia de caídas, dudas o debilidades, sino una orientación sostenida hacia el Señor, con arrepentimiento y dependencia de su gracia.
+      StudySection(title: "1. Definición de perseverancia en la fe", content: '''La perseverancia en la fe es la continuidad de una vida de confianza en Cristo, sostenida por la gracia de Dios y expresada en obediencia, amor y fidelidad. No es autosuficiencia ni mérito humano, sino permanecer en el Señor a través de pruebas, tentaciones y cambios de circunstancias.
 
-Apostasía describe el abandono de la fe recibida. Las advertencias apostólicas llaman a no endurecer el corazón. La perseverancia es fruto de la gracia y también una responsabilidad exhortada por la Escritura; no debe reducirse ni a esfuerzo autónomo ni a pasividad.
-''',
-        references: "Juan 15:1-10; Hebreos 3:12-14; Filipenses 1:6; 1 Juan 1:8-9.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Las primeras comunidades cristianas enfrentaban persecución, presión social, falsos maestros y conflictos internos. Hebreos exhorta a no retroceder; las cartas de Pedro fortalecen a creyentes bajo prueba; Pablo utiliza imágenes de carrera y combate para describir la constancia.
+La Escritura presenta promesas de preservación y exhortaciones reales a perseverar. Ambas deben mantenerse: Dios guarda a los suyos y llama a su pueblo a permanecer en la fe.''', references: "Juan 15:1-10; Colosenses 1:21-23; Hebreos 3:12-14."),
+      StudySection(title: "2. El fundamento de la perseverancia", content: '''La perseverancia descansa en el carácter fiel de Dios, en la obra terminada de Cristo y en la presencia del Espíritu Santo. El creyente no continúa por fuerza independiente, sino porque Dios obra en él y lo llama a responder con fe.
 
-La perseverancia se vive en comunidad: los creyentes se exhortan mutuamente, se reúnen, sirven y se ayudan a resistir el engaño. El aislamiento puede aumentar la vulnerabilidad espiritual, por lo que la exhortación bíblica incluye comunión y cuidado mutuo.
-''',
-        references: "Comunidades cristianas ante persecución, presión social y falsos maestros.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento presenta a Dios como fiel a su pacto y llama a Israel a permanecer en obediencia. Deuteronomio 8 advierte que la abundancia puede llevar al olvido; Josué 23 llama a aferrarse al Señor; los Salmos describen la confianza en medio de la aflicción.
+Filipenses 1:6 expresa confianza en que Dios completará la buena obra que comenzó. Esta promesa no debe separarse de las exhortaciones de la misma carta a vivir de manera digna del evangelio y obedecer con reverencia.''', references: "Filipenses 1:6; 2:12-13; 1 Pedro 1:3-5."),
+      StudySection(title: "3. Permanecer en Cristo", content: '''Juan 15 utiliza la imagen de la vid y los pámpanos. La vida y el fruto dependen de permanecer unidos a Cristo. La rama no produce fruto por sí misma; recibe vida de la vid. La imagen enseña dependencia continua, obediencia y amor.
 
-La historia de Israel también muestra generaciones que se apartaron y sufrieron las consecuencias. Los profetas llaman al retorno y anuncian que Dios puede renovar el corazón. La fidelidad divina no convierte la infidelidad humana en algo irrelevante; llama al arrepentimiento.
-''',
-        references: "Deuteronomio 8; Josué 23; Salmos 37; 73.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús llama a permanecer en Él como los pámpanos en la vid (Juan 15:1-10). Sus discípulos deben guardar sus palabras y permanecer en su amor. Pablo exhorta a estar firmes en la fe y completar la carrera (1 Corintios 16:13; 2 Timoteo 4:7).
+Permanecer no significa una emoción constante ni ausencia de luchas. Implica escuchar la palabra de Jesús, guardar sus mandamientos y vivir en comunión con Él. La falta de fruto persistente es una advertencia que debe tomarse en serio.''', references: "Juan 15:1-10; 1 Juan 2:24-28."),
+      StudySection(title: "4. Las pruebas y el crecimiento espiritual", content: '''Santiago enseña que la prueba de la fe produce paciencia y madurez. Pedro recuerda que la fe puede ser probada y resultar más preciosa que el oro. Las pruebas no deben interpretarse automáticamente como castigo por un pecado específico.
 
-Hebreos 3:12-14 advierte contra un corazón malo de incredulidad y llama a exhortarse cada día. Santiago 1:2-4 relaciona las pruebas con la madurez. Primera de Pedro 1:3-9 presenta la esperanza viva y la fe probada. La perseverancia mira a Cristo y se sostiene en la gracia.
-''',
-        references: "Juan 15:1-10; Romanos 8:13-16; Filipenses 1:6,27; Hebreos 3:12-14; 10:24-25; Santiago 1:2-4.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Juan 15:4-5 utiliza la imagen de la vid: el pámpano no puede llevar fruto por sí mismo si no permanece unido a la vid. La imagen enseña dependencia de Cristo, no autosuficiencia moral. El fruto procede de permanecer en Él.
+La perseverancia se desarrolla al depender de Dios, pedir sabiduría y permanecer en la verdad. La comunidad cristiana debe acompañar a quienes atraviesan pruebas y evitar explicaciones rápidas que aumenten su carga.''', references: "Santiago 1:2-8; 1 Pedro 1:3-9; Romanos 5:1-5."),
+      StudySection(title: "5. Las advertencias contra el abandono", content: '''Hebreos advierte contra endurecer el corazón, apartarse del Dios vivo y retroceder. Estas advertencias forman parte de la enseñanza inspirada y llaman a la vigilancia. No deben ser neutralizadas por una doctrina superficial de seguridad.
 
-Hebreos 3:12-14 une advertencia y perseverancia. El autor llama a cuidarse de la incredulidad y a exhortarse mutuamente mientras se dice «hoy». La participación en Cristo se relaciona con retener firme hasta el fin la confianza inicial. El texto tiene propósito pastoral y comunitario.
+El llamado es a animarse mutuamente, mantener la confianza y no abandonar la reunión de la comunidad. La perseverancia es una vida de fe sostenida en relación con Dios y con el pueblo de Dios.''', references: "Hebreos 3:7-14; 10:19-39; 12:1-3."),
+      StudySection(title: "6. La palabra, la oración y la comunidad", content: '''La perseverancia se alimenta mediante la palabra de Dios, la oración y la comunión de los creyentes. La enseñanza apostólica fortalece la fe; la oración expresa dependencia; y la comunidad exhorta, consuela y ayuda a llevar las cargas.
 
-Filipenses 1:6 expresa confianza en que Dios completará la buena obra que comenzó. El versículo consuela, pero no debe utilizarse para anular las exhortaciones de la misma carta a vivir dignamente y mantenerse firmes (Filipenses 1:27; 2:12-13).
-''',
-        references: "Juan 15:4-5; Hebreos 3:12-14; Filipenses 1:6.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La perseverancia se relaciona con la elección, la gracia, la santificación, la comunidad y la esperanza futura. Dios inicia y sostiene la obra, y llama al creyente a responder con fe y obediencia. Las advertencias son parte de los medios mediante los cuales la comunidad es exhortada a permanecer.
+La vida cristiana no fue diseñada como una experiencia aislada. El aislamiento prolongado puede debilitar la capacidad de recibir corrección y ánimo. La Iglesia debe ser un espacio de verdad, cuidado mutuo y restauración.''', references: "Hechos 2:42-47; Colosenses 3:16; Hebreos 10:24-25; Gálatas 6:1-2."),
+      StudySection(title: "7. La perseverancia y las obras", content: '''Las buenas obras no compran la salvación, pero la fe viva produce fruto. Efesios 2:8-10 mantiene juntas la gracia y las obras: somos salvados por gracia y creados en Cristo para buenas obras. Santiago rechaza una profesión de fe que no se manifiesta en amor y obediencia.
 
-La Biblia no enseña perfección sin pecado en esta vida. Primera de Juan 1:8-9 reconoce que los creyentes necesitan confesar sus pecados. La perseverancia incluye arrepentimiento continuo y confianza en la intercesión de Cristo.
+La perseverancia no es simplemente conservar una afirmación verbal; es una vida que continúa confiando en Cristo y mostrando el fruto de esa confianza. La evaluación debe realizarse con humildad y bajo la palabra, no mediante comparación orgullosa.''', references: "Efesios 2:8-10; Santiago 2:14-26; Gálatas 5:22-25."),
+      StudySection(title: "8. La esperanza de la recompensa y la corona", content: '''El Nuevo Testamento utiliza imágenes de corona, herencia y recompensa para animar a la fidelidad. Estas promesas no deben interpretarse como una transacción por la cual el creyente compra el favor de Dios. La recompensa es parte de la gracia y de la justicia del Señor.
 
-La comunidad fortalece la fe mediante enseñanza, oración, comunión y cuidado mutuo. La perseverancia no debe utilizarse para juzgar superficialmente a otros, sino para animar y corregir con verdad y amor.
-''',
-        references: "Deuteronomio 8; Josué 23; Juan 15; Romanos 6; Hebreos 3; 10; 1 Juan 1.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre guarda y completa su obra en los creyentes; el Hijo es la vid y el mediador cuya vida sostiene a los suyos; el Espíritu fortalece, santifica y da testimonio. Filipenses 1:6 presenta la confianza en la obra de Dios; Juan 15 destaca la dependencia de Cristo; Romanos 8:13-16 relaciona la vida por el Espíritu con la condición de hijos de Dios.
+Pablo habla de terminar la carrera y guardar la fe. La imagen llama a vivir con propósito y fidelidad, no a competir por prestigio humano. La esperanza futura fortalece la obediencia presente.''', references: "1 Corintios 9:24-27; 2 Timoteo 4:7-8; Santiago 1:12; 1 Pedro 5:4."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre guarda a los creyentes conforme a su propósito; el Hijo intercede y sostiene a los suyos; el Espíritu fortalece, guía y sella. La perseverancia es obra del único Dios y respuesta de fe de quienes le pertenecen.
 
-La perseverancia es obra del único Dios y responsabilidad real del creyente. El Padre no es el Hijo, y el Espíritu no es una energía impersonal. La distinción personal aparece en el testimonio de Jesús y de los apóstoles, mientras la unidad divina se mantiene en la salvación.
-''',
-        references: "Juan 15:1-10; Filipenses 1:6; Romanos 8:13-16.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Perseverar significa nunca caer? No. Los creyentes pueden pecar y necesitan arrepentimiento; la perseverancia se expresa en volver a Cristo y continuar en la fe.
+¿La gracia permite vivir sin obediencia? No. ¿Las pruebas demuestran que Dios abandonó al creyente? No necesariamente. ¿La perseverancia depende solo de la voluntad humana? No; la Escritura destaca la gracia y el poder de Dios. ¿Las advertencias son innecesarias si Dios guarda? No; son medios por los que Dios llama a perseverar.''', references: "Juan 10:27-30; Romanos 8:26-39; Filipenses 2:12-13; Efesios 1:13-14; Judas 20-24."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La perseverancia se expresa en permanecer en Cristo, escuchar su palabra, orar, participar de la comunidad, practicar el amor y responder a las pruebas con confianza. La Iglesia debe acompañar a los creyentes con exhortación y consuelo, sin promover presunción ni temor paralizante.
 
-¿La seguridad de Dios elimina las advertencias? No. Las advertencias son parte de la enseñanza bíblica y llaman a no endurecerse. Deben leerse junto con las promesas de Dios.
-
-¿La perseverancia depende solo de la fuerza humana? No. Dios sostiene y capacita, pero la Escritura llama a permanecer y obedecer. No es pasividad.
-
-¿Una persona puede usar la gracia como excusa para pecar? No. Romanos 6 rechaza esa conclusión; la gracia conduce a una vida nueva.
-
-¿La perseverancia es individual? No exclusivamente. Hebreos 3:13 ordena exhortarse mutuamente; la comunidad tiene responsabilidad de acompañar y fortalecer.
-''',
-        references: "Romanos 6; Hebreos 3:12-14; 1 Juan 1:8-9.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué significa permanecer en Cristo? Respuesta: Depender de Él, guardar su palabra y vivir en su amor (Juan 15:4-10).
-
-Pregunta: ¿Por qué se exhorta diariamente? Respuesta: Para que nadie se endurezca por el engaño del pecado (Hebreos 3:12-14).
-
-Pregunta: ¿Quién completa la obra de salvación? Respuesta: Dios, que comenzó la buena obra y la llevará a cumplimiento (Filipenses 1:6).
-
-Pregunta: ¿Qué papel tiene la comunidad? Respuesta: Exhortar, animar y ayudar a permanecer en la fe (Hebreos 3:13; 10:24-25).
-
-Pregunta: ¿Cómo se enfrenta una caída? Respuesta: Confesando el pecado, recibiendo el perdón y caminando de nuevo en obediencia (1 Juan 1:8-9).
-''',
-        references: "Juan 15:4-10; Filipenses 1:6; Hebreos 3:12-14; 10:24-25.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La perseverancia es permanecer en Cristo mediante la gracia de Dios, con fe, arrepentimiento y obediencia. No significa perfección sin pecado ni confianza en la fuerza propia. Las promesas fortalecen y las advertencias llaman a permanecer; ambas forman parte de la enseñanza apostólica.
-
-El Padre completa su obra, el Hijo sostiene a los suyos y el Espíritu fortalece la vida nueva. La comunidad debe exhortar y cuidar, evitando tanto la presunción como la condenación precipitada. La fe madura sigue mirando a Jesús y continúa fiel hasta el fin.
-''',
-        references: "Juan 15:4-10; Filipenses 1:6; Hebreos 3:12-14.",
-      ),
+Dios es fiel para guardar a su pueblo y su gracia sostiene la respuesta de fe. La esperanza cristiana no consiste en confiar en la fuerza personal, sino en permanecer unidos a Jesús hasta el fin.''', references: "Juan 15:4-10; Hebreos 10:23-25; Filipenses 1:6; Judas 24-25.")
     ],
-    conclusion: '''
-La perseverancia consiste en permanecer en Cristo a través de pruebas, tentaciones y temporadas de debilidad. No significa perfección sin pecado, sino una fe que continúa dependiendo de Jesús, se arrepiente y obedece. Las promesas de Dios sostienen y las advertencias despiertan a la comunidad.
-
-El Padre completa su obra, el Hijo es la vid que sostiene a los suyos y el Espíritu fortalece la vida nueva. La Iglesia debe exhortarse mutuamente, permanecer en comunión y ayudar a quienes atraviesan dificultades. La meta es una fe que mira a Cristo hasta el fin.
-''',
+    conclusion: '''La perseverancia se expresa en permanecer en Cristo, escuchar su palabra, orar, participar de la comunidad, practicar el amor y responder a las pruebas con confianza. Dios es fiel para guardar a su pueblo y su gracia sostiene la respuesta de fe. La esperanza cristiana no consiste en confiar en la fuerza personal, sino en permanecer unidos a Jesús hasta el fin.''',
   ),
-
   Study(
     number: '120',
     title: "La glorificación: consumación de la salvación en el pueblo de Dios",
-    subtitle: "La transformación final de los creyentes y la plena conformidad con Cristo.",
-    introduction: '''
-La glorificación es la etapa final de la salvación, cuando Dios transforme plenamente a quienes pertenecen a Cristo y los conforme a la imagen de su Hijo. La obra que comienza con el llamado, la justificación y la santificación llegará a su consumación en la resurrección y la vida en la nueva creación.
+    subtitle: "La transformación final del creyente y su participación en la nueva creación.",
+    introduction: '''La glorificación es la etapa final de la salvación en la que Dios transforma plenamente a quienes pertenecen a Cristo, conformándolos a la imagen del Hijo y liberándolos definitivamente del pecado, la corrupción y la muerte. Es una obra futura y segura según las promesas divinas.
 
-La glorificación no es un logro humano ni una evolución natural hacia la divinidad. Es un acto de gracia por el cual los creyentes reciben una condición incorruptible y participan de la comunión plena con Dios. La Biblia habla de gloria futura, transformación del cuerpo y liberación de la creación.
-
-Este estudio distingue glorificación de santificación presente y examina su relación con la venida de Cristo, la resurrección, el juicio y la nueva creación.
-''',
+La glorificación no significa que el ser humano se convierta en Dios por naturaleza. Significa participar plenamente de la vida que Dios concede y vivir en comunión con Él en la creación renovada.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Glorificación es la consumación de la salvación en la que Dios transforma a los creyentes para que participen plenamente de la vida incorruptible y sean conformados a Cristo. No significa convertirse en dioses ni compartir la esencia divina. La criatura permanece criatura, aunque recibe una condición gloriosa por gracia.
+      StudySection(title: "1. Definición de glorificación", content: '''La glorificación es la etapa final de la salvación en la que Dios transforma plenamente a quienes pertenecen a Cristo, conformándolos a la imagen del Hijo y liberándolos definitivamente del pecado, la corrupción y la muerte. Es una obra futura y segura según las promesas divinas.
 
-Santificación es la obra presente por la que el creyente crece en santidad; glorificación es la transformación final y completa. La esperanza no depende de méritos ni de capacidades humanas, sino de la promesa y el poder de Dios.
-''',
-        references: "Romanos 8:18-30; Filipenses 3:20-21; 1 Juan 3:1-3; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-La esperanza de gloria se expresó en el judaísmo del Segundo Templo mediante expectativas de resurrección, juicio y restauración. Los primeros cristianos proclamaron que Jesús ya había resucitado y que su pueblo participaría de esa victoria cuando Él regresara.
+La glorificación no significa que el ser humano se convierta en Dios por naturaleza. Significa participar plenamente de la vida que Dios concede y vivir en comunión con Él en la creación renovada.''', references: "Romanos 8:18-30; 1 Corintios 15:42-54; Filipenses 3:20-21."),
+      StudySection(title: "2. La relación entre justificación, santificación y glorificación", content: '''La justificación declara justo al creyente por la fe en Cristo; la santificación describe la obra de Dios que transforma su vida; y la glorificación consuma la salvación cuando el creyente es hecho plenamente conforme al Hijo. Son aspectos relacionados, pero no idénticos.
 
-Las cartas apostólicas fueron escritas a comunidades que sufrían persecución, conflictos y debilidad. La promesa futura no era una especulación para distraerlos, sino un fundamento para perseverar y vivir en santidad. La glorificación se relaciona con la esperanza de la nueva creación.
-''',
-        references: "Esperanza de resurrección y nueva creación en el judaísmo del Segundo Templo y las iglesias apostólicas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento anuncia que Dios quitará la muerte, restaurará a su pueblo y manifestará su gloria. Isaías 25:6-9 promete que el Señor destruirá la muerte; Daniel 12:2 habla de resurrección; Isaías 65–66 presenta la esperanza de cielos nuevos y tierra nueva.
+La justificación no depende de alcanzar perfección moral; la santificación no se completa en esta vida; y la glorificación es futura. Esta distinción protege contra el legalismo y contra la idea de que el pecado debe permanecer para siempre en el creyente.''', references: "Romanos 5:1-2; 6:19-22; 8:29-30; 1 Tesalonicenses 5:23-24."),
+      StudySection(title: "3. El propósito de ser conformados a Cristo", content: '''Romanos 8:29 afirma que Dios predestinó a su pueblo para ser hecho conforme a la imagen de su Hijo. La meta de la salvación no es simplemente escapar del juicio, sino participar de una vida transformada que refleja el carácter de Cristo.
 
-Estos textos contienen horizontes proféticos que se desarrollan en el Nuevo Testamento. La glorificación no aparece como un concepto técnico completo en la ley, pero la esperanza de restauración, vida y victoria divina prepara su comprensión.
-''',
-        references: "Isaías 25:6-9; 65:17-25; Daniel 12:1-3.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Romanos 8:18-30 relaciona el sufrimiento presente con la gloria futura. Pablo enseña que la creación gime y espera ser liberada, y que los creyentes esperan la redención de su cuerpo. Filipenses 3:20-21 afirma que Cristo transformará nuestro cuerpo de humillación conforme a su cuerpo glorioso.
+1 Juan 3:2 declara que aún no se ha manifestado plenamente lo que seremos, pero que cuando Cristo se manifieste seremos semejantes a Él, porque le veremos como Él es. La esperanza futura sostiene la santidad presente.''', references: "Romanos 8:29; 1 Juan 3:1-3; 2 Corintios 3:18."),
+      StudySection(title: "4. La transformación del cuerpo", content: '''La glorificación incluye la resurrección corporal. El cuerpo mortal será transformado en incorruptible, y la debilidad dará paso a gloria y poder. Filipenses 3:21 enseña que Cristo transformará el cuerpo de humillación para hacerlo semejante al suyo glorioso.
 
-Primera de Corintios 15 describe la transformación de corruptibilidad a incorrupción. Primera de Juan 3:2 declara que seremos semejantes a Cristo cuando Él se manifieste, aunque todavía no se ha manifestado plenamente lo que seremos. Apocalipsis 21–22 presenta la consumación de la comunión con Dios.
-''',
-        references: "Romanos 8:18-30; 1 Corintios 15; Filipenses 3:20-21; 1 Juan 3:1-3; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Romanos 8:29-30 presenta la secuencia del propósito salvador: a quienes Dios conoció, predestinó para ser conformes a la imagen de su Hijo; también los llamó, justificó y glorificó. El uso verbal de «glorificó» contempla la certeza del propósito divino, aunque la consumación todavía se espera.
+La esperanza bíblica no desprecia el cuerpo ni enseña que la salvación consista en abandonar la creación material. Dios redime a la persona completa y restaura su creación. Los detalles no revelados deben dejarse en manos de Dios.''', references: "1 Corintios 15:35-54; Filipenses 3:20-21; Romanos 8:23."),
+      StudySection(title: "5. La eliminación definitiva del pecado", content: '''En la glorificación, la lucha contra el pecado llegará a su fin. El creyente será plenamente conformado a Cristo y ya no vivirá bajo la corrupción que caracteriza la existencia presente. Esta esperanza no autoriza a tolerar el pecado ahora; llama a vivir en santidad mientras se espera la consumación.
 
-Filipenses 3:20-21 señala que nuestra ciudadanía está en los cielos y que esperamos al Salvador, quien transformará nuestro cuerpo. La esperanza es corporal y depende del poder con que Cristo somete todas las cosas. No se trata de despreciar el cuerpo actual, sino de esperar su redención.
+La transformación final es obra de la gracia divina. Ninguna persona alcanza la glorificación mediante esfuerzo autónomo o mérito propio. Dios completa la obra que comenzó en quienes pertenecen a Cristo.''', references: "Romanos 6:22; 8:29-30; Filipenses 1:6; Apocalipsis 21:27."),
+      StudySection(title: "6. La glorificación y la nueva creación", content: '''La esperanza final incluye cielos nuevos y tierra nueva, donde habita la justicia. Apocalipsis presenta a Dios morando con su pueblo, y la desaparición de la muerte, el llanto y el dolor. La redención alcanza la creación entera.
 
-1 Juan 3:2 une certeza y misterio: somos hijos de Dios, pero lo que seremos no se ha manifestado plenamente. Cuando Cristo aparezca, seremos semejantes a Él. El texto no explica cada detalle de la condición glorificada y llama a vivir en esperanza y pureza.
-''',
-        references: "Romanos 8:29-30; Filipenses 3:20-21; 1 Juan 3:2.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La glorificación se relaciona con la resurrección de Cristo, la redención del cuerpo, la liberación de la creación, el juicio final y la nueva Jerusalén. No debe reducirse a una experiencia individual: incluye la restauración de la comunidad y de la creación bajo el gobierno de Dios.
+Romanos 8 describe a la creación aguardando la manifestación de los hijos de Dios. La glorificación de los creyentes y la renovación del mundo forman parte del mismo propósito divino, aunque la Escritura no revela cada detalle de la condición futura.''', references: "Romanos 8:18-25; 2 Pedro 3:13; Apocalipsis 21:1-5; 22:1-5."),
+      StudySection(title: "7. La esperanza de ver a Dios", content: '''La comunión plena con Dios es el centro de la esperanza final. Apocalipsis declara que sus siervos verán su rostro y le servirán. La vida eterna no se define solo por duración, sino por la presencia y el conocimiento pleno de Dios.
 
-Romanos 8 vincula la gloria de los hijos de Dios con la liberación de la creación. Apocalipsis 21 anuncia nuevos cielos y nueva tierra, y describe a Dios habitando con su pueblo. La esperanza cristiana no consiste en escapar de toda realidad material, sino en recibir la creación renovada por Dios.
+La Escritura mantiene la trascendencia divina y no enseña que los creyentes se conviertan en seres de la misma esencia que Dios. Participan de la vida y comunión que Él concede por gracia, permaneciendo como criaturas redimidas.''', references: "Mateo 5:8; Juan 17:3, 24; 1 Juan 3:2; Apocalipsis 22:3-5."),
+      StudySection(title: "8. La glorificación como fundamento de perseverancia", content: '''La esperanza de la glorificación fortalece al creyente en medio del sufrimiento y la debilidad. Pablo compara las aflicciones presentes con la gloria venidera y enseña que la esperanza sostiene la perseverancia. La promesa futura no minimiza el dolor, sino que afirma que no tendrá la última palabra.
 
-La glorificación completa la santificación: el creyente será plenamente conformado a Cristo y ya no estará sujeto al pecado, corrupción ni muerte.
-''',
-        references: "Isaías 25:6-9; Daniel 12:2; Romanos 8:18-30; Apocalipsis 21–22.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre predestina a los creyentes para ser conformes a la imagen del Hijo; el Hijo resucitado transformará sus cuerpos; el Espíritu es primicia y garantía de la redención futura. Romanos 8:11, 15-17, 23-30 une la obra del Espíritu, la adopción y la esperanza de gloria.
+La Iglesia debe consolar con la esperanza bíblica sin prometer que todos los problemas serán resueltos antes de la muerte. La consumación final pertenece a Dios y sostiene la fidelidad presente.''', references: "Romanos 8:18-25; 2 Corintios 4:16-18; 1 Pedro 1:3-9."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre determina y consuma el propósito de salvación; el Hijo es el modelo y mediador de la glorificación, pues los creyentes serán conformados a su imagen; y el Espíritu da vida y es garantía de la herencia futura. La obra pertenece al único Dios y distingue a las personas.
 
-La salvación es obra del único Dios. El Padre no es el Hijo; el Hijo es quien se encarnó y resucitó; el Espíritu habita en los creyentes y los vivifica. La distinción personal no divide la esencia divina. La glorificación manifiesta el propósito del Padre, la victoria del Hijo y la obra vivificadora del Espíritu.
-''',
-        references: "Romanos 8:11,15-17,23-30; Filipenses 3:20-21.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La glorificación significa que los creyentes se convierten en dioses? No. Participan de la vida incorruptible por gracia, pero no adquieren la esencia divina ni dejan de ser criaturas.
+¿Glorificación significa que el creyente se vuelve divino por esencia? No. ¿Se alcanza en esta vida? No; la santificación comienza ahora, pero la glorificación es futura. ¿Incluye el cuerpo? Sí, la resurrección es corporal y transformadora. ¿Desaparece la creación? No; la esperanza bíblica incluye nueva creación.''', references: "Romanos 8:11, 29-30; 1 Corintios 15:42-54; Efesios 1:13-14; Filipenses 3:20-21."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La glorificación orienta al creyente hacia la esperanza, la santidad y la perseverancia. Saber que Dios completará su obra ayuda a no absolutizar el sufrimiento presente ni los bienes temporales. La Iglesia anuncia una esperanza corporal y cósmica, centrada en la presencia de Dios.
 
-¿La glorificación ocurre al morir? La Biblia relaciona la transformación corporal con la resurrección y la manifestación de Cristo. El estado intermedio y la consumación final deben distinguirse.
-
-¿La gloria futura elimina la importancia de la vida presente? No. La esperanza futura impulsa a vivir en santidad y servicio ahora (1 Juan 3:2-3).
-
-¿La creación será destruida y abandonada? Romanos 8 y Apocalipsis 21 hablan de liberación y renovación. Los detalles de cómo ocurrirá deben tratarse con cautela.
-
-¿La glorificación depende de obras humanas? No. Es resultado del propósito y la gracia de Dios, aunque las obras evidencian la fe y la vida transformada.
-''',
-        references: "Romanos 8:18-23; Filipenses 3:20-21; 1 Juan 3:2-3.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué significa ser conformados a la imagen del Hijo? Respuesta: Ser transformados para reflejar plenamente el carácter y la gloria de Cristo (Romanos 8:29; 1 Juan 3:2).
-
-Pregunta: ¿Qué ocurrirá con el cuerpo? Respuesta: Cristo lo transformará conforme a su cuerpo glorioso (Filipenses 3:20-21).
-
-Pregunta: ¿Qué papel tiene el Espíritu? Respuesta: Habita en los creyentes como primicia y garantía de la redención futura y vivificará sus cuerpos (Romanos 8:11,23).
-
-Pregunta: ¿La gloria futura incluye la creación? Respuesta: Sí. La creación espera ser liberada de la corrupción (Romanos 8:19-23).
-
-Pregunta: ¿Cómo debe vivir quien espera la glorificación? Respuesta: En esperanza, pureza y fidelidad, porque verá a Cristo (1 Juan 3:2-3).
-''',
-        references: "Romanos 8:29-30; Filipenses 3:20-21; 1 Juan 3:2-3.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La glorificación es la consumación de la salvación: Dios transformará a los creyentes, redimirá sus cuerpos y los conformará plenamente a Cristo. No significa convertirse en dioses, sino recibir por gracia una vida incorruptible en comunión con Dios. La esperanza incluye la liberación de la creación y la nueva Jerusalén.
-
-El Padre lleva a cumplimiento su propósito, el Hijo transformará a los suyos y el Espíritu es garantía y agente de vida. Esta esperanza no invita a despreciar el presente, sino a vivir en santidad, servicio y perseverancia mientras esperamos la venida del Señor.
-''',
-        references: "Romanos 8:18-30; Filipenses 3:20-21; Apocalipsis 21–22.",
-      ),
+La salvación culminará cuando el Padre transforme a su pueblo conforme al Hijo y el Espíritu dé vida plena. La gloria futura no es mérito humano, sino gracia consumada. Por eso el creyente persevera con esperanza y sirve al Señor sabiendo que su trabajo no es vano.''', references: "Romanos 8:18-30; 1 Corintios 15:54-58; Filipenses 1:6; Apocalipsis 21:1-5.")
     ],
-    conclusion: '''
-La glorificación es la consumación de la salvación y la transformación plena de los creyentes conforme a la imagen de Cristo. Incluye la redención del cuerpo, la victoria sobre la corrupción y la comunión definitiva con Dios en la nueva creación. No significa que la criatura se convierta en Dios, sino que recibe vida incorruptible por gracia.
-
-El Padre lleva a cumplimiento su propósito, el Hijo transformará a los suyos y el Espíritu es primicia y garantía de la vida futura. La esperanza de gloria fortalece la santidad y la perseverancia en el presente.
-''',
+    conclusion: '''La glorificación orienta al creyente hacia la esperanza, la santidad y la perseverancia. La salvación culminará cuando el Padre transforme a su pueblo conforme al Hijo y el Espíritu dé vida plena. La gloria futura no es mérito humano, sino gracia consumada. Por eso el creyente sirve al Señor sabiendo que su trabajo no es vano.''',
   ),
-
-  Study(number: '121', title: "La iglesia local: membresía, responsabilidad y vida congregacional", subtitle: "La comunidad visible de creyentes, su identidad y sus responsabilidades bíblicas.", introduction: '''La iglesia local es una comunidad concreta de personas que confiesan a Jesucristo, reciben la enseñanza apostólica y se reúnen para adorar, servir y dar testimonio. La fe cristiana no se presenta como una experiencia aislada: los creyentes son incorporados al cuerpo de Cristo y asumen responsabilidades unos hacia otros. La membresía reconoce pertenencia, cuidado y compromiso; no sustituye la conversión ni constituye mérito para la salvación.''', sections: [
+number: '121', title: "La iglesia local: membresía, responsabilidad y vida congregacional", subtitle: "La comunidad visible de creyentes, su identidad y sus responsabilidades bíblicas.", introduction: '''La iglesia local es una comunidad concreta de personas que confiesan a Jesucristo, reciben la enseñanza apostólica y se reúnen para adorar, servir y dar testimonio. La fe cristiana no se presenta como una experiencia aislada: los creyentes son incorporados al cuerpo de Cristo y asumen responsabilidades unos hacia otros. La membresía reconoce pertenencia, cuidado y compromiso; no sustituye la conversión ni constituye mérito para la salvación.''', sections: [
       StudySection(title: "1. Delimitación del tema y definición de conceptos", content: '''Iglesia es la asamblea de quienes pertenecen a Cristo; puede designar la comunidad universal o una congregación local. Membresía reconoce públicamente pertenencia, cuidado y responsabilidad. La iglesia no es el edificio, sino el pueblo reunido bajo el señorío de Jesús.''', references: "Hechos 2:42-47; 1 Corintios 12:12-27; Hebreos 10:24-25."),
       StudySection(title: "2. Contexto histórico, cultural y literario", content: '''Las primeras congregaciones surgieron en ciudades y hogares del mundo romano. Se reunían para enseñanza, comunión, oración y partimiento del pan, mientras enfrentaban persecución, diferencias culturales y conflictos doctrinales.''', references: "Iglesias domésticas y urbanas del mundo grecorromano."),
       StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: '''Israel fue convocado como pueblo del pacto para escuchar la ley y adorar al Señor (Deuteronomio 31:9-13). Estos antecedentes ayudan a comprender la asamblea del pueblo de Dios, aunque Israel y la Iglesia no deben confundirse sin matices.''', references: "Deuteronomio 31:9-13; Salmo 22:22."),
