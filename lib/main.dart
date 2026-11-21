@@ -21603,9 +21603,18 @@ Study(
   @override
   Widget build(BuildContext context) {
     final q = _searchController.text.trim().toLowerCase();
-    final results = _EstudiosTabState.studies.where((x) =>
-      x.number.toLowerCase().contains(q) || x.title.toLowerCase().contains(q) ||
-      x.subtitle.toLowerCase().contains(q)).toList(growable: false);
+    final results = _EstudiosTabState.studies.where((x) {
+      if (q.isEmpty) return true;
+      return x.number.toLowerCase().contains(q) ||
+          x.title.toLowerCase().contains(q) ||
+          x.subtitle.toLowerCase().contains(q) ||
+          x.introduction.toLowerCase().contains(q) ||
+          x.conclusion.toLowerCase().contains(q) ||
+          x.sections.any((section) =>
+              section.title.toLowerCase().contains(q) ||
+              section.content.toLowerCase().contains(q) ||
+              section.references.toLowerCase().contains(q));
+    }).toList(growable: false);
     return Column(children: [
       Padding(padding: const EdgeInsets.fromLTRB(16,16,16,10), child: TextField(
         controller: _searchController, onChanged: (_) => setState(() {}),
@@ -21638,7 +21647,24 @@ Study(
                 style: const TextStyle(fontWeight: FontWeight.w700)),
               subtitle: Padding(padding: const EdgeInsets.only(top: 5),
                 child: Text(study.subtitle, maxLines: 2, overflow: TextOverflow.ellipsis)),
-              trailing: const Icon(Icons.chevron_right_rounded),
+              trailing: Row(mainAxisSize: MainAxisSize.min, children: [
+                ValueListenableBuilder<Set<String>>(
+                  valueListenable: BookmarkStore.savedStudyIds,
+                  builder: (context, saved, _) {
+                    final isSaved = saved.contains(study.number);
+                    return IconButton(
+                      tooltip: isSaved ? 'Quitar de favoritos' : 'Guardar en favoritos',
+                      visualDensity: VisualDensity.compact,
+                      onPressed: () => BookmarkStore.toggleStudy(study.number),
+                      icon: Icon(
+                        isSaved ? Icons.bookmark : Icons.bookmark_border,
+                        color: isSaved ? const Color(0xFF14243A) : Colors.black54,
+                      ),
+                    );
+                  },
+                ),
+                const Icon(Icons.chevron_right_rounded),
+              ]),
               onTap: () => Navigator.push(context, MaterialPageRoute(
                 builder: (_) => StudyDetailPage(study: study))),
             ));
