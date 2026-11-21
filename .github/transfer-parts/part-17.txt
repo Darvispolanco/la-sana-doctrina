@@ -1,0 +1,1000 @@
+      references: "Habacuc 3:17-19; 2 Corintios 6:10",
+    ),
+    StudySection(
+      title: "26. El gozo y la esperanza futura",
+      content: "La esperanza de la gloria fortalece al creyente en el presente. La plenitud prometida aún no se ha manifestado por completo, pero la fidelidad divina sostiene la confianza.",
+      references: "Romanos 5:1-5; 8:18-25",
+    ),
+    StudySection(
+      title: "27. El gozo de la salvación",
+      content: "La salvación produce gratitud porque Dios rescata por gracia. La seguridad del creyente descansa en la obra de Cristo, no en la intensidad de sus emociones.",
+      references: "Salmos 51:12; Lucas 10:20; Filipenses 3:1",
+    ),
+    StudySection(
+      title: "28. El gozo ante el arrepentimiento",
+      content: "La Biblia describe el gozo que hay delante de Dios cuando el pecador se arrepiente. Esta enseñanza revela el valor de la restauración y llama a recibir con misericordia al que vuelve.",
+      references: "Lucas 15:7,10,20-24",
+    ),
+    StudySection(
+      title: "29. Gozo y obediencia",
+      content: "La obediencia no compra el favor de Dios. Es la respuesta agradecida de quienes han recibido su gracia y desean andar en la voluntad del Señor.",
+      references: "Juan 14:15; 1 Juan 5:3",
+    ),
+    StudySection(
+      title: "30. Gozo y adoración",
+      content: "La adoración expresa gratitud y reconocimiento de la bondad divina. No debe medirse solo por intensidad musical, sino por verdad, reverencia y sinceridad.",
+      references: "Salmos 100:1-5; Juan 4:23-24",
+    ),
+    StudySection(
+      title: "31. Gozo y oración",
+      content: "La oración permite presentar peticiones y agradecer. La paz prometida no depende de controlar cada circunstancia, sino de confiar en el Señor.",
+      references: "Filipenses 4:4-7; 1 Tesalonicenses 5:16-18",
+    ),
+    StudySection(
+      title: "32. Gozo y comunión de la Iglesia",
+      content: "La comunidad cristiana comparte cargas, consuelos y motivos de gratitud. El gozo de unos fortalece a otros cuando se practica el amor y se evita la comparación.",
+      references: "Romanos 12:15; Filipenses 2:1-4",
+    ),
+    StudySection(
+      title: "33. Gozo y servicio",
+      content: "Servir con alegría significa reconocer el privilegio de pertenecer al Señor y ayudar a otros. No implica ocultar el cansancio, sino servir con fidelidad y responsabilidad.",
+      references: "Salmos 100:2; Colosenses 3:23-24",
+    ),
+    StudySection(
+      title: "34. Gozo y generosidad",
+      content: "La generosidad cristiana nace de una disposición voluntaria, no de presión o manipulación. Dios ama al dador alegre y permite compartir con otros.",
+      references: "2 Corintios 9:7-11",
+    ),
+    StudySection(
+      title: "35. Gozo en la verdad del evangelio",
+      content: "La verdad de Cristo es motivo de alegría porque libera del engaño y orienta hacia la vida eterna. La alegría nunca justifica alterar el mensaje bíblico.",
+      references: "Juan 8:31-32; 3 Juan 3-4",
+    ),
+    StudySection(
+      title: "36. Dios no necesita al ser humano",
+      content: "La Biblia rechaza que Dios dependa de la actividad humana para subsistir o alcanzar plenitud. El servicio cristiano es respuesta a la gracia, no una contribución que complete a Dios.",
+      references: "Hechos 17:24-25; Job 22:2-3",
+    ),
+    StudySection(
+      title: "37. No siempre se debe sentir euforia",
+      content: "La Escritura reconoce el lamento, el cansancio y la tristeza. La fe no obliga a aparentar felicidad permanente ni a juzgar la espiritualidad por el estado emocional.",
+      references: "Salmos 42:5; Juan 11:33-36; 2 Corintios 1:8-9",
+    ),
+    StudySection(
+      title: "38. Bienaventuranza e inmutabilidad",
+      content: "Dios no pierde su plenitud ni necesita recuperarla. Su perfección permanece estable y sus obras en la historia son coherentes con su carácter eterno.",
+      references: "Malaquías 3:6; Santiago 1:17",
+    ),
+    StudySection(
+      title: "39. Bienaventuranza y soberanía",
+      content: "Dios gobierna con libertad y sabiduría, sin estar sometido a poderes superiores. Su soberanía no es caprichosa: corresponde a su naturaleza santa y perfecta.",
+      references: "Salmos 115:3; Daniel 4:35; Efesios 1:11",
+    ),
+    StudySection(
+      title: "40. Bienaventuranza y bondad",
+      content: "La plenitud divina no hace a Dios indiferente a su creación. Su bondad se manifiesta al sostener, proveer y llamar a las personas a recibir su gracia.",
+      references: "Salmos 145:8-9; Mateo 5:45",
+    ),
+    StudySection(
+      title: "41. Bienaventuranza y gloria",
+      content: "La gloria expresa la excelencia divina y la bienaventuranza su plenitud perfecta. Son conceptos relacionados, pero distintos: Dios es glorioso y bienaventurado por quien es.",
+      references: "1 Timoteo 1:11; 6:15-16",
+    ),
+    StudySection(
+      title: "42. Adoración trinitaria",
+      content: "La Iglesia honra al único Dios: al Padre, por medio del Hijo, en el Espíritu Santo. Esto reconoce la distinción personal sin dividir la esencia divina.",
+      references: "Efesios 2:18; 1 Pedro 1:2; Judas 20-21",
+    ),
+    StudySection(
+      title: "43. El gozo del creyente es recibido por gracia",
+      content: "El creyente no posee la autosuficiencia de Dios. Recibe vida, comunión y esperanza como dones; su felicidad es dependiente y derivada, mientras que la de Dios es esencial.",
+      references: "Salmos 16:11; Juan 15:5; Romanos 8:32",
+    ),
+    StudySection(
+      title: "44. Gozo pleno en la presencia de Dios",
+      content: "La esperanza final es estar con el Señor y disfrutar de su presencia. Esto no significa convertirse en divinidad, sino recibir vida eterna en comunión con Dios.",
+      references: "Salmos 16:11; Apocalipsis 21:3-4",
+    ),
+    StudySection(
+      title: "45. Cultivar el gozo cristiano",
+      content: "La confianza en las promesas, la oración, la comunión y la obediencia alimentan una esperanza sostenida por el Espíritu. No son técnicas para controlar emociones, sino respuestas de fe.",
+      references: "Romanos 12:12; Filipenses 4:4-7; Colosenses 3:16",
+    ),
+    StudySection(
+      title: "46. No usar el gozo para sentirse superior",
+      content: "Nadie debe declararse más espiritual por su estado emocional. La Escritura llama a consolar, acompañar y llevar las cargas mutuamente.",
+      references: "Gálatas 6:2; Romanos 12:15",
+    ),
+    StudySection(
+      title: "47. Bienaventuranza y misión cristiana",
+      content: "La misión anuncia al Dios vivo que ofrece reconciliación y vida en Cristo. No promete felicidad superficial, sino que llama a conocer al Padre, al Hijo y al Espíritu Santo.",
+      references: "Mateo 28:19-20; Juan 17:3",
+    ),
+    StudySection(
+      title: "48. La diferencia entre plenitud divina y alegría humana",
+      content: "La plenitud de Dios es esencial, eterna e independiente. La alegría humana es creada, variable y sostenida por la gracia; confundirlas borra la diferencia entre Creador y criatura.",
+      references: "Salmos 16:11; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "49. El gozo como testimonio cristiano",
+      content: "Una esperanza firme, acompañada de amor y paciencia, puede dar testimonio del evangelio. El creyente no necesita fingir que todo está bien, sino mostrar una confianza sincera en Dios.",
+      references: "1 Pedro 3:15; Filipenses 2:14-16",
+    ),
+    StudySection(
+      title: "50. Síntesis: Dios, fuente eterna de plenitud",
+      content: "Dios es eternamente bienaventurado: nada puede añadir o quitar perfección a su naturaleza. El Padre ama al Hijo, el Hijo vive en comunión perfecta con el Padre y el Espíritu participa plenamente de la única vida divina. El creyente recibe gozo por gracia y aprende a vivir en esperanza aun en las pruebas.",
+      references: "1 Timoteo 1:11; Juan 17:5,24; Romanos 15:13",
+    )
+  ],
+  conclusion: 'La bienaventuranza pertenece a la naturaleza eterna de Dios. Él no necesita nada creado para alcanzar plenitud, porque su ser es perfecto y su comunión trinitaria es eterna. El Padre, el Hijo y el Espíritu Santo comparten la única naturaleza divina; por eso no existen tres felicidades divinas separadas, sino la plenitud del único Dios. El gozo que recibe el creyente es distinto: es un don de gracia que nace de la salvación, la comunión con Cristo y la obra del Espíritu. Puede permanecer como esperanza en medio de las pruebas, sin exigir que se niegue el dolor ni que se aparente una emoción permanente. La respuesta bíblica es confiar en Dios, obedecer su palabra y vivir agradecidos delante de Él.',
+),
+Study(
+  number: '66',
+  title: "La voluntad de Dios: su naturaleza, sus propósitos eternos y su expresión en la vida de la Trinidad y de la creación",
+  subtitle: "La voluntad de Dios expresa sus propósitos santos y sabios; el Padre, el Hijo y el Espíritu Santo actúan en perfecta unidad divina.",
+  introduction: "La voluntad de Dios es el ejercicio perfecto de su decisión, conforme a su naturaleza santa, sabia y eterna. La Biblia revela que Dios tiene propósitos, da mandamientos y llama a sus criaturas a responder con fe y obediencia. Este estudio distingue entre el propósito que Dios determina y los preceptos que ordena, sin confundir lo que permite con lo que aprueba. Considera la relación entre la voluntad del Padre, la misión del Hijo encarnado y la obra personal del Espíritu Santo. La doctrina trinitaria confiesa un solo Dios en tres personas: no tres voluntades divinas rivales, sino la única voluntad de la única naturaleza divina. A la vez, la humanidad verdadera de Jesucristo incluye una voluntad humana que se somete perfectamente al Padre. El propósito es aprender a discernir la voluntad revelada de Dios y vivir responsablemente delante de Él.",
+  sections: [
+    StudySection(
+      title: "1. La voluntad de Dios en la revelación bíblica",
+      content: "La Escritura presenta a Dios como personal y activo; su voluntad expresa decisiones sabias y santas, coherentes con su naturaleza. Conocerla exige atender al conjunto del testimonio bíblico.",
+      references: "Efesios 1:11; Romanos 12:2; Salmo 143:10.",
+    ),
+    StudySection(
+      title: "2. La voluntad y la naturaleza divina",
+      content: "La voluntad de Dios nunca contradice su santidad, justicia, amor ni verdad. Él no decide caprichosamente ni puede actuar contra su carácter perfecto.",
+      references: "Deuteronomio 32:4; Salmo 145:17; Santiago 1:13.",
+    ),
+    StudySection(
+      title: "3. Dios quiere con conocimiento perfecto",
+      content: "Dios conoce plenamente todas las cosas; su voluntad no nace de ignorancia, improvisación ni error de cálculo.",
+      references: "Salmo 147:5; Isaías 46:9-10; Hebreos 4:13.",
+    ),
+    StudySection(
+      title: "4. La voluntad eterna de Dios",
+      content: "Los propósitos divinos no comenzaron con la creación. La Biblia habla de un propósito eterno y de la gracia dada en Cristo antes de los tiempos de los siglos.",
+      references: "Efesios 3:11; 2 Timoteo 1:9; Tito 1:2.",
+    ),
+    StudySection(
+      title: "5. La voluntad del Padre",
+      content: "Jesús habló de la voluntad del Padre y vivió en obediencia a ella. El Padre envía al Hijo y establece el propósito salvador que Cristo cumple.",
+      references: "Juan 6:38-40; Juan 4:34; Gálatas 1:4.",
+    ),
+    StudySection(
+      title: "6. La voluntad del Hijo en comunión con el Padre",
+      content: "El Hijo encarnado vino a hacer la voluntad del que lo envió. Su obediencia en la misión redentora manifiesta su relación filial y su misión asumida voluntariamente.",
+      references: "Juan 5:19, 30; Juan 6:38; Filipenses 2:5-8.",
+    ),
+    StudySection(
+      title: "7. La obra del Espíritu Santo y la voluntad divina",
+      content: "El Espíritu distribuye dones como quiere y guía a los creyentes. La Escritura lo presenta actuando personalmente, no como energía impersonal.",
+      references: "1 Corintios 12:11; Hechos 13:2; Hechos 16:6-7.",
+    ),
+    StudySection(
+      title: "8. Una sola voluntad divina y tres personas",
+      content: "Padre, Hijo y Espíritu Santo no poseen voluntades divinas rivales: comparten la única naturaleza y voluntad divina, distinguiéndose personalmente.",
+      references: "Deuteronomio 6:4; Juan 10:30; Efesios 4:4-6.",
+    ),
+    StudySection(
+      title: "9. La voluntad divina y la voluntad humana de Cristo",
+      content: "El Hijo eterno asumió humanidad completa. En Getsemaní, Jesús expresa una voluntad humana real que se somete al propósito del Padre, sin oposición pecaminosa dentro de la Trinidad.",
+      references: "Mateo 26:39; Lucas 22:42; Filipenses 2:8.",
+    ),
+    StudySection(
+      title: "10. La voluntad decretiva: lo que Dios determina",
+      content: "La teología llama decretiva a la voluntad por la que Dios determina lo que ciertamente llevará a cabo. El término debe permanecer subordinado al testimonio bíblico.",
+      references: "Efesios 1:11; Isaías 46:10; Daniel 4:35.",
+    ),
+    StudySection(
+      title: "11. La voluntad preceptiva: lo que Dios manda",
+      content: "La voluntad preceptiva se refiere a lo que Dios ordena: amar, obedecer, hacer justicia y apartarse del mal. Sus mandamientos revelan lo agradable a su carácter.",
+      references: "Deuteronomio 10:12-13; Miqueas 6:8; 1 Tesalonicenses 4:3.",
+    ),
+    StudySection(
+      title: "12. La voluntad divina y la responsabilidad humana",
+      content: "Los propósitos de Dios no convierten a las personas en seres sin responsabilidad. La Biblia llama a obedecer, arrepentirse y responder a la verdad.",
+      references: "Ezequiel 18:30-32; Hechos 17:30; Romanos 2:6-8.",
+    ),
+    StudySection(
+      title: "13. La desobediencia a los mandamientos",
+      content: "La desobediencia humana es real y condenada por Dios. El pecado no debe atribuirse a una orden divina de hacer el mal.",
+      references: "Génesis 2:16-17; Deuteronomio 11:26-28; Santiago 1:13-15.",
+    ),
+    StudySection(
+      title: "14. La voluntad de Dios y lo que permite",
+      content: "La Biblia distingue entre lo que Dios manda y aquello que permite dentro de su gobierno. No todo acontecimiento es moralmente aprobado por Dios.",
+      references: "Génesis 50:20; Job 1:12; Hechos 2:23.",
+    ),
+    StudySection(
+      title: "15. La voluntad de Dios y el problema del pecado",
+      content: "Dios es santo y no es autor de la maldad. La existencia del pecado no transforma la maldad en bien ni elimina la responsabilidad humana.",
+      references: "Habacuc 1:13; Santiago 1:13-14; 1 Juan 1:5.",
+    ),
+    StudySection(
+      title: "16. La voluntad divina en la creación",
+      content: "La creación existe porque Dios quiso y habló con autoridad. El universo no es producto de una necesidad que obligara a Dios.",
+      references: "Génesis 1:1-3; Apocalipsis 4:11; Salmo 33:6-9.",
+    ),
+    StudySection(
+      title: "17. La voluntad divina y la conservación de lo creado",
+      content: "La existencia continua de la creación depende de Dios. Todas las cosas subsisten por su poder, sin confundir al Creador con lo creado.",
+      references: "Colosenses 1:16-17; Hebreos 1:3; Nehemías 9:6.",
+    ),
+    StudySection(
+      title: "18. La voluntad de Dios en la historia de los pueblos",
+      content: "Los cambios de reinos y épocas no sorprenden a Dios. Su autoridad sobre la historia no convierte decisiones injustas en actos moralmente correctos.",
+      references: "Daniel 2:20-21; Daniel 4:17; Hechos 17:26.",
+    ),
+    StudySection(
+      title: "19. La voluntad de Dios en el llamamiento de Abraham",
+      content: "Dios llamó a Abraham y estableció promesas para bendecir a las naciones. Su respuesta de fe muestra la importancia de escuchar y obedecer.",
+      references: "Génesis 12:1-3; Génesis 15:5-6; Hebreos 11:8.",
+    ),
+    StudySection(
+      title: "20. La voluntad de Dios en la historia de Israel",
+      content: "La elección y formación de Israel muestran la fidelidad de Dios a sus promesas. Recibir privilegios no autorizaba al pueblo a vivir en desobediencia.",
+      references: "Deuteronomio 7:6-8; Deuteronomio 10:12-15; Romanos 9:4-5.",
+    ),
+    StudySection(
+      title: "21. La voluntad divina anunciada por los profetas",
+      content: "Los profetas llamaron al pueblo a abandonar la injusticia y volver a Dios. Él no se complace en una religiosidad externa que desprecia justicia y misericordia.",
+      references: "Isaías 1:16-18; Jeremías 7:23; Miqueas 6:8.",
+    ),
+    StudySection(
+      title: "22. La voluntad de Dios en la encarnación",
+      content: "La venida de Jesucristo responde al propósito salvador de Dios. El Hijo asumió humanidad verdadera y cumplió la misión que el Padre le encomendó.",
+      references: "Lucas 1:35; Gálatas 4:4-5; Hebreos 10:5-10.",
+    ),
+    StudySection(
+      title: "23. La voluntad de Dios en la cruz",
+      content: "La muerte de Jesús ocurrió conforme al consejo de Dios, pero quienes lo entregaron actuaron con responsabilidad. La cruz revela el propósito redentor sin absolver la injusticia.",
+      references: "Hechos 2:23; Hechos 4:27-28; 1 Pedro 1:18-20.",
+    ),
+    StudySection(
+      title: "24. La voluntad de Dios en la resurrección",
+      content: "La resurrección manifiesta que la muerte no frustró el propósito divino. El Padre levantó al Hijo y confirmó la victoria que sostiene la esperanza cristiana.",
+      references: "Hechos 2:24; Hechos 3:15; Romanos 6:4.",
+    ),
+    StudySection(
+      title: "25. La voluntad de Dios y la salvación",
+      content: "Dios llama a las personas a la salvación y ofrece vida en su Hijo. La salvación no debe reducirse al mérito humano ni usarse la soberanía como excusa para rechazar el evangelio.",
+      references: "1 Timoteo 2:3-4; Juan 6:40; 2 Pedro 3:9.",
+    ),
+    StudySection(
+      title: "26. La voluntad de Dios y la santificación",
+      content: "Dios llama a los creyentes a apartarse del pecado y vivir para Él. La obediencia es fruto de la gracia y respuesta a la Palabra.",
+      references: "1 Tesalonicenses 4:3-7; 1 Pedro 1:14-16; 1 Tesalonicenses 5:23-24.",
+    ),
+    StudySection(
+      title: "27. La renovación de la mente para discernir",
+      content: "El discernimiento cristiano requiere una mente renovada por la verdad. No consiste en adivinar señales ocultas, sino en pensar y vivir de acuerdo con la Palabra.",
+      references: "Romanos 12:1-2; Efesios 4:22-24; Colosenses 3:1-2.",
+    ),
+    StudySection(
+      title: "28. La voluntad revelada en los mandamientos",
+      content: "La Escritura ofrece principios y mandatos para orientar la conducta moral. No se necesita una revelación extraordinaria para obedecer lo que Dios ya expresó claramente.",
+      references: "Salmo 119:9-11; Deuteronomio 29:29; 1 Juan 5:3.",
+    ),
+    StudySection(
+      title: "29. La voluntad de Dios y la sabiduría práctica",
+      content: "La sabiduría bíblica ayuda a evaluar motivos, consecuencias y responsabilidades. Pedir sabiduría no sustituye el estudio, el consejo prudente ni la obediencia.",
+      references: "Santiago 1:5; Proverbios 3:5-6; Efesios 5:15-17.",
+    ),
+    StudySection(
+      title: "30. La voluntad de Dios y los planes personales",
+      content: "Nuestros conocimientos y control son limitados. Someter los proyectos a Dios implica humildad, responsabilidad y disposición a corregir el rumbo.",
+      references: "Proverbios 16:9; Proverbios 19:21; Santiago 4:13-15.",
+    ),
+    StudySection(
+      title: "31. El sentido bíblico de decir «si Dios quiere»",
+      content: "Esta expresión reconoce que los planes humanos son limitados y que la vida debe vivirse con dependencia y humildad ante el Señor.",
+      references: "Santiago 4:15; Hechos 18:21; 1 Corintios 4:19.",
+    ),
+    StudySection(
+      title: "32. La voluntad de Dios y la oración",
+      content: "Jesús enseñó a pedir que la voluntad del Padre se haga en la tierra como en el cielo. La oración presenta peticiones sinceras y confianza en la sabiduría divina.",
+      references: "Mateo 6:9-10; 1 Juan 5:14-15; Lucas 22:42.",
+    ),
+    StudySection(
+      title: "33. La oración de Jesús en Getsemaní",
+      content: "Jesús expresó la angustia propia de su humanidad y se sometió al propósito del Padre. Su oración muestra obediencia real, no una actuación ni ruptura de la unidad divina.",
+      references: "Mateo 26:36-46; Marcos 14:32-36; Lucas 22:39-44.",
+    ),
+    StudySection(
+      title: "34. La voluntad de Dios y el sufrimiento",
+      content: "No todo sufrimiento es señal de desaprobación divina ni debemos llamar bueno al mal. En las pruebas, el creyente puede buscar ayuda, actuar con sabiduría y confiar en Dios.",
+      references: "Romanos 8:18, 28; 2 Corintios 1:3-5; Santiago 1:2-4.",
+    ),
+    StudySection(
+      title: "35. La voluntad de Dios y la perseverancia",
+      content: "La perseverancia se sostiene en las promesas de Dios y se expresa mediante fe obediente. La seguridad bíblica no promueve pasividad, sino fidelidad continua a Cristo.",
+      references: "Juan 10:27-29; Filipenses 2:12-13; Hebreos 10:36.",
+    ),
+    StudySection(
+      title: "36. La voluntad de Dios y el amor al prójimo",
+      content: "La voluntad moral de Dios se refleja en el amor que busca el bien del prójimo. El egoísmo y la injusticia contradicen el mandamiento del amor.",
+      references: "Mateo 22:37-40; Romanos 13:8-10; Gálatas 5:13-14.",
+    ),
+    StudySection(
+      title: "37. La voluntad de Dios y la justicia",
+      content: "Dios exige justicia y rechaza la opresión. Buscar su voluntad incluye tratar rectamente a las personas y abandonar prácticas deshonestas.",
+      references: "Isaías 1:17; Amós 5:24; Zacarías 7:9-10.",
+    ),
+    StudySection(
+      title: "38. La voluntad de Dios y la vida de la iglesia",
+      content: "La iglesia debe ordenar enseñanza, servicio y comunión conforme a la Palabra. La voluntad de Dios no justifica manipulación, rivalidad ni prácticas contrarias a Cristo.",
+      references: "1 Corintios 14:26, 40; Efesios 4:1-6; Colosenses 3:12-17.",
+    ),
+    StudySection(
+      title: "39. La voluntad de Dios y los dones espirituales",
+      content: "El Espíritu distribuye los dones según su voluntad para edificación del cuerpo. Ningún don hace superior a una persona ni autoriza a abandonar el orden bíblico.",
+      references: "1 Corintios 12:4-11; Romanos 12:4-8; 1 Pedro 4:10-11.",
+    ),
+    StudySection(
+      title: "40. La voluntad de Dios y el servicio cristiano",
+      content: "El servicio nace de la gratitud y busca agradar al Señor, no conseguir reconocimiento humano. Cada creyente debe servir con fidelidad según sus capacidades.",
+      references: "Colosenses 3:23-24; Efesios 6:6-8; 1 Pedro 4:10.",
+    ),
+    StudySection(
+      title: "41. La voluntad de Dios y la conducta laboral",
+      content: "La ética cristiana incluye honestidad, diligencia y respeto en las responsabilidades ordinarias. La fe se demuestra también en las tareas cotidianas.",
+      references: "Colosenses 3:22-25; Efesios 6:5-8; Proverbios 11:1.",
+    ),
+    StudySection(
+      title: "42. La voluntad de Dios y la familia",
+      content: "Las relaciones familiares deben reflejar amor, respeto, fidelidad y responsabilidad. La autoridad nunca justifica abuso ni trato contrario a la dignidad humana.",
+      references: "Efesios 5:21-33; Efesios 6:1-4; Colosenses 3:18-21.",
+    ),
+    StudySection(
+      title: "43. La voluntad de Dios y el discernimiento doctrinal",
+      content: "Toda enseñanza debe examinarse a la luz de la Escritura. Decir «Dios me dijo» no vuelve incuestionable una idea ni exime de comprobar su fidelidad bíblica.",
+      references: "Hechos 17:11; 1 Tesalonicenses 5:19-22; 1 Juan 4:1.",
+    ),
+    StudySection(
+      title: "44. La voluntad de Dios y las impresiones personales",
+      content: "Los sentimientos pueden ser intensos, pero no son infalibles. Deben evaluarse con la Escritura, los hechos y el consejo responsable, sin imponerlos como mandatos divinos.",
+      references: "Proverbios 14:12; Jeremías 17:9; 1 Juan 4:1.",
+    ),
+    StudySection(
+      title: "45. La voluntad de Dios y las circunstancias",
+      content: "Las circunstancias pueden orientar decisiones, pero no prueban por sí solas aprobación o rechazo divino. Pablo encontró oportunidades y obstáculos y evaluó su misión a la luz del evangelio.",
+      references: "Hechos 16:6-10; 1 Corintios 16:8-9; 2 Corintios 2:12-13.",
+    ),
+    StudySection(
+      title: "46. La voluntad de Dios y el consejo sabio",
+      content: "El consejo prudente puede ayudar a decidir. Buscarlo no reemplaza la responsabilidad personal ni la evaluación de cada recomendación según la Palabra.",
+      references: "Proverbios 11:14; Proverbios 15:22; Proverbios 19:20.",
+    ),
+    StudySection(
+      title: "47. La voluntad de Dios y la libertad cristiana",
+      content: "Donde la Escritura no establece un mandato específico, el creyente debe actuar con conciencia limpia, amor y consideración. La libertad no debe ser ocasión para pecar ni despreciar al hermano.",
+      references: "Romanos 14:1-19; 1 Corintios 10:23-33; Gálatas 5:13.",
+    ),
+    StudySection(
+      title: "48. La voluntad de Dios y la esperanza futura",
+      content: "El propósito divino culminará en la renovación de todas las cosas y la manifestación plena del reino de Cristo. Esta esperanza anima a vivir con fidelidad hoy.",
+      references: "Efesios 1:9-10; Apocalipsis 21:1-5; 1 Corintios 15:24-28.",
+    ),
+    StudySection(
+      title: "49. La voluntad de Dios y la misión evangelizadora",
+      content: "El anuncio del evangelio forma parte del llamado de Cristo a su iglesia. La obediencia a Dios incluye dar testimonio con verdad, amor y respeto, sin manipular a quienes escuchan.",
+      references: "Mateo 28:18-20; Hechos 1:8; 2 Timoteo 4:2.",
+    ),
+    StudySection(
+      title: "50. Vivir cada día procurando agradar a Dios",
+      content: "No necesitamos conocer anticipadamente cada detalle del futuro para obedecer hoy. Podemos caminar en fe, practicar justicia, amar al prójimo y someter nuestros planes al Señor.",
+      references: "Colosenses 1:9-10; 1 Tesalonicenses 4:1; Hebreos 13:20-21.",
+    )
+  ],
+  conclusion: "La voluntad de Dios es santa, sabia y coherente con todo lo que Él es. El Padre, el Hijo y el Espíritu Santo comparten la única voluntad divina, aunque cada persona actúa según su relación personal y su misión en la obra de Dios. La obediencia de Jesús en su humanidad revela la perfecta sumisión del Hijo encarnado al Padre, sin dividir la esencia divina. La Escritura llama al creyente a abandonar el pecado, renovar su mente, amar al prójimo y someter sus planes al Señor. No debemos atribuir a Dios la maldad humana ni convertir nuestras impresiones en mandamientos divinos. Con humildad, estudio bíblico, oración y sabiduría, podemos procurar aquello que agrada al Señor y confiar en que sus propósitos permanecen."
+  ),
+  Study(
+    number: '67',
+    title: 'La belleza de Dios: su hermosura perfecta, su excelencia y el resplandor de su santidad',
+    subtitle: 'La perfección divina como fuente de toda belleza y fundamento de una adoración reverente.',
+    introduction: 'La belleza de Dios no consiste en una apariencia física ni depende de los gustos humanos. La Escritura presenta la hermosura divina como la excelencia perfecta de su ser y de su carácter: santidad, verdad, justicia, amor, misericordia y sabiduría sin defecto. Esta belleza pertenece eternamente al único Dios, que existe en tres personas distintas: el Padre, el Hijo y el Espíritu Santo. Se revela en sus obras y, de manera especial, en Jesucristo, imagen del Dios invisible. Este estudio distingue la belleza divina de la gloria de Dios, ya estudiada, y examina cómo la contemplación bíblica de su excelencia transforma la adoración y la vida del creyente.',
+    sections: [
+    StudySection(
+      title: "1. La belleza como perfección propia de Dios",
+      content: "Dios es hermoso por la perfección de su propio ser. Su belleza no depende de criterios humanos, modas ni apariencias; expresa que en Él no existe defecto moral ni imperfección.",
+      references: "Salmos 27:4; Salmos 96:6",
+    ),
+    StudySection(
+      title: "2. Dios es la fuente de toda belleza creada",
+      content: "La belleza creada es limitada y derivada. Toda excelencia procede del Creador y debe conducir a reconocerlo, nunca a dar a las criaturas la adoración que solo pertenece a Dios.",
+      references: "Salmos 19:1; Santiago 1:17",
+    ),
+    StudySection(
+      title: "3. La hermosura de la santidad",
+      content: "La Escritura vincula la hermosura de Dios con su santidad. Su belleza es moral y perfecta: pureza, rectitud y separación absoluta de todo mal.",
+      references: "1 Crónicas 16:29; Salmos 29:2",
+    ),
+    StudySection(
+      title: "4. La belleza y la perfección del carácter divino",
+      content: "Bondad, justicia, verdad, misericordia y sabiduría no se contradicen en Dios. Todas manifiestan la excelencia indivisible de su naturaleza perfecta.",
+      references: "Éxodo 34:6-7; Deuteronomio 32:4",
+    ),
+    StudySection(
+      title: "5. La belleza de Dios no depende de la creación",
+      content: "Antes de la creación, Dios ya era plenamente perfecto. El universo manifiesta su excelencia, pero no la produce, completa ni aumenta.",
+      references: "Juan 17:5; Hechos 17:24-25",
+    ),
+    StudySection(
+      title: "6. La belleza del Dios eterno",
+      content: "La hermosura divina no se deteriora con el tiempo. Dios permanece eternamente el mismo en su ser y en la perfección de su carácter.",
+      references: "Salmos 90:2; Malaquías 3:6",
+    ),
+    StudySection(
+      title: "7. La belleza y la unidad de la esencia divina",
+      content: "El Padre, el Hijo y el Espíritu Santo son personas distintas que comparten la única esencia divina. La belleza de Dios no se divide en tres naturalezas.",
+      references: "Deuteronomio 6:4; Mateo 28:19",
+    ),
+    StudySection(
+      title: "8. La belleza del Padre en las Escrituras",
+      content: "El Padre se revela como fuente de toda dádiva buena, que ama, envía y recibe a los suyos. Su carácter es digno de confianza y adoración.",
+      references: "Juan 3:16-17; Santiago 1:17",
+    ),
+    StudySection(
+      title: "9. La belleza del Hijo, imagen del Dios invisible",
+      content: "Jesucristo es la imagen del Dios invisible y revela perfectamente al Padre. No es criatura ni una divinidad inferior, sino el Hijo eterno hecho hombre.",
+      references: "Colosenses 1:15-19; Hebreos 1:3",
+    ),
+    StudySection(
+      title: "10. La belleza del Espíritu Santo",
+      content: "El Espíritu Santo es persona divina, no una fuerza impersonal. Su santidad, verdad y obra transformadora manifiestan la excelencia del único Dios.",
+      references: "Hechos 5:3-4; 1 Corintios 2:10-11",
+    ),
+    StudySection(
+      title: "11. La belleza en la comunión eterna de la Trinidad",
+      content: "El Padre, el Hijo y el Espíritu Santo existen eternamente sin división ni rivalidad. La comunión trinitaria no elimina la distinción personal ni divide la esencia divina.",
+      references: "Juan 14:16-17; Juan 17:5",
+    ),
+    StudySection(
+      title: "12. La gloria y la belleza: relación sin confusión",
+      content: "La gloria alude a la excelencia divina manifestada y reconocida; la belleza contempla esa excelencia como perfección digna de admiración. Son conceptos relacionados, no idénticos.",
+      references: "Salmos 96:6; Salmos 27:4",
+    ),
+    StudySection(
+      title: "13. La belleza divina revelada en la creación",
+      content: "Los cielos y la tierra manifiestan orden y sabiduría del Creador. La creación señala hacia Dios, pero no contiene ni representa exhaustivamente su esencia.",
+      references: "Génesis 1:31; Salmos 19:1",
+    ),
+    StudySection(
+      title: "14. La belleza y el orden de las obras de Dios",
+      content: "Las obras de Dios muestran propósito y sabiduría. Su orden invita a la gratitud y al reconocimiento del Creador, no a convertir la naturaleza en objeto de culto.",
+      references: "Salmos 104:24; Romanos 1:20",
+    ),
+    StudySection(
+      title: "15. La belleza de Dios en su revelación",
+      content: "Dios se da a conocer por sus obras y por su Palabra. Podemos conocerlo verdaderamente, aunque ninguna criatura pueda comprenderlo de manera exhaustiva.",
+      references: "Salmos 19:7-9; Romanos 11:33",
+    ),
+    StudySection(
+      title: "16. La belleza de la Palabra de Dios",
+      content: "La Palabra de Dios es recta, verdadera y confiable. Su valor no depende de adornos externos, sino de su origen, autoridad y fidelidad.",
+      references: "Salmos 19:7-10; Salmos 119:160",
+    ),
+    StudySection(
+      title: "17. La belleza de la verdad divina",
+      content: "La verdad divina está libre de engaño. Todo lo que Dios revela es coherente con su carácter perfecto y constituye fundamento seguro para la fe.",
+      references: "Números 23:19; Juan 17:17",
+    ),
+    StudySection(
+      title: "18. La belleza de la justicia de Dios",
+      content: "La justicia de Dios nunca es arbitraria ni corrupta. Él juzga rectamente y ama lo justo, por lo que su carácter inspira reverencia y confianza.",
+      references: "Salmos 11:7; Deuteronomio 32:4",
+    ),
+    StudySection(
+      title: "19. La belleza de la misericordia divina",
+      content: "La misericordia divina muestra compasión hacia quienes necesitan perdón y ayuda. No anula la justicia, sino que actúa de manera santa y fiel.",
+      references: "Éxodo 34:6-7; Efesios 2:4-5",
+    ),
+    StudySection(
+      title: "20. La belleza del amor de Dios",
+      content: "El amor de Dios es santo, fiel y generoso. Se revela de manera suprema en el envío del Hijo, sin convertir el amor en aprobación del pecado.",
+      references: "1 Juan 4:9-10; Romanos 5:8",
+    ),
+    StudySection(
+      title: "21. La belleza de la gracia divina",
+      content: "La gracia es favor inmerecido hacia los pecadores. En Jesucristo se manifiesta la generosidad de Dios que salva y enseña a vivir conforme a su voluntad.",
+      references: "Efesios 2:8-9; Tito 2:11-12",
+    ),
+    StudySection(
+      title: "22. La belleza de la paciencia de Dios",
+      content: "La paciencia divina concede oportunidad para arrepentirse. No significa indiferencia ante el mal, sino dominio perfecto que no renuncia a la justicia.",
+      references: "Romanos 2:4; 2 Pedro 3:9",
+    ),
+    StudySection(
+      title: "23. La belleza de la fidelidad de Dios",
+      content: "Dios cumple sus promesas y permanece fiel a su Palabra. Por eso sus hijos pueden confiar en Él aun cuando atraviesan circunstancias difíciles.",
+      references: "Lamentaciones 3:22-23; 1 Corintios 1:9",
+    ),
+    StudySection(
+      title: "24. La belleza de la sabiduría divina",
+      content: "La sabiduría divina es perfecta: Dios conoce todas las cosas y obra con propósito recto. Sus decisiones no necesitan corrección ni información externa.",
+      references: "Romanos 11:33; Judas 25",
+    ),
+    StudySection(
+      title: "25. La belleza del poder unido a la bondad",
+      content: "El poder de Dios nunca está separado de su carácter santo. Su omnipotencia siempre es coherente con su bondad y justicia.",
+      references: "Salmos 145:17; Jeremías 32:17-19",
+    ),
+    StudySection(
+      title: "26. La belleza de la humildad manifestada en Cristo",
+      content: "El Hijo eterno tomó forma de siervo y obedeció hasta la muerte. Su humildad encarnada revela la excelencia del carácter divino, no una pérdida de su divinidad.",
+      references: "Filipenses 2:5-8; Juan 13:3-5",
+    ),
+    StudySection(
+      title: "27. La belleza de la encarnación",
+      content: "En la encarnación, el Hijo asumió verdadera naturaleza humana sin dejar de ser Dios. Jesucristo es la revelación personal de Dios en nuestra historia.",
+      references: "Juan 1:14; Colosenses 2:9",
+    ),
+    StudySection(
+      title: "28. La belleza de la vida santa de Jesús",
+      content: "La vida de Jesús manifestó obediencia, compasión, verdad y pureza. Su conducta fue sin pecado y revela perfectamente al Hijo encarnado.",
+      references: "Hebreos 4:15; 1 Pedro 2:22",
+    ),
+    StudySection(
+      title: "29. La belleza de la cruz de Cristo",
+      content: "La cruz revela la gravedad del pecado y la profundidad del amor redentor. Su belleza no está en el sufrimiento, sino en la entrega salvadora de Cristo.",
+      references: "Romanos 5:8; Gálatas 2:20",
+    ),
+    StudySection(
+      title: "30. La belleza de la resurrección",
+      content: "La resurrección manifiesta la victoria de Cristo y confirma su identidad y obra. Dios lo levantó conforme a las Escrituras.",
+      references: "Hechos 2:24-32; 1 Corintios 15:3-4",
+    ),
+    StudySection(
+      title: "31. La belleza de la exaltación del Hijo",
+      content: "El Hijo resucitado fue exaltado y reina con autoridad. Su exaltación manifiesta su señorío; no significa que comenzó entonces a ser divino.",
+      references: "Filipenses 2:9-11; Hebreos 1:3-4",
+    ),
+    StudySection(
+      title: "32. La belleza de la obra del Espíritu en la santificación",
+      content: "El Espíritu produce una vida que refleja el carácter de Dios. La transformación cristiana no es un cambio superficial, sino crecimiento en santidad.",
+      references: "Gálatas 5:22-23; 2 Corintios 3:18",
+    ),
+    StudySection(
+      title: "33. La belleza del fruto del Espíritu",
+      content: "El fruto del Espíritu manifiesta una vida transformada: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza. Procede de su obra, no del orgullo humano.",
+      references: "Gálatas 5:22-23; Efesios 5:9",
+    ),
+    StudySection(
+      title: "34. La belleza de la adoración reverente",
+      content: "La adoración bíblica responde a quién es Dios y a lo que ha hecho. Debe ser sincera, reverente y conforme a la verdad, no una exhibición humana.",
+      references: "Juan 4:23-24; Salmos 96:9",
+    ),
+    StudySection(
+      title: "35. Contemplar a Dios con reverencia",
+      content: "Buscar a Dios implica acercarse con fe, humildad y respeto. La contemplación bíblica conoce a Dios por su revelación y no pretende representar físicamente su esencia.",
+      references: "Salmos 27:4; Hebreos 12:28",
+    ),
+    StudySection(
+      title: "36. La belleza de la oración en comunión trinitaria",
+      content: "El creyente se acerca al Padre por medio del Hijo y en el Espíritu. Esta forma bíblica de oración reconoce la distinción personal y la unidad divina.",
+      references: "Efesios 2:18; Judas 20-21",
+    ),
+    StudySection(
+      title: "37. La belleza de la comunión de la iglesia",
+      content: "La iglesia refleja de manera limitada la obra reconciliadora de Dios cuando vive en amor, verdad y unidad. Su comunión no reemplaza la comunión eterna trinitaria.",
+      references: "Efesios 4:1-6; Juan 17:21",
+    ),
+    StudySection(
+      title: "38. La belleza del servicio cristiano",
+      content: "Servir al prójimo con humildad refleja el ejemplo de Cristo. El servicio cristiano no busca prestigio, sino expresar amor y obediencia a Dios.",
+      references: "Marcos 10:45; Gálatas 5:13",
+    ),
+    StudySection(
+      title: "39. La belleza de la santidad cotidiana",
+      content: "La santidad se expresa en decisiones, palabras y acciones conformes a la voluntad divina. No es apariencia religiosa, sino una vida apartada para Dios.",
+      references: "1 Pedro 1:15-16; 1 Tesalonicenses 4:3-7",
+    ),
+    StudySection(
+      title: "40. La belleza de la verdad en el carácter del creyente",
+      content: "La honestidad y la integridad reflejan la verdad de Dios en la conducta. El creyente está llamado a abandonar el engaño y hablar con sinceridad.",
+      references: "Efesios 4:25; Colosenses 3:9-10",
+    ),
+    StudySection(
+      title: "41. La belleza de la compasión hacia el prójimo",
+      content: "La compasión reconoce la dignidad del prójimo y responde con misericordia práctica. No busca superioridad, sino servir como expresión del amor recibido.",
+      references: "Lucas 10:33-37; Colosenses 3:12",
+    ),
+    StudySection(
+      title: "42. La belleza de la unidad sin uniformidad",
+      content: "La unidad cristiana no exige funciones idénticas. Se fundamenta en un solo Señor, una fe y un Espíritu, y se expresa en amor y verdad.",
+      references: "Efesios 4:3-6; 1 Corintios 12:4-6",
+    ),
+    StudySection(
+      title: "43. La belleza de la esperanza cristiana",
+      content: "La esperanza bíblica descansa en las promesas y la fidelidad de Dios. No depende de optimismo superficial ni de circunstancias favorables.",
+      references: "Romanos 15:13; Tito 2:13",
+    ),
+    StudySection(
+      title: "44. La belleza de la nueva creación",
+      content: "La nueva creación anuncia la restauración final bajo el gobierno de Dios. Estará libre de la corrupción que ahora afecta al mundo creado.",
+      references: "Apocalipsis 21:1-5; Romanos 8:21",
+    ),
+    StudySection(
+      title: "45. La visión de Dios y la esperanza futura",
+      content: "La Escritura promete que los redimidos estarán con el Señor y lo verán. Esta esperanza debe exponerse con reverencia, sin inventar detalles no revelados.",
+      references: "1 Juan 3:2; Apocalipsis 22:3-4",
+    ),
+    StudySection(
+      title: "46. La belleza de Dios frente a los ídolos",
+      content: "Los ídolos son obras humanas incapaces de compararse con el Dios vivo. La adoración pertenece al Creador, no a imágenes ni representaciones de la divinidad.",
+      references: "Salmos 115:3-8; Isaías 40:18",
+    ),
+    StudySection(
+      title: "47. La belleza divina no se reduce a la apariencia física",
+      content: "Dios es espíritu y no puede reducirse a una forma corporal creada. Las imágenes bíblicas comunican verdades, pero no describen exhaustivamente su esencia.",
+      references: "Juan 4:24; Deuteronomio 4:15-16",
+    ),
+    StudySection(
+      title: "48. La belleza de Dios y el discernimiento espiritual",
+      content: "El creyente distingue lo que agrada a Dios de aquello que solo parece atractivo. El discernimiento se forma mediante la Palabra y una mente renovada.",
+      references: "Romanos 12:2; Filipenses 1:9-10",
+    ),
+    StudySection(
+      title: "49. La belleza de Dios como fundamento de la adoración eterna",
+      content: "La adoración eterna reconoce la santidad y dignidad del Señor. La respuesta de la creación redimida no añade perfección a Dios: reconoce quién es Él.",
+      references: "Apocalipsis 4:8-11; Apocalipsis 5:12-13",
+    ),
+    StudySection(
+      title: "50. La respuesta del creyente ante la excelencia divina",
+      content: "Contemplar la excelencia divina debe producir reverencia, gratitud, obediencia y amor al prójimo. La belleza de Dios no se estudia solo para acumular conceptos, sino para orientar toda la vida hacia Él.",
+      references: "Miqueas 6:8; Colosenses 3:17",
+    ),
+    ],
+    conclusion: 'La belleza de Dios es la excelencia perfecta de su naturaleza y carácter. No es una cualidad superficial ni una proyección de los gustos humanos, sino una realidad eterna del único Dios: Padre, Hijo y Espíritu Santo. La creación señala hacia su Creador; la Palabra revela su carácter; y Jesucristo manifiesta personalmente al Padre. El Espíritu Santo obra para que los creyentes crezcan en santidad y reflejen, de manera limitada, el carácter de Dios. Por tanto, contemplar la belleza divina debe conducir a la reverencia, la adoración verdadera, el discernimiento y una vida de obediencia. Toda belleza creada es limitada y derivada; solo Dios es digno de adoración.',
+  ),
+  Study(
+    number: '68',
+    title: "La paz de Dios: su perfecta armonía, plenitud y obra reconciliadora en Jesucristo",
+    subtitle: 'La paz no es una simple sensación humana: tiene su fundamento en el carácter perfecto de Dios y se manifiesta en la reconciliación realizada por Jesucristo.',
+    introduction: "La paz de Dios expresa la perfecta armonía, plenitud e integridad de su ser. No significa indiferencia frente al pecado ni ausencia de justicia, sino la perfección de un Dios en quien no existe contradicción moral ni desorden. La Escritura lo llama Dios de paz y presenta a Jesucristo como nuestra paz, porque por medio de su cruz Dios reconcilia consigo a los que creen. El Padre envía al Hijo, el Hijo realiza la reconciliación y el Espíritu Santo aplica sus beneficios y produce fruto de paz en la vida de los creyentes. Este estudio distingue la paz como perfección divina, la paz con Dios obtenida por la justificación y la paz que el Espíritu forma en la comunidad cristiana.",
+    sections: [
+      StudySection(
+        title: "1. La paz como perfección del carácter divino",
+        content: "La paz de Dios no es una emoción pasajera, sino la plenitud y armonía de su ser. En Él no existe contradicción moral ni desorden.",
+        references: "Jueces 6:24; 1 Corintios 14:33",
+      ),
+      StudySection(
+        title: "2. Dios, fuente de paz",
+        content: "La Escritura llama al Señor Dios de paz. La paz procede de quién es Él y de su voluntad santa; no es una fuerza independiente.",
+        references: "Romanos 15:33; Filipenses 4:9",
+      ),
+      StudySection(
+        title: "3. La paz y la santidad divina",
+        content: "La paz nunca significa indiferencia frente al mal. La santidad de Dios permanece íntegra y concuerda perfectamente con su justicia.",
+        references: "Isaías 6:3; Hebreos 12:10-11",
+      ),
+      StudySection(
+        title: "4. La paz y la justicia",
+        content: "La paz verdadera no se construye negando la justicia. En Dios, justicia y paz no compiten: su carácter es perfectamente recto.",
+        references: "Salmo 85:10; Isaías 32:17",
+      ),
+      StudySection(
+        title: "5. La paz y la verdad",
+        content: "La paz divina no depende de engaños ni falsas seguridades. Dios establece la paz en la verdad y llama a su pueblo a caminar en ella.",
+        references: "Zacarías 8:16-19; Efesios 4:25",
+      ),
+      StudySection(
+        title: "6. La paz y la inmutabilidad",
+        content: "Dios no pierde su plenitud ni queda sujeto a inestabilidad como las criaturas. Su carácter y sus propósitos permanecen firmes.",
+        references: "Malaquías 3:6; Santiago 1:17",
+      ),
+      StudySection(
+        title: "7. La paz y la eternidad",
+        content: "La paz de Dios no comenzó con la creación. Él existe eternamente en la plenitud de su ser, sin necesitar condiciones externas.",
+        references: "Salmo 90:2; 1 Timoteo 1:17",
+      ),
+      StudySection(
+        title: "8. La paz y la autosuficiencia",
+        content: "Dios no necesita que las criaturas completen su felicidad ni sostengan su existencia. La creación recibe de Él, pero no lo hace más completo.",
+        references: "Hechos 17:24-25; Romanos 11:35-36",
+      ),
+      StudySection(
+        title: "9. La paz y la soberanía",
+        content: "El gobierno de Dios no es una lucha entre poderes iguales. Él reina con autoridad suprema y conduce sus propósitos con sabiduría.",
+        references: "Salmo 103:19; Daniel 4:35",
+      ),
+      StudySection(
+        title: "10. La paz y el orden de la creación",
+        content: "La creación manifiesta orden y propósito porque procede del Dios sabio. Esto no significa que hoy no exista sufrimiento, sino que el mundo depende de su Creador.",
+        references: "Génesis 1:31; Colosenses 1:16-17",
+      ),
+      StudySection(
+        title: "11. La paz en los pactos divinos",
+        content: "Dios establece sus pactos por iniciativa de su gracia. Sus promesas manifiestan fidelidad y su propósito de restaurar la relación con su pueblo.",
+        references: "Números 25:12; Ezequiel 37:26",
+      ),
+      StudySection(
+        title: "12. El Príncipe de Paz prometido",
+        content: "Isaías anuncia al Mesías como Príncipe de Paz. Su reino manifiesta la paz de Dios y su autoridad no tendrá fin.",
+        references: "Isaías 9:6-7",
+      ),
+      StudySection(
+        title: "13. La paz anunciada en el nacimiento de Jesús",
+        content: "El anuncio angelical relaciona la llegada del Salvador con la gloria de Dios y su favor. La paz mesiánica se entiende a la luz de la salvación que Cristo trae.",
+        references: "Lucas 2:10-14",
+      ),
+      StudySection(
+        title: "14. Jesucristo, nuestra paz",
+        content: "Cristo no solamente enseñó acerca de la paz: Él mismo es nuestra paz. Por su obra reconcilia con Dios a quienes estaban separados por el pecado.",
+        references: "Efesios 2:13-18; Colosenses 1:19-22",
+      ),
+      StudySection(
+        title: "15. La encarnación y la reconciliación",
+        content: "El Hijo eterno asumió verdadera naturaleza humana sin dejar de ser Dios. En su encarnación se acercó a nosotros para cumplir la redención.",
+        references: "Juan 1:1,14; Filipenses 2:6-8",
+      ),
+      StudySection(
+        title: "16. La cruz como fundamento de paz",
+        content: "La paz con Dios no se alcanza ignorando el pecado. Cristo hizo la paz mediante la sangre de su cruz y reconcilia al creyente con Dios.",
+        references: "Colosenses 1:20-22; Romanos 5:8-11",
+      ),
+      StudySection(
+        title: "17. La justificación y la paz con Dios",
+        content: "La justificación por la fe establece una nueva condición delante de Dios: tenemos paz con Él por medio de Jesucristo. Es fruto de la gracia, no de méritos humanos.",
+        references: "Romanos 5:1-2; Romanos 4:5-8",
+      ),
+      StudySection(
+        title: "18. La reconciliación como iniciativa divina",
+        content: "Dios toma la iniciativa de reconciliar consigo al ser humano por medio de Cristo. No es un acuerdo entre poderes equivalentes, sino un regalo de gracia.",
+        references: "2 Corintios 5:18-21; Romanos 5:10-11",
+      ),
+      StudySection(
+        title: "19. El Padre y el propósito de paz",
+        content: "El Padre envió al Hijo conforme a su propósito salvador. La reconciliación revela su amor y su voluntad de recibir por gracia a quienes vienen a Él mediante Cristo.",
+        references: "Juan 3:16-17; Efesios 1:3-7",
+      ),
+      StudySection(
+        title: "20. El Hijo y la paz por su sangre",
+        content: "El Hijo realiza la reconciliación mediante su entrega voluntaria. Su sacrificio muestra cómo la paz se establece sin negar la santidad ni la justicia divina.",
+        references: "Efesios 2:14-16; Colosenses 1:20",
+      ),
+      StudySection(
+        title: "21. El Espíritu Santo y la paz",
+        content: "El Espíritu aplica la obra de Cristo y produce fruto de paz en los creyentes. Su acción no sustituye la obra del Hijo, sino que la hace efectiva en la vida cristiana.",
+        references: "Gálatas 5:22-23; Romanos 8:5-6",
+      ),
+      StudySection(
+        title: "22. La bendición trinitaria y la paz",
+        content: "Las cartas apostólicas presentan la gracia de Jesucristo, el amor del Padre y la comunión del Espíritu. La paz cristiana se comprende dentro de la obra del único Dios trino.",
+        references: "2 Corintios 13:14; 1 Pedro 1:2",
+      ),
+      StudySection(
+        title: "23. La distinción personal en la obra de paz",
+        content: "El Padre envía, el Hijo reconcilia mediante su sangre y el Espíritu aplica sus beneficios. Estas acciones distinguen a las personas sin dividir la esencia divina.",
+        references: "Juan 14:26; Efesios 2:18",
+      ),
+      StudySection(
+        title: "24. La paz no confunde a las personas divinas",
+        content: "La relación del Hijo con el Padre y la misión del Espíritu muestran distinción personal real. La paz no borra estas distinciones: hay un solo Dios en tres personas.",
+        references: "Mateo 3:16-17; Mateo 28:19",
+      ),
+      StudySection(
+        title: "25. El acceso al Padre por el Hijo en el Espíritu",
+        content: "Por medio de Cristo tenemos acceso al Padre en un mismo Espíritu. La comunión cristiana es una relación restaurada y sostenida por la gracia trinitaria.",
+        references: "Efesios 2:18; Romanos 8:15-16",
+      ),
+      StudySection(
+        title: "26. La paz que Jesús deja a sus discípulos",
+        content: "Jesús promete una paz distinta de la que ofrece el mundo. No promete ausencia absoluta de dificultades, sino su presencia y el fundamento de confianza que nace de su victoria.",
+        references: "Juan 14:27; Juan 16:33",
+      ),
+      StudySection(
+        title: "27. La confianza como fruto de la paz",
+        content: "La confianza bíblica se apoya en el carácter y las promesas del Señor. El creyente descansa en Dios sin negar sus preocupaciones ni abandonar sus responsabilidades.",
+        references: "Isaías 26:3-4; Salmo 4:8",
+      ),
+      StudySection(
+        title: "28. La oración y la paz que guarda el corazón",
+        content: "La oración permite presentar necesidades delante de Dios con gratitud. La paz que guarda el corazón es un don divino, no una técnica para controlar las circunstancias.",
+        references: "Filipenses 4:6-7; Colosenses 4:2",
+      ),
+      StudySection(
+        title: "29. La mente puesta en el Espíritu",
+        content: "La orientación de la mente hacia el Espíritu produce vida y paz. La renovación implica aprender a pensar conforme a la verdad de Dios y no según el pecado.",
+        references: "Romanos 8:5-6; Romanos 12:2",
+      ),
+      StudySection(
+        title: "30. La obediencia como fruto, no precio",
+        content: "La obediencia no compra la paz con Dios; es fruto de la reconciliación recibida. Quien ha sido alcanzado por la gracia es llamado a vivir conforme a la voluntad del Señor.",
+        references: "Romanos 6:17-18; Santiago 3:17-18",
+      ),
+      StudySection(
+        title: "31. La paz y la santificación",
+        content: "El Dios de paz obra en su pueblo para hacerlo crecer en santidad. La paz bíblica no promueve pasividad moral, sino una vida transformada.",
+        references: "1 Tesalonicenses 5:23-24; Hebreos 13:20-21",
+      ),
+      StudySection(
+        title: "32. La paz como fruto del Espíritu",
+        content: "La paz aparece entre las evidencias del fruto del Espíritu. No es solamente temperamento tranquilo, sino una disposición formada por su presencia y dirección.",
+        references: "Gálatas 5:22-25",
+      ),
+      StudySection(
+        title: "33. La paz y el dominio propio",
+        content: "El Espíritu produce dominio propio para que el creyente responda con prudencia y no sea gobernado por impulsos. La paz se expresa también en decisiones responsables.",
+        references: "Gálatas 5:22-23; 2 Timoteo 1:7",
+      ),
+      StudySection(
+        title: "34. La unidad de la iglesia en paz",
+        content: "Los creyentes son llamados a conservar la unidad del Espíritu en el vínculo de la paz. La unidad requiere humildad, verdad y amor, no uniformidad forzada.",
+        references: "Efesios 4:1-6; Colosenses 3:12-15",
+      ),
+      StudySection(
+        title: "35. El perdón y la paz",
+        content: "El perdón refleja la gracia recibida de Dios. No llama bueno a lo malo ni elimina la justicia, sino que renuncia a la venganza y busca lo recto.",
+        references: "Efesios 4:31-32; Romanos 12:17-21",
+      ),
+      StudySection(
+        title: "36. La resolución de conflictos",
+        content: "La Escritura exhorta a procurar la paz en cuanto dependa de nosotros. Esto implica escuchar, hablar con verdad, corregir con mansedumbre y buscar reconciliación prudente.",
+        references: "Romanos 12:18; Mateo 5:9; Mateo 18:15",
+      ),
+      StudySection(
+        title: "37. La paz y la fidelidad doctrinal",
+        content: "La paz no justifica aceptar enseñanzas contrarias al evangelio. La iglesia debe mantener la verdad apostólica y tratar a las personas con mansedumbre.",
+        references: "Gálatas 1:6-9; Efesios 4:14-15",
+      ),
+      StudySection(
+        title: "38. La paz en medio de la oposición",
+        content: "Jesús advirtió que sus discípulos enfrentarían aflicción. La paz en Cristo permanece aun cuando exista oposición, porque se funda en su victoria.",
+        references: "Juan 16:33; 1 Pedro 3:14-16",
+      ),
+      StudySection(
+        title: "39. La paz y el sufrimiento",
+        content: "La Biblia no enseña que el creyente nunca sufrirá. Enseña que Dios sostiene a los suyos y que el sufrimiento no puede separarlos de su amor en Cristo.",
+        references: "Romanos 8:18,28-39; 2 Corintios 4:16-18",
+      ),
+      StudySection(
+        title: "40. La esperanza de la paz futura",
+        content: "La esperanza cristiana mira hacia la consumación del reino. La paz presente es real, pero espera su expresión plena cuando el Señor haga nuevas todas las cosas.",
+        references: "Apocalipsis 21:1-5; Romanos 8:23-25",
+      ),
+      StudySection(
+        title: "41. La paz y el reino de Dios",
+        content: "El reino de Dios se caracteriza por justicia, paz y gozo en el Espíritu Santo. No se reduce a prosperidad material ni tranquilidad política.",
+        references: "Romanos 14:17-19",
+      ),
+      StudySection(
+        title: "42. La iglesia como comunidad reconciliada",
+        content: "Cristo derribó la separación entre judíos y gentiles para formar un solo pueblo. La iglesia debe mostrar la reconciliación que ha recibido por medio de Él.",
+        references: "Efesios 2:11-22; Gálatas 3:26-29",
+      ),
+      StudySection(
+        title: "43. La misión del evangelio de paz",
+        content: "El evangelio anuncia la paz por medio de Jesucristo. Los mensajeros proclaman la reconciliación que Dios ha realizado mediante su Hijo.",
+        references: "Hechos 10:36; Romanos 10:14-15; Efesios 6:15",
+      ),
+      StudySection(
+        title: "44. La bendición sacerdotal y la paz",
+        content: "La bendición de Números pide que el Señor conceda paz a su pueblo. La paz es presentada como favor de Dios y expresión de su cuidado.",
+        references: "Números 6:22-27",
+      ),
+      StudySection(
+        title: "45. La paz en los Salmos",
+        content: "Los salmos relacionan la paz con confianza, justicia y protección del Señor. Enseñan a buscar a Dios como fuente de seguridad y no a absolutizar las circunstancias.",
+        references: "Salmo 29:11; Salmo 34:14; Salmo 37:37",
+      ),
+      StudySection(
+        title: "46. La paz prometida por los profetas",
+        content: "Los profetas anuncian restauración bajo el gobierno justo de Dios. Estas promesas encuentran cumplimiento decisivo en el Mesías y apuntan a la renovación final.",
+        references: "Isaías 9:6-7; Isaías 32:17; Ezequiel 37:26",
+      ),
+      StudySection(
+        title: "47. La responsabilidad de procurar la paz",
+        content: "La paz recibida debe reflejarse en acciones concretas: buscar el bien, hablar con verdad, evitar la venganza y promover reconciliación. La gracia no elimina la responsabilidad moral.",
+        references: "Salmo 34:14; 1 Pedro 3:10-11",
+      ),
+      StudySection(
+        title: "48. La paz no encubre la injusticia",
+        content: "Buscar la paz no exige tolerar abusos ni encubrir el mal. La paz bíblica camina junto a justicia, verdad y protección del prójimo.",
+        references: "Isaías 1:17; Miqueas 6:8; Santiago 3:18",
+      ),
+      StudySection(
+        title: "49. La paz como testimonio del carácter de Dios",
+        content: "Una comunidad que practica humildad, verdad, perdón y justicia ofrece testimonio visible del evangelio. Su conducta señala al Dios que reconcilia.",
+        references: "Juan 13:34-35; Filipenses 2:1-5",
+      ),
+      StudySection(
+        title: "50. La plenitud de la paz en la consumación",
+        content: "La paz alcanzará su plenitud cuando desaparezcan el pecado, la muerte y toda oposición al reino de Dios. La esperanza descansa en la promesa fiel del Señor.",
+        references: "Isaías 11:6-9; Apocalipsis 21:3-4",
+      )
+    ],
+    conclusion: "La paz pertenece al carácter perfecto del único Dios y no debe confundirse con una emoción pasajera ni con la ausencia de dificultades. En la salvación, el Padre reconcilia por medio del Hijo y el Espíritu Santo aplica esa obra, dando acceso al Padre y formando en los creyentes una vida de paz. Por eso, la iglesia está llamada a unir verdad, justicia, perdón, santidad y amor. La paz presente es un don real, aunque todavía esperamos su plenitud cuando el reino de Dios sea consumado. Toda gloria pertenece al Padre, al Hijo y al Espíritu Santo, un solo Dios en tres personas.",
+  )
+];
+
+@override
+Widget build(BuildContext context) {
+return ListView(
+padding: const EdgeInsets.all(16),
+children: [
+const Text(
+'Biblioteca de formación bíblica',
+style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+),
+const SizedBox(height: 6),
+const Text(
+'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
+),
+const SizedBox(height: 14),
+for (final study in studies)
+Card(
+clipBehavior: Clip.antiAlias,
+child: ListTile(
+contentPadding: const EdgeInsets.all(12),
+leading: CircleAvatar(
+backgroundColor: const Color(0xFFE9DFC8),
+child: Text(
+study.number,
+style: const TextStyle(
+color: Color(0xFF14243A),
+fontWeight: FontWeight.bold,
+),
+),
+),
+title: Text(
+study.title,
+style: const TextStyle(fontWeight: FontWeight.bold),
+),
+subtitle: Padding(
+padding: const EdgeInsets.only(top: 5),
+child: Text(study.subtitle),
+),
+trailing: const Icon(Icons.chevron_right),
+onTap: () {
+Navigator.push(
+context,
+MaterialPageRoute(
+builder: (_) => StudyDetailPage(study: study),
+),
+);
+},
+),
+),
+],
+);
+}
+}
+
+class Study {
+final String number;
+final String title;
+final String subtitle;
+final String introduction;
+final List<StudySection> sections;
+final String conclusion;
+
+const Study({
+required this.number,
+required this.title,
+required this.subtitle,
+required this.introduction,
+required this.sections,
+required this.conclusion,
+});
+}
+
+class StudySection {
+final String title;
+final String content;
+final String references;
+
+const StudySection({
+required this.title,
+required this.content,
+required this.references,
+});
+}
+
+class StudyDetailPage extends StatelessWidget {
+final Study study;
+
+const StudyDetailPage({super.key, required this.study});
+
+@override
+Widget build(BuildContext context) {
+const navy = Color(0xFF14243A);
