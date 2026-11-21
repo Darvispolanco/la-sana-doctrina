@@ -1036,7 +1036,7 @@ Study(
       )
     ],
     conclusion: "La paz pertenece al carácter perfecto del único Dios y no debe confundirse con una emoción pasajera ni con la ausencia de dificultades. En la salvación, el Padre reconcilia por medio del Hijo y el Espíritu Santo aplica esa obra, dando acceso al Padre y formando en los creyentes una vida de paz. Por eso, la iglesia está llamada a unir verdad, justicia, perdón, santidad y amor. La paz presente es un don real, aunque todavía esperamos su plenitud cuando el reino de Dios sea consumado. Toda gloria pertenece al Padre, al Hijo y al Espíritu Santo, un solo Dios en tres personas.",
-  )
+  ),
 Study(
   number: '69',
   title: "La Iglesia de Jesucristo: su identidad, fundamento, naturaleza y misión en la comunión del Dios trino",
