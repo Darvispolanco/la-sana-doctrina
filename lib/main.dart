@@ -19784,265 +19784,89 @@ La conclusión del libro destaca la restauración de Job, pero no debe convertir
     ],
     conclusion: '''Job enseña a no atribuir automáticamente el sufrimiento a un pecado personal, a escuchar antes de juzgar y a acompañar con humildad. El creyente puede lamentarse delante de Dios y seguir reconociendo su soberanía. La restauración final de Job no debe convertirse en promesa de que toda pérdida será compensada de la misma manera durante esta vida. El mensaje central es que Dios es sabio, justo y misericordioso, y que la comunidad de fe debe responder al dolor con compasión, verdad y esperanza.''',
   ),
-number: '103',
+  Study(
+    number: '103',
     title: "Proverbios: sabiduría práctica para una vida que honra a Dios",
-    subtitle: "La formación del carácter, la prudencia y la justicia mediante la enseñanza proverbial.",
-    introduction: '''
-Proverbios reúne enseñanzas breves y discursos extensos que forman al lector en sabiduría, justicia, prudencia y temor del Señor. El libro trata decisiones concretas: cómo hablar, trabajar, administrar recursos, escoger amistades, corregir a los hijos, responder a la ira y actuar con integridad. Su propósito no es ofrecer frases motivacionales aisladas, sino formar una vida que honre a Dios.
+    subtitle: "Principios para el carácter, las relaciones, el trabajo y la justicia.",
+    introduction: '''Proverbios reúne enseñanzas sapienciales para formar el carácter y orientar la vida diaria delante de Dios. Sus dichos tratan el habla, el trabajo, las amistades, la familia, la justicia, el dinero, la disciplina y el dominio propio. No se limita a ofrecer consejos para alcanzar éxito, sino que relaciona la conducta cotidiana con el temor del Señor.
 
-Los proverbios describen patrones generales de la vida bajo el gobierno de Dios. No todos deben convertirse en promesas absolutas aplicables mecánicamente a cada caso. Job demuestra que el justo puede sufrir y Eclesiastés examina situaciones que no se resuelven mediante una fórmula simple.
-
-El Nuevo Testamento llama a los creyentes a vivir con sabiduría en Cristo, a escuchar su palabra y ponerla por obra. Este estudio considera el contexto, la estructura y los límites de la literatura proverbial.
-''',
+Su lectura requiere atender a la forma breve del proverbio, que comunica principios generales mediante paralelismos, contrastes e imágenes. El libro debe leerse junto con Job y Eclesiastés para evitar convertir máximas sapienciales en promesas mecánicas.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Un proverbio es una sentencia breve que expresa una observación moral o práctica. Puede utilizar contraste, paralelismo, comparación, ironía o imágenes. Su finalidad es instruir y formar discernimiento. La sabiduría del libro está arraigada en el temor del Señor, no en la autosuficiencia humana.
+      StudySection(title: "1. Naturaleza y propósito de Proverbios", content: '''Proverbios es una colección sapiencial que forma el carácter y enseña a vivir con prudencia delante de Dios. Sus dichos tratan el habla, el trabajo, las amistades, la familia, la justicia, el dinero, la disciplina y el dominio propio. No se limita a ofrecer consejos para alcanzar éxito, sino que relaciona la conducta diaria con el temor del Señor.
 
-Proverbios incluye dichos, advertencias paternas, poemas sobre la sabiduría, instrucciones sobre el habla y retratos de conducta. La frase proverbial no es siempre una promesa incondicional; suele describir lo que normalmente ocurre cuando se vive de cierta manera. El lector debe considerar género, contexto y relación con el resto de la Escritura.
-''',
-        references: "Proverbios 1:1-7; 3:5-7; 26:4-5; Mateo 7:24-27.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-El libro refleja la tradición de sabiduría de Israel y contiene encabezados que relacionan colecciones con Salomón, los sabios, Agur y Lemuel. Proverbios 1–9 presenta discursos formativos; 10–22:16 contiene una gran colección de dichos; 22:17–24:34 reúne palabras de sabios; capítulos 25–29 incluyen proverbios recopilados por los hombres de Ezequías; capítulos 30–31 contienen otras colecciones y poemas.
+El libro reúne colecciones atribuidas a Salomón y a otros sabios, además de instrucciones y dichos organizados para la enseñanza. Su lectura requiere atender a la forma breve y memorable del proverbio, que comunica principios generales mediante paralelismos, contrastes e imágenes.''', references: "Proverbios 1:1-7; 10:1; 22:17-21; 25:1."),
+      StudySection(title: "2. El temor del Señor como fundamento", content: '''Proverbios 1:7 declara que el temor del Señor es el principio del conocimiento. El temor bíblico reconoce la santidad y autoridad de Dios, produce reverencia y conduce a obedecer. No es pánico irracional, sino una actitud de humildad ante el Creador.
 
-La atribución salomónica no significa que cada sección se escribiera en un mismo momento. Los encabezados y la organización muestran una historia de recopilación y transmisión. El libro debe leerse como una obra sapiencial canónica, cuyo mensaje central es formar una vida sabia delante del Señor.
-''',
-        references: "Proverbios 1–31; 1 Reyes 4:29-34; Ezequiel 28:1-5.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Proverbios 1:1-7 presenta propósito y fundamento: conocer sabiduría, justicia y juicio, y recibir instrucción. El temor del Señor es el principio del conocimiento. Proverbios 3:5-7 llama a confiar en el Señor y no apoyarse exclusivamente en la propia prudencia; reconoce a Dios en todos los caminos.
+Proverbios 9:10 repite que el temor del Señor es el principio de la sabiduría. La inteligencia que se aparta de Dios puede convertirse en orgullo; la sabiduría verdadera acepta corrección y aprende a vivir bajo la palabra divina.''', references: "Proverbios 1:7; 2:1-8; 9:10; 15:33."),
+      StudySection(title: "3. La sabiduría en el hogar y la formación", content: '''Los primeros capítulos presentan la instrucción de padres y maestros. El hijo es llamado a escuchar, guardar la enseñanza y evitar caminos que conducen a la violencia o a la infidelidad. La formación no es solo transmisión de datos: busca moldear decisiones y deseos.
 
-Los capítulos abordan el valor del trabajo diligente, la honestidad, la justicia para el pobre, el control de la lengua y la elección de amistades. Proverbios 11:1 condena la balanza falsa; 14:31 relaciona el trato al pobre con la honra al Creador; 18:21 destaca el peso de la lengua. La sabiduría es ética y relacional, no solamente intelectual.
-''',
-        references: "Deuteronomio 6:4-9; Proverbios 1–31; Salmos 1; 73; Job 1–42; Eclesiastés 1–12.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús enseña con sabiduría y presenta la obediencia como fundamento de una vida estable. Mateo 7:24-27 compara al que oye y practica sus palabras con quien construye sobre roca. Santiago retoma temas sapienciales: el control de la lengua, la parcialidad, la riqueza, la paciencia y la sabiduría que viene de arriba.
+Proverbios debe leerse junto con Deuteronomio 6, que ordena enseñar diligentemente la palabra a los hijos en la vida cotidiana. La familia es un espacio importante de formación, aunque la responsabilidad de enseñar y modelar la fe también corresponde a la comunidad del pacto.''', references: "Deuteronomio 6:4-9; Proverbios 1:8-19; 4:1-9; 6:20-23."),
+      StudySection(title: "4. El habla, la verdad y el dominio propio", content: '''Proverbios enseña que las palabras pueden herir, engañar, calumniar o traer sanidad. La respuesta suave puede apartar la ira, mientras que la palabra precipitada agrava el conflicto. El libro no promueve silencio ante la injusticia, sino hablar con verdad, prudencia y propósito edificante.
 
-Pablo exhorta a andar sabiamente y aprovechar bien el tiempo (Efesios 5:15-17). Colosenses 4:5-6 relaciona la conducta sabia con el trato hacia los de afuera y el habla sazonada con gracia. El Nuevo Testamento no sustituye Proverbios, sino que muestra cómo la sabiduría se vive a la luz de Cristo y del evangelio.
-''',
-        references: "Mateo 7:24-27; 1 Corintios 1:24,30; Efesios 5:15-17; Colosenses 4:5-6; Santiago 1:5; 3:13-18.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Proverbios 1:7 define el principio del conocimiento como temor del Señor. El contraste con el necio establece que el problema no es falta de información, sino rechazo de la instrucción. Proverbios 3:5-7 no prohíbe pensar; prohíbe hacer de la comprensión propia la autoridad final. Confiar en Dios incluye reconocerlo en los caminos y apartarse del mal.
+Santiago 3 retoma la responsabilidad de la lengua y muestra que el habla revela la orientación del corazón. La sabiduría se evidencia en el uso responsable de las palabras y en la disposición a escuchar antes de responder.''', references: "Proverbios 10:19; 12:18-22; 15:1-4; 18:21; Santiago 3:1-12."),
+      StudySection(title: "5. Trabajo, diligencia y administración", content: '''Proverbios contrasta la diligencia con la pereza y advierte sobre la falta de previsión. Las imágenes de la hormiga, el campo descuidado y el trabajador responsable enseñan disciplina y constancia. El trabajo no debe convertirse en ídolo ni en excusa para la codicia; es una responsabilidad que puede realizarse con integridad.
 
-Proverbios 26:4-5 parece ordenar y prohibir responder al necio. La forma paralela invita a discernir el propósito: no responder de manera que uno reproduzca la necedad, pero tampoco permitir que el necio crea que su insensatez es sabiduría. El contexto exige juicio práctico, no aplicación automática.
+El libro también advierte contra las riquezas obtenidas mediante engaño y contra confiar en los bienes como si fueran seguridad absoluta. La sabiduría administra los recursos con justicia y generosidad.''', references: "Proverbios 6:6-11; 10:4-5; 11:1; 13:11; 21:5; 30:7-9."),
+      StudySection(title: "6. Justicia, compasión y trato al prójimo", content: '''La sabiduría bíblica se expresa en la defensa del pobre, la honestidad en los negocios y el rechazo de la opresión. Proverbios advierte que burlarse del necesitado es despreciar a su Creador y que el justo considera la causa del pobre.
 
-Proverbios 22:6 se ha interpretado a veces como garantía de que todo hijo criado correctamente nunca se apartará. El género proverbial describe una pauta de formación y sus resultados esperables; no anula la responsabilidad moral ni convierte cada caso familiar en una ecuación infalible.
-''',
-        references: "Proverbios 1:7; 3:5-7; 22:6; 26:4-5.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Proverbios debe relacionarse con la ley, los profetas y los otros libros sapienciales. La ley revela mandamientos; Proverbios enseña a discernir cómo aplicarlos en situaciones comunes. Los profetas denuncian injusticias que también condena la sabiduría: balanzas falsas, explotación y desprecio al pobre.
+Estos textos se relacionan con la ley y los profetas, que exigen justicia y misericordia. La religión no puede separarse del trato al prójimo: el temor del Señor transforma las decisiones económicas y las relaciones sociales.''', references: "Proverbios 14:31; 17:5; 19:17; 21:13; 22:22-23; Levítico 19:9-18; Miqueas 6:8."),
+      StudySection(title: "7. Cómo interpretar los proverbios correctamente", content: '''Un proverbio expresa una verdad general sobre la vida, pero no siempre constituye una promesa absoluta para cada persona y circunstancia. Proverbios 22:6, por ejemplo, presenta una instrucción sapiencial sobre la formación, no una garantía mecánica de que todo hijo seguirá inevitablemente el camino esperado.
 
-Job limita una lectura simplista de los proverbios sobre prosperidad y sufrimiento. Eclesiastés recuerda que los resultados no siempre son previsibles y que la muerte alcanza a todos. Salmo 1 presenta dos caminos y coincide con la visión moral de Proverbios, mientras Salmo 73 reconoce la dificultad de observar la prosperidad del malvado.
+Job muestra que una persona justa puede sufrir, y Eclesiastés observa que la vida presenta situaciones que no se ajustan a una fórmula simple. Por eso, los proverbios deben interpretarse en su género, contexto y relación con el resto de las Escrituras.''', references: "Proverbios 22:6; Job 1:1; 4:7-9; Eclesiastés 7:15; 8:14."),
+      StudySection(title: "8. La sabiduría personificada y su cumplimiento", content: '''Proverbios 8 presenta la sabiduría personificada como una voz que llama a la humanidad a recibir instrucción. El pasaje utiliza lenguaje poético y no debe convertirse sin argumento en una descripción literal de una persona divina distinta. Su propósito inmediato es exaltar el valor y la prioridad de la sabiduría.
 
-Cristo es la sabiduría de Dios y el modelo de obediencia. La sabiduría bíblica conduce a una vida que escucha, discierne y practica la verdad con humildad.
-''',
-        references: "Deuteronomio 6:4-9; Salmo 1; 73; Job 1–42; Eclesiastés 1–12; Santiago 3:13-18.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre da sabiduría a quien la pide y dirige a su pueblo por su palabra (Santiago 1:5; Proverbios 2:6). El Hijo es la sabiduría de Dios y enseña con autoridad; sus palabras constituyen el fundamento sobre el que debe edificarse la vida (1 Corintios 1:24, 30; Mateo 7:24-27). El Espíritu Santo produce discernimiento y fruto moral en quienes pertenecen a Cristo (Gálatas 5:22-23; 1 Corintios 2:10-13).
+El Nuevo Testamento llama a Cristo poder y sabiduría de Dios. Esta conexión es legítima cuando se establece desde la enseñanza apostólica, pero no exige afirmar que cada detalle poético de Proverbios 8 sea una descripción directa de la encarnación.''', references: "Proverbios 8:1-36; 1 Corintios 1:24, 30; Colosenses 2:2-3."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas frecuentes", content: '''La sabiduría procede del único Dios. El Padre revela su propósito en el Hijo; Cristo es llamado sabiduría de Dios; y el Espíritu Santo enseña y guía a los creyentes en la verdad. Estas afirmaciones mantienen la distinción entre las personas sin dividir la esencia divina.
 
-La sabiduría divina no se divide entre tres dioses. El Padre, el Hijo y el Espíritu Santo actúan en la única obra de Dios. La persona del Hijo no se confunde con el Padre, y el Espíritu no es una simple metáfora de la inteligencia. La enseñanza sapiencial alcanza su plenitud cristiana cuando el creyente aprende de Cristo y vive por el Espíritu para la gloria del Padre.
-''',
-        references: "Santiago 1:5; 1 Corintios 1:24,30; 2:10-13; Gálatas 5:22-23.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Proverbios garantiza que el justo siempre prosperará? No. Expone patrones generales de la vida sabia, pero Job y Eclesiastés muestran que la experiencia no siempre sigue una relación inmediata entre conducta y resultado.
+¿Todo proverbio es promesa incondicional? No; muchos son principios generales. ¿La sabiduría es solo inteligencia? No; incluye reverencia, justicia y obediencia. ¿Proverbios 8 demuestra por sí solo toda la doctrina de la Trinidad? No; debe leerse en su género poético y en relación con la revelación completa.''', references: "1 Corintios 1:24, 30; Juan 14:26; 16:13; Santiago 3:13-18."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''Proverbios llama a cultivar hábitos de escucha, prudencia, trabajo responsable, honestidad, generosidad y dominio propio. La sabiduría no se demuestra únicamente por lo que una persona sabe, sino por la forma en que trata a Dios y al prójimo.
 
-¿Proverbios 22:6 asegura que un hijo nunca se apartará? El texto es proverbial y presenta la importancia de la formación temprana; no es una promesa que elimine la libertad y responsabilidad de cada persona.
-
-¿Proverbios 26:4-5 se contradice? No. Las dos instrucciones enseñan que la respuesta al necio depende de la situación y del propósito. A veces responder reproduce la necedad; otras veces es necesario exponerla.
-
-¿La sabiduría es simplemente tener éxito? No. La sabiduría bíblica se mide por temor de Dios, justicia, humildad, dominio de la lengua y misericordia. Una persona puede tener recursos y carecer de sabiduría.
-''',
-        references: "Proverbios 22:6; 26:4-5; Job 1–2; Eclesiastés 1–2.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Cuál es el fundamento del libro? Respuesta: El temor del Señor, que conduce a recibir instrucción y apartarse del mal (Proverbios 1:7; 9:10).
-
-Pregunta: ¿Qué enseña Proverbios 3:5-6? Respuesta: Confiar en el Señor con todo el corazón y reconocerlo en los caminos, sin hacer de la prudencia propia la autoridad suprema.
-
-Pregunta: ¿Qué revela la sabiduría sobre el habla? Respuesta: Que las palabras pueden dar vida o causar daño, por lo que requieren dominio y verdad (Proverbios 12:18; 18:21).
-
-Pregunta: ¿Cómo se relaciona Jesús con la sabiduría? Respuesta: Es la sabiduría de Dios y llama a practicar sus enseñanzas (1 Corintios 1:24, 30; Mateo 7:24-27).
-
-Pregunta: ¿Cómo se reconoce la sabiduría de arriba? Respuesta: Por pureza, paz, amabilidad, misericordia y buenos frutos (Santiago 3:17).
-''',
-        references: "Proverbios 1:7; 3:5-7; 12:18; 18:21; Mateo 7:24-27; Santiago 3:17.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Proverbios llama a vivir con temor del Señor y discernimiento práctico. Su enseñanza abarca trabajo, justicia, relaciones, dinero, palabras y formación del carácter. Los proverbios describen patrones y no deben convertirse en garantías mecánicas; Job y Eclesiastés ayudan a leerlos con equilibrio.
-
-El Nuevo Testamento presenta a Cristo como sabiduría de Dios y exhorta a construir la vida sobre sus palabras. La sabiduría se evidencia en el trato justo al prójimo, el dominio de la lengua, la humildad y la paz. El Padre da sabiduría, el Hijo la revela y el Espíritu produce fruto en la vida del creyente.
-
-La meta no es acumular frases, sino practicar la verdad y honrar a Dios en las decisiones cotidianas.
-''',
-        references: "Proverbios 1:7; 3:5-7; Mateo 7:24-27; Santiago 1:5; 3:17.",
-      ),
+La Iglesia debe enseñar Proverbios sin convertir sus máximas en fórmulas de prosperidad ni utilizarlas para condenar a quien atraviesa dificultades. Leído junto con Job, Eclesiastés y el Nuevo Testamento, el libro forma una vida reverente, justa y centrada en la sabiduría de Dios revelada en Cristo.''', references: "Proverbios 1:7; 3:5-7; 15:1; 21:3; Mateo 7:24-27; Santiago 3:17-18.")
     ],
-    conclusion: '''
-Proverbios enseña que la vida sabia comienza con el temor del Señor y se expresa en decisiones concretas. La justicia, el trabajo diligente, la honestidad, el dominio de la lengua y la misericordia son parte de una vida que honra a Dios. El género proverbial comunica patrones, no garantías automáticas para cada circunstancia.
-
-Job y Eclesiastés equilibran una lectura simplista de la prosperidad, y el Nuevo Testamento presenta a Cristo como sabiduría de Dios. El creyente escucha y practica sus palabras, pide sabiduría al Padre y manifiesta el fruto del Espíritu. La enseñanza debe transformar el carácter y las relaciones, no quedarse en frases memorizadas.
-''',
+    conclusion: '''Proverbios llama a cultivar escucha, prudencia, trabajo responsable, honestidad, generosidad y dominio propio. La sabiduría no se demuestra únicamente por lo que una persona sabe, sino por la forma en que trata a Dios y al prójimo. Leído junto con Job, Eclesiastés y el Nuevo Testamento, el libro forma una vida reverente, justa y centrada en la sabiduría de Dios revelada en Cristo.''',
   ),
-
   Study(
     number: '104',
     title: "Eclesiastés: la vida, la muerte y el sentido de la existencia delante de Dios",
-    subtitle: "La fugacidad de la vida, los límites humanos y el llamado a temer a Dios.",
-    introduction: '''
-Eclesiastés examina la vida humana «debajo del sol»: el trabajo, el placer, la riqueza, la sabiduría, el tiempo, la injusticia y la muerte. El Predicador observa que los logros no pueden garantizar sentido permanente y que el ser humano no controla el futuro. Su reflexión no es una invitación al nihilismo, sino una confrontación con la fragilidad de la existencia cuando se pretende encontrar seguridad absoluta en lo temporal.
+    subtitle: "La fugacidad de los bienes temporales y la responsabilidad humana ante el Creador.",
+    introduction: '''Eclesiastés examina la vida humana bajo la experiencia de la fugacidad, la incertidumbre y la muerte. La palabra hebrea hebel, traducida a menudo como vanidad, comunica vapor o algo pasajero. El libro no afirma que nada tenga valor, sino que los logros y placeres no pueden ofrecer un fundamento permanente ni controlar el futuro.
 
-El libro utiliza observación, preguntas, contrastes y conclusiones que deben leerse dentro de su argumento completo. Algunas frases describen la experiencia limitada del ser humano, no una declaración final de toda la teología bíblica. El cierre llama a temer a Dios y guardar sus mandamientos, porque Él juzgará toda obra.
-
-La esperanza cristiana no niega la fugacidad de la vida presente; la sitúa ante la resurrección y el juicio de Dios. En Cristo, el trabajo y la vida cotidiana pueden vivirse con gratitud, responsabilidad y esperanza.
-''',
+La obra observa el trabajo, la riqueza, el placer, el conocimiento, la injusticia, el tiempo y la mortalidad. Su conclusión llama a temer a Dios y guardar sus mandamientos, por lo que no debe interpretarse como una defensa del nihilismo.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Eclesiastés es literatura sapiencial y reflexiva. La expresión «vanidad» traduce una palabra hebrea que puede evocar vapor, aliento o fugacidad. El Predicador no afirma que todo carezca de valor en sentido absoluto; muestra que la vida temporal es transitoria y no puede sostener el peso de una esperanza eterna por sí sola.
+      StudySection(title: "1. Delimitación, título y tema central", content: '''Eclesiastés examina la vida humana bajo la experiencia de la fugacidad, la incertidumbre y la muerte. La palabra hebrea hebel, traducida a menudo como vanidad, puede comunicar vapor, aliento o algo pasajero. El libro no afirma que nada tenga valor, sino que los logros y placeres no pueden ofrecer un fundamento permanente ni controlar el futuro.
 
-«Debajo del sol» describe repetidamente la perspectiva de la existencia humana en el mundo presente. El libro examina los límites de la sabiduría, el placer, el trabajo y la riqueza. Su conclusión llama a temer a Dios y guardar sus mandamientos, evitando leer frases aisladas como si fueran el mensaje completo.
-''',
-        references: "Eclesiastés 1:1-11; 3:1-15; 12:13-14; 1 Corintios 15:20-58.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-El libro se presenta como palabras del Predicador, hijo de David y rey en Jerusalén. La identificación histórica precisa y la fecha de composición son debatidas; no deben afirmarse detalles no establecidos por el texto. La obra pertenece a la tradición sapiencial y utiliza un lenguaje reflexivo, a veces irónico y provocador.
+La obra observa el trabajo, la riqueza, el placer, el conocimiento, la injusticia, el tiempo y la mortalidad. Su conclusión llama a temer a Dios y guardar sus mandamientos, por lo que no debe interpretarse como una defensa del nihilismo.''', references: "Eclesiastés 1:1-3; 2:1-26; 12:8-14."),
+      StudySection(title: "2. Contexto literario y voz del Predicador", content: '''El libro se presenta con la figura del Predicador, hijo de David y rey en Jerusalén. La tradición lo ha relacionado con Salomón, aunque los estudios literarios e históricos debaten la fecha y composición. La interpretación debe atender a la voz literaria del libro y a su argumento completo, sin resolver con dogmatismo lo que el texto no especifica.
 
-Su estructura incluye el tema de la fugacidad, observaciones sobre trabajo y placer, reflexiones sobre el tiempo y la injusticia, consejos para vivir con prudencia y una conclusión sobre el temor de Dios. El lector debe reconocer los cambios de voz y las observaciones que describen lo que sucede en la experiencia humana sin convertir cada frase en una norma moral.
-''',
-        references: "Eclesiastés 1–12; Génesis 1–3; contexto sapiencial de Israel.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Eclesiastés 1–2 examina la repetición de los ciclos, el conocimiento, el placer y las obras humanas. El Predicador descubre que la acumulación de logros no puede vencer la muerte ni asegurar permanencia. Eclesiastés 3 presenta los tiempos y temporadas, y afirma que Dios ha puesto eternidad en el corazón humano, aunque el ser humano no puede comprender toda su obra.
+Eclesiastés utiliza observaciones, preguntas, poemas y reflexiones que avanzan mediante repetición y contraste. Algunas afirmaciones describen lo que ocurre bajo el sol desde la perspectiva de la experiencia humana limitada; no todas deben aislarse como declaraciones finales sobre la realidad.''', references: "Eclesiastés 1:1-11; 1:12-18; 12:9-10."),
+      StudySection(title: "3. La fugacidad de los logros humanos", content: '''Eclesiastés 1 describe los ciclos de la naturaleza y pregunta qué provecho permanente obtiene el ser humano de su trabajo. Las generaciones pasan, mientras la creación continúa su curso. La imagen confronta la ilusión de que la actividad humana pueda producir permanencia absoluta.
 
-Los capítulos 4–6 observan opresión, rivalidad, soledad, culto, riqueza y la incapacidad de controlar el resultado. Eclesiastés 7–11 ofrece consejos de sabiduría ante la incertidumbre. El capítulo 12 recuerda al Creador antes de la vejez y la muerte, y concluye con el deber de temer a Dios y guardar sus mandamientos.
-''',
-        references: "Génesis 1–3; Salmos 90; 104; Proverbios 1–9; Eclesiastés 1–12.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús enseña que la vida de una persona no consiste en la abundancia de sus bienes (Lucas 12:15-21), una verdad cercana a la crítica de Eclesiastés a la acumulación que no puede asegurar el futuro. El Nuevo Testamento afirma que la muerte será vencida mediante la resurrección de Cristo (1 Corintios 15:20-26, 54-58).
+El libro no condena el trabajo en sí mismo. Cuestiona la pretensión de encontrar en los logros una seguridad que supere la muerte. La vida debe recibirse como don de Dios y vivirse con responsabilidad, no como intento de alcanzar autonomía absoluta.''', references: "Eclesiastés 1:2-11; 2:18-23; Salmo 90:1-12."),
+      StudySection(title: "4. Placer, riqueza y conocimiento", content: '''El Predicador examina grandes proyectos, placeres, posesiones y conocimiento. Descubre que ninguno puede asegurar satisfacción permanente ni librar al ser humano de la mortalidad. La riqueza puede aumentar preocupaciones y el trabajo puede dejar sus frutos a otra persona.
 
-Pablo enseña que el trabajo en el Señor no es en vano (1 Corintios 15:58), lo que no contradice la observación de Eclesiastés sobre la fugacidad de los logros humanos. La esperanza cristiana cambia el horizonte: la labor presente no garantiza inmortalidad, pero puede realizarse en fidelidad a Dios y a la luz de la resurrección.
+Eclesiastés no enseña que el conocimiento o la alegría sean malos. Advierte que se vuelven ídolos cuando se espera de ellos aquello que solo Dios puede dar. La gratitud por los bienes cotidianos debe coexistir con el reconocimiento de sus límites.''', references: "Eclesiastés 2:1-26; 5:10-20; 6:1-12."),
+      StudySection(title: "5. El tiempo, la muerte y la condición humana", content: '''Eclesiastés 3 presenta un tiempo para diferentes experiencias humanas. El poema no afirma que todas las acciones sean moralmente correctas en cualquier momento; reconoce que la vida contiene temporadas y que el ser humano no controla el curso completo de la historia.
 
-Santiago 4:13-16 recuerda que la vida es como neblina y que los planes deben someterse a la voluntad del Señor. Esta enseñanza coincide con la humildad de Eclesiastés ante el tiempo y el futuro.
-''',
-        references: "Lucas 12:15-21; Juan 5:21-27; Romanos 8:11; 1 Corintios 15:20-58; Santiago 4:13-16.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Eclesiastés 1:2 introduce la palabra clave «vanidad de vanidades». La repetición intensifica la idea de fugacidad y frustración. No debe leerse aislada del libro ni como una negación de que la creación sea buena. El argumento se dirige a la incapacidad de los logros temporales para ofrecer sentido definitivo.
+La muerte alcanza a todos y limita la pretensión de permanencia terrenal. El libro llama a vivir con sabiduría, recibir el presente y recordar que Dios juzgará la obra humana. La conciencia de la muerte no debe conducir a desesperación, sino a humildad y responsabilidad.''', references: "Eclesiastés 3:1-22; 7:1-4; 9:1-12; 12:1-7."),
+      StudySection(title: "6. La injusticia y las aparentes contradicciones", content: '''Eclesiastés observa que en el lugar de la justicia puede haber maldad y que personas justas pueden recibir resultados que parecen propios de los malvados. Estas observaciones no niegan la justicia de Dios; describen la complejidad de la vida bajo el sol y la distancia entre la justicia divina y las evaluaciones humanas inmediatas.
 
-Eclesiastés 3:1-8 presenta un poema sobre los tiempos de la vida. No ordena moralmente cada acontecimiento mencionado; describe la variedad de experiencias humanas. En 3:11, el texto afirma que Dios hizo todo apropiado a su tiempo, pero el ser humano no puede abarcar la obra divina desde el principio hasta el fin.
+El libro también aconseja disfrutar el trabajo y la comida, mientras denuncia la incapacidad de la riqueza para satisfacer. No hay contradicción: los dones cotidianos son buenos, pero no son el fundamento último de la existencia. El problema aparece cuando se les exige lo que no pueden proporcionar.''', references: "Eclesiastés 3:16-17; 7:15; 8:10-17; 9:7-10."),
+      StudySection(title: "7. La conclusión del libro y el temor de Dios", content: '''Eclesiastés 12:9-14 cierra la reflexión afirmando que las palabras de los sabios orientan, pero que el deber humano se resume en temer a Dios y guardar sus mandamientos, porque toda obra será juzgada. Esta conclusión impide leer el libro como una invitación a vivir sin responsabilidad moral.
 
-Eclesiastés 12:13-14 ofrece la conclusión interpretativa: temer a Dios y guardar sus mandamientos, porque toda obra será juzgada. Por ello, las observaciones pesimistas no son el último mensaje del libro. La vida debe vivirse con reverencia y responsabilidad delante del Creador.
-''',
-        references: "Eclesiastés 1:2-3; 3:1-11; 12:13-14.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-Eclesiastés debe relacionarse con Génesis, Job, Proverbios, los Salmos y los profetas. Génesis presenta la creación como obra de Dios y la muerte como consecuencia de la caída; Job trata la limitación humana ante el sufrimiento; Proverbios enseña caminos de sabiduría; los Salmos llaman a contar nuestros días y confiar en el Señor.
+El temor de Dios coloca la experiencia humana bajo la autoridad del Creador. La fugacidad de los bienes no elimina su bondad, pero sí impide convertirlos en el centro de la esperanza. El juicio recuerda que las decisiones tienen significado delante de Dios.''', references: "Eclesiastés 12:9-14; Proverbios 1:7; 9:10."),
+      StudySection(title: "8. Relación con el resto de las Escrituras y con Cristo", content: '''Salmo 90 reflexiona sobre la brevedad de la vida y pide sabiduría para contar los días. Los profetas recuerdan que la gloria humana es pasajera, mientras la palabra de Dios permanece. El Nuevo Testamento anuncia que la resurrección de Cristo abre una esperanza que supera la muerte y da sentido al trabajo realizado en el Señor.
 
-El libro no niega el valor de la sabiduría ni de la alegría; enseña a recibir los bienes como dones de Dios sin convertirlos en fundamento último. La gratitud por el alimento, el trabajo y la compañía aparece como parte de la vida responsable. El Nuevo Testamento añade la esperanza de la resurrección y la renovación de la creación.
+La relación con Cristo no significa que Eclesiastés mencione explícitamente cada aspecto del evangelio. Su diagnóstico de la fugacidad y de la mortalidad prepara preguntas a las que el Nuevo Testamento responde con la resurrección y la esperanza de la nueva creación.''', references: "Salmo 90:1-17; Isaías 40:6-8; Juan 11:25-26; 1 Corintios 15:20-28, 54-58."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El libro habla de Dios como Creador, dador de los bienes y juez de toda obra. La lectura cristiana reconoce al Padre, al Hijo y al Espíritu Santo como el único Dios revelado en las Escrituras. El Nuevo Testamento presenta al Hijo como agente de la creación y al Espíritu como dador de vida, sin que debamos atribuir a Eclesiastés formulaciones que el libro no contiene.
 
-La aparente tensión entre «todo es vanidad» y «goza del bien de tu trabajo» se resuelve al reconocer el énfasis: los bienes son buenos como dones temporales, pero no pueden vencer la muerte ni sustituir a Dios.
-''',
-        references: "Génesis 1–3; Job 1–42; Proverbios 1–31; Salmo 90; 1 Corintios 15.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El libro de Eclesiastés habla de Dios como Creador, dador de los bienes y juez de toda obra. La lectura trinitaria debe ser responsable: el libro no formula explícitamente la distinción entre Padre, Hijo y Espíritu Santo, por lo que no se debe forzar cada referencia a Dios como si nombrara directamente a una persona específica.
+¿Eclesiastés enseña que la vida carece de sentido? No; cuestiona los fundamentos pasajeros y concluye llamando a temer a Dios. ¿Recomienda disfrutar sin límites? No; la alegría está situada bajo la responsabilidad ante el Creador. ¿Niega la vida después de la muerte? Su horizonte literario es limitado en algunos pasajes, pero el conjunto de la revelación desarrolla con mayor claridad la resurrección y el juicio.''', references: "Génesis 1:1-2; Juan 1:1-3; 1 Corintios 8:6; 15:20-28; Eclesiastés 12:13-14."),
+      StudySection(title: "10. Aplicación y síntesis doctrinal", content: '''Eclesiastés enseña a no depositar la esperanza final en el dinero, el placer, la reputación o los logros. Invita a recibir con gratitud los bienes cotidianos, trabajar con responsabilidad y recordar que la vida es breve. También llama a enfrentar la injusticia sin fingir que toda circunstancia se resuelve de inmediato.
 
-La revelación del Nuevo Testamento muestra al Padre como aquel que da vida y juzga por medio del Hijo; Jesucristo resucitado vence la muerte y garantiza la resurrección; el Espíritu da vida y fortalece a los creyentes. La obra salvadora es del único Dios, con distinción personal (Juan 5:21-27; Romanos 8:11).
-
-La esperanza cristiana no es un escape de la creación, sino la vida eterna en comunión con Dios. El Hijo no es el Padre y el Espíritu no es una fuerza creada; la fe trinitaria reconoce la acción del único Dios en la redención.
-''',
-        references: "Juan 5:21-27; Romanos 8:11; 1 Corintios 15:20-58.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Eclesiastés enseña que nada tiene sentido? El libro denuncia que los logros temporales no pueden dar sentido eterno ni vencer la muerte. Su conclusión llama a temer a Dios y guardar sus mandamientos.
-
-¿El Predicador promueve el placer sin límites? No. Invita a recibir con gratitud los bienes cotidianos como dones de Dios, pero advierte contra convertirlos en seguridad o propósito último.
-
-¿Eclesiastés contradice Proverbios? No. Proverbios describe patrones de la vida sabia; Eclesiastés observa que la experiencia puede ser compleja y que el resultado no siempre es previsible. Ambos llaman a temer a Dios.
-
-¿La muerte hace inútil todo trabajo? El libro señala que la muerte limita los logros humanos. El Nuevo Testamento afirma que el trabajo hecho en el Señor no es en vano por la esperanza de la resurrección (1 Corintios 15:58).
-
-¿Eclesiastés enseña que no existe vida después de la muerte? El libro expresa la perspectiva humana y la limitación de lo que se observa «debajo del sol». Su conclusión habla del juicio de Dios; la revelación posterior desarrolla la resurrección y la vida eterna.
-''',
-        references: "Eclesiastés 1:2; 2:24-26; 3:1-11; 12:13-14; 1 Corintios 15:58.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué significa «vanidad»? Respuesta: Describe lo fugaz y pasajero de la existencia, y la incapacidad de los logros temporales para ofrecer seguridad definitiva (Eclesiastés 1:2-3).
-
-Pregunta: ¿Qué enseña Eclesiastés 3? Respuesta: Que la vida tiene tiempos y temporadas bajo el gobierno de Dios, aunque el ser humano no puede comprender toda su obra (Eclesiastés 3:1-11).
-
-Pregunta: ¿Es incorrecto disfrutar de los bienes cotidianos? Respuesta: No. El Predicador los presenta como dones que deben recibirse con gratitud, sin convertirlos en ídolos (Eclesiastés 2:24-26; 5:18-20).
-
-Pregunta: ¿Cuál es la conclusión del libro? Respuesta: Temer a Dios y guardar sus mandamientos, porque toda obra será juzgada (Eclesiastés 12:13-14).
-
-Pregunta: ¿Qué esperanza aporta Cristo? Respuesta: Su resurrección garantiza la victoria final sobre la muerte y da sentido al trabajo fiel en el Señor (1 Corintios 15:20-26, 54-58).
-''',
-        references: "Eclesiastés 1:2-3; 3:1-11; 5:18-20; 12:13-14; 1 Corintios 15:20-58.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-Eclesiastés confronta la ilusión de que el trabajo, la riqueza, el placer o el conocimiento pueden asegurar una existencia permanente. La vida es frágil y el ser humano no controla el tiempo ni conoce todos los caminos de Dios. Sin embargo, el libro no recomienda desesperación: llama a recibir con gratitud los bienes cotidianos y a vivir en temor del Señor.
-
-El cierre del libro orienta la vida hacia la responsabilidad delante de Dios, quien juzgará toda obra. El Nuevo Testamento amplía la esperanza mediante la resurrección de Jesucristo. Por eso, el creyente puede trabajar, servir y disfrutar los dones de Dios sin convertirlos en su fundamento último.
-
-El Padre es el Creador y juez, el Hijo vence la muerte y el Espíritu da vida. La respuesta sabia es vivir hoy con gratitud, fidelidad y esperanza eterna.
-''',
-        references: "Eclesiastés 12:13-14; Lucas 12:15-21; 1 Corintios 15:20-58; Santiago 4:13-16.",
-      ),
+La conclusión cristiana se amplía a la luz de la resurrección de Jesús: el trabajo en el Señor no es vano. La Iglesia puede vivir con alegría sobria, justicia y esperanza, sin absolutizar los bienes temporales y sin caer en desesperanza. Temer a Dios y guardar sus mandamientos sigue siendo la respuesta sabia de la criatura ante su Creador.''', references: "Eclesiastés 12:13-14; Mateo 6:19-21; 1 Corintios 15:54-58; Colosenses 3:23-24.")
     ],
-    conclusion: '''
-Eclesiastés enseña que la vida presente es fugaz y que los logros humanos no pueden vencer la muerte ni controlar el futuro. El libro invita a recibir los bienes cotidianos como dones de Dios, pero rechaza convertirlos en fundamento último. Su conclusión llama a temer a Dios y guardar sus mandamientos, porque toda obra será juzgada.
-
-La esperanza cristiana no niega la fragilidad humana; se apoya en la resurrección de Jesucristo. Por Él, el trabajo fiel no es en vano y la muerte no tiene la última palabra. El Padre da vida, el Hijo vence la muerte y el Espíritu vivifica. La sabiduría consiste en vivir con gratitud, responsabilidad y esperanza.
-''',
+    conclusion: '''Eclesiastés enseña a no depositar la esperanza final en el dinero, el placer, la reputación o los logros. Invita a recibir con gratitud los bienes cotidianos, trabajar con responsabilidad y recordar que la vida es breve. A la luz de la resurrección de Jesús, el trabajo en el Señor no es vano. La Iglesia vive con alegría sobria, justicia y esperanza, sin absolutizar los bienes temporales.''',
   ),
-
-  Study(
-    number: '105',
+number: '105',
     title: "Los profetas de Israel: llamado, mensaje y responsabilidad del mensajero",
     subtitle: "La vocación profética, la autoridad de la palabra de Dios y la fidelidad del mensajero.",
     introduction: '''
