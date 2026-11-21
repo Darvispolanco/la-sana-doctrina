@@ -2015,7 +2015,7 @@ references: 'Juan 1:1-2; Juan 17:5, 24; Efesios 1:4; 1 Pedro 1:20.',
 StudySection(
 title: '3. El Padre es eternamente Padre',
 content:
-'La Biblia presenta al Padre en una relación eterna con el Hijo. Jesús no comenzó a ser Hijo cuando nació de María, porque antes de la encarnación ya hablaba de la gloria que compartía con el Padre. La expresión Padre identifica una relación personal y no simplemente una función temporal. El Hijo es eternamente Hijo, y el Padre es eternamente Padre. Esto no significa que uno sea más antiguo que el otro. Ambos son eternos y comparten plenamente la misma naturaleza divina. La relación de paternidad y filiación pertenece a la identidad personal de las personas divinas.',
+'Las Escrituras no presentan al Padre como alguien que llegó a ser Padre después de crear al Hijo. La relación de paternidad y filiación aparece antes de la creación: Jesús habla de la gloria que tenía junto al Padre y del amor con que el Padre lo amaba antes de la fundación del mundo (Juan 17:5, 24). Hebreos 1:2-3 presenta al Hijo como resplandor de la gloria de Dios y expresión exacta de su ser; Hebreos 1:5-8 distingue al Hijo de aquel que le habla y, a la vez, le atribuye un honor que supera al de los ángeles. Por eso, llamar Padre al Padre y Hijo al Hijo identifica una relación personal eterna, no una diferencia de antigüedad. La generación eterna del Hijo es una expresión teológica utilizada para describir esta relación, pero no debe imaginarse como un acontecimiento temporal, una creación ni un comienzo de existencia. El texto bíblico afirma la eternidad del Verbo y su relación con el Padre; no autoriza a convertir esa relación en una secuencia de seres o momentos.',
 references: 'Juan 1:1-2; Juan 17:5, 24; Gálatas 4:4; Hebreos 1:5-8.',
 ),
 StudySection(
@@ -2093,13 +2093,13 @@ references: '2 Corintios 13:14; Mateo 28:19; Efesios 2:18; 1 Pedro 1:2.',
 StudySection(
 title: '16. Textos difíciles: ¿El Padre es anterior al Hijo?',
 content:
-'Algunos pasajes hablan del Padre como quien envía al Hijo o entrega autoridad al Hijo. Estas expresiones describen relaciones y misiones dentro de la obra divina, pero no demuestran que el Padre haya existido antes que el Hijo. Juan 1:1 afirma que el Verbo ya existía en el principio, y Juan 17:5 habla de la gloria compartida antes de la creación. La diferencia de misión no debe confundirse con una diferencia de antigüedad o naturaleza. El Padre y el Hijo son eternos. No hubo un momento en que el Hijo no existiera.',
+'Algunos textos dicen que el Padre envía al Hijo, le da una misión o le entrega autoridad; otros hablan del Hijo como engendrado o unigénito. Ninguna de estas expresiones debe aislarse del testimonio completo. Juan 1:1-3 declara que el Verbo ya existía en el principio y que todas las cosas creadas llegaron a existir por medio de Él. Juan 17:5 presenta la gloria compartida antes de que el mundo existiera, y Juan 17:24 habla del amor del Padre hacia el Hijo antes de la fundación del mundo. Hebreos 1:8-12 aplica al Hijo lenguaje de realeza y eternidad. Por tanto, el envío describe la misión del Hijo en la historia, no una inferioridad de naturaleza ni un comienzo de existencia. La expresión Hijo unigénito debe leerse dentro del Evangelio de Juan, donde el Verbo es eterno. No debemos imaginar una generación física, un instante en que el Padre existía sin el Hijo o una criatura que luego recibió divinidad. La Escritura distingue al Padre del Hijo y afirma la eternidad y plena divinidad del Hijo.',
 references: 'Juan 1:1-3; Juan 17:5, 24; Colosenses 1:16-17; Hebreos 1:8-12.',
 ),
 StudySection(
 title: '17. Textos difíciles: ¿El Espíritu Santo es solamente el poder de Dios?',
 content:
-'La Biblia relaciona al Espíritu Santo con el poder de Dios, pero no lo identifica exclusivamente con una fuerza. Hechos 1:8 enseña que los discípulos recibirían poder cuando viniera sobre ellos el Espíritu Santo. En otros textos, el Espíritu habla, decide, enseña, conoce y puede ser contristado. Estas acciones revelan personalidad. Es importante distinguir entre lo que una persona divina realiza y quién es esa persona. El Espíritu concede poder porque es Dios y actúa personalmente, pero no se reduce al poder que comunica.',
+'Hechos 1:8 relaciona al Espíritu Santo con el poder que recibirían los discípulos, pero el texto no dice que el Espíritu sea únicamente una energía. En Hechos 13:2 el Espíritu habla en primera persona y llama a Bernabé y a Saulo para una obra; en 1 Corintios 12:11 distribuye los dones según su voluntad; en Romanos 8:26-27 intercede por los creyentes; y en Efesios 4:30 puede ser contristado. En Juan 14:26 enseña y recuerda las palabras de Jesús. Estos verbos describen conocimiento, voluntad, comunicación y relación, no una fuerza impersonal. También debemos observar que el Espíritu posee atributos divinos y participa en la obra de Dios. Decir que el Espíritu concede poder es correcto; reducir su identidad al poder que comunica no lo es. La interpretación debe distinguir entre la persona y sus obras: el Espíritu Santo actúa con poder porque es la persona divina que obra, no porque sea una energía separada de Dios.',
 references: 'Juan 14:26; Hechos 1:8; Hechos 13:2; Romanos 8:26-27; 1 Corintios 12:11.',
 ),
 StudySection(
@@ -2195,7 +2195,7 @@ references: 'Deuteronomio 6:4; Isaías 45:5; 1 Corintios 8:4-6.'
 StudySection(
 title: '11. La diferencia entre identidad personal y naturaleza divina',
 content:
-'Es importante no confundir las preguntas quién es y qué es. El Padre, el Hijo y el Espíritu Santo responden a la distinción de quiénes son. La naturaleza divina responde a qué es Dios. Esta distinción conceptual ayuda a explicar por qué el Padre no es el Hijo y por qué el Espíritu Santo no es el Padre, sin concluir que existen tres dioses. No se debe utilizar esta explicación como si fuera una fórmula que resolviera completamente el misterio de Dios, sino como una herramienta para ordenar las afirmaciones bíblicas.',
+'Para evitar confusiones conviene distinguir dos preguntas: quién es cada persona y qué es Dios. La pregunta quién identifica al Padre, al Hijo y al Espíritu Santo en sus relaciones personales; la pregunta qué se refiere a la única naturaleza divina. Esta distinción no pretende dividir a Dios en componentes ni describirlo como tres individuos humanos. Mateo 3:16-17 muestra al Hijo bautizado, al Espíritu descendiendo y al Padre hablando; Juan 1:1 presenta al Verbo con Dios y afirma que el Verbo era Dios; y Mateo 28:19 reúne al Padre, al Hijo y al Espíritu Santo bajo el singular nombre. Los textos obligan a conservar simultáneamente unidad y distinción. Si decimos que las personas son la misma persona, no explicamos las relaciones que aparecen en los relatos. Si decimos que cada una es un dios separado, abandonamos el monoteísmo bíblico. La esencia no es una cuarta realidad detrás de las personas, ni cada persona es una fracción de Dios: el Padre, el Hijo y el Espíritu Santo son plenamente divinos y el único Dios es uno.',
 references: 'Mateo 28:19; Juan 1:1-2; Juan 14:16-17; 2 Corintios 13:14.'
 ),
 StudySection(
@@ -2393,7 +2393,7 @@ references: 'Salmos 33:6; Isaías 48:16; Juan 1:1-3; Mateo 28:19.'
 StudySection(
 title: '22. Isaías 48:16 y su dificultad interpretativa',
 content:
-'Isaías 48:16 contiene una declaración en la que el hablante menciona al Señor Jehová, su Espíritu y su envío. La identidad exacta del hablante y la estructura de la declaración han sido discutidas por intérpretes. Algunos cristianos han visto en este texto una referencia significativa a la distinción entre el Señor, el enviado y el Espíritu. No obstante, no debe presentarse como si el pasaje nombrara explícitamente al Padre, al Hijo y al Espíritu Santo. Su interpretación requiere considerar el contexto de Isaías 48 y compararlo con la enseñanza más clara del Nuevo Testamento.',
+'Isaías 48 debe leerse desde el comienzo del capítulo, donde el Señor confronta la infidelidad de Israel, declara su conocimiento anticipado y afirma que no comparte su gloria con ídolos (Isaías 48:1-11). En el versículo 12 habla el Primero y el Último; en el versículo 13 se describe su poder creador; y en el versículo 16 aparece la frase: «acercaos a mí, oíd esto», seguida por la declaración de que el Señor Jehová lo envió, y su Espíritu. El pasaje es relevante porque reúne lenguaje de envío y la mención del Espíritu, pero su estructura y la identidad exacta del hablante son discutidas. No debemos presentar una conclusión más segura que el propio texto. Puede observarse que el libro de Isaías contiene una distinción entre el Señor, su Siervo y el Espíritu en otros pasajes (Isaías 42:1; 61:1; 63:9-14), y que el Nuevo Testamento revela con mayor claridad al Padre, al Hijo y al Espíritu. Isaías 48:16 puede estudiarse como un texto compatible con esa revelación progresiva, pero no debe utilizarse aislado como demostración completa de la Trinidad. La doctrina se establece mediante el testimonio conjunto de las Escrituras.',
 references: 'Isaías 48:12-17; Juan 8:42; Juan 14:16-17.'
 ),
 StudySection(
@@ -2585,7 +2585,7 @@ references: 'Juan 17:1-26.'
 StudySection(
 title: '22. Getsemaní y la voluntad humana de Cristo',
 content:
-'En Getsemaní, Jesús expresa su angustia ante el sufrimiento que se aproxima y ora para que, si es posible, pase de Él aquella copa. Sin embargo, somete su voluntad humana a la voluntad del Padre. Este pasaje es fundamental para comprender que Jesús poseía una humanidad completa, con una voluntad humana real. Su obediencia no significa que su naturaleza divina fuera inferior o que existiera una contradicción dentro de Dios. El Hijo encarnado enfrenta voluntariamente el sufrimiento y cumple la misión redentora.',
+'En Getsemaní Jesús expresa una angustia real y ora al Padre: si es posible, que pase de Él la copa; sin embargo, añade que no se haga su voluntad, sino la del Padre (Mateo 26:36-46; Lucas 22:39-46). El relato no presenta una disputa entre dos personas divinas ni una oposición moral dentro de Dios. Muestra al Hijo eterno viviendo una humanidad verdadera, con voluntad humana, emociones y una experiencia real del sufrimiento que se aproxima. La obediencia del Hijo encarnado no significa que su naturaleza divina sea inferior, sino que asumió voluntariamente la condición de siervo para cumplir la redención. Hebreos 5:7-9 relaciona sus ruegos y sufrimientos con su obediencia; Filipenses 2:6-8 explica su humillación voluntaria; y Juan 10:17-18 declara que entrega su vida voluntariamente. Debemos mantener juntas estas verdades: Jesús es plenamente Dios, verdaderamente hombre, distinto del Padre y obediente en su misión. No se debe convertir su oración en prueba de que sea el Padre, ni utilizar su obediencia para negar su divinidad.',
 references: 'Mateo 26:36-46; Marcos 14:32-42; Lucas 22:39-46.'
 ),
 StudySection(
@@ -2759,7 +2759,7 @@ references: 'Juan 1:18; Juan 14:7-11; Colosenses 1:15.'
 StudySection(
 title: '17. El Padre es mayor que yo',
 content:
-'En Juan 14:28 Jesús dice que el Padre es mayor que Él. La afirmación debe interpretarse dentro del contexto de su misión y de su partida al Padre. El Hijo se encuentra en condición de siervo encarnado y está cumpliendo voluntariamente la misión recibida. Este texto no debe separarse de Juan 1:1, Juan 5:23 y otros pasajes que afirman su divinidad. La diferencia de función y condición durante la encarnación no demuestra una diferencia de naturaleza divina.',
+'Juan 14:28 aparece en el discurso de despedida, cuando Jesús prepara a los discípulos para su partida. La frase completa conecta la alegría de los discípulos con el hecho de que Él va al Padre. El contexto inmediato habla de su misión, de su regreso y de la relación entre el Padre que envía y el Hijo enviado (Juan 14:1-31). El versículo debe leerse junto a Juan 1:1-3, donde el Verbo es Dios; Juan 5:23, donde todos deben honrar al Hijo como honran al Padre; Juan 17:5, donde el Hijo habla de la gloria compartida antes de la creación; y Filipenses 2:6-8, donde el Hijo se humilla y toma forma de siervo. La grandeza del Padre en el contexto de la misión no demuestra que posea una naturaleza divina superior. El Hijo encarnado habla desde la condición que asumió para salvar. Tampoco debemos vaciar la frase: Jesús realmente vino como enviado y vivió en obediencia. La interpretación correcta no enfrenta Juan 14:28 con los textos de la divinidad de Cristo, sino que distingue la relación personal y la misión del Hijo de la igualdad de naturaleza divina.',
 references: 'Juan 14:28; Juan 1:1-3; Juan 5:18-23; Filipenses 2:6-8.'
 ),
 StudySection(
@@ -3748,7 +3748,7 @@ references: 'Lucas 2:40, 52; Juan 4:6; Juan 11:35; Gálatas 4:4; Hebreos 2:14-17
 StudySection(
 title: '30. La expresión primogénito y la eternidad de Cristo',
 content:
-'Colosenses 1:15 llama a Cristo primogénito de toda creación. Esta expresión ha sido interpretada incorrectamente cuando se separa de los versículos siguientes. Pablo explica que todas las cosas fueron creadas por medio de Cristo y para él, y que él es antes de todas ellas. En el lenguaje bíblico, primogénito puede expresar supremacía y posición de herencia. Por tanto, el contexto no permite concluir que Cristo sea simplemente el primer ser creado.',
+'Colosenses 1:15 llama a Cristo «el primogénito de toda creación», pero el contexto inmediato explica el sentido de su supremacía. Los versículos 16-17 afirman que todas las cosas fueron creadas por medio de Él y para Él, que Él es antes de todas las cosas y que todas subsisten en Él. Si el Hijo perteneciera al conjunto de las criaturas, Pablo estaría incluyendo al agente creador dentro de aquello que fue creado por medio de Él, lo que contradice el desarrollo del pasaje. En la Biblia, primogénito puede expresar preeminencia, rango y derecho de herencia, como ocurre con Israel llamado primogénito (Éxodo 4:22) y con David constituido primogénito en sentido de supremacía real (Salmos 89:27). La interpretación debe considerar el contexto y no limitar la palabra a orden de nacimiento. Colosenses presenta al Hijo como supremo sobre la creación, no como el primer ser creado. Esta lectura concuerda con Juan 1:1-3 y Hebreos 1:2-3, 10-12.',
 references: 'Salmo 89:27; Colosenses 1:15-18; Hebreos 1:2-3'
 ),
 StudySection(
@@ -3862,7 +3862,7 @@ references: 'Juan 1:1; Juan 20:28; Colosenses 2:9; Hebreos 1:8.'
 StudySection(
 title: '7. Dos naturalezas y una sola persona',
 content:
-'La doctrina cristiana histórica expresa que Jesucristo es una sola persona con dos naturalezas: divina y humana. No son dos Cristos ni dos personas independientes que actúan juntas. El mismo Hijo eterno es quien nació de María, vivió entre los hombres, murió y resucitó. Su naturaleza divina no se convirtió en humana, y su naturaleza humana no se convirtió en divina. Ambas naturalezas permanecen distintas, unidas en la única persona de Jesucristo.',
+'La enseñanza de la encarnación requiere distinguir entre naturaleza y persona. Jesucristo no es dos personas que colaboran, ni una naturaleza mezclada que deja de ser plenamente divina y plenamente humana. El sujeto que nace de María, siente hambre, ora, sufre y muere es el mismo Hijo eterno que existía con el Padre y comparte la naturaleza divina. Según su humanidad, experimenta lo propio de la vida humana; según su divinidad, no deja de ser el Verbo eterno. Filipenses 2:6-8 describe al que existía en forma de Dios tomando forma de siervo; Juan 1:14 afirma que el Verbo se hizo carne; y Hebreos 2:14-18 explica que participó verdaderamente de carne y sangre para socorrer a los seres humanos. Esta distinción ayuda a interpretar los textos que hablan de la debilidad humana de Jesús sin negar los que afirman su divinidad. No significa que unas acciones pertenezcan a una persona humana separada y otras a una persona divina: todas corresponden al único Jesucristo, verdadero Dios y verdadero hombre.',
 references: 'Juan 1:14; Romanos 9:5; Filipenses 2:6-8; Colosenses 2:9.'
 ),
 StudySection(
@@ -3964,7 +3964,7 @@ references: 'Hebreos 2:14; Romanos 5:8; 1 Pedro 3:18.'
 StudySection(
 title: '24. ¿La naturaleza divina de Cristo murió?',
 content:
-'Las Escrituras enseñan que Jesucristo murió realmente, pero no presentan la divinidad como una naturaleza que dejó de existir. La muerte afecta la condición humana de Cristo. El Hijo eterno no dejó de ser Dios durante su muerte. Es correcto afirmar que el Hijo murió por nosotros, siempre que se comprenda que experimentó la muerte en su humanidad y que su existencia divina no fue destruida.',
+'Los Evangelios afirman que Jesucristo murió realmente: su cuerpo fue entregado, su sangre fue derramada y fue sepultado (Marcos 15:37-47; Juan 19:30-42; 1 Corintios 15:3-4). Sin embargo, la muerte no significa que la naturaleza divina dejara de existir o que la Deidad se extinguiera. El Hijo eterno, que es una persona divina, experimentó la muerte verdaderamente según la naturaleza humana que asumió. Debemos evitar dos extremos: negar la realidad de la muerte de Jesús o afirmar que la divinidad dejó de ser eterna e inmortal. Hechos 2:24 enseña que Dios lo levantó de los muertos; Juan 10:17-18 muestra que Jesús tiene autoridad para entregar su vida y volverla a tomar; y Romanos 1:4 relaciona su resurrección con su declaración poderosa como Hijo de Dios. La formulación debe conservar el testimonio bíblico: murió el mismo Hijo encarnado, no una persona humana independiente, y su naturaleza divina no dejó de existir.',
 references: 'Hechos 2:23-24; Romanos 1:3-4; 1 Pedro 3:18.'
 ),
 StudySection(
@@ -4023,7 +4023,7 @@ references: 'Lucas 1:35; Mateo 1:18-20; Juan 14:16-17.'
 StudySection(
 title: '34. ¿Cómo entender los pasajes donde Jesús ora al Padre?',
 content:
-'Las oraciones de Jesús al Padre no son conversaciones teatrales. Revelan una relación personal verdadera entre el Hijo y el Padre. Además, muestran la vida humana de Cristo, quien vivió en obediencia y dependencia durante su misión terrenal. La oración de Jesús debe entenderse considerando tanto su identidad divina como su humanidad encarnada.',
+'Las oraciones de Jesús al Padre deben leerse como expresiones de una relación personal verdadera y de su humanidad encarnada. En Juan 17, el Hijo habla con el Padre y recuerda la gloria que compartían antes de la creación; en Getsemaní expresa angustia humana y obediencia; y en la cruz encomienda su espíritu al Padre (Lucas 23:46). Estos textos no enseñan que Jesús sea el Padre ni que exista una separación de esencia entre ambos. Muestran que el Hijo es una persona distinta y que asumió una humanidad completa. Hebreos 4:15-16 confirma que comprende nuestras debilidades, y Filipenses 2:6-8 explica su humillación voluntaria. Al interpretar cada oración hay que preguntar quién habla, a quién se dirige, en qué momento de la misión se encuentra y qué aspecto de su humanidad o relación personal revela. Así se evita utilizar una oración para negar la divinidad del Hijo o para confundirlo con el Padre.',
 references: 'Lucas 6:12; Juan 11:41-42; Juan 17:1-5; Hebreos 5:7.'
 ),
 StudySection(
