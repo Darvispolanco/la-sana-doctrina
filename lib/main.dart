@@ -21821,6 +21821,8 @@ letterSpacing: 1,
 }
 }
 
+String _dictionarySortKey(String value) => value.toLowerCase().replaceAll(RegExp('[áàä]'), 'a').replaceAll(RegExp('[éèë]'), 'e').replaceAll(RegExp('[íìï]'), 'i').replaceAll(RegExp('[óòö]'), 'o').replaceAll(RegExp('[úùü]'), 'u').replaceAll('ñ', 'n~');
+
 class DictionaryTerm {
   final String term;
   final String definition;
@@ -21934,7 +21936,7 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
           (legacyDictionaryContexts[term.term]?.toLowerCase().contains(normalized) ?? false);
       return matchesCategory && matchesQuery;
     }).toList()
-      ..sort((a, b) => a.term.toLowerCase().compareTo(b.term.toLowerCase()));
+      ..sort((a, b) => _dictionarySortKey(a.term).compareTo(_dictionarySortKey(b.term)));
 
     return ListView(
       padding: const EdgeInsets.all(16),
@@ -22054,11 +22056,15 @@ class QuizPack {
   final String title;
   final String description;
   final List<QuizQuestion> questions;
+  final String difficulty;
+  final String source;
 
   const QuizPack({
     required this.title,
     required this.description,
     required this.questions,
+    this.difficulty = 'Intermedio',
+    this.source = 'Estudios bíblicos',
   });
 }
 
@@ -22127,7 +22133,35 @@ const List<QuizPack> quizPacks = [
       QuizQuestion(question: '¿Qué enseña 2 Timoteo 3:16 acerca de la Escritura?', options: ['Que solo algunas partes son útiles', 'Que toda Escritura es inspirada por Dios y útil para formar', 'Que la experiencia sustituye la Biblia', 'Que la Biblia no corrige la conducta'], correctIndex: 1, explanation: 'Pablo afirma el origen divino y la utilidad de la Escritura para enseñar, corregir e instruir en justicia.', references: '2 Timoteo 3:16-17'),
       QuizQuestion(question: '¿Cómo debe evaluarse una supuesta revelación que contradice el evangelio apostólico?', options: ['Aceptarla por la autoridad de quien la afirma', 'Colocarla por encima de la Escritura', 'Rechazar la contradicción y examinar toda afirmación por la enseñanza apostólica', 'Considerarla automáticamente verdadera si es reciente'], correctIndex: 2, explanation: 'La Iglesia debe probar las afirmaciones y permanecer en el evangelio recibido, sin aceptar otro mensaje contrario.', references: 'Gálatas 1:8-9; 1 Juan 4:1; Judas 3'),
     ],
+  ),,
+  QuizPack(
+    title: 'Defensa: discernimiento bíblico',
+    description: 'Autoridad de la Escritura, interpretación y evaluación de enseñanzas.',
+    difficulty: 'Intermedio',
+    source: 'Defensa de la Sana Doctrina · estudios 1–10',
+    questions: [
+      QuizQuestion(question: '¿Qué afirma 2 Timoteo 3:16-17 sobre la Escritura?', options: ['Toda Escritura es inspirada por Dios y útil para enseñar y corregir', 'Solo algunos proverbios son inspirados', 'La Escritura no tiene autoridad doctrinal', 'La tradición sustituye la Palabra'], correctIndex: 0, explanation: 'Pablo presenta el origen divino y la utilidad formativa de la Escritura.', references: '2 Timoteo 3:14-17'),
+      QuizQuestion(question: '¿Cómo examinaron los bereanos la enseñanza de Pablo?', options: ['La aceptaron sin examinar', 'Escudriñaron cada día las Escrituras para comprobarlo', 'La rechazaron por ser nueva', 'Consultaron solo la opinión popular'], correctIndex: 1, explanation: 'Hechos destaca su disposición a escuchar y verificar la enseñanza mediante las Escrituras.', references: 'Hechos 17:10-12'),
+      QuizQuestion(question: '¿Toda equivocación interpretativa convierte automáticamente a alguien en falso maestro?', options: ['Sí, cualquier error basta', 'No; debe distinguirse el error involuntario de la enseñanza destructiva persistente', 'Sí, si discrepa de nosotros', 'No importa qué enseñe'], correctIndex: 1, explanation: 'El estudio diferencia una interpretación equivocada de la corrupción grave y persistente del evangelio.', references: '2 Pedro 2:1-3; Judas 3-4; 2 Timoteo 2:24-26'),
+      QuizQuestion(question: '¿Qué implica interpretar un pasaje en su contexto?', options: ['Usar solo una frase aislada', 'Considerar párrafo, libro, situación y relación con el resto de la Escritura', 'Ignorar el propósito del autor', 'Elegir el significado más conveniente'], correctIndex: 1, explanation: 'La interpretación responsable observa la unidad literaria y el contexto histórico y canónico.', references: 'Nehemías 8:8; Lucas 24:27; 2 Pedro 3:16'),
+      QuizQuestion(question: '¿Cómo debe presentar el creyente defensa de su esperanza?', options: ['Con insultos', 'Con mansedumbre, respeto y buena conciencia', 'Con presión y amenazas', 'Evitando toda explicación'], correctIndex: 1, explanation: 'La defensa cristiana debe conservar el carácter de Cristo y respetar a quien pregunta.', references: '1 Pedro 3:15-16'),
+      QuizQuestion(question: '¿Qué cuidado requiere el estudio de movimientos históricos?', options: ['Repetir toda acusación de sus adversarios', 'Distinguir fuentes, contexto, diversidad interna y datos comprobables', 'Atribuirles siempre una doctrina uniforme', 'Ignorar las fuentes primarias'], correctIndex: 1, explanation: 'Las fuentes históricas deben evaluarse críticamente, especialmente cuando proceden de opositores.', references: 'Proverbios 18:13,17; 1 Tesalonicenses 5:21'),
+    ],
   ),
+  QuizPack(
+    title: 'Controversias doctrinales e historia',
+    description: 'Identificación de errores históricos y evaluación bíblica de sus afirmaciones.',
+    difficulty: 'Avanzado',
+    source: 'Defensa de la Sana Doctrina · estudios 11–80',
+    questions: [
+      QuizQuestion(question: '¿Qué afirmaba el docetismo acerca de la humanidad de Cristo?', options: ['Que su humanidad era solo aparente', 'Que era plenamente humano', 'Que era un ángel creado', 'Que nunca se manifestó en la historia'], correctIndex: 0, explanation: 'El docetismo reducía la humanidad real de Jesús a una apariencia, frente a la afirmación de que el Verbo se hizo carne.', references: 'Juan 1:14; 1 Juan 4:2-3; 2 Juan 7'),
+      QuizQuestion(question: '¿Qué cuestión central caracterizó la controversia arriana?', options: ['La autoridad de los salmos', 'La eternidad y plena deidad del Hijo', 'La traducción del Antiguo Testamento', 'La organización de las iglesias locales'], correctIndex: 1, explanation: 'La controversia trató si el Hijo es eterno y plenamente divino o un ser creado.', references: 'Juan 1:1-3; Colosenses 1:15-17; Hebreos 1:1-12'),
+      QuizQuestion(question: '¿Qué enseña el modalismo?', options: ['Tres dioses independientes', 'Que Padre, Hijo y Espíritu son modos de una sola persona', 'Que el Hijo es una criatura', 'Que el Espíritu no actúa'], correctIndex: 1, explanation: 'El modalismo no conserva la distinción personal que muestran los textos donde el Padre, el Hijo y el Espíritu se relacionan.', references: 'Mateo 3:13-17; Juan 14:16-17; 17:1-5'),
+      QuizQuestion(question: '¿Qué cuestión se discutió en el macedonianismo?', options: ['La plena divinidad del Espíritu Santo', 'La resurrección de Lázaro', 'La autoría de los Salmos', 'La circuncisión de los gentiles'], correctIndex: 0, explanation: 'La controversia se relacionó con la identidad divina del Espíritu Santo.', references: 'Hechos 5:3-4; 1 Corintios 12:4-11'),
+      QuizQuestion(question: '¿Qué afirmaba el marcionismo sobre el Dios del Antiguo Testamento y el Padre anunciado por Jesús?', options: ['Que son el mismo Dios revelado en una sola historia', 'Que debían oponerse radicalmente', 'Que el Antiguo Testamento contiene toda la revelación', 'Que Jesús rechazó las Escrituras de Israel'], correctIndex: 1, explanation: 'El movimiento de Marción estableció una oposición radical que debe evaluarse frente al uso que Jesús y los apóstoles hacen de las Escrituras de Israel.', references: 'Lucas 24:25-27,44; 2 Timoteo 3:16-17'),
+      QuizQuestion(question: '¿Qué enseña la Biblia frente al dualismo radical?', options: ['Que existen dos principios eternos equivalentes', 'Que solo Dios es el Creador y todo lo creado depende de Él', 'Que Satanás es eterno como Dios', 'Que la materia es intrínsecamente mala'], correctIndex: 1, explanation: 'La Escritura afirma la soberanía del único Dios y la creación de todas las cosas por medio de Cristo.', references: 'Isaías 45:5-7; Colosenses 1:16-17'),
+    ],
+  )
 ];
 
 class CuestionariosTab extends StatefulWidget {
@@ -22198,7 +22232,7 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
                   child: Icon(Icons.quiz, color: Color(0xFF14243A)),
                 ),
                 title: Text(item.title, style: const TextStyle(fontWeight: FontWeight.bold)),
-                subtitle: Text(item.description + '\n' + item.questions.length.toString() + ' preguntas'),
+                subtitle: Text(item.description + '\n' + item.questions.length.toString() + ' preguntas · ' + item.difficulty + '\n' + item.source),
                 isThreeLine: true,
                 trailing: const Icon(Icons.chevron_right),
                 onTap: () => _start(item),
