@@ -19579,145 +19579,48 @@ La perspectiva trinitaria reconoce al Padre que envía, al Hijo que se entrega v
 El Nuevo Testamento presenta a Jesucristo como la ofrenda definitiva. El Hijo se entrega voluntariamente al Padre mediante el Espíritu eterno y obtiene una redención que no necesita repetirse. Por tanto, la Iglesia no ofrece sacrificios para completar el perdón, sino una vida de adoración, servicio y amor como fruto de la obra consumada de Cristo.''',
   ),
   Study(
+      Study(
     number: '98',
     title: "El Día de la Expiación: purificación y acceso a la presencia de Dios",
-    subtitle: "El rito anual de Levítico 16, la purificación del santuario y su cumplimiento en la obra sacerdotal de Cristo.",
-    introduction: '''
-Levítico 16 describe el Día de la Expiación, una jornada solemne en la que el sumo sacerdote realizaba ritos específicos por sí mismo, por su casa, por el santuario y por el pueblo. El capítulo no debe confundirse con los sacrificios ordinarios de Levítico 1–7: presenta un procedimiento anual particular, con acceso restringido al Lugar Santísimo, sangre, incienso y dos machos cabríos con funciones diferenciadas.
+    subtitle: "El rito anual de Levítico 16 y su relación con la obra definitiva de Jesucristo.",
+    introduction: '''Levítico 16 describe el Día de la Expiación, jornada anual en la que el sumo sacerdote realizaba ritos especiales por sí mismo, por su casa, por el santuario y por la congregación de Israel. El capítulo no debe aislarse de Levítico 1–15: responde a la realidad de la impureza y del pecado que afectaban la vida del pueblo y el espacio de adoración. El rito incluía sacrificios, sangre, incienso, vestiduras específicas y dos machos cabríos con funciones diferentes.
 
-El rito enseñaba que la presencia santa de Dios no podía tratarse con ligereza y que la impureza y el pecado afectaban la relación del pueblo con el santuario. La purificación no era un acto mágico ni una ceremonia que permitiera continuar deliberadamente en rebelión. Levítico 16 une el rito con la humillación del pueblo y el descanso sabático.
-
-Hebreos 9–10 utiliza este trasfondo para explicar la superioridad de Jesucristo. Cristo entra en el santuario celestial, no con sangre ajena, sino mediante su propia entrega, y obtiene redención definitiva. El estudio debe distinguir el rito histórico, su significado en el pacto y la interpretación cristológica del Nuevo Testamento.
-''',
+El Nuevo Testamento, especialmente Hebreos 9–10, relaciona el servicio del sumo sacerdote con la obra superior de Jesucristo. Cristo no entra repetidamente en un santuario terrenal ni ofrece sangre ajena; entra una vez para siempre por medio de su propia sangre y obtiene redención eterna. La lectura trinitaria distingue al Hijo que se ofrece, al Padre a quien se ofrece y al Espíritu eterno mediante quien Cristo se presentó sin mancha a Dios (Hebreos 9:14).''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-El Día de la Expiación era la ceremonia anual descrita en Levítico 16. Se distinguía de las ofrendas regulares porque el sumo sacerdote entraba al Lugar Santísimo bajo instrucciones estrictas. Expiación en este contexto incluye la purificación del santuario y el tratamiento de los pecados e impurezas del pueblo dentro del pacto.
+      StudySection(title: "1. Delimitación del tema y conceptos centrales", content: '''Levítico 16 establece una observancia anual en la que el sumo sacerdote realizaba actos de purificación por sí mismo, por su casa, por el santuario y por la congregación. Expiación describe el tratamiento ritual del pecado dentro del pacto; purificación se refiere a la limpieza de aquello que había quedado ritualmente contaminado; reconciliación señala la restauración de la relación con Dios. Los conceptos se relacionan, pero no son idénticos en todos los pasajes.
 
-El macho cabrío cuya sangre era llevada al santuario y el macho cabrío enviado al desierto no cumplen la misma acción ritual. Uno participa en la purificación mediante sangre; el otro representa la remoción de las iniquidades del pueblo fuera del campamento. No debe confundirse el rito con una simple ceremonia de arrepentimiento privado.
+El rito incluye un becerro, dos machos cabríos, incienso, sangre, vestiduras especiales y el envío de un animal vivo al desierto. El macho cabrío destinado al Señor era sacrificado; el otro recibía simbólicamente las iniquidades confesadas y era enviado fuera del campamento. Este estudio se concentra en Levítico 16, sin repetir la clasificación general de sacrificios desarrollada en el estudio 97.''', references: "Levítico 16:1-34; 23:26-32; Hebreos 9:1-10."),
+      StudySection(title: "2. Contexto histórico, cultural y literario", content: '''Levítico 16 comienza recordando la muerte de Nadab y Abiú, quienes se acercaron a la presencia divina de una manera no autorizada (Levítico 10:1-3; 16:1-2). La advertencia explica por qué el acceso al lugar santísimo estaba restringido y por qué el sumo sacerdote debía cumplir instrucciones precisas.
 
-El término chivo expiatorio se usa comúnmente para el segundo macho cabrío, pero la interpretación debe partir del texto de Levítico y no de usos modernos de la expresión. Este estudio se limita al Día de la Expiación y no repite la clasificación general de sacrificios abordada en el estudio 97.
-''',
-        references: "Levítico 16:1-34; Levítico 23:26-32; Hebreos 9:1-14.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Levítico 16 sitúa el rito después de la muerte de los hijos de Aarón, Nadab y Abiú, quienes se acercaron indebidamente a la presencia de Dios (Levítico 10). La conexión literaria es importante: el capítulo enseña cómo puede acercarse el sumo sacerdote sin repetir aquella transgresión. La santidad de Dios exige obediencia precisa.
+El capítulo ocupa un lugar central después de las normas sobre pureza de Levítico 11–15. El pueblo vivía alrededor del tabernáculo, señal de la presencia de Dios en medio de Israel; por eso, el pecado y la impureza afectaban la vida comunitaria y el espacio de culto. Levítico 23:26-32 incorpora la jornada al calendario sagrado como día de humillación y reposo solemne.''', references: "Levítico 10:1-3; 11–16; 16:1-34; 23:26-32."),
+      StudySection(title: "3. Los participantes y los elementos del rito", content: '''El sumo sacerdote se lavaba, vestía las prendas sagradas de lino y presentaba un becerro por sí mismo y por su casa. Después tomaba dos machos cabríos para la congregación y echaba suertes: uno quedaba destinado al Señor y el otro era enviado vivo al desierto. Esta secuencia muestra que el mediador levítico también necesitaba purificación antes de actuar en favor del pueblo.
 
-El santuario israelita estaba organizado en espacios con acceso diferenciado. El Lugar Santísimo era el ámbito más restringido y el sumo sacerdote entraba allí en el día señalado, llevando incienso y sangre. El rito se realizaba en el contexto de la vida nacional del pacto, no como una ceremonia privada.
+El incienso producía una nube delante del propiciatorio. La sangre del becerro y del macho cabrío sacrificado era llevada al lugar señalado para realizar la purificación ritual. El segundo macho cabrío recibía la confesión de las iniquidades del pueblo y era conducido fuera del campamento por un hombre designado. Cada acción tenía un lugar en la secuencia prescrita.''', references: "Levítico 16:3-10, 11-22."),
+      StudySection(title: "4. La purificación del santuario y la confesión del pecado", content: '''Levítico 16:16 explica que el santuario debía ser purificado por las impurezas y transgresiones de Israel. El texto no afirma que la esencia de Dios se contamine, sino que el lugar consagrado para el culto requería purificación ritual por causa de la condición del pueblo.
 
-Levítico 23:26-32 establece la fecha y el carácter de aflicción del alma y reposo. El pueblo debía participar mediante humildad y abstención del trabajo. La jornada anual formaba parte del calendario sagrado de Israel y recordaba que la comunidad necesitaba purificación.
-''',
-        references: "Levítico 10:1-3; 16:1-34; 23:26-32; Números 29:7-11.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Levítico 16:1-10 establece las instrucciones iniciales. Aarón debía presentarse con un becerro para ofrenda por el pecado y un carnero para holocausto. Se vestía con las vestiduras de lino prescritas, y se echaban suertes sobre los dos machos cabríos: uno para el Señor y otro para Azazel, según el lenguaje del pasaje.
+La confesión sobre el macho cabrío vivo expresa la retirada simbólica de las iniquidades. Levítico 16:21-22 describe la imposición de las manos, la confesión de las rebeliones y el envío del animal a una tierra inhabitada. La imagen comunica que la culpa no debía permanecer como si nada hubiera ocurrido. El pueblo debía reconocer sus pecados y depender de la provisión divina.''', references: "Levítico 16:16-22; Salmo 103:10-12."),
+      StudySection(title: "5. Análisis exegético de Levítico 16:1-10", content: '''Levítico 16:2 prohíbe al sumo sacerdote entrar en cualquier momento detrás del velo. La restricción subraya la santidad de Dios y la necesidad de obedecer el orden establecido. Levítico 16:3-5 describe las ofrendas y las vestiduras; el sacerdote no comparecía apoyado en su propia dignidad, sino mediante los medios prescritos.
 
-En Levítico 16:11-19, el sumo sacerdote realiza expiación por sí mismo y por su casa, entra con incienso y lleva sangre para purificar el santuario. El texto subraya que incluso el lugar santo requería purificación debido a las impurezas y transgresiones del pueblo. Esto no significa que Dios fuera moralmente contaminado, sino que el santuario, como centro del culto pactal, debía ser purificado ritualmente.
+En Levítico 16:6-10 se distingue la ofrenda por el sacerdote y su casa de los dos machos cabríos por el pueblo. La suerte no convierte a los animales en divinidades ni atribuye poder autónomo al azar; determina el destino ritual conforme al procedimiento indicado. El pasaje enseña que el acceso al Dios santo dependía de la provisión y dirección de Dios.''', references: "Levítico 16:1-10; Éxodo 30:7-10."),
+      StudySection(title: "6. Análisis exegético de Levítico 16:11-34", content: '''Levítico 16:11-19 presenta la purificación realizada mediante la sangre. El orden destaca que el sacerdote debía atender primero su propia condición ritual y la de su casa, y luego la del pueblo. Levítico 16:20-22 describe el envío del macho cabrío vivo, sobre el cual se confesaban las iniquidades de Israel.
 
-En Levítico 16:20-28, el macho cabrío vivo recibe la confesión de las iniquidades y es enviado al desierto. Luego el sumo sacerdote se cambia las vestiduras y completa los holocaustos. Levítico 16:29-34 establece la observancia anual. El capítulo distingue claramente las fases y no permite reducir el rito a un solo gesto.
-''',
-        references: "Levítico 16:1-34; 23:26-32; Números 29:7-11.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Hebreos 9 utiliza el Día de la Expiación como parte de su explicación del ministerio sacerdotal de Cristo. El sumo sacerdote entraba repetidamente en el santuario terrenal con sangre ajena, mientras Cristo entró una vez para siempre en el santuario celestial mediante su propia sangre, obteniendo eterna redención (Hebreos 9:11-12).
+Los versículos 29-34 establecen la observancia anual y la humillación del pueblo. La repetición anual recuerda que el rito pertenecía al orden del pacto antiguo y no era la consumación definitiva de la redención. Hebreos 9–10 utiliza precisamente la repetición y las limitaciones del santuario terrenal para explicar la superioridad de la obra de Cristo.''', references: "Levítico 16:11-34; Hebreos 9:6-10; 10:1-4."),
+      StudySection(title: "7. Relación con el conjunto de las Escrituras", content: '''Levítico 16 debe leerse con las normas de pureza de los capítulos anteriores y con la enseñanza profética sobre la necesidad de un corazón fiel. Salmo 103:12 describe la remoción de las transgresiones mediante la imagen de la distancia entre oriente y occidente. Isaías 53 presenta al Siervo que lleva el pecado de muchos, tema que el Nuevo Testamento relaciona con Jesús.
 
-Hebreos 9:23-28 explica que Cristo no se ofrece repetidamente. Su sacrificio aparece una vez en la consumación de los siglos para quitar el pecado por medio de su entrega. Hebreos 10 continúa el argumento: la repetición anual recordaba la necesidad de purificación, pero no podía perfeccionar definitivamente a quienes se acercaban.
+Hebreos 9:11-28 no convierte cada detalle del rito en una equivalencia alegórica exacta. Su argumento es que Cristo entra en el santuario celestial y obtiene redención eterna, superando la repetición anual y la limitación del santuario terrenal. La unidad bíblica se reconoce en la progresión desde el rito del pacto antiguo hasta la obra definitiva del Mesías.''', references: "Salmo 103:10-12; Isaías 53:4-12; Hebreos 9:11-28; 10:1-18."),
+      StudySection(title: "8. Cumplimiento en Jesucristo", content: '''Hebreos 9:11-14 presenta a Jesús como sumo sacerdote de los bienes venideros. Entra por un tabernáculo mayor y más perfecto, no hecho de manos, y obtiene eterna redención. Su entrada no depende de sangre ajena, sino de su propia entrega. Hebreos 9:24-28 afirma que Cristo se presentó una sola vez para quitar el pecado mediante el sacrificio de sí mismo.
 
-La aplicación cristiana no consiste en reproducir el rito del sumo sacerdote ni en buscar un nuevo sacrificio. Cristo es el mediador y sumo sacerdote suficiente. El acceso a Dios se recibe por su obra, y la comunidad es llamada a acercarse con fe y conciencia purificada.
-''',
-        references: "Hebreos 4:14-16; 9:11-28; 10:1-22; Romanos 3:23-26; 1 Juan 2:1-2.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Levítico 16:2 prohíbe a Aarón entrar en cualquier momento al Lugar Santísimo, para que no muera. La frase establece el principio rector del capítulo: el acceso está regulado por Dios. El incienso cubría el propiciatorio y la sangre se aplicaba conforme a las instrucciones. No era el sacerdote quien decidía cómo acercarse.
+Hebreos 10:11-14 contrasta a los sacerdotes que ofrecían repetidamente con Cristo, quien ofreció un solo sacrificio para siempre. La cruz no es una repetición literal del rito levítico; es el cumplimiento superior de la necesidad de purificación y reconciliación que el rito señalaba. La suficiencia de Jesús excluye la repetición de sacrificios expiatorios.''', references: "Marcos 10:45; Juan 1:29; Hebreos 9:11-14, 24-28; 10:11-14."),
+      StudySection(title: "9. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: '''Hebreos 9:14 declara que Cristo se ofreció a sí mismo sin mancha a Dios mediante el Espíritu eterno. El texto distingue al Hijo que se ofrece, a Dios a quien se ofrece y al Espíritu eterno mencionado en esa entrega. No debemos identificar al Hijo con el Padre ni separar la acción divina como si fueran tres dioses independientes.
 
-La expresión sobre el macho cabrío para Azazel (Levítico 16:8-10) ha recibido distintas explicaciones históricas. El texto sí deja claro que uno era presentado al Señor y el otro era enviado vivo al desierto después de cargar simbólicamente con las iniquidades confesadas. Una interpretación responsable reconoce lo que el pasaje afirma sin presentar como certeza aquello que es debatido.
+El Padre envía al Hijo por amor (Juan 3:16-17); el Hijo entrega voluntariamente su vida (Juan 10:17-18); y el Espíritu actúa en la obra salvadora y en la vida nueva de los creyentes (Romanos 8:9-11). La cruz manifiesta la unidad del propósito divino sin borrar las distinciones personales que el texto bíblico presenta.''', references: "Juan 3:16-17; 10:17-18; Romanos 8:9-11; Hebreos 9:14."),
+      StudySection(title: "10. Preguntas difíciles, síntesis y aplicación", content: '''¿Por qué se repetía el rito cada año? Porque pertenecía a un sistema que no podía perfeccionar definitivamente la conciencia (Hebreos 9:9-10; 10:1-4). ¿El macho cabrío vivo era sacrificado? No; Levítico distingue al animal sacrificado del que era enviado al desierto. ¿Dios necesitaba ser limpiado? No; el texto habla de la purificación ritual del santuario por las impurezas y transgresiones del pueblo.
 
-Hebreos 9:7-14 contrapone la entrada anual del sumo sacerdote con la entrada de Cristo mediante el Espíritu eterno. El argumento no consiste en decir que el rito carecía de todo valor, sino que su alcance era temporal y tipológico, mientras la obra de Cristo limpia la conciencia para servir al Dios vivo.
-''',
-        references: "Levítico 16:2, 8-10, 14-22; Hebreos 9:7-14, 24-28.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-El Día de la Expiación debe relacionarse con Levítico 10, donde se narra el juicio sobre Nadab y Abiú, y con Levítico 11–15, que trata diversas condiciones de impureza. Estos capítulos explican por qué el santuario y la comunidad necesitaban purificación. Levítico 16 concentra la solución ritual anual.
-
-Levítico 23 y Números 29 ubican la jornada dentro del calendario de Israel. El pueblo debía humillarse y cesar de sus labores. La ceremonia no sustituía la vida de obediencia: los profetas muestran que la humillación externa carece de valor cuando se mantiene la injusticia y la idolatría.
-
-Hebreos 4–10 desarrolla el sacerdocio de Cristo, su entrada al santuario celestial y la eficacia de su sacrificio. La comparación debe respetar tanto las continuidades como las diferencias: Jesús es sacerdote y ofrenda, pero no repite el rito levítico; su obra inaugura el acceso definitivo. Romanos 3:25 y 1 Juan 2:2 también relacionan la muerte de Cristo con la expiación, dentro de sus argumentos propios.
-''',
-        references: "Levítico 10–16; 23:26-32; Números 29:7-11; Hebreos 4–10.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-La obra de salvación se comprende trinitariamente. El Padre es aquel ante quien Cristo ejerce su ministerio sacerdotal y cuyo propósito de redención se cumple. El Hijo se encarna, se ofrece voluntariamente y entra como sumo sacerdote, no siendo la misma persona que el Padre. El Espíritu eterno aparece en Hebreos 9:14 en relación con la entrega de Cristo.
-
-Hebreos 9:14 pregunta cuánto más la sangre de Cristo limpiará la conciencia para servir al Dios vivo, pues Cristo se ofreció a sí mismo sin mancha a Dios mediante el Espíritu eterno. El texto distingue al Hijo que se ofrece, a Dios como aquel a quien se ofrece y al Espíritu eterno en cuya relación se realiza la entrega. No describe tres dioses ni tres sacrificios.
-
-El Padre no es el Hijo y el Espíritu no es una fuerza impersonal. La salvación es obra del único Dios, con distinción personal: el Padre envía, el Hijo se entrega y el Espíritu participa en la obra redentora y aplica sus beneficios al pueblo.
-''',
-        references: "Hebreos 9:14; Juan 3:16-17; Gálatas 4:4-6; Efesios 2:18.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿El rito limpiaba a Dios? No. Levítico 16 habla de la purificación del santuario dentro del sistema cultual. Dios no se vuelve impuro; el espacio dedicado al culto requería purificación ritual debido a las impurezas del pueblo.
-
-¿El segundo macho cabrío era un sacrificio a otro dios? Levítico 16 distingue al macho cabrío para el Señor y al enviado vivo al desierto. El segundo no es presentado como una ofrenda a una divinidad rival; su función en el rito es la remoción simbólica de las iniquidades confesadas.
-
-¿El Día de la Expiación perdonaba de manera definitiva? El rito tenía una función real dentro del pacto, pero Hebreos enseña que la perfección de la conciencia y la redención definitiva se cumplen en Cristo. No se debe negar el valor histórico del rito ni atribuirle la eficacia final que el Nuevo Testamento reserva a Cristo.
-
-¿Hebreos contradice Levítico? No. Hebreos interpreta el sistema levítico desde la obra de Cristo y explica su carácter provisional y anticipatorio. La revelación posterior aclara el alcance del rito sin afirmar que Dios se contradijo.
-
-¿Puede un ministro actual repetir el oficio del sumo sacerdote? No en el sentido expiatorio levítico. Hebreos presenta a Cristo como sumo sacerdote suficiente y su sacrificio como único. Los ministros cristianos sirven y enseñan, pero no añaden sacrificios redentores a la obra de Jesús.
-''',
-        references: "Levítico 16:8-10, 20-22; Hebreos 9:7-14; 10:1-14.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Por qué el sumo sacerdote debía ofrecer primero por sí mismo? Respuesta: Porque era un ser humano sujeto a debilidad y necesitaba purificación. Hebreos 5:1-3 utiliza este hecho para contrastar la superioridad de Cristo, que no tuvo pecado.
-
-Pregunta: ¿Por qué se usaba incienso? Respuesta: Levítico 16:12-13 lo prescribe para cubrir el propiciatorio con la nube. El texto presenta una instrucción litúrgica vinculada al acceso seguro; otras asociaciones bíblicas del incienso con la oración no deben borrar el sentido inmediato del rito.
-
-Pregunta: ¿Qué significaban los dos machos cabríos? Respuesta: El primero era sacrificado y su sangre se empleaba en la purificación; el segundo permanecía vivo, recibía la confesión de las iniquidades y era enviado al desierto. Ambos actos forman parte de un mismo rito, pero no son idénticos.
-
-Pregunta: ¿Por qué Cristo no repite la ceremonia? Respuesta: Porque su sacrificio es suficiente y se realizó una vez para siempre (Hebreos 9:24-28; 10:10-14).
-
-Pregunta: ¿Qué significa tener acceso a Dios? Respuesta: Por Cristo, los creyentes pueden acercarse con confianza y conciencia purificada, sin depender de un nuevo sacrificio anual (Hebreos 10:19-22).
-''',
-        references: "Levítico 16:1-34; Hebreos 5:1-10; 9:11-28; 10:19-22.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-El Día de la Expiación enseñaba a Israel que el pecado y la impureza no podían tratarse con ligereza y que el acceso al Dios santo dependía de la provisión establecida por Él. El rito anual incluía purificación del santuario, sacrificio y remoción simbólica de las iniquidades, bajo la mediación del sumo sacerdote.
-
-Hebreos no desprecia el texto de Levítico; muestra su lugar dentro de la historia de la redención. Cristo es el sumo sacerdote perfecto y la ofrenda suficiente. Su entrega no se repite y abre el acceso a Dios. La Iglesia responde con fe, santidad y servicio, no con la reproducción de sacrificios expiatorios.
-
-El Padre, el Hijo y el Espíritu Santo participan distintamente en la única obra salvadora. El estudio conduce a reverencia, gratitud y confianza en la obra completa de Jesucristo.
-''',
-        references: "Hebreos 9:11-14, 24-28; 10:10-22; 1 Pedro 1:18-21.",
-      ),
+¿Hebreos contradice Levítico al afirmar que Cristo entró una vez para siempre? No; explica que el rito antiguo se repetía y que Cristo obtuvo una redención superior y definitiva. La Iglesia no reproduce el Día de la Expiación ni añade sacrificios a la cruz. Se acerca a Dios por medio de Jesús, confiesa sus pecados y vive en gratitud por la reconciliación recibida.''', references: "Levítico 16:20-34; Hebreos 4:14-16; 9:9-14, 24-28; 10:1-18; 1 Juan 1:7-9.")
     ],
-    conclusion: '''
-Levítico 16 establece el Día de la Expiación como una jornada anual de purificación del santuario y del pueblo, realizada por el sumo sacerdote bajo instrucciones precisas. El rito expresaba la santidad de Dios, la gravedad del pecado y la necesidad de una mediación provista por el Señor.
-
-Hebreos interpreta este rito a la luz de Jesucristo. El Hijo es el sumo sacerdote perfecto que se ofrece una vez para siempre y obtiene redención definitiva. La obra del Padre, del Hijo y del Espíritu se distingue personalmente sin dividir al único Dios. Por tanto, la Iglesia no repite el Día de la Expiación, sino que se acerca a Dios por Cristo con fe, gratitud y una conciencia purificada.
-''',
+    conclusion: '''El Día de la Expiación enseñaba que el pecado y la impureza no podían tratarse como asuntos triviales y que el acceso al santuario requería la mediación prescrita por Dios. La repetición anual del rito señalaba sus límites. Hebreos presenta a Jesucristo como el sumo sacerdote que obtiene redención eterna mediante una entrega única. El Hijo se ofrece al Padre mediante el Espíritu eterno; por eso la esperanza cristiana descansa en la obra suficiente de Cristo y no en la repetición de ceremonias.''',
   ),
-
-  Study(
-    number: '99',
+number: '99',
     title: "Las fiestas solemnes de Israel: memoria, adoración y esperanza",
     subtitle: "El calendario sagrado, sus convocaciones y su lugar en la historia del pacto y la esperanza bíblica.",
     introduction: '''
