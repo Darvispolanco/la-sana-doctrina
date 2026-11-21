@@ -19661,147 +19661,48 @@ La libertad cristiana tampoco debe convertirse en desprecio por las Escrituras h
     ],
     conclusion: '''Las fiestas solemnes de Israel ordenaban el tiempo alrededor de la memoria de la redención, la gratitud por la provisión y la adoración comunitaria. Su sentido no puede reducirse a costumbres agrícolas ni convertirse en obligación legal para la Iglesia. El Nuevo Testamento presenta a Cristo como nuestra Pascua y primicias de la resurrección, y relata el derramamiento del Espíritu en Pentecostés. La Iglesia aprende a recordar, agradecer, compartir y vivir en la esperanza del cumplimiento de las promesas de Dios.''',
   ),
-number: '100',
-    title: "El sacerdocio levítico: servicio, mediación y santidad",
-    subtitle: "El llamado de Aarón y sus descendientes, las funciones sacerdotales y la superioridad del sacerdocio de Cristo.",
-    introduction: '''
-El sacerdocio levítico fue establecido para el servicio del santuario y el ministerio relacionado con los sacrificios, la enseñanza de la ley y la atención de asuntos de pureza. Aarón y sus descendientes fueron apartados para este oficio, mientras que los levitas desempeñaban otras tareas vinculadas al culto. La Biblia distingue estas funciones y no presenta a todos los levitas como sacerdotes.
-
-El sacerdocio recordaba que el acercamiento al Dios santo estaba regulado por su palabra y que los mediadores humanos también necesitaban purificación. La función sacerdotal no convertía a sus integrantes en seres divinos ni les otorgaba autoridad independiente de Dios. Su servicio estaba sujeto a instrucciones, límites y responsabilidades.
-
-Hebreos presenta a Jesucristo como sumo sacerdote según el orden de Melquisedec, superior al sacerdocio levítico por su persona, vida indestructible y sacrificio definitivo. Los creyentes participan de un sacerdocio espiritual como pueblo consagrado, pero no reemplazan ni repiten el ministerio expiatorio único de Cristo.
-''',
-    sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Sacerdote es el ministro apartado para realizar tareas sagradas en nombre del pueblo conforme a las disposiciones de Dios. El sumo sacerdote tenía responsabilidades especiales, entre ellas la entrada anual al Lugar Santísimo en el Día de la Expiación. Los levitas, en sentido más amplio, pertenecían a la tribu apartada para el servicio del santuario, pero no todos podían ejercer las funciones sacerdotales reservadas a Aarón y sus descendientes.
-
-Mediación describe el servicio por el cual se facilita el acercamiento del pueblo a Dios dentro del pacto. No significa que el sacerdote fuera una fuente independiente de perdón ni que pudiera reemplazar a Dios. Santidad sacerdotal implicaba consagración, pureza ritual y conducta conforme a la ley.
-
-Este estudio aborda el sacerdocio levítico en conjunto. Las particularidades del Día de la Expiación se desarrollan en el estudio 98 y las funciones del sacrificio en el 97.
-''',
-        references: "Éxodo 28:1-43; Levítico 8–10; Hebreos 4:14-16; 7:23-28.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Éxodo 28–29 contiene las instrucciones para las vestiduras y consagración de Aarón y sus hijos. Levítico 8–10 relata la ordenación y el comienzo del servicio, incluyendo la muerte de Nadab y Abiú por ofrecer fuego no ordenado. La narración subraya que el ministerio sagrado no podía realizarse según la voluntad privada del ministro.
-
-Números 3–4 asigna tareas a las familias levíticas en el transporte y cuidado del tabernáculo. Números 18 distingue las responsabilidades de los sacerdotes y de los demás levitas. Deuteronomio 18 describe la porción sacerdotal y la provisión para quienes servían.
-
-En la historia de Israel hubo corrupción sacerdotal, como muestran los relatos de los hijos de Elí (1 Samuel 2). Los profetas y libros históricos denuncian el desprecio de la ley y la falta de fidelidad. Malaquías 2 reprende a los sacerdotes por apartarse del pacto y no instruir al pueblo correctamente.
-''',
-        references: "Éxodo 28–29; Levítico 8–10; Números 3–4; 18; Malaquías 2:1-9.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-Éxodo 28 presenta las vestiduras sacerdotales, incluyendo el pectoral, el efod, la túnica y la lámina de oro. El texto relaciona las vestiduras con la dignidad y responsabilidad del oficio. Éxodo 29 establece el procedimiento de consagración mediante lavamiento, vestiduras, unción y sacrificios.
-
-Levítico 8 describe cómo Moisés consagró a Aarón y a sus hijos. Levítico 9 narra el inicio del servicio y la manifestación de la gloria del Señor. Levítico 10 muestra el juicio sobre Nadab y Abiú, que actuaron fuera de la instrucción recibida. El pasaje enseña que el culto requiere reverencia y obediencia.
-
-Números 18 distingue la responsabilidad de los sacerdotes en el altar y el santuario de las tareas asignadas a los levitas. La distinción evita confundir la pertenencia tribal con la autorización para realizar todo oficio sacerdotal. El sacerdocio era un encargo recibido, no una función que cualquiera podía apropiarse.
-''',
-        references: "Éxodo 28–29; Levítico 8–10; Números 18:1-7; Deuteronomio 18:1-8.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Hebreos 4:14-16 presenta a Jesús como el gran sumo sacerdote que atravesó los cielos y puede compadecerse de nuestras debilidades, aunque sin pecado. Hebreos 5 explica que el sumo sacerdote es tomado de entre los seres humanos y llamado por Dios, pero Cristo no se glorificó a sí mismo: fue designado por el Padre.
-
-Hebreos 7 compara el sacerdocio de Cristo con el de Melquisedec y muestra que el cambio de sacerdocio implica un cambio en el marco legal. Jesús permanece para siempre y tiene un sacerdocio inmutable. A diferencia de los sacerdotes levíticos, no necesita ofrecer sacrificios primero por sus propios pecados.
-
-Hebreos 8–10 desarrolla el ministerio de Cristo en el santuario celestial y su sacrificio único. Primera de Pedro 2:5, 9 llama a los creyentes sacerdocio santo y real, pero el lenguaje se refiere a su identidad comunitaria y a sus sacrificios espirituales, no a una repetición del oficio expiatorio de Cristo.
-''',
-        references: "Hebreos 4:14-16; 5:1-10; 7:1-28; 8:1-6; 9:11-14; 1 Pedro 2:4-10.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Éxodo 28:1 afirma que Aarón y sus hijos fueron apartados para ejercer el sacerdocio. La iniciativa procede de Dios y no de una auto designación. Éxodo 29:1-9 detalla la consagración y las vestiduras, mientras Levítico 8 narra su ejecución.
-
-Levítico 10:10-11 resume una tarea sacerdotal esencial: distinguir entre lo santo y lo profano, entre lo inmundo y lo limpio, y enseñar los estatutos al pueblo. La enseñanza de la ley era parte de la responsabilidad sacerdotal; no se trataba únicamente de manipular sacrificios.
-
-Hebreos 7:23-28 señala el contraste entre muchos sacerdotes que morían y Cristo que permanece para siempre. El argumento se apoya en la permanencia del Hijo y en la suficiencia de su entrega. No significa que el sacerdocio antiguo fuera una invención inútil, sino que tenía límites que la obra de Cristo supera.
-''',
-        references: "Éxodo 28:1; Levítico 10:10-11; Números 18:1-7; Hebreos 7:23-28.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-El sacerdocio levítico se relaciona con la ley, el santuario, los sacrificios y la pureza. Levítico 21–22 regula la santidad de los sacerdotes y de las ofrendas. Números 18 establece la distribución de responsabilidades y provisiones. Malaquías 2 recuerda que los labios del sacerdote debían guardar conocimiento y que el pueblo buscaba instrucción de su boca.
-
-El Antiguo Testamento también muestra los fracasos del sacerdocio humano. Los hijos de Elí despreciaron las ofrendas y abusaron de su posición (1 Samuel 2:12-17, 22-25). Malaquías denuncia a sacerdotes que ofrecían animales defectuosos y quebrantaban el pacto. Estos textos no anulan la institución, sino que exponen la responsabilidad de quienes la ejercían.
-
-Hebreos 7–10 explica que Cristo cumple de manera superior la mediación sacerdotal. Primera de Pedro 2 aplica el lenguaje de sacerdocio a la Iglesia como pueblo que anuncia las virtudes de Dios y ofrece sacrificios espirituales. La comunidad no sustituye a Cristo como mediador único (1 Timoteo 2:5), sino que vive por su obra.
-''',
-        references: "Levítico 21–22; Números 18; 1 Samuel 2:12-25; Malaquías 2:1-9; Hebreos 7–10.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El sacerdocio se comprende dentro de la obra del único Dios. El Padre llama y establece el pacto; el Hijo es enviado y constituido sumo sacerdote, ofreciendo su vida; el Espíritu Santo participa en la obra redentora y habita en los creyentes. Hebreos 9:14 relaciona la entrega de Cristo con el Espíritu eterno, mientras Hebreos 5:5-6 muestra que Cristo no se glorificó a sí mismo, sino que fue llamado por Dios.
-
-El Hijo no es el Padre: el Padre designa y el Hijo obedece y se ofrece. Tampoco el Espíritu es una mera energía del Hijo: el texto lo menciona en su relación propia con la ofrenda. La distinción personal no divide a Dios en tres seres.
-
-El sacerdocio de Cristo es la base de la confianza cristiana. Los creyentes acceden al Padre por medio del Hijo y en el Espíritu (Efesios 2:18). El lenguaje trinitario debe mantenerse fiel a estos textos, sin asignar a cada persona una naturaleza o poder separado.
-''',
-        references: "Hebreos 5:5-10; 9:14; Efesios 2:18; 1 Timoteo 2:5.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Todos los levitas eran sacerdotes? No. Números 3–4 y 18 distinguen las tareas de los levitas de las funciones reservadas a Aarón y sus descendientes.
-
-¿El sacerdote podía perdonar pecados por autoridad propia? No. El sacerdote administraba los ritos que Dios había establecido; el perdón pertenecía al Señor. Los ministros no poseen poder autónomo para sustituir la gracia divina.
-
-¿Por qué los sacerdotes necesitaban sacrificios por sus propios pecados? Porque eran humanos y estaban sujetos a debilidad. Hebreos 5:1-3 explica esta limitación, mientras Hebreos 7:26-28 presenta la superioridad de Cristo, santo y sin pecado.
-
-¿La Iglesia tiene sacerdotes como los levitas? El Nuevo Testamento llama a toda la comunidad sacerdocio santo y real (1 Pedro 2:5, 9), pero no restablece el sistema genealógico levítico ni un ministerio que repita sacrificios expiatorios. Cristo es el mediador único (1 Timoteo 2:5).
-
-¿Hebreos desprecia el sacerdocio antiguo? No. Lo utiliza como marco de comparación para mostrar su función histórica y sus límites. La obra de Cristo cumple de manera definitiva lo que el sistema anterior no podía perfeccionar.
-''',
-        references: "Números 3–4; 18; Levítico 10:10-11; Hebreos 5:1-3; 7:26-28.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Quién podía ser sumo sacerdote? Respuesta: El oficio estaba ligado a la familia de Aarón dentro del orden establecido por Dios (Éxodo 28:1; Números 18:1-7).
-
-Pregunta: ¿Qué diferencia había entre sacerdotes y levitas? Respuesta: Los sacerdotes descendientes de Aarón realizaban las funciones sacerdotales específicas; los demás levitas servían en tareas asignadas al santuario (Números 3–4; 18).
-
-Pregunta: ¿Por qué debían enseñar la ley? Respuesta: Porque el sacerdocio incluía instruir al pueblo y distinguir entre lo santo y lo profano (Levítico 10:10-11; Malaquías 2:7).
-
-Pregunta: ¿Quién es el sumo sacerdote de los creyentes? Respuesta: Jesucristo, que permanece para siempre y ejerce un sacerdocio inmutable (Hebreos 7:23-28).
-
-Pregunta: ¿Qué sacrificios ofrece hoy la Iglesia? Respuesta: Sacrificios espirituales como alabanza, servicio y generosidad, no nuevas ofrendas para expiar pecados (Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:5).
-''',
-        references: "Éxodo 28:1; Números 18:1-7; Levítico 10:10-11; Hebreos 7:23-28; 1 Pedro 2:5,9.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-El sacerdocio levítico fue una institución establecida por Dios para servir en el santuario, administrar los ritos del pacto, enseñar la ley y cuidar la distinción entre lo santo y lo profano. Sus funciones estaban reguladas y no podían ser asumidas arbitrariamente. Los sacerdotes eran humanos y necesitaban purificación; su servicio tenía límites.
-
-Hebreos presenta a Jesucristo como sumo sacerdote perfecto, llamado por el Padre y capaz de salvar plenamente porque permanece para siempre. Su sacrificio es único y suficiente. La Iglesia participa de un sacerdocio espiritual ofreciendo alabanza, servicio y una vida consagrada, sin desplazar la mediación de Cristo.
-
-El Padre, el Hijo y el Espíritu Santo obran en la salvación con distinción personal y unidad divina. Por ello, el creyente puede acercarse a Dios con confianza, no por méritos de un ministro humano, sino por la obra completa de Jesucristo.
-''',
-        references: "Hebreos 7:23-28; 9:11-14; Romanos 12:1; Hebreos 13:15-16; 1 Pedro 2:4-10.",
-      ),
-    ],
-    conclusion: '''
-El sacerdocio levítico fue establecido para el servicio del santuario y la enseñanza de la ley. Sus integrantes debían obedecer instrucciones precisas, distinguir lo santo y lo profano y servir con reverencia. La distinción entre sacerdotes aarónicos y otros levitas es esencial para comprender el sistema.
-
-La historia muestra las limitaciones y fallas de los ministros humanos. Hebreos presenta a Cristo como sumo sacerdote permanente, sin pecado y suficiente, cuya entrega no necesita repetirse. La Iglesia es un sacerdocio espiritual que ofrece alabanza y servicio, pero mantiene a Jesucristo como único mediador y fundamento del acceso a Dios.
-
-El Padre llama y envía, el Hijo se ofrece como sumo sacerdote y el Espíritu participa en la obra redentora y habita en el pueblo. La respuesta es servir con santidad, humildad y confianza en Cristo.
-''',
-  ),
-
   Study(
-    number: '101',
+    number: '100',
+    title: "El sacerdocio levítico: servicio, mediación y santidad",
+    subtitle: "Las funciones sacerdotales en Israel y el sacerdocio perfecto de Jesucristo.",
+    introduction: '''El sacerdocio levítico fue establecido para el servicio del tabernáculo y posteriormente del templo. Los sacerdotes descendientes de Aarón tenían responsabilidades relacionadas con los sacrificios, la enseñanza de la ley, la bendición del pueblo y el cuidado del culto. Los levitas servían en tareas vinculadas al santuario, pero no todos ejercían las funciones sacerdotales reservadas a la casa de Aarón.
+
+El Nuevo Testamento presenta a Jesucristo como sumo sacerdote superior, no según la descendencia de Aarón, sino según el orden de Melquisedec. Su sacerdocio es permanente y su sacrificio es suficiente. Este estudio distingue el sacerdocio levítico del sacerdocio de Cristo y del lenguaje de sacerdocio aplicado a la Iglesia.''',
+    sections: [
+      StudySection(title: "1. Delimitación y distinción de funciones", content: '''El sacerdocio levítico fue establecido para el servicio del tabernáculo y, posteriormente, del templo. Los sacerdotes descendientes de Aarón tenían responsabilidades relacionadas con los sacrificios, la enseñanza de la ley, la bendición del pueblo y el cuidado del culto. Los levitas pertenecían a la tribu de Leví y colaboraban en tareas del santuario, pero no todos ejercían las funciones sacerdotales reservadas a la casa de Aarón.
+
+El sacerdocio levítico debe distinguirse del sacerdocio de Cristo y del sacerdocio espiritual atribuido al pueblo de Dios en el Nuevo Testamento. La continuidad está en el servicio a Dios; la diferencia decisiva es que Jesús es el mediador definitivo del nuevo pacto.''', references: "Éxodo 28–29; Números 3:5-10; Hebreos 7:11-28; 1 Pedro 2:5, 9."),
+      StudySection(title: "2. Elección de Aarón y organización del servicio", content: '''Éxodo 28–29 describe la elección de Aarón y sus hijos, las vestiduras sacerdotales y su consagración. Números 3 distingue las responsabilidades de los levitas y su servicio en relación con el tabernáculo. La organización no surgió de una iniciativa humana para obtener prestigio: fue establecida por mandato divino.
+
+La separación de funciones protegía el culto de la improvisación y recordaba que el servicio santo exigía obediencia. La elección no autorizaba abuso ni superioridad moral automática; los sacerdotes también estaban sujetos a la ley y podían ser juzgados por su infidelidad.''', references: "Éxodo 28:1-43; 29:1-37; Números 3:5-13; 18:1-7."),
+      StudySection(title: "3. Funciones sacerdotales en el culto", content: '''Los sacerdotes presentaban ofrendas, atendían el altar, mantenían las lámparas, quemaban incienso conforme a las instrucciones y pronunciaban la bendición sobre Israel. Estas tareas se realizaban según el orden revelado y no por iniciativa personal. El servicio estaba relacionado con la santidad de Dios y con la vida de la comunidad.
+
+El sacerdocio tampoco se limitaba a los ritos: debía instruir al pueblo en la ley. La función cultual y la enseñanza estaban unidas, pues la adoración debía corresponder a una vida ordenada por la palabra del Señor.''', references: "Levítico 1–7; 6:12-13; Números 6:22-27; Deuteronomio 33:8-10."),
+      StudySection(title: "4. Enseñanza, discernimiento y responsabilidad", content: '''Levítico 10:10-11 ordena a los sacerdotes distinguir entre lo santo y lo profano, lo inmundo y lo limpio, y enseñar a Israel los estatutos de Dios. Deuteronomio 33:10 también relaciona a Leví con la enseñanza de las ordenanzas. El sacerdote debía ayudar al pueblo a conocer y obedecer la voluntad divina.
+
+Cuando los responsables descuidaban la enseñanza, el pueblo quedaba expuesto a confusión espiritual. Los profetas denunciaron a sacerdotes que abandonaron el conocimiento y corrompieron su responsabilidad. El cargo no eximía de rendir cuentas delante de Dios.''', references: "Levítico 10:8-11; Deuteronomio 33:8-10; Oseas 4:6-9; Malaquías 2:4-9."),
+      StudySection(title: "5. Vestiduras, consagración y requisitos", content: '''Éxodo 28 describe las vestiduras que identificaban el servicio sacerdotal. El pectoral llevaba los nombres de las tribus y recordaba que el sacerdote comparecía como servidor del pueblo; la lámina de oro expresaba la consagración al Señor. Las prendas no conferían infalibilidad, sino que señalaban la responsabilidad del oficio.
+
+Éxodo 29 describe lavamiento, vestiduras, unción y sacrificios de consagración. Levítico 21 establece requisitos particulares para quienes ejercían el sacerdocio. Estas normas pertenecían al pacto antiguo y no deben trasladarse mecánicamente a los ministros cristianos sin considerar el cambio de pacto.''', references: "Éxodo 28:1-43; 29:1-37; Levítico 21:1-24."),
+      StudySection(title: "6. Los límites y las fallas del sacerdocio", content: '''Los sacerdotes eran seres humanos sujetos a debilidad y pecado. Aarón participó en el episodio del becerro de oro, y Nadab y Abiú murieron por ofrecer fuego no autorizado. Estos relatos muestran que el oficio sagrado no garantizaba fidelidad personal ni permitía modificar las instrucciones divinas.
+
+Los profetas denunciaron a sacerdotes que abandonaban la enseñanza y utilizaban su posición de manera infiel. La crítica no demuestra que toda mediación sacerdotal fuera ilegítima; revela que quienes servían debían responder ante Dios y que el cargo nunca sustituía la obediencia.''', references: "Éxodo 32:1-6; Levítico 10:1-3; Oseas 4:6-9; Malaquías 2:1-9."),
+      StudySection(title: "7. El anuncio de un sacerdocio superior", content: '''Salmo 110:4 anuncia un sacerdocio según el orden de Melquisedec. Génesis 14 presenta a Melquisedec como rey de Salem y sacerdote del Dios Altísimo, anterior a la institución del sacerdocio aarónico. Hebreos utiliza estos textos para explicar que el Mesías tendría un sacerdocio cuya base no sería la genealogía levítica.
+
+La promesa no niega que el sacerdocio de Aarón tuviera una función legítima en el pacto antiguo. Señala que el plan de Dios incluía un mediador superior y permanente, cuya autoridad no dependiera de sucesión genealógica ni de una vida mortal.''', references: "Génesis 14:17-20; Salmo 110:4; Hebreos 5:1-10; 7:1-17."),
+      StudySection(title: "8. Jesucristo, sumo sacerdote perfecto", content: '''Hebreos 4:14-16 presenta a Jesús como gran sumo sacerdote que puede compadecerse de nuestras debilidades y que permanece sin pecado. Hebreos 7 enseña que su sacerdocio es permanente porque Él vive para siempre. A diferencia de los sacerdotes que debían ofrecer por sus propios pecados, Cristo es santo e inocente.
+
+Hebreos 9:11-14 declara que entró por un tabernáculo mayor y más perfecto y obtuvo eterna redención. Hebreos 10:11-14 afirma que su única ofrenda basta para siempre. No se necesita una sucesión de sacrificios expiatorios ni un mediador humano que reemplace la obra de Jesús.''', references: "Hebreos 4:14-16; 7:23-28; 9:11-14; 10:11-14."),
+      StudySection(title: "9. Perspectiva trinitaria y mediación", content: '''El Padre establece el propósito salvador y envía al Hijo; Jesús es el mediador entre Dios y los seres humanos. El Hijo no es el Padre: se encarnó, obedeció y se ofreció a sí mismo. Hebreos 9:14 añade que Cristo se ofreció sin mancha a Dios mediante el Espíritu eterno.
+
+El Espíritu Santo da testimonio de Cristo y obra en la vida de los creyentes. La mediación de Jesús no convierte a las personas divinas en una sola persona ni divide a Dios en tres seres. El único Dios salva: el Padre envía, el Hijo media y se entrega, y el Espíritu actúa en la obra redentora y su aplicación.''', references: "Juan 3:16-17; 14:16-17; 15:26; Romanos 8:9-11; 1 Timoteo 2:5; Hebreos 9:14."),
+      StudySection(title: "10. Preguntas difíciles, aplicación y conclusión doctrinal", content: '''¿Los pastores cristianos son sacerdotes como los descendientes de Aarón? El Nuevo Testamento presenta a Cristo como sumo sacerdote definitivo y llama sacerdocio santo al conjunto de los creyentes; no establece que los ministros repitan el sistema genealógico levítico. ¿Eso elimina el ministerio pastoral? No: se mantienen funciones de enseñanza, supervisión y servicio, distintas de ofrecer sacrificios expiatorios.
+
+¿Cristo necesita sucesores que continúen su sacrificio? No; su ofrenda fue una vez para siempre. ¿Todos los levitas eran sacerdotes? No; Números 3 y 18 distinguen sus responsabilidades. La Iglesia aprende que todo servicio debe realizarse con humildad, verdad y responsabilidad. Los ministros no ocupan el lugar de Cristo; los creyentes ofrecen alabanza y servicio por medio de Él.''', references: "Números 3:5-10; 18:1-7; Hebreos 7:23-28; 10:10-14; 13:15-16; 1 Pedro 2:5, 9.")
+    ],
+    conclusion: '''El sacerdocio levítico fue un servicio establecido por Dios para el culto y la enseñanza de Israel. Sus integrantes tenían funciones diferenciadas y permanecían sujetos a la ley y a la necesidad de obedecer. El Nuevo Testamento presenta a Jesucristo como sumo sacerdote permanente y mediador definitivo del nuevo pacto. La Iglesia participa de un sacerdocio espiritual que ofrece alabanza y servicio, sin repetir ni completar el sacrificio de Cristo.''',
+  ),
+number: '101',
     title: "La literatura sapiencial: sabiduría, temor de Dios y vida cotidiana",
     subtitle: "Los libros sapienciales y su enseñanza sobre el carácter, las decisiones y la relación con Dios.",
     introduction: '''
