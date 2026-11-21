@@ -1,4 +1,6 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 Future<void> main() async {
@@ -186,6 +188,9 @@ class InicioTab extends StatelessWidget {
     const SizedBox(height: 26), const SectionHeading('Explora la aplicación'), const SizedBox(height: 8),
     FeatureTile(icon: Icons.menu_book_rounded, title: 'Estudios bíblicos',
       subtitle: 'Explora los 150 estudios y profundiza en cada tema.', onTap: () => onNavigate(1)),
+    FeatureTile(icon: Icons.shield_outlined, title: 'Defensa doctrinal',
+      subtitle: 'Consulta los 100 estudios de defensa bíblica e histórica.', onTap: () =>
+        Navigator.push(context, MaterialPageRoute(builder: (_) => const DefensaDoctrinalPage()))),
     FeatureTile(icon: Icons.search_rounded, title: 'Diccionario teológico',
       subtitle: 'Busca conceptos y términos de la sana doctrina.', onTap: () => onNavigate(2)),
     FeatureTile(icon: Icons.quiz_rounded, title: 'Evaluaciones bíblicas',
@@ -22091,29 +22096,216 @@ class _QuizPageState extends State<QuizPage> {
       ])));
   }
 }
+
+class DefensaDoc {
+  final String id;
+  final String title;
+  final String file;
+  final String content;
+  const DefensaDoc({required this.id, required this.title, required this.file, required this.content});
+}
+
+class DefensaRepository {
+  static Future<List<DefensaDoc>> loadAll() async {
+    final raw = await rootBundle.loadString('assets/defensa_doctrinal/indice.json');
+    final entries = (jsonDecode(raw) as List).cast<Map<String, dynamic>>();
+    final docs = await Future.wait(entries.map((entry) async {
+      final file = entry['file'] as String;
+      final id = entry['id'] as String;
+      final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
+      final firstLine = content.split('\n').first.trim();
+      final title = firstLine.replaceFirst(RegExp(r'^#\s*Estudio\s+\d+[.:]?\s*'), '').trim();
+      return DefensaDoc(id: id, title: title.isEmpty ? file : title, file: file, content: content);
+    }));
+    docs.sort((a,b) => a.id.compareTo(b.id));
+    return docs;
+  }
+}
+
+class DefensaDoctrinalPage extends StatefulWidget {
+  const DefensaDoctrinalPage({super.key});
+  @override
+  State<DefensaDoctrinalPage> createState() => _DefensaDoctrinalPageState();
+}
+
+class _DefensaDoctrinalPageState extends State<DefensaDoctrinalPage> {
+  final _search = TextEditingController();
+  late final Future<List<DefensaDoc>> _docs = DefensaRepository.loadAll();
+  @override
+  void dispose() { _search.dispose(); super.dispose(); }
+
+  @override
+  Widget build(BuildContext context) => Scaffold(
+    appBar: AppBar(title: const Text('Defensa doctrinal')),
+    body: FutureBuilder<List<DefensaDoc>>(
+      future: _docs,
+      builder: (context, snapshot) {
+        if (snapshot.hasError) return const Center(child: Padding(
+          padding: EdgeInsets.all(24), child: Text('No se pudieron cargar los estudios. Comprueba los recursos de la aplicación.')));
+        if (!snapshot.hasData) return const Center(child: CircularProgressIndicator());
+        final all = snapshot.data!;
+        final q = _search.text.trim().toLowerCase();
+        final results = all.where((doc) => q.isEmpty ||
+          doc.id.toLowerCase().contains(q) || doc.title.toLowerCase().contains(q) ||
+          doc.content.toLowerCase().contains(q)).toList();
+        return Column(children: [
+          Container(
+            margin: const EdgeInsets.fromLTRB(16,16,16,12),
+            padding: const EdgeInsets.all(18),
+            decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(18)),
+            child: const Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              Icon(Icons.shield_outlined, color: Color(0xFFD5B46A), size: 32),
+              SizedBox(width: 12),
+              Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Text('100 ESTUDIOS DE DEFENSA', style: TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold, letterSpacing: .7)),
+                SizedBox(height: 6),
+                Text('Investigación bíblica, histórica y respuesta doctrinal.', style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w600)),
+              ])),
+            ]),
+          ),
+          Padding(padding: const EdgeInsets.fromLTRB(16,0,16,10), child: TextField(
+            controller: _search, onChanged: (_) => setState(() {}),
+            decoration: InputDecoration(hintText: 'Buscar en los 100 estudios...',
+              prefixIcon: const Icon(Icons.search),
+              suffixIcon: _search.text.isEmpty ? null : IconButton(
+                onPressed: () { _search.clear(); setState(() {}); }, icon: const Icon(Icons.close)),
+              border: OutlineInputBorder(borderRadius: BorderRadius.circular(14))),
+          )),
+          Padding(padding: const EdgeInsets.fromLTRB(18,0,18,8), child: Align(
+            alignment: Alignment.centerLeft, child: Text(results.length.toString() + ' de 100 estudios',
+              style: const TextStyle(color: Color(0xFF526174), fontWeight: FontWeight.w600)))),
+          Expanded(child: results.isEmpty
+            ? const _EmptySearchState(title: 'No encontramos ese estudio', message: 'Prueba con otra palabra o número.')
+            : ListView.separated(
+              padding: const EdgeInsets.fromLTRB(16,0,16,20), itemCount: results.length,
+              separatorBuilder: (_,__) => const SizedBox(height: 7),
+              itemBuilder: (context,i) {
+                final doc = results[i];
+                return Card(child: ListTile(
+                  leading: CircleAvatar(backgroundColor: const Color(0xFFE9DFC8),
+                    foregroundColor: const Color(0xFF14243A),
+                    child: Text(doc.id.substring(2))),
+                  title: Text(doc.title, maxLines: 2, overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(fontWeight: FontWeight.w700)),
+                  subtitle: const Text('Estudio de defensa doctrinal'),
+                  trailing: ValueListenableBuilder<Set<String>>(
+                    valueListenable: BookmarkStore.savedStudyIds,
+                    builder: (context,saved,_) {
+                      final active = saved.contains(doc.id);
+                      return IconButton(
+                        tooltip: active ? 'Quitar de guardados' : 'Guardar estudio',
+                        onPressed: () => BookmarkStore.toggleStudy(doc.id),
+                        icon: Icon(active ? Icons.bookmark : Icons.bookmark_border,
+                          color: active ? const Color(0xFF14243A) : Colors.black54));
+                    }),
+                  onTap: () => Navigator.push(context, MaterialPageRoute(
+                    builder: (_) => DefensaStudyDetailPage(doc: doc))),
+                ));
+              },
+            )),
+        ]);
+      },
+    ),
+  );
+}
+
+class DefensaStudyDetailPage extends StatelessWidget {
+  final DefensaDoc doc;
+  const DefensaStudyDetailPage({super.key, required this.doc});
+
+  List<Widget> _renderContent() {
+    final lines = doc.content.split('\n');
+    final widgets = <Widget>[];
+    for (final raw in lines) {
+      final line = raw.trim();
+      if (line.isEmpty) { widgets.add(const SizedBox(height: 7)); continue; }
+      if (line.startsWith('#')) {
+        final heading = line.replaceFirst(RegExp(r'^#+\s*'), '').replaceAll('**','');
+        widgets.add(Padding(padding: const EdgeInsets.only(top: 12,bottom: 5),
+          child: Text(heading, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold,
+            color: Color(0xFF14243A)))));
+      } else {
+        final paragraph = line.replaceAll('**','').replaceAll(RegExp(r'^[-*]\s+'), '• ');
+        widgets.add(SelectableText(paragraph, style: const TextStyle(fontSize: 15, height: 1.6)));
+      }
+    }
+    return widgets;
+  }
+
+  @override
+  Widget build(BuildContext context) => Scaffold(
+    appBar: AppBar(title: Text(doc.title, maxLines: 1, overflow: TextOverflow.ellipsis),
+      actions: [ValueListenableBuilder<Set<String>>(
+        valueListenable: BookmarkStore.savedStudyIds,
+        builder: (context,saved,_) {
+          final active = saved.contains(doc.id);
+          return IconButton(tooltip: active ? 'Quitar de guardados' : 'Guardar estudio',
+            onPressed: () => BookmarkStore.toggleStudy(doc.id),
+            icon: Icon(active ? Icons.bookmark : Icons.bookmark_border,
+              color: active ? const Color(0xFFD5B46A) : null));
+        })]),
+    body: ListView(padding: const EdgeInsets.all(20), children: [
+      Container(padding: const EdgeInsets.all(18),
+        decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(16)),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text('DEFENSA DOCTRINAL · ESTUDIO ' + doc.id.substring(2),
+            style: const TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold, letterSpacing: .6)),
+          const SizedBox(height: 8),
+          Text(doc.title, style: const TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
+        ])),
+      const SizedBox(height: 14),
+      ..._renderContent(),
+    ]),
+  );
+}
+
 class GuardadosTab extends StatelessWidget {
   const GuardadosTab({super.key});
   @override
-  Widget build(BuildContext context)=>ValueListenableBuilder<Set<String>>(
-    valueListenable:BookmarkStore.savedStudyIds,builder:(context,saved,_) {
-      final items=_EstudiosTabState.studies.where((x)=>saved.contains(x.number)).toList();
-      if(items.isEmpty)return const _EmptySearchState(
-        title:'Todavía no tienes estudios guardados',
-        message:'Abre cualquier estudio y toca el marcador para guardarlo aquí.');
-      return ListView.separated(padding:const EdgeInsets.all(16),itemCount:items.length,
-        separatorBuilder:(_,__)=>const SizedBox(height:8),itemBuilder:(context,i) {
-          final study=items[i];
-          return Card(child:ListTile(
-            leading:CircleAvatar(backgroundColor:const Color(0xFFE9DFC8),foregroundColor:const Color(0xFF14243A),
-              child:Text(study.number,style:const TextStyle(fontWeight:FontWeight.bold))),
-            title:Text(study.title,maxLines:2,overflow:TextOverflow.ellipsis),
-            subtitle:Text(study.subtitle,maxLines:2,overflow:TextOverflow.ellipsis),
-            onTap:()=>Navigator.push(context,MaterialPageRoute(builder:(_)=>StudyDetailPage(study:study))),
-            trailing:IconButton(tooltip:'Quitar de guardados',
-              onPressed:()=>BookmarkStore.toggleStudy(study.number),icon:const Icon(Icons.bookmark_remove_outlined)),
-          ));
-        });
-    });
+  Widget build(BuildContext context) => ValueListenableBuilder<Set<String>>(
+    valueListenable: BookmarkStore.savedStudyIds,
+    builder: (context,saved,_) {
+      final mainItems = _EstudiosTabState.studies.where((x) => saved.contains(x.number)).toList();
+      final defenseIds = saved.where((x) => x.startsWith('D-')).toSet();
+      if (saved.isEmpty) return const _EmptySearchState(
+        title: 'Todavía no tienes estudios guardados',
+        message: 'Abre cualquier estudio y toca el marcador para guardarlo aquí.');
+      return FutureBuilder<List<DefensaDoc>>(
+        future: DefensaRepository.loadAll(),
+        builder: (context,snapshot) {
+          final defenseItems = snapshot.data?.where((x) => defenseIds.contains(x.id)).toList() ?? <DefensaDoc>[];
+          return ListView(padding: const EdgeInsets.all(16), children: [
+            if (mainItems.isNotEmpty) ...[
+              const Text('ESTUDIOS BÍBLICOS', style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14243A))),
+              const SizedBox(height: 8),
+              for (final study in mainItems) Card(child: ListTile(
+                leading: CircleAvatar(child: Text(study.number)),
+                title: Text(study.title, maxLines: 2, overflow: TextOverflow.ellipsis),
+                subtitle: Text(study.subtitle, maxLines: 2, overflow: TextOverflow.ellipsis),
+                onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => StudyDetailPage(study: study))),
+                trailing: IconButton(onPressed: () => BookmarkStore.toggleStudy(study.number),
+                  icon: const Icon(Icons.bookmark_remove_outlined)),
+              )),
+            ],
+            if (defenseIds.isNotEmpty) ...[
+              const SizedBox(height: 12),
+              const Text('DEFENSA DOCTRINAL', style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14243A))),
+              const SizedBox(height: 8),
+              if (!snapshot.hasData) const Padding(padding: EdgeInsets.all(16), child: Center(child: CircularProgressIndicator())),
+              for (final doc in defenseItems) Card(child: ListTile(
+                leading: CircleAvatar(child: Text(doc.id.substring(2))),
+                title: Text(doc.title, maxLines: 2, overflow: TextOverflow.ellipsis),
+                subtitle: const Text('Estudio de defensa doctrinal'),
+                onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => DefensaStudyDetailPage(doc: doc))),
+                trailing: IconButton(onPressed: () => BookmarkStore.toggleStudy(doc.id),
+                  icon: const Icon(Icons.bookmark_remove_outlined)),
+              )),
+            ],
+          ]);
+        },
+      );
+    },
+  );
 }
 
 class FeatureTile extends StatelessWidget {
