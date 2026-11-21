@@ -19999,79 +19999,521 @@ El Padre llama y envía, el Hijo se ofrece como sumo sacerdote y el Espíritu pa
   Study(
     number: '101',
     title: "La literatura sapiencial: sabiduría, temor de Dios y vida cotidiana",
-    subtitle: "Los rasgos y propósitos de los libros sapienciales y su lugar en la formación del pueblo de Dios.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Los libros sapienciales y su enseñanza sobre el carácter, las decisiones y la relación con Dios.",
+    introduction: '''
+La literatura sapiencial del Antiguo Testamento enseña a vivir con discernimiento delante de Dios. Sus textos observan la creación, las relaciones humanas, el trabajo, el habla, la justicia, el sufrimiento y los límites del conocimiento. Proverbios, Job y Eclesiastés ocupan un lugar central, junto con los salmos de sabiduría y otras secciones de la Escritura.
+
+La sabiduría bíblica no es solamente inteligencia práctica ni una técnica para alcanzar prosperidad. Su fundamento es el temor del Señor, es decir, una reverencia obediente que reconoce a Dios como Creador y juez. Los libros sapienciales también muestran que la vida no siempre se ajusta a fórmulas sencillas: el justo puede sufrir y el malvado puede prosperar temporalmente.
+
+El Nuevo Testamento presenta a Cristo como sabiduría de Dios y llama a los creyentes a pedir sabiduría al Señor. Este estudio ofrece un marco para leer los libros sapienciales sin convertir sus proverbios en promesas absolutas ni borrar sus diferencias literarias.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 101. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Sabiduría bíblica es la capacidad de comprender la vida y actuar rectamente a la luz del carácter y la revelación de Dios. No equivale a acumular datos ni a dominar técnicas de éxito. El temor del Señor es su principio y fundamento (Proverbios 1:7; 9:10). La literatura sapiencial utiliza proverbios, poemas, diálogos, lamentos y reflexiones para formar discernimiento.
+
+Un proverbio suele expresar una verdad general observada en la vida, no una garantía mecánica de que cada situación producirá idéntico resultado. Job cuestiona la aplicación simplista de algunas fórmulas; Eclesiastés examina la fugacidad y los límites de la experiencia humana. Leer estos libros exige reconocer su género y propósito.
+''',
+        references: "Proverbios 1:1-7; Job 28:12-28; Santiago 1:5; 3:13-18.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+La sabiduría era valorada en el antiguo Cercano Oriente y existían colecciones de instrucciones y dichos en distintas culturas. Israel compartió formas literarias propias de su entorno, pero su sabiduría está subordinada a la revelación del Dios del pacto. El Señor, y no la habilidad humana, es la fuente última del conocimiento y de la justicia.
+
+Proverbios contiene colecciones atribuidas a Salomón y otros sabios; Job presenta un relato poético y dramático; Eclesiastés reflexiona mediante la voz del Predicador. Los Salmos también incluyen poemas sapienciales, como los Salmos 1, 37, 49 y 73. Las diferencias de forma impiden leer todos estos textos como si fueran una misma clase de sentencia.
+''',
+        references: "Deuteronomio 4:5-8; Proverbios 1–9; Job 1–2; Eclesiastés 1–2.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+El Antiguo Testamento relaciona sabiduría con la creación y con la vida del pacto. Proverbios 8 presenta poéticamente la sabiduría junto a la obra creadora; el pasaje debe interpretarse como poesía personificada y no como una descripción literal de una segunda deidad. Deuteronomio 4:5-8 relaciona la obediencia a la ley con la sabiduría visible ante las naciones.
+
+Los libros sapienciales tratan la justicia, el trabajo, la familia, la amistad, el uso de la lengua, la riqueza y la pobreza. Salmo 111:10 y Proverbios 9:10 vinculan el temor del Señor con el principio de la sabiduría. Job y Eclesiastés impiden reducir esa enseñanza a una explicación superficial de cada experiencia.
+''',
+        references: "Deuteronomio 4:5-8; Salmos 1; 37; 49; 73; Proverbios 1–9; Job 28; Eclesiastés 12.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento exhorta a pedir sabiduría a Dios (Santiago 1:5) y contrasta la sabiduría de arriba con la terrenal (Santiago 3:13-18). Pablo afirma que Cristo es poder y sabiduría de Dios (1 Corintios 1:24, 30), y Colosenses 2:3 declara que en Él están escondidos los tesoros de la sabiduría y del conocimiento.
+
+La enseñanza de Jesús utiliza parábolas, preguntas y contrastes que demandan discernimiento. El Sermón del Monte muestra que la sabiduría no se reduce a oír palabras, sino que implica ponerlas por obra (Mateo 7:24-27). La Iglesia recibe la sabiduría para vivir de manera digna del Señor, no para presumir superioridad intelectual.
+''',
+        references: "1 Corintios 1:18-30; 2:6-16; Colosenses 2:1-3; Santiago 1:5; 3:13-18; Mateo 7:24-27.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Proverbios 1:7 establece el principio del libro: el temor del Señor es el comienzo del conocimiento, mientras el necio desprecia la instrucción. «Principio» indica fundamento y orientación, no una etapa que luego se abandona. El conocimiento bíblico comienza reconociendo la autoridad de Dios.
+
+Santiago 3:13-18 ofrece una prueba práctica de la sabiduría: sus frutos incluyen pureza, paz, amabilidad, misericordia y sinceridad. La sabiduría que produce envidia y rivalidad no procede de arriba. El contraste muestra que la sabiduría bíblica se reconoce tanto por su contenido como por su fruto moral.
+
+Proverbios 26:4-5 presenta dos instrucciones aparentemente opuestas sobre responder al necio. El contexto enseña que la respuesta depende de la situación: a veces responder reproduce la necedad; otras veces el silencio permite que la insensatez quede sin corregir. No es contradicción, sino discernimiento contextual.
+''',
+        references: "Proverbios 1:7; 26:4-5; Santiago 3:13-18.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+La literatura sapiencial debe leerse junto con la ley, los profetas y los relatos históricos. La ley revela la voluntad del pacto; los profetas denuncian injusticia; los sabios enseñan cómo vivir con prudencia en circunstancias ordinarias. Ninguna de estas partes debe utilizarse para anular las demás.
+
+Job corrige la idea de que todo sufrimiento es consecuencia directa de un pecado personal. Eclesiastés recuerda que el ser humano no controla el futuro. Proverbios enseña patrones generales de conducta y consecuencias. Juntos ofrecen una visión equilibrada: Dios gobierna, la conducta importa y la experiencia humana no siempre es fácil de explicar.
+
+El Nuevo Testamento identifica a Cristo como sabiduría de Dios y llama a la comunidad a caminar con discernimiento. La sabiduría cristiana no consiste en especulación secreta, sino en conocer a Dios, obedecer su palabra y amar al prójimo.
+''',
+        references: "Job 1–2; Proverbios 1–31; Eclesiastés 1–12; Salmo 73; Santiago 1:5.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre es la fuente de toda sabiduría y da generosamente a quienes se la piden (Santiago 1:5). El Hijo es presentado como sabiduría de Dios y en Él se revelan los propósitos divinos (1 Corintios 1:24, 30; Colosenses 2:3). El Espíritu Santo produce discernimiento y transforma la conducta del creyente; Pablo contrasta la sabiduría humana con la enseñanza del Espíritu (1 Corintios 2:10-13).
+
+Estas referencias no presentan tres fuentes independientes de sabiduría. La sabiduría pertenece al único Dios, y las Escrituras distinguen al Padre, al Hijo y al Espíritu en la revelación y aplicación de esa sabiduría. Cristo no es el Padre y el Espíritu no es una mera cualidad impersonal: las personas son distintas y comparten la única naturaleza divina.
+''',
+        references: "Santiago 1:5; 1 Corintios 1:24,30; 2:10-13; Colosenses 2:3.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Un proverbio garantiza que siempre ocurrirá lo que describe? No. Proverbios comunica patrones generales de la vida sabia, no contratos mecánicos. Job muestra que el justo puede sufrir y que las explicaciones simplistas pueden ser falsas.
+
+¿La sabiduría humana es mala? No necesariamente. La habilidad y el aprendizaje pueden servir al bien, pero deben someterse al temor del Señor. La Escritura condena la autosuficiencia y la sabiduría orgullosa que se opone a Dios.
+
+¿Proverbios 8 enseña que la sabiduría es una persona divina creada? El pasaje utiliza personificación poética. No debe aislarse para establecer una doctrina sobre la identidad de Cristo; los textos explícitos sobre el Hijo deben estudiarse en su propio contexto.
+
+¿La sabiduría cristiana elimina el sufrimiento? No. Job y Eclesiastés muestran límites humanos y experiencias dolorosas. La sabiduría ayuda a confiar y actuar rectamente, no promete una vida sin dificultades.
+''',
+        references: "Job 1–2; Proverbios 8:22-31; 26:4-5; Eclesiastés 1:12-18.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Dónde comienza la sabiduría? Respuesta: En el temor del Señor, que reconoce su autoridad y conduce a obedecerle (Proverbios 1:7; 9:10).
+
+Pregunta: ¿Cómo se reconoce la sabiduría verdadera? Respuesta: Por su conducta humilde y por frutos de paz, misericordia y justicia (Santiago 3:13-18).
+
+Pregunta: ¿A quién debe pedir sabiduría el creyente? Respuesta: A Dios, quien da generosamente sin reprochar (Santiago 1:5).
+
+Pregunta: ¿Qué lugar tiene Jesucristo? Respuesta: Es la sabiduría y el poder de Dios para los llamados, y en Él están los tesoros de la sabiduría y el conocimiento (1 Corintios 1:24, 30; Colosenses 2:3).
+
+Pregunta: ¿Cómo se aplica la sabiduría? Respuesta: Escuchando y practicando la palabra de Cristo, con una vida que refleje justicia, prudencia y amor (Mateo 7:24-27).
+''',
+        references: "Proverbios 1:7; 9:10; Santiago 1:5; 3:13-18; Mateo 7:24-27.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+La literatura sapiencial forma el carácter y enseña a tomar decisiones delante de Dios. Su centro es el temor del Señor, que no significa terror irracional, sino reverencia obediente. Sus géneros deben respetarse: proverbios, poemas, diálogos y reflexiones no comunican sus enseñanzas de idéntica manera.
+
+Proverbios orienta la vida cotidiana; Job cuestiona las explicaciones simplistas del sufrimiento; Eclesiastés expone los límites de la experiencia humana. El Nuevo Testamento presenta a Cristo como sabiduría de Dios y llama a pedir discernimiento al Padre y a vivir por la obra del Espíritu.
+
+La sabiduría bíblica se demuestra en la humildad, la justicia, la misericordia y la obediencia. No se trata de dominar a otros con conocimiento, sino de aprender a vivir fielmente ante el único Dios.
+''',
+        references: "Proverbios 1:7; Santiago 1:5; 3:13-18; 1 Corintios 1:24,30.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+La literatura sapiencial enseña a vivir delante de Dios con discernimiento. El temor del Señor es su fundamento; la sabiduría se demuestra en decisiones rectas, palabras prudentes y relaciones justas. Sus distintos géneros deben respetarse y sus afirmaciones deben leerse en relación con el conjunto de la Escritura.
+
+Proverbios presenta patrones para la vida, Job cuestiona las explicaciones simplistas del sufrimiento y Eclesiastés recuerda los límites humanos. El Nuevo Testamento identifica a Cristo como sabiduría de Dios y llama a pedir sabiduría al Padre, bajo la obra del Espíritu. La verdadera sabiduría produce humildad, paz, misericordia y obediencia.
+''',
   ),
+
   Study(
     number: '102',
     title: "El libro de Job: sufrimiento, justicia y soberanía de Dios",
-    subtitle: "El argumento literario y teológico de Job, evitando respuestas simplistas al sufrimiento.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "Una lectura contextual del sufrimiento del justo, los límites de las explicaciones humanas y la respuesta divina.",
+    introduction: '''
+El libro de Job aborda una pregunta profunda: ¿cómo comprender el sufrimiento de una persona íntegra cuando las explicaciones habituales no parecen corresponder con su experiencia? El relato presenta a Job como un hombre íntegro que atraviesa pérdidas y aflicción, mientras sus amigos insisten en interpretar su dolor como prueba de culpa personal.
+
+El libro no ofrece una fórmula sencilla para explicar cada sufrimiento. Su prólogo revela al lector un marco que Job y sus amigos desconocen; los diálogos examinan argumentos humanos; y la respuesta de Dios confronta la pretensión de juzgar su gobierno desde un conocimiento limitado. La restauración final no convierte el sufrimiento en algo trivial ni explica todos sus detalles.
+
+La lectura cristiana debe evitar utilizar el libro para acusar a quien sufre o para prometer que toda aflicción terminará con prosperidad inmediata. El Nuevo Testamento presenta a Cristo como el justo que sufrió y llama a perseverar con esperanza, sin atribuir cada dolor a un pecado específico.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 102. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Job es un libro sapiencial presentado en forma de relato y diálogo poético. Su tema incluye el sufrimiento del justo, la integridad, la justicia de Dios, los límites de la sabiduría humana y la respuesta de fe. «Temor de Dios» e «integridad» describen la orientación moral de Job, no una afirmación de que fuera absolutamente impecable.
+
+El libro distingue entre la perspectiva del narrador, los discursos de Job, las intervenciones de sus amigos, las palabras de Eliú y la respuesta del Señor. No todas las afirmaciones pronunciadas por los personajes reciben aprobación divina. El lector debe prestar atención a la evaluación final de Dios sobre los amigos (Job 42:7).
+''',
+        references: "Job 1:1-22; 2:1-13; 28:12-28; 42:1-17; Santiago 5:11.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+Job se ubica en un mundo patriarcal y utiliza referencias a riqueza ganadera, vida familiar, ancianos y sabios. La ubicación exacta y la fecha de composición son debatidas, por lo que no deben afirmarse como datos seguros. El relato se desarrolla en prosa al inicio y al final, mientras la parte central está formada principalmente por poesía y discursos.
+
+La estructura ayuda a seguir el argumento: prólogo (capítulos 1–2), lamentos y diálogos (3–27), himno a la sabiduría (28), defensa de Job (29–31), discursos de Eliú (32–37), respuesta de Dios (38–41) y epílogo (42). Los amigos representan explicaciones tradicionales que no logran comprender el caso concreto de Job.
+''',
+        references: "Job 1–2; 3–27; 28–31; 32–37; 38–42.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Job 1–2 muestra que Job es descrito como íntegro y temeroso de Dios. Las calamidades ocurren en un marco celestial que Job no conoce. Su primera respuesta reconoce la soberanía de Dios, pero el libro no exige que el creyente reprima el lamento; Job expresa después su angustia con profundidad.
+
+Los amigos sostienen que el sufrimiento debe corresponder a una falta moral. Sus argumentos contienen ideas generales sobre justicia y sabiduría, pero las aplican indebidamente al caso de Job. Los Salmos también muestran lamentos de personas fieles que preguntan por la aparente prosperidad de los malvados (Salmo 73).
+
+Job 28 declara que la sabiduría no puede comprarse ni descubrirse por la capacidad humana; el temor del Señor y apartarse del mal es sabiduría. La respuesta de Dios desde el torbellino revela la amplitud de su gobierno sobre la creación.
+''',
+        references: "Job 1–42; Salmos 37; 73; Habacuc 1–3.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+El Nuevo Testamento no elimina la realidad del sufrimiento. Jesús anuncia que sus discípulos enfrentarán tribulación (Juan 16:33) y enseña que algunas desgracias no deben interpretarse automáticamente como castigo por pecados personales (Lucas 13:1-5; Juan 9:1-3). Esta enseñanza armoniza con la crítica de Job a las acusaciones simplistas.
+
+Santiago 5:11 menciona la paciencia de Job y la compasión y misericordia del Señor. Hebreos 12 enseña a perseverar bajo disciplina, pero no autoriza a diagnosticar toda aflicción como corrección por una falta específica. Primera de Pedro 2:19-23 presenta el sufrimiento injusto de Cristo como ejemplo de fidelidad.
+
+La cruz y la resurrección ofrecen esperanza ante el sufrimiento, sin trivializar el dolor presente. Romanos 8:18-39 afirma que la creación gime y que nada puede separar al creyente del amor de Dios en Cristo.
+''',
+        references: "Lucas 13:1-5; Juan 9:1-3; 16:33; Romanos 8:18-39; Santiago 5:11; 1 Pedro 2:19-23.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Job 1:8 y 2:3 contienen la evaluación divina de Job como íntegro y recto. La integridad no significa ausencia absoluta de pecado, sino una vida caracterizada por temor de Dios y rechazo del mal. La narración establece así que el sufrimiento de Job no puede explicarse como castigo directo por una maldad secreta.
+
+En Job 3, Job maldice el día de su nacimiento. Su lamento expresa el peso de su sufrimiento, pero no equivale a una negación final de Dios. Los amigos responden desde una teología rígida: si hay dolor, debe haber culpa. En Job 42:7, Dios declara que ellos no hablaron rectamente acerca de Él como Job. La evaluación divina obliga a revisar sus discursos.
+
+Job 38–41 presenta preguntas sobre la creación y sus criaturas. Dios no ofrece a Job una explicación detallada de la escena celestial; lo confronta con la diferencia entre el conocimiento divino y el humano. Job 42:1-6 responde con humildad. El epílogo restaura su situación, pero no convierte la prosperidad en explicación universal del sufrimiento.
+''',
+        references: "Job 1:8; 2:3; 3; 28; 38–42; Santiago 5:11.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Job debe leerse junto con Génesis, los Salmos, los profetas y la enseñanza de Jesús. Génesis afirma que Dios creó y gobierna; Salmo 73 reconoce la dificultad de comprender la prosperidad de los impíos; Habacuc pregunta por la injusticia; y los lamentos bíblicos muestran que la fe puede expresarse con preguntas sinceras.
+
+Los amigos de Job representan el peligro de aplicar verdades generales sin discernimiento pastoral. Proverbios enseña que la maldad trae consecuencias, pero Job muestra que no toda desgracia puede atribuirse a una falta personal. Lucas 13:1-5 y Juan 9:1-3 refuerzan la cautela frente a esas conclusiones.
+
+La respuesta cristiana mira a Cristo, que sufrió injustamente, y a la esperanza de la resurrección. La soberanía de Dios no significa indiferencia; la cruz muestra que Dios actúa para redimir y acompañar a su pueblo en medio del sufrimiento.
+''',
+        references: "Génesis 1–3; Salmo 73; Habacuc 1–3; Lucas 13:1-5; Juan 9:1-3; Romanos 8:18-39.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El libro de Job habla del Dios único, Creador y soberano, sin desarrollar una formulación explícita de la Trinidad. La lectura trinitaria debe partir de ese testimonio y relacionarlo con la revelación posterior, sin introducir en cada discurso una distinción que el texto no está tratando.
+
+El Nuevo Testamento enseña que el Padre envió al Hijo, que el Hijo sufrió y murió en obediencia, y que el Espíritu fortalece y sostiene a los creyentes. Jesús comparte el sufrimiento humano y revela al Padre; el Espíritu intercede y ayuda en la debilidad (Romanos 8:26-27). Estas acciones muestran distinción personal y unidad en la obra salvadora.
+
+No debe afirmarse que el Padre fue crucificado: el Hijo encarnado padeció realmente. Tampoco debe separarse al Hijo del propósito del Padre ni de la obra del Espíritu. La esperanza del creyente se encuentra en el único Dios que salva y sostiene.
+''',
+        references: "Juan 3:16-17; Romanos 8:26-27, 31-39; 1 Pedro 2:19-23.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Por qué sufrió Job si era íntegro? El prólogo revela un marco que Job desconoce y muestra que su sufrimiento no fue un castigo por una falta secreta. El libro no responde a todas las preguntas sobre el dolor humano.
+
+¿Los amigos dijeron todo falso? No. Algunas de sus afirmaciones generales sobre justicia son verdaderas, pero las aplicaron mal al caso de Job y hablaron injustamente de Dios. El Señor los reprende en Job 42:7.
+
+¿El libro enseña que debemos aceptar el sufrimiento sin lamentarnos? No. Job lamenta, pregunta y expresa su angustia. Los Salmos también contienen lamentos. La fe no exige fingir que el dolor no existe.
+
+¿La restauración final promete que todo creyente recuperará bienes y salud en esta vida? No. El epílogo pertenece a la historia particular de Job y no debe convertirse en una promesa universal de prosperidad inmediata. El Nuevo Testamento sitúa la esperanza última en la resurrección y la nueva creación.
+
+¿Dios explica a Job la causa de su sufrimiento? No de manera directa. La respuesta divina enfatiza la sabiduría y soberanía del Creador, no ofrece al lector una fórmula causal completa.
+''',
+        references: "Job 1–2; 3; 42:7; Lucas 13:1-5; Juan 9:1-3.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Cómo describe Dios a Job? Respuesta: Como íntegro, recto, temeroso de Dios y apartado del mal (Job 1:8; 2:3).
+
+Pregunta: ¿Qué error cometieron sus amigos? Respuesta: Aplicaron una explicación rígida del sufrimiento y acusaron a Job sin fundamento suficiente; Dios los reprendió (Job 42:7-8).
+
+Pregunta: ¿Puede el justo sufrir? Respuesta: Sí. Job y otros textos bíblicos muestran que el sufrimiento no siempre es consecuencia directa de un pecado personal (Juan 9:1-3; 1 Pedro 2:19-23).
+
+Pregunta: ¿Qué enseña Job 28? Respuesta: Que la sabiduría no se compra ni se domina por medios humanos; el temor del Señor y apartarse del mal es sabiduría (Job 28:12-28).
+
+Pregunta: ¿Dónde está la esperanza cristiana? Respuesta: En el amor de Dios manifestado en Cristo, la resurrección y la promesa de que nada separará al creyente de ese amor (Romanos 8:18-39).
+''',
+        references: "Job 1:8; 28:12-28; 42:7-8; Juan 9:1-3; Romanos 8:18-39.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Job enseña a no juzgar apresuradamente a quien sufre. La integridad no garantiza una vida sin dolor, y las explicaciones religiosas pueden convertirse en injusticia cuando se aplican sin escuchar ni comprender. La fe puede lamentar y preguntar, manteniendo la confianza en el carácter de Dios.
+
+La respuesta del Señor recuerda que el conocimiento humano es limitado y que el Creador gobierna realidades que superan nuestra comprensión. El libro no ofrece una fórmula para explicar cada tragedia, pero sí corrige la soberbia y las acusaciones infundadas.
+
+La esperanza cristiana se profundiza en Jesucristo, quien sufrió injustamente y resucitó. El Padre sostiene a su pueblo, el Hijo revela su amor y el Espíritu ayuda en la debilidad. La Iglesia debe acompañar al que sufre con verdad, compasión y humildad.
+''',
+        references: "Job 1–2; 28; 38–42; Romanos 8:18-39; 1 Pedro 2:19-23.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Job muestra que el sufrimiento no siempre puede explicarse como castigo por una falta personal. El relato presenta a un hombre íntegro que padece y a unos amigos que aplican mal verdades generales. Dios reprende sus conclusiones y recuerda que la sabiduría divina supera el conocimiento humano.
+
+El libro permite el lamento y las preguntas, pero llama a abandonar la arrogancia y a confiar en el Creador. Su restauración final no es una garantía de prosperidad inmediata para todos. La esperanza cristiana se fundamenta en Cristo, que sufrió injustamente y resucitó, y en el amor de Dios del cual nada puede separar al creyente.
+''',
   ),
+
   Study(
     number: '103',
     title: "Proverbios: sabiduría práctica para una vida que honra a Dios",
-    subtitle: "La enseñanza proverbial, sus formas literarias y la aplicación responsable de sus dichos.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La formación del carácter, la prudencia y la justicia mediante la enseñanza proverbial.",
+    introduction: '''
+Proverbios reúne enseñanzas breves y discursos extensos que forman al lector en sabiduría, justicia, prudencia y temor del Señor. El libro trata decisiones concretas: cómo hablar, trabajar, administrar recursos, escoger amistades, corregir a los hijos, responder a la ira y actuar con integridad. Su propósito no es ofrecer frases motivacionales aisladas, sino formar una vida que honre a Dios.
+
+Los proverbios describen patrones generales de la vida bajo el gobierno de Dios. No todos deben convertirse en promesas absolutas aplicables mecánicamente a cada caso. Job demuestra que el justo puede sufrir y Eclesiastés examina situaciones que no se resuelven mediante una fórmula simple.
+
+El Nuevo Testamento llama a los creyentes a vivir con sabiduría en Cristo, a escuchar su palabra y ponerla por obra. Este estudio considera el contexto, la estructura y los límites de la literatura proverbial.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 103. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Un proverbio es una sentencia breve que expresa una observación moral o práctica. Puede utilizar contraste, paralelismo, comparación, ironía o imágenes. Su finalidad es instruir y formar discernimiento. La sabiduría del libro está arraigada en el temor del Señor, no en la autosuficiencia humana.
+
+Proverbios incluye dichos, advertencias paternas, poemas sobre la sabiduría, instrucciones sobre el habla y retratos de conducta. La frase proverbial no es siempre una promesa incondicional; suele describir lo que normalmente ocurre cuando se vive de cierta manera. El lector debe considerar género, contexto y relación con el resto de la Escritura.
+''',
+        references: "Proverbios 1:1-7; 3:5-7; 26:4-5; Mateo 7:24-27.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+El libro refleja la tradición de sabiduría de Israel y contiene encabezados que relacionan colecciones con Salomón, los sabios, Agur y Lemuel. Proverbios 1–9 presenta discursos formativos; 10–22:16 contiene una gran colección de dichos; 22:17–24:34 reúne palabras de sabios; capítulos 25–29 incluyen proverbios recopilados por los hombres de Ezequías; capítulos 30–31 contienen otras colecciones y poemas.
+
+La atribución salomónica no significa que cada sección se escribiera en un mismo momento. Los encabezados y la organización muestran una historia de recopilación y transmisión. El libro debe leerse como una obra sapiencial canónica, cuyo mensaje central es formar una vida sabia delante del Señor.
+''',
+        references: "Proverbios 1–31; 1 Reyes 4:29-34; Ezequiel 28:1-5.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Proverbios 1:1-7 presenta propósito y fundamento: conocer sabiduría, justicia y juicio, y recibir instrucción. El temor del Señor es el principio del conocimiento. Proverbios 3:5-7 llama a confiar en el Señor y no apoyarse exclusivamente en la propia prudencia; reconoce a Dios en todos los caminos.
+
+Los capítulos abordan el valor del trabajo diligente, la honestidad, la justicia para el pobre, el control de la lengua y la elección de amistades. Proverbios 11:1 condena la balanza falsa; 14:31 relaciona el trato al pobre con la honra al Creador; 18:21 destaca el peso de la lengua. La sabiduría es ética y relacional, no solamente intelectual.
+''',
+        references: "Deuteronomio 6:4-9; Proverbios 1–31; Salmos 1; 73; Job 1–42; Eclesiastés 1–12.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús enseña con sabiduría y presenta la obediencia como fundamento de una vida estable. Mateo 7:24-27 compara al que oye y practica sus palabras con quien construye sobre roca. Santiago retoma temas sapienciales: el control de la lengua, la parcialidad, la riqueza, la paciencia y la sabiduría que viene de arriba.
+
+Pablo exhorta a andar sabiamente y aprovechar bien el tiempo (Efesios 5:15-17). Colosenses 4:5-6 relaciona la conducta sabia con el trato hacia los de afuera y el habla sazonada con gracia. El Nuevo Testamento no sustituye Proverbios, sino que muestra cómo la sabiduría se vive a la luz de Cristo y del evangelio.
+''',
+        references: "Mateo 7:24-27; 1 Corintios 1:24,30; Efesios 5:15-17; Colosenses 4:5-6; Santiago 1:5; 3:13-18.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Proverbios 1:7 define el principio del conocimiento como temor del Señor. El contraste con el necio establece que el problema no es falta de información, sino rechazo de la instrucción. Proverbios 3:5-7 no prohíbe pensar; prohíbe hacer de la comprensión propia la autoridad final. Confiar en Dios incluye reconocerlo en los caminos y apartarse del mal.
+
+Proverbios 26:4-5 parece ordenar y prohibir responder al necio. La forma paralela invita a discernir el propósito: no responder de manera que uno reproduzca la necedad, pero tampoco permitir que el necio crea que su insensatez es sabiduría. El contexto exige juicio práctico, no aplicación automática.
+
+Proverbios 22:6 se ha interpretado a veces como garantía de que todo hijo criado correctamente nunca se apartará. El género proverbial describe una pauta de formación y sus resultados esperables; no anula la responsabilidad moral ni convierte cada caso familiar en una ecuación infalible.
+''',
+        references: "Proverbios 1:7; 3:5-7; 22:6; 26:4-5.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Proverbios debe relacionarse con la ley, los profetas y los otros libros sapienciales. La ley revela mandamientos; Proverbios enseña a discernir cómo aplicarlos en situaciones comunes. Los profetas denuncian injusticias que también condena la sabiduría: balanzas falsas, explotación y desprecio al pobre.
+
+Job limita una lectura simplista de los proverbios sobre prosperidad y sufrimiento. Eclesiastés recuerda que los resultados no siempre son previsibles y que la muerte alcanza a todos. Salmo 1 presenta dos caminos y coincide con la visión moral de Proverbios, mientras Salmo 73 reconoce la dificultad de observar la prosperidad del malvado.
+
+Cristo es la sabiduría de Dios y el modelo de obediencia. La sabiduría bíblica conduce a una vida que escucha, discierne y practica la verdad con humildad.
+''',
+        references: "Deuteronomio 6:4-9; Salmo 1; 73; Job 1–42; Eclesiastés 1–12; Santiago 3:13-18.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El Padre da sabiduría a quien la pide y dirige a su pueblo por su palabra (Santiago 1:5; Proverbios 2:6). El Hijo es la sabiduría de Dios y enseña con autoridad; sus palabras constituyen el fundamento sobre el que debe edificarse la vida (1 Corintios 1:24, 30; Mateo 7:24-27). El Espíritu Santo produce discernimiento y fruto moral en quienes pertenecen a Cristo (Gálatas 5:22-23; 1 Corintios 2:10-13).
+
+La sabiduría divina no se divide entre tres dioses. El Padre, el Hijo y el Espíritu Santo actúan en la única obra de Dios. La persona del Hijo no se confunde con el Padre, y el Espíritu no es una simple metáfora de la inteligencia. La enseñanza sapiencial alcanza su plenitud cristiana cuando el creyente aprende de Cristo y vive por el Espíritu para la gloria del Padre.
+''',
+        references: "Santiago 1:5; 1 Corintios 1:24,30; 2:10-13; Gálatas 5:22-23.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Proverbios garantiza que el justo siempre prosperará? No. Expone patrones generales de la vida sabia, pero Job y Eclesiastés muestran que la experiencia no siempre sigue una relación inmediata entre conducta y resultado.
+
+¿Proverbios 22:6 asegura que un hijo nunca se apartará? El texto es proverbial y presenta la importancia de la formación temprana; no es una promesa que elimine la libertad y responsabilidad de cada persona.
+
+¿Proverbios 26:4-5 se contradice? No. Las dos instrucciones enseñan que la respuesta al necio depende de la situación y del propósito. A veces responder reproduce la necedad; otras veces es necesario exponerla.
+
+¿La sabiduría es simplemente tener éxito? No. La sabiduría bíblica se mide por temor de Dios, justicia, humildad, dominio de la lengua y misericordia. Una persona puede tener recursos y carecer de sabiduría.
+''',
+        references: "Proverbios 22:6; 26:4-5; Job 1–2; Eclesiastés 1–2.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Cuál es el fundamento del libro? Respuesta: El temor del Señor, que conduce a recibir instrucción y apartarse del mal (Proverbios 1:7; 9:10).
+
+Pregunta: ¿Qué enseña Proverbios 3:5-6? Respuesta: Confiar en el Señor con todo el corazón y reconocerlo en los caminos, sin hacer de la prudencia propia la autoridad suprema.
+
+Pregunta: ¿Qué revela la sabiduría sobre el habla? Respuesta: Que las palabras pueden dar vida o causar daño, por lo que requieren dominio y verdad (Proverbios 12:18; 18:21).
+
+Pregunta: ¿Cómo se relaciona Jesús con la sabiduría? Respuesta: Es la sabiduría de Dios y llama a practicar sus enseñanzas (1 Corintios 1:24, 30; Mateo 7:24-27).
+
+Pregunta: ¿Cómo se reconoce la sabiduría de arriba? Respuesta: Por pureza, paz, amabilidad, misericordia y buenos frutos (Santiago 3:17).
+''',
+        references: "Proverbios 1:7; 3:5-7; 12:18; 18:21; Mateo 7:24-27; Santiago 3:17.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Proverbios llama a vivir con temor del Señor y discernimiento práctico. Su enseñanza abarca trabajo, justicia, relaciones, dinero, palabras y formación del carácter. Los proverbios describen patrones y no deben convertirse en garantías mecánicas; Job y Eclesiastés ayudan a leerlos con equilibrio.
+
+El Nuevo Testamento presenta a Cristo como sabiduría de Dios y exhorta a construir la vida sobre sus palabras. La sabiduría se evidencia en el trato justo al prójimo, el dominio de la lengua, la humildad y la paz. El Padre da sabiduría, el Hijo la revela y el Espíritu produce fruto en la vida del creyente.
+
+La meta no es acumular frases, sino practicar la verdad y honrar a Dios en las decisiones cotidianas.
+''',
+        references: "Proverbios 1:7; 3:5-7; Mateo 7:24-27; Santiago 1:5; 3:17.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Proverbios enseña que la vida sabia comienza con el temor del Señor y se expresa en decisiones concretas. La justicia, el trabajo diligente, la honestidad, el dominio de la lengua y la misericordia son parte de una vida que honra a Dios. El género proverbial comunica patrones, no garantías automáticas para cada circunstancia.
+
+Job y Eclesiastés equilibran una lectura simplista de la prosperidad, y el Nuevo Testamento presenta a Cristo como sabiduría de Dios. El creyente escucha y practica sus palabras, pide sabiduría al Padre y manifiesta el fruto del Espíritu. La enseñanza debe transformar el carácter y las relaciones, no quedarse en frases memorizadas.
+''',
   ),
+
   Study(
     number: '104',
     title: "Eclesiastés: la vida, la muerte y el sentido de la existencia delante de Dios",
-    subtitle: "La reflexión de Eclesiastés sobre la vanidad, los límites humanos y el temor de Dios.",
-    introduction: "ESTRUCTURA PREPARADA — CONTENIDO PENDIENTE. Este tema forma parte del plan de estudios 91–150 de La Sana Doctrina. Se desarrollará sin repetir los estudios anteriores, examinando cada pasaje en su contexto histórico y literario, relacionándolo con el resto de las Escrituras y atendiendo las aparentes contradicciones. La perspectiva trinitaria distinguirá al Padre, al Hijo y al Espíritu Santo sin confundir sus personas ni dividir la esencia del único Dios.",
+    subtitle: "La fugacidad de la vida, los límites humanos y el llamado a temer a Dios.",
+    introduction: '''
+Eclesiastés examina la vida humana «debajo del sol»: el trabajo, el placer, la riqueza, la sabiduría, el tiempo, la injusticia y la muerte. El Predicador observa que los logros no pueden garantizar sentido permanente y que el ser humano no controla el futuro. Su reflexión no es una invitación al nihilismo, sino una confrontación con la fragilidad de la existencia cuando se pretende encontrar seguridad absoluta en lo temporal.
+
+El libro utiliza observación, preguntas, contrastes y conclusiones que deben leerse dentro de su argumento completo. Algunas frases describen la experiencia limitada del ser humano, no una declaración final de toda la teología bíblica. El cierre llama a temer a Dios y guardar sus mandamientos, porque Él juzgará toda obra.
+
+La esperanza cristiana no niega la fugacidad de la vida presente; la sitúa ante la resurrección y el juicio de Dios. En Cristo, el trabajo y la vida cotidiana pueden vivirse con gratitud, responsabilidad y esperanza.
+''',
     sections: [
-      StudySection(title: "1. Delimitación del tema y definición de conceptos", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "2. Contexto histórico, cultural y literario", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "3. Fundamento y desarrollo en el Antiguo Testamento", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "4. Enseñanza y desarrollo en el Nuevo Testamento", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "5. Análisis exegético de los pasajes principales", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "6. Relación con el conjunto de las Escrituras y textos relacionados", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "9. Preguntas y respuestas fundamentadas bíblicamente", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
-      StudySection(title: "10. Aplicación, síntesis doctrinal y conclusión", content: "Sección preparada para desarrollar el estudio 104. El contenido se redactará en su etapa correspondiente mediante análisis del contexto, comparación de pasajes y explicación bíblica; no se añadirá contenido doctrinal provisional.", references: "Referencias bíblicas pendientes de selección y análisis contextual."),
+      StudySection(
+        title: "1. Delimitación del tema y definición de conceptos",
+        content: '''
+Eclesiastés es literatura sapiencial y reflexiva. La expresión «vanidad» traduce una palabra hebrea que puede evocar vapor, aliento o fugacidad. El Predicador no afirma que todo carezca de valor en sentido absoluto; muestra que la vida temporal es transitoria y no puede sostener el peso de una esperanza eterna por sí sola.
+
+«Debajo del sol» describe repetidamente la perspectiva de la existencia humana en el mundo presente. El libro examina los límites de la sabiduría, el placer, el trabajo y la riqueza. Su conclusión llama a temer a Dios y guardar sus mandamientos, evitando leer frases aisladas como si fueran el mensaje completo.
+''',
+        references: "Eclesiastés 1:1-11; 3:1-15; 12:13-14; 1 Corintios 15:20-58.",
+      ),
+      StudySection(
+        title: "2. Contexto histórico, cultural y literario",
+        content: '''
+El libro se presenta como palabras del Predicador, hijo de David y rey en Jerusalén. La identificación histórica precisa y la fecha de composición son debatidas; no deben afirmarse detalles no establecidos por el texto. La obra pertenece a la tradición sapiencial y utiliza un lenguaje reflexivo, a veces irónico y provocador.
+
+Su estructura incluye el tema de la fugacidad, observaciones sobre trabajo y placer, reflexiones sobre el tiempo y la injusticia, consejos para vivir con prudencia y una conclusión sobre el temor de Dios. El lector debe reconocer los cambios de voz y las observaciones que describen lo que sucede en la experiencia humana sin convertir cada frase en una norma moral.
+''',
+        references: "Eclesiastés 1–12; Génesis 1–3; contexto sapiencial de Israel.",
+      ),
+      StudySection(
+        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
+        content: '''
+Eclesiastés 1–2 examina la repetición de los ciclos, el conocimiento, el placer y las obras humanas. El Predicador descubre que la acumulación de logros no puede vencer la muerte ni asegurar permanencia. Eclesiastés 3 presenta los tiempos y temporadas, y afirma que Dios ha puesto eternidad en el corazón humano, aunque el ser humano no puede comprender toda su obra.
+
+Los capítulos 4–6 observan opresión, rivalidad, soledad, culto, riqueza y la incapacidad de controlar el resultado. Eclesiastés 7–11 ofrece consejos de sabiduría ante la incertidumbre. El capítulo 12 recuerda al Creador antes de la vejez y la muerte, y concluye con el deber de temer a Dios y guardar sus mandamientos.
+''',
+        references: "Génesis 1–3; Salmos 90; 104; Proverbios 1–9; Eclesiastés 1–12.",
+      ),
+      StudySection(
+        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
+        content: '''
+Jesús enseña que la vida de una persona no consiste en la abundancia de sus bienes (Lucas 12:15-21), una verdad cercana a la crítica de Eclesiastés a la acumulación que no puede asegurar el futuro. El Nuevo Testamento afirma que la muerte será vencida mediante la resurrección de Cristo (1 Corintios 15:20-26, 54-58).
+
+Pablo enseña que el trabajo en el Señor no es en vano (1 Corintios 15:58), lo que no contradice la observación de Eclesiastés sobre la fugacidad de los logros humanos. La esperanza cristiana cambia el horizonte: la labor presente no garantiza inmortalidad, pero puede realizarse en fidelidad a Dios y a la luz de la resurrección.
+
+Santiago 4:13-16 recuerda que la vida es como neblina y que los planes deben someterse a la voluntad del Señor. Esta enseñanza coincide con la humildad de Eclesiastés ante el tiempo y el futuro.
+''',
+        references: "Lucas 12:15-21; Juan 5:21-27; Romanos 8:11; 1 Corintios 15:20-58; Santiago 4:13-16.",
+      ),
+      StudySection(
+        title: "5. Análisis exegético de los pasajes principales",
+        content: '''
+Eclesiastés 1:2 introduce la palabra clave «vanidad de vanidades». La repetición intensifica la idea de fugacidad y frustración. No debe leerse aislada del libro ni como una negación de que la creación sea buena. El argumento se dirige a la incapacidad de los logros temporales para ofrecer sentido definitivo.
+
+Eclesiastés 3:1-8 presenta un poema sobre los tiempos de la vida. No ordena moralmente cada acontecimiento mencionado; describe la variedad de experiencias humanas. En 3:11, el texto afirma que Dios hizo todo apropiado a su tiempo, pero el ser humano no puede abarcar la obra divina desde el principio hasta el fin.
+
+Eclesiastés 12:13-14 ofrece la conclusión interpretativa: temer a Dios y guardar sus mandamientos, porque toda obra será juzgada. Por ello, las observaciones pesimistas no son el último mensaje del libro. La vida debe vivirse con reverencia y responsabilidad delante del Creador.
+''',
+        references: "Eclesiastés 1:2-3; 3:1-11; 12:13-14.",
+      ),
+      StudySection(
+        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
+        content: '''
+Eclesiastés debe relacionarse con Génesis, Job, Proverbios, los Salmos y los profetas. Génesis presenta la creación como obra de Dios y la muerte como consecuencia de la caída; Job trata la limitación humana ante el sufrimiento; Proverbios enseña caminos de sabiduría; los Salmos llaman a contar nuestros días y confiar en el Señor.
+
+El libro no niega el valor de la sabiduría ni de la alegría; enseña a recibir los bienes como dones de Dios sin convertirlos en fundamento último. La gratitud por el alimento, el trabajo y la compañía aparece como parte de la vida responsable. El Nuevo Testamento añade la esperanza de la resurrección y la renovación de la creación.
+
+La aparente tensión entre «todo es vanidad» y «goza del bien de tu trabajo» se resuelve al reconocer el énfasis: los bienes son buenos como dones temporales, pero no pueden vencer la muerte ni sustituir a Dios.
+''',
+        references: "Génesis 1–3; Job 1–42; Proverbios 1–31; Salmo 90; 1 Corintios 15.",
+      ),
+      StudySection(
+        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
+        content: '''
+El libro de Eclesiastés habla de Dios como Creador, dador de los bienes y juez de toda obra. La lectura trinitaria debe ser responsable: el libro no formula explícitamente la distinción entre Padre, Hijo y Espíritu Santo, por lo que no se debe forzar cada referencia a Dios como si nombrara directamente a una persona específica.
+
+La revelación del Nuevo Testamento muestra al Padre como aquel que da vida y juzga por medio del Hijo; Jesucristo resucitado vence la muerte y garantiza la resurrección; el Espíritu da vida y fortalece a los creyentes. La obra salvadora es del único Dios, con distinción personal (Juan 5:21-27; Romanos 8:11).
+
+La esperanza cristiana no es un escape de la creación, sino la vida eterna en comunión con Dios. El Hijo no es el Padre y el Espíritu no es una fuerza creada; la fe trinitaria reconoce la acción del único Dios en la redención.
+''',
+        references: "Juan 5:21-27; Romanos 8:11; 1 Corintios 15:20-58.",
+      ),
+      StudySection(
+        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
+        content: '''
+¿Eclesiastés enseña que nada tiene sentido? El libro denuncia que los logros temporales no pueden dar sentido eterno ni vencer la muerte. Su conclusión llama a temer a Dios y guardar sus mandamientos.
+
+¿El Predicador promueve el placer sin límites? No. Invita a recibir con gratitud los bienes cotidianos como dones de Dios, pero advierte contra convertirlos en seguridad o propósito último.
+
+¿Eclesiastés contradice Proverbios? No. Proverbios describe patrones de la vida sabia; Eclesiastés observa que la experiencia puede ser compleja y que el resultado no siempre es previsible. Ambos llaman a temer a Dios.
+
+¿La muerte hace inútil todo trabajo? El libro señala que la muerte limita los logros humanos. El Nuevo Testamento afirma que el trabajo hecho en el Señor no es en vano por la esperanza de la resurrección (1 Corintios 15:58).
+
+¿Eclesiastés enseña que no existe vida después de la muerte? El libro expresa la perspectiva humana y la limitación de lo que se observa «debajo del sol». Su conclusión habla del juicio de Dios; la revelación posterior desarrolla la resurrección y la vida eterna.
+''',
+        references: "Eclesiastés 1:2; 2:24-26; 3:1-11; 12:13-14; 1 Corintios 15:58.",
+      ),
+      StudySection(
+        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
+        content: '''
+Pregunta: ¿Qué significa «vanidad»? Respuesta: Describe lo fugaz y pasajero de la existencia, y la incapacidad de los logros temporales para ofrecer seguridad definitiva (Eclesiastés 1:2-3).
+
+Pregunta: ¿Qué enseña Eclesiastés 3? Respuesta: Que la vida tiene tiempos y temporadas bajo el gobierno de Dios, aunque el ser humano no puede comprender toda su obra (Eclesiastés 3:1-11).
+
+Pregunta: ¿Es incorrecto disfrutar de los bienes cotidianos? Respuesta: No. El Predicador los presenta como dones que deben recibirse con gratitud, sin convertirlos en ídolos (Eclesiastés 2:24-26; 5:18-20).
+
+Pregunta: ¿Cuál es la conclusión del libro? Respuesta: Temer a Dios y guardar sus mandamientos, porque toda obra será juzgada (Eclesiastés 12:13-14).
+
+Pregunta: ¿Qué esperanza aporta Cristo? Respuesta: Su resurrección garantiza la victoria final sobre la muerte y da sentido al trabajo fiel en el Señor (1 Corintios 15:20-26, 54-58).
+''',
+        references: "Eclesiastés 1:2-3; 3:1-11; 5:18-20; 12:13-14; 1 Corintios 15:20-58.",
+      ),
+      StudySection(
+        title: "10. Aplicación, síntesis doctrinal y conclusión",
+        content: '''
+Eclesiastés confronta la ilusión de que el trabajo, la riqueza, el placer o el conocimiento pueden asegurar una existencia permanente. La vida es frágil y el ser humano no controla el tiempo ni conoce todos los caminos de Dios. Sin embargo, el libro no recomienda desesperación: llama a recibir con gratitud los bienes cotidianos y a vivir en temor del Señor.
+
+El cierre del libro orienta la vida hacia la responsabilidad delante de Dios, quien juzgará toda obra. El Nuevo Testamento amplía la esperanza mediante la resurrección de Jesucristo. Por eso, el creyente puede trabajar, servir y disfrutar los dones de Dios sin convertirlos en su fundamento último.
+
+El Padre es el Creador y juez, el Hijo vence la muerte y el Espíritu da vida. La respuesta sabia es vivir hoy con gratitud, fidelidad y esperanza eterna.
+''',
+        references: "Eclesiastés 12:13-14; Lucas 12:15-21; 1 Corintios 15:20-58; Santiago 4:13-16.",
+      ),
     ],
-    conclusion: "Pendiente de redacción después del desarrollo y revisión bíblica de todas las secciones.",
+    conclusion: '''
+Eclesiastés enseña que la vida presente es fugaz y que los logros humanos no pueden vencer la muerte ni controlar el futuro. El libro invita a recibir los bienes cotidianos como dones de Dios, pero rechaza convertirlos en fundamento último. Su conclusión llama a temer a Dios y guardar sus mandamientos, porque toda obra será juzgada.
+
+La esperanza cristiana no niega la fragilidad humana; se apoya en la resurrección de Jesucristo. Por Él, el trabajo fiel no es en vano y la muerte no tiene la última palabra. El Padre da vida, el Hijo vence la muerte y el Espíritu vivifica. La sabiduría consiste en vivir con gratitud, responsabilidad y esperanza.
+''',
   ),
+
   Study(
     number: '105',
     title: "Los profetas de Israel: llamado, mensaje y responsabilidad del mensajero",
