@@ -20,7 +20,9 @@ class BookmarkStore {
   }
   static Future<void> toggleStudy(String id) async {
     final next = Set<String>.from(savedStudyIds.value);
-    if (!next.add(id)) next.remove(id);
+    if (!next.add(id)) {
+      next.remove(id);
+    }
     savedStudyIds.value = next;
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -49,10 +51,34 @@ secondary: gold,
 surface: const Color(0xFFF7F5F0),
 ),
 scaffoldBackgroundColor: const Color(0xFFF7F5F0),
+cardColor: Colors.white,
+inputDecorationTheme: InputDecorationTheme(
+  filled: true,
+  fillColor: Colors.white,
+  contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
+  border: OutlineInputBorder(
+    borderRadius: BorderRadius.circular(14),
+    borderSide: BorderSide.none,
+  ),
+),
+filledButtonTheme: FilledButtonThemeData(
+  style: FilledButton.styleFrom(
+    backgroundColor: navy,
+    foregroundColor: Colors.white,
+    padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 14),
+    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+  ),
+),
+navigationBarTheme: const NavigationBarThemeData(
+  backgroundColor: Colors.white,
+  indicatorColor: Color(0xFFE9DFC8),
+),
 appBarTheme: const AppBarTheme(
-backgroundColor: navy,
-foregroundColor: Colors.white,
-centerTitle: false,
+  backgroundColor: navy,
+  foregroundColor: Colors.white,
+  centerTitle: false,
+  elevation: 0,
+  scrolledUnderElevation: 0,
 ),
 ),
 home: const HomeScreen(),
@@ -21619,11 +21645,7 @@ Study(
           },
         )),
     ]);
-  },
-),
-),
-],
-);
+
 }
 }
 
@@ -22007,7 +22029,8 @@ class _QuizPageState extends State<QuizPage> {
           TextButton(onPressed:()=>Navigator.pop(context),child:const Text('Volver a cuestionarios')),
         ]))));
     }
-    final q=CuestionariosTab.questions[index], correct=selected==q.correctIndex;
+    final q = CuestionariosTab.questions[index];
+    final correct = selected == q.correctIndex;
     return Scaffold(appBar:AppBar(title:const Text('Evaluación bíblica')),
       body:SafeArea(child:Column(children:[
         LinearProgressIndicator(value:(index+1)/CuestionariosTab.questions.length,minHeight:5,
@@ -22114,12 +22137,6 @@ style: const TextStyle(
 fontSize: 19,
 fontWeight: FontWeight.bold,
 ),
-);
-}
-
-void _showComingSoon(BuildContext context, String feature) {
-ScaffoldMessenger.of(context).showSnackBar(
-SnackBar(content: Text('$feature: módulo en desarrollo.')),
 );
 }
 
