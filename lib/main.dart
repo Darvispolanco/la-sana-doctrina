@@ -20112,271 +20112,89 @@ Comprender la historia del canon fortalece una confianza informada y ayuda a res
     ],
     conclusion: '''La historia del canon muestra cómo el pueblo de Dios recibió, conservó y reconoció los escritos inspirados. La Iglesia no crea la autoridad de la Escritura, sino que la reconoce y la transmite. Comprender el proceso histórico fortalece una confianza informada, ayuda a responder preguntas con precisión y mantiene la enseñanza centrada en Jesucristo.''',
   ),
-number: '111',
+  Study(
+    number: '111',
     title: "La transmisión del texto bíblico: manuscritos, copias y preservación",
-    subtitle: "Cómo se copiaron, conservaron y compararon los textos de la Biblia a través de la historia.",
-    introduction: '''
-La transmisión del texto bíblico estudia cómo los escritos inspirados fueron copiados, conservados y transmitidos a lo largo de generaciones. Los manuscritos antiguos presentan variantes de copia, como ocurre con cualquier tradición textual extensa. La crítica textual compara testimonios manuscritos, versiones antiguas y citas para establecer con la mayor precisión posible el texto que se encontraba en los ejemplares más antiguos recuperables.
+    subtitle: "Cómo se copiaron, compararon y tradujeron las Escrituras a través de los siglos.",
+    introduction: '''La transmisión del texto bíblico estudia cómo los escritos fueron copiados, preservados, recopilados y traducidos a lo largo de la historia. Debe distinguirse de la inspiración, que se refiere al origen divino de las Escrituras, y de la canonización, que trata del reconocimiento de los libros que forman la Biblia.
 
-La existencia de variantes no significa que el mensaje bíblico haya desaparecido ni que todas las lecturas tengan el mismo peso. La mayoría son diferencias ortográficas o de forma; algunas afectan palabras o frases y deben analizarse con métodos transparentes. Las traducciones modernas y las ediciones críticas suelen indicar los casos relevantes.
-
-Este estudio distingue inspiración, preservación, copia y traducción. La confianza cristiana no requiere negar la historia material de los manuscritos, sino reconocer que Dios ha preservado su Palabra mediante una transmisión histórica examinable.
-''',
+Los manuscritos antiguos muestran variantes de copia. La crítica textual compara los testimonios para evaluar las lecturas y comprender la historia de transmisión, sin ocultar las dificultades ni exagerar sus consecuencias.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Manuscrito es un documento escrito a mano. Testigo textual es un manuscrito, versión antigua o cita que conserva una forma del texto. Variante textual es una diferencia entre testimonios. Crítica textual es la disciplina que compara esos testigos para evaluar cuál lectura explica mejor las demás.
+      StudySection(title: "1. Delimitación: inspiración, transmisión y traducción", content: '''La transmisión del texto bíblico estudia cómo los escritos fueron copiados, preservados, recopilados y traducidos a lo largo de la historia. Debe distinguirse de la inspiración, que se refiere al origen divino de las Escrituras, y de la canonización, que trata del reconocimiento de los libros que forman la Biblia.
 
-Inspiración se refiere al origen divino de los escritos originales; preservación describe su conservación a través de la historia; traducción es la transferencia del sentido a otra lengua. No deben confundirse estos procesos. Una variante de copia no significa automáticamente una alteración doctrinal ni que la Escritura carezca de autoridad.
-''',
-        references: "Jeremías 36:1-32; Lucas 1:1-4; 2 Pedro 1:20-21; 3:15-16.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los textos del Antiguo Testamento se copiaron en rollos y códices. Los manuscritos del mar Muerto, descubiertos en el siglo XX, aportaron testimonios antiguos de numerosos libros hebreos y permitieron comparar tradiciones textuales con manuscritos medievales. La tradición masorética conservó el texto hebreo con sistemas de vocalización y notas.
+Los manuscritos antiguos muestran variantes de copia, como diferencias ortográficas, omisiones, repeticiones o cambios de orden. La existencia de variantes no implica que el mensaje bíblico sea irrecuperable; la crítica textual compara los testimonios para evaluar la lectura más probable.''', references: "2 Timoteo 3:16-17; 2 Pedro 1:20-21; Lucas 1:1-4."),
+      StudySection(title: "2. Los materiales y las formas de los manuscritos", content: '''Los textos bíblicos antiguos se copiaron en materiales como papiro y pergamino. En el mundo grecorromano se utilizaron rollos y posteriormente códices. Los manuscritos podían escribirse en columnas, con abreviaturas y convenciones propias de cada época.
 
-El Nuevo Testamento fue copiado en papiros y pergaminos, en códices y posteriormente en manuscritos minúsculos. Las iglesias utilizaron también traducciones antiguas, como la Septuaginta y versiones latinas, siríacas y coptas. La multiplicidad de testigos permite comparar lecturas y rastrear la historia de transmisión.
-''',
-        references: "Manuscritos del mar Muerto; tradición masorética; papiros y códices del Nuevo Testamento; versiones antiguas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento muestra preocupación por conservar y leer la ley (Deuteronomio 31:24-26; Josué 1:8). Esdras es presentado como escriba diligente en la ley de Moisés (Esdras 7:6,10). Los escribas tenían responsabilidades de copiar y enseñar los textos.
+Conocer estos materiales ayuda a comprender la historia de la transmisión, pero no debe llevar a afirmar detalles no documentados sobre un manuscrito particular. La evidencia física se estudia mediante paleografía, codicología y comparación textual.''', references: "Jeremías 36:1-32; Lucas 1:1-4; 2 Timoteo 4:13."),
+      StudySection(title: "3. La transmisión del Antiguo Testamento", content: '''El texto hebreo fue copiado y conservado por escribas judíos a lo largo de generaciones. Los manuscritos del mar Muerto, los códices medievales y las traducciones antiguas permiten comparar formas del texto y estudiar su transmisión.
 
-Los Salmos celebran la permanencia de la palabra de Dios (Salmo 119:89, 160), pero estas afirmaciones teológicas no describen un método técnico de copia sin errores humanos. La historia bíblica muestra transmisión, lectura pública y cuidado por el contenido recibido. La confianza en la preservación divina puede convivir con el estudio de las variantes manuscritas.
-''',
-        references: "Deuteronomio 31:24-26; Esdras 7:6,10; Salmo 119:89,160; Jeremías 36.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Jesús y los apóstoles citaron las Escrituras de Israel, a veces siguiendo formas de la Septuaginta. Los escritos apostólicos fueron copiados y distribuidos entre iglesias (Colosenses 4:16; 1 Tesalonicenses 5:27). Segunda de Pedro 3:15-16 reconoce las cartas de Pablo como textos de autoridad y advierte contra su distorsión.
+La tradición masorética preservó cuidadosamente consonantes, vocales y notas de lectura. Los testimonios antiguos muestran tanto estabilidad sustancial como variantes en ciertos pasajes. Una evaluación rigurosa considera la fecha, calidad y relación de los testigos sin asumir que un manuscrito aislado resuelve toda cuestión.''', references: "Deuteronomio 31:24-26; Salmo 119:89; Isaías 40:8; Romanos 3:2."),
+      StudySection(title: "4. La Septuaginta y otras traducciones antiguas", content: '''La Septuaginta es una traducción griega de las Escrituras hebreas realizada en etapas durante el período anterior al cristianismo. Fue ampliamente utilizada en comunidades judías de lengua griega y aparece como trasfondo de muchas citas del Nuevo Testamento.
 
-El Nuevo Testamento no ofrece un catálogo de todos los manuscritos futuros, pero sí muestra que los escritos eran leídos, compartidos y reconocidos. La transmisión textual posterior se puede estudiar mediante papiros, códices, versiones antiguas y citas patrísticas. La existencia de variantes es una consecuencia esperable de la copia manual a gran escala.
-''',
-        references: "Lucas 1:1-4; Colosenses 4:16; 1 Tesalonicenses 5:27; 2 Pedro 3:15-16.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-En Jeremías 36, el rollo de las palabras proféticas es destruido por el rey, y Jeremías recibe la orden de escribir nuevamente las palabras. El relato no describe la transmisión completa de la Biblia, pero muestra la continuidad del mensaje profético aun cuando un ejemplar material fue destruido.
+También existieron traducciones antiguas al arameo, siríaco, latín y otras lenguas. Estas versiones son testigos importantes para la historia textual, pero una traducción no sustituye automáticamente a los manuscritos en sus idiomas originales. Cada versión debe analizarse según su fecha y método.''', references: "Lucas 4:16-21; Hechos 8:26-35; Romanos 3:2."),
+      StudySection(title: "5. La transmisión del Nuevo Testamento", content: '''Los escritos del Nuevo Testamento circularon entre iglesias y fueron copiados para su lectura y enseñanza. Las cartas podían compartirse entre congregaciones y los evangelios se difundieron ampliamente. Con el tiempo se conservaron manuscritos en papiro, pergamino y códices.
 
-Lucas 1:1-4 explica que el evangelista investigó cuidadosamente los testimonios para escribir un relato ordenado. Colosenses 4:16 manda intercambiar cartas entre congregaciones. Estos textos muestran circulación y uso de escritos, no una preservación automática sin intervención humana.
+La cantidad y diversidad de los testimonios permiten comparar lecturas. Algunas variantes son triviales; otras afectan frases o pasajes de mayor extensión y requieren evaluación cuidadosa. La existencia de diferencias no debe ocultarse ni exagerarse: se examinan mediante evidencia documental y criterios textuales.''', references: "Colosenses 4:16; 1 Tesalonicenses 5:27; 2 Pedro 3:15-16."),
+      StudySection(title: "6. Cómo funciona la crítica textual", content: '''La crítica textual compara manuscritos, versiones antiguas y citas patrísticas para determinar qué lectura explica mejor las variantes existentes. Se consideran tanto evidencias externas —antigüedad, distribución y calidad de los testigos— como internas —qué lectura explica mejor el origen de las demás y cuál encaja con el estilo del autor.
 
-Las variantes deben evaluarse por antigüedad, distribución geográfica, relación entre manuscritos, dificultad de lectura y hábitos de los copistas. Ningún criterio aislado resuelve todos los casos. La decisión debe considerar el conjunto de evidencia, y las ediciones críticas muestran dónde existen lecturas alternativas.
-''',
-        references: "Jeremías 36:1-32; Lucas 1:1-4; Colosenses 4:16.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La transmisión del texto se relaciona con la inspiración y la autoridad de la Escritura, pero no debe confundirse con ellas. El hecho de que los manuscritos contengan variantes no invalida la inspiración de los escritos originales ni significa que el contenido central dependa de una conjetura arbitraria.
+Ningún criterio aislado resuelve todos los casos. Una lectura más antigua no siempre es automáticamente correcta, y una lectura más difícil no debe preferirse sin examen. El trabajo académico registra las variantes relevantes y justifica las decisiones.''', references: "Lucas 1:1-4; Juan 7:53–8:11; Marcos 16:9-20."),
+      StudySection(title: "7. Variantes conocidas y transparencia académica", content: '''Algunas ediciones modernas señalan pasajes cuya presencia o forma varía entre manuscritos, como el final largo de Marcos y el relato de la mujer sorprendida en adulterio. Las notas de las Biblias informan al lector sobre estas cuestiones.
 
-La comparación de testigos permite detectar errores de copia y recuperar lecturas antiguas con alto grado de confianza. Cuando una variante es relevante, debe reconocerse en lugar de ocultarse. La traducción también requiere decisiones: ninguna versión agota todos los matices del idioma original, por lo que el estudio serio consulta notas y herramientas confiables.
+Reconocer una variante no significa declarar falso todo el pasaje ni ocultar la evidencia. Se debe distinguir entre el texto mejor atestiguado, la historia de recepción del pasaje y su uso posterior en la Iglesia. Las doctrinas centrales no dependen de una única variante textual discutida.''', references: "Marcos 16:9-20; Juan 7:53–8:11; notas de ediciones críticas del Nuevo Testamento."),
+      StudySection(title: "8. Traducción y equivalencia", content: '''Traducir la Biblia requiere decisiones entre correspondencia formal, claridad idiomática y equivalencia de sentido. Ninguna traducción reproduce todos los matices del idioma original en cada frase. Por eso, comparar versiones puede ayudar, siempre que el lector no confunda diferencias de estilo con contradicciones doctrinales.
 
-La preservación bíblica se aprecia en la abundancia y diversidad de testigos antiguos. La fe no debe basarse en afirmaciones exageradas de que nunca existió una variante, sino en la fidelidad de Dios y en la evidencia histórica disponible.
-''',
-        references: "Deuteronomio 31:24-26; Salmo 119:89,160; Jeremías 36; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el Dios que habla y conserva su propósito; el Hijo es la Palabra encarnada y el centro de la revelación; el Espíritu Santo inspiró a los autores bíblicos. Segunda de Pedro 1:20-21 relaciona la profecía con hombres impulsados por el Espíritu Santo, y Juan 16:13-15 presenta al Espíritu guiando a los discípulos a la verdad y glorificando al Hijo.
+La Reina-Valera 1960 es la versión principal de este proyecto, pero el estudio de términos importantes puede beneficiarse de consultar otras traducciones y herramientas lingüísticas fiables. La traducción debe comunicar el sentido del texto y no imponer una doctrina ajena.''', references: "Nehemías 8:8; Lucas 24:27; 1 Corintios 14:9-12."),
+      StudySection(title: "9. Preguntas difíciles y perspectiva de la providencia", content: '''¿Las variantes destruyen la confianza en la Biblia? No; permiten estudiar la historia real de la copia y comparar testigos. ¿Existe un manuscrito original completo de cada libro? No se conservan los autógrafos; el texto se reconstruye mediante los testimonios disponibles. ¿Una traducción es idéntica al original en cada matiz? No; por eso es útil comparar versiones.
 
-La doctrina trinitaria no depende de una variante textual aislada. Se fundamenta en el testimonio amplio y estable de las Escrituras sobre el único Dios y la distinción entre Padre, Hijo y Espíritu. Los pasajes con variantes deben estudiarse con transparencia y sin utilizar una lectura discutida como único apoyo de una doctrina central.
+La providencia de Dios y el trabajo humano de copistas no deben confundirse. La fe en la preservación no exige negar errores de copistas ni afirmar que cada copia fue perfecta. La doctrina debe formularse con cuidado y con respeto por la evidencia.''', references: "Isaías 40:8; Mateo 5:18; 2 Timoteo 3:16-17; 1 Pedro 1:24-25."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''El estudio de la transmisión bíblica fortalece una confianza informada y evita tanto el sensacionalismo como la negación de las dificultades. La Iglesia debe utilizar ediciones responsables, consultar notas textuales cuando sea necesario y enseñar con transparencia.
 
-La preservación de la Palabra forma parte de la providencia de Dios, realizada mediante procesos históricos y humanos. La Iglesia recibe la Escritura con gratitud, la estudia y la transmite fielmente.
-''',
-        references: "Juan 16:13-15; 2 Pedro 1:20-21; Hebreos 1:1-2.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿Las variantes manuscritas prueban que la Biblia fue corrompida? No. Demuestran que los copistas produjeron diferencias que pueden estudiarse comparando los testigos. La existencia de variantes no equivale a que el texto completo sea irrecuperable.
-
-¿Todas las variantes tienen la misma importancia? No. Muchas son ortográficas o menores; otras afectan frases y requieren evaluación. Debe consultarse el aparato crítico y las notas de las ediciones responsables.
-
-¿La crítica textual es enemiga de la fe? No. Es una disciplina que examina evidencia histórica. Negar las variantes conocidas no fortalece la confianza; la transparencia permite comprender mejor la transmisión.
-
-¿Una traducción es idéntica al manuscrito original? No. Toda traducción implica decisiones lingüísticas. Por eso conviene identificar la versión utilizada y consultar otras traducciones cuando una cuestión depende de un matiz.
-
-¿Una variante discutida puede sostener por sí sola la Trinidad? No debería. La doctrina debe fundamentarse en el conjunto del testimonio bíblico, no en un único pasaje textualmente debatido.
-''',
-        references: "Jeremías 36; Lucas 1:1-4; 2 Pedro 3:15-16.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué es una variante textual? Respuesta: Una diferencia de lectura entre manuscritos u otros testigos del texto.
-
-Pregunta: ¿Cómo se decide entre variantes? Respuesta: Comparando antigüedad, distribución, calidad de los testigos y explicación de cómo surgieron las lecturas.
-
-Pregunta: ¿Qué aportaron los manuscritos del mar Muerto? Respuesta: Testimonios antiguos de textos del Antiguo Testamento que permiten comparar la transmisión hebrea.
-
-Pregunta: ¿Por qué existen varias traducciones? Respuesta: Porque traducir exige decisiones lingüísticas y cada versión puede priorizar equivalencia formal o claridad de lectura.
-
-Pregunta: ¿La existencia de variantes destruye la confianza bíblica? Respuesta: No. La transmisión es examinable y el mensaje bíblico cuenta con numerosos testigos. La confianza debe ser informada y no depender de afirmaciones históricas falsas.
-''',
-        references: "Jeremías 36:1-32; Lucas 1:1-4; 2 Pedro 1:20-21.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La transmisión del texto bíblico fue un proceso histórico de copia, lectura, traducción y conservación. Los manuscritos contienen variantes, pero estas pueden estudiarse mediante comparación crítica. La mayoría no altera el sentido central de la fe; los casos relevantes deben reconocerse y explicarse con transparencia.
-
-La inspiración divina, la preservación y la traducción son realidades relacionadas, pero distintas. La Iglesia no necesita negar la historia manuscrita para confiar en la Escritura. El estudio responsable fortalece la lectura y evita argumentos exagerados.
-
-El Padre se revela, el Hijo es el centro de la Palabra y el Espíritu inspiró a los autores. La comunidad cristiana recibe el texto con gratitud y tiene la responsabilidad de estudiarlo, enseñarlo y transmitirlo fielmente.
-''',
-        references: "2 Timoteo 3:16-17; 2 Pedro 1:20-21; Colosenses 4:16.",
-      ),
+La preservación de las Escrituras se reconoce en la abundancia y comparación de testimonios que permiten estudiar su texto. El estudiante debe agradecer el trabajo de generaciones de copistas y traductores, sin convertir una traducción o edición particular en objeto de fe absoluta. La autoridad pertenece a la palabra de Dios.''', references: "Salmo 119:105; Lucas 1:1-4; 2 Timoteo 3:16-17.")
     ],
-    conclusion: '''
-La transmisión bíblica fue una historia de manuscritos, copias, traducciones y lectura comunitaria. Las variantes existen y deben estudiarse con criterios textuales, sin ocultarlas ni exagerar sus consecuencias. La abundancia de testigos permite comparar lecturas y comprender mejor la forma antigua del texto.
-
-La inspiración pertenece al origen divino de la Escritura; la preservación se observa en su transmisión histórica; y la traducción comunica su mensaje a nuevas lenguas. La Iglesia debe utilizar ediciones responsables y explicar con honestidad las variantes relevantes.
-
-El Padre se revela, el Hijo es el centro del testimonio y el Espíritu inspiró a los autores. La responsabilidad de la comunidad es recibir, estudiar y transmitir fielmente la Palabra.
-''',
+    conclusion: '''El estudio de la transmisión bíblica fortalece una confianza informada y evita tanto el sensacionalismo como la negación de las dificultades. La Iglesia debe utilizar ediciones responsables, consultar notas textuales y enseñar con transparencia. La autoridad pertenece a la palabra de Dios, y el trabajo de copistas y traductores debe reconocerse con gratitud y rigor.''',
   ),
-
   Study(
     number: '112',
     title: "La confiabilidad histórica de la Biblia: hechos, testimonio y evaluación de fuentes",
-    subtitle: "Criterios para examinar el contexto histórico, los testimonios y las afirmaciones bíblicas con rigor.",
-    introduction: '''
-La confiabilidad histórica de la Biblia se estudia examinando sus afirmaciones, contextos, géneros y relación con otras fuentes antiguas. La Biblia no es un manual moderno de arqueología ni todos sus libros fueron escritos con el mismo propósito historiográfico. Sin embargo, contiene narraciones sobre personas, pueblos, lugares y acontecimientos que pueden investigarse históricamente.
+    subtitle: "Criterios para examinar relatos bíblicos y su relación con fuentes históricas.",
+    introduction: '''La confiabilidad histórica de la Biblia se estudia examinando sus afirmaciones, géneros, contextos, fuentes y relación con la evidencia disponible. No todos los libros tienen el mismo propósito literario: algunos narran acontecimientos, otros ofrecen poesía, profecía, genealogía o enseñanza teológica.
 
-Una evaluación responsable distingue lo que el texto afirma, lo que otras fuentes confirman, lo que permanece debatido y lo que no puede demostrarse con la evidencia disponible. La arqueología puede iluminar contextos, pero no siempre identifica con certeza cada personaje o acontecimiento. La ausencia de evidencia no equivale automáticamente a evidencia de ausencia.
-
-La fe cristiana no exige inventar datos ni negar preguntas históricas. La confianza se fortalece mediante una investigación honesta, que reconoce límites y evita tanto el escepticismo automático como la defensa acrítica.
-''',
+La evaluación histórica pregunta qué afirma el autor, qué propósito persigue y qué evidencia externa puede compararse. La fe cristiana reconoce la autoridad de la Escritura y no necesita ocultar preguntas legítimas sobre su historia.''',
     sections: [
-      StudySection(
-        title: "1. Delimitación del tema y definición de conceptos",
-        content: '''
-Confiabilidad histórica se refiere a la credibilidad de los testimonios bíblicos sobre acontecimientos y contextos históricos. No significa que cada pasaje tenga el mismo género o propósito, ni que toda afirmación pueda verificarse mediante arqueología. Una narración debe evaluarse según sus características literarias y las fuentes disponibles.
+      StudySection(title: "1. Delimitación y definición de confiabilidad histórica", content: '''La confiabilidad histórica de la Biblia se estudia examinando sus afirmaciones, géneros, contextos, fuentes y relación con la evidencia disponible. No todos los libros tienen el mismo propósito literario: algunos narran acontecimientos, otros ofrecen poesía, profecía, genealogía o enseñanza teológica.
 
-Arqueología estudia restos materiales; epigrafía analiza inscripciones; crítica histórica examina fuentes y contextos; y geografía histórica ayuda a ubicar lugares. Estas disciplinas aportan información, pero sus conclusiones pueden ser provisionales. Debe distinguirse evidencia directa, inferencia razonable y especulación.
-''',
-        references: "Lucas 1:1-4; Hechos 18:12; 1 Corintios 15:3-8; Juan 19:35.",
-      ),
-      StudySection(
-        title: "2. Contexto histórico, cultural y literario",
-        content: '''
-Los libros bíblicos surgieron en sociedades antiguas del Cercano Oriente y del mundo grecorromano. Sus autores utilizaron calendarios, nombres, rutas, instituciones y formas narrativas propias de esos contextos. Las fuentes extrabíblicas incluyen inscripciones reales, documentos administrativos, monedas, restos urbanos y obras literarias.
+La evaluación histórica no debe exigir que cada texto funcione como una crónica moderna. Se pregunta qué afirma el autor, qué propósito persigue y qué evidencia externa puede compararse. La fe cristiana reconoce la autoridad de la Escritura y no necesita ocultar las preguntas legítimas sobre su historia.''', references: "Lucas 1:1-4; Juan 20:30-31; 2 Pedro 1:16."),
+      StudySection(title: "2. Género, propósito y afirmación histórica", content: '''Los relatos bíblicos comunican hechos y su significado teológico, pero emplean convenciones literarias propias de su época. Las genealogías, discursos, parábolas y relatos de visión no deben analizarse con criterios idénticos.
 
-La arqueología moderna ha aportado información sobre ciudades, imperios, prácticas y lenguas mencionadas en la Biblia. Sin embargo, muchos hallazgos tienen interpretaciones discutidas. Una inscripción puede confirmar la existencia de un rey o pueblo sin demostrar cada detalle de un relato religioso. La investigación debe mantener precisión en el alcance de cada evidencia.
-''',
-        references: "Contexto del Cercano Oriente antiguo y mundo grecorromano; inscripciones y fuentes antiguas.",
-      ),
-      StudySection(
-        title: "3. Fundamento y desarrollo en el Antiguo Testamento",
-        content: '''
-El Antiguo Testamento presenta relatos de creación, patriarcas, éxodo, monarquía, exilio y retorno. Algunos períodos tienen abundante documentación externa; otros cuentan con evidencia más limitada. Los libros históricos deben leerse considerando su propósito teológico y narrativo, sin exigirles los criterios de una crónica contemporánea.
+El intérprete debe distinguir entre una afirmación histórica explícita, una figura literaria y una inferencia posterior. Reconocer el género no permite negar arbitrariamente un acontecimiento, sino evaluar correctamente la forma en que el autor lo presenta.''', references: "Génesis 1–3; Lucas 1:1-4; Hechos 1:1-3."),
+      StudySection(title: "3. Manuscritos, inscripciones y fuentes externas", content: '''La investigación histórica compara textos bíblicos con inscripciones, documentos, monedas, restos arqueológicos y fuentes literarias de otras culturas. Estas evidencias pueden confirmar nombres, lugares, costumbres o marcos políticos; también pueden dejar preguntas abiertas.
 
-Los relatos de reyes y conflictos pueden compararse con inscripciones de imperios como Asiria y Babilonia. Los textos proféticos también mencionan acontecimientos políticos verificables en su contexto. Cuando la evidencia externa es escasa, se debe reconocer el límite en lugar de inventar confirmaciones. La ausencia de un hallazgo específico no resuelve por sí sola una cuestión histórica.
-''',
-        references: "2 Reyes 18–19; Jeremías 39; Esdras 1; fuentes históricas del período.",
-      ),
-      StudySection(
-        title: "4. Enseñanza y desarrollo en el Nuevo Testamento",
-        content: '''
-Los Evangelios presentan a Jesús dentro de un contexto judío del siglo I bajo dominio romano. Lucas 1:1-4 explica su intención de ofrecer un relato ordenado basado en testimonios; Juan 19:35 destaca el testimonio del narrador. Hechos sitúa la expansión de la Iglesia en ciudades y rutas del Imperio romano.
+La arqueología no demuestra por sí sola cada afirmación teológica ni debe utilizarse para prometer pruebas concluyentes donde la evidencia es limitada. Sus hallazgos deben describirse con precisión y distinguirse entre consenso académico, hipótesis y debate.''', references: "2 Reyes 18:13-16; Isaías 36–37; Lucas 3:1-2."),
+      StudySection(title: "4. La historia de Israel y los registros antiguos", content: '''Los relatos sobre Israel se sitúan en el contexto del antiguo Cercano Oriente: Egipto, Canaán, Asiria, Babilonia y Persia. Las inscripciones y archivos antiguos ayudan a comprender imperios, tributos, campañas militares y deportaciones.
 
-Las cartas apostólicas contienen referencias a gobernantes, comunidades, conflictos y prácticas sociales. Estos datos pueden compararse con fuentes antiguas, aunque la finalidad de las cartas es pastoral y teológica. La resurrección de Jesús es una afirmación histórica central de la fe cristiana y debe examinarse mediante los testimonios apostólicos y las explicaciones alternativas propuestas.
-''',
-        references: "Lucas 1:1-4; Juan 19:35; Hechos 18:12; 19:23-41; 1 Corintios 15:3-8.",
-      ),
-      StudySection(
-        title: "5. Análisis exegético de los pasajes principales",
-        content: '''
-Lucas 1:1-4 declara que el autor investigó cuidadosamente los acontecimientos y organizó su relato para ofrecer certeza a Teófilo. El prólogo revela preocupación por la transmisión de testimonios y el orden de la narración. No equivale a una afirmación moderna de neutralidad absoluta, pero sí presenta una intención histórica deliberada.
+La comparación externa debe evitar dos extremos: asumir que toda semejanza prueba dependencia directa o afirmar que la falta de un registro contemporáneo invalida automáticamente un relato bíblico. Las fuentes antiguas son parciales y reflejan los intereses de quienes las produjeron.''', references: "2 Reyes 17:1-23; 24–25; Esdras 1:1-4; Daniel 1:1-7."),
+      StudySection(title: "5. Los Evangelios como testimonios sobre Jesús", content: '''Los evangelios presentan testimonios sobre la vida, enseñanza, muerte y resurrección de Jesús. Lucas declara que investigó cuidadosamente los acontecimientos y que buscó ofrecer un relato ordenado. Juan explica que seleccionó señales para que los lectores crean que Jesús es el Cristo, el Hijo de Dios.
 
-Hechos 18:12 menciona a Galión como procónsul de Acaya y Hechos 19 describe el contexto de Éfeso. Estos detalles ayudan a ubicar la narración en el mundo romano. Su precisión debe examinarse en relación con fuentes externas cuando están disponibles.
+Los evangelios tienen propósito teológico, pero eso no significa que sean ficción. La investigación compara sus semejanzas y diferencias, atiende a sus audiencias y estudia cómo cada autor organiza el material.''', references: "Lucas 1:1-4; Juan 20:30-31; 21:24-25."),
+      StudySection(title: "6. La resurrección y el testimonio apostólico", content: '''La resurrección de Jesús es central para la fe cristiana. Pablo transmite una tradición sobre la muerte, sepultura, resurrección y apariciones de Cristo que considera recibida y transmitida a la comunidad. Los evangelios presentan testimonios de la tumba vacía y de encuentros con el Resucitado.
 
-Primera de Corintios 15:3-8 conserva una fórmula temprana sobre la muerte, sepultura y apariciones de Jesús. El pasaje es fundamental para estudiar la proclamación de la resurrección en la comunidad apostólica. La evaluación histórica debe distinguir el dato textual, su fecha aproximada y las interpretaciones sobre el acontecimiento.
-''',
-        references: "Lucas 1:1-4; Hechos 18:12; 1 Corintios 15:3-8.",
-      ),
-      StudySection(
-        title: "6. Relación con el conjunto de las Escrituras y textos relacionados",
-        content: '''
-La Biblia debe estudiarse junto con la evidencia histórica, sin convertir las fuentes externas en autoridad teológica superior ni ignorar su valor contextual. La arqueología puede confirmar ciertos nombres, ciudades y prácticas, pero no demuestra por sí sola una doctrina ni resuelve todas las preguntas sobre milagros.
+La evaluación histórica debe reconocer que la resurrección es una afirmación extraordinaria y que su interpretación involucra cuestiones filosóficas y teológicas. No es riguroso reducirla a una experiencia subjetiva sin examinar los testimonios, ni afirmar que la metodología histórica puede reproducir el acontecimiento.''', references: "Mateo 28; Lucas 24; Juan 20–21; 1 Corintios 15:1-11."),
+      StudySection(title: "7. Aparentes diferencias entre relatos", content: '''Los relatos bíblicos pueden diferir en selección, orden, nivel de detalle y énfasis. Antes de declarar contradicción, se debe comparar qué pregunta responde cada autor, qué detalles incluye y cuáles omite. Los autores antiguos podían organizar materiales por tema y no siempre según una cronología estricta.
 
-La investigación también debe reconocer los géneros: poesía, parábola y visión no se evalúan igual que un relato histórico. Los textos pueden utilizar convenciones antiguas de narración y discurso. La pregunta no es si se ajustan a todos los estándares modernos, sino qué tipo de afirmación hacen y cómo se sostiene.
+La armonización debe ser prudente: no debe inventar acontecimientos para hacer coincidir cada detalle. Cuando no existe información suficiente, es correcto reconocer que la relación exacta no puede determinarse con certeza. La confianza bíblica no requiere fingir que toda dificultad está resuelta.''', references: "Mateo 8:5-13; Lucas 7:1-10; Mateo 27:5; Hechos 1:18."),
+      StudySection(title: "8. Historia, teología y verdad", content: '''Los autores bíblicos interpretan los acontecimientos desde la soberanía de Dios y el desarrollo de la redención. La dimensión teológica no elimina el interés histórico; explica el significado de los hechos para la fe y la vida del pueblo.
 
-La resurrección constituye el centro del testimonio apostólico. La fe no se reduce a una demostración arqueológica, pero tampoco debe basarse en datos inventados. La honestidad intelectual y la confianza cristiana pueden coexistir.
-''',
-        references: "2 Reyes 18–19; Lucas 1:1-4; Hechos 18–19; 1 Corintios 15.",
-      ),
-      StudySection(
-        title: "7. Perspectiva trinitaria: Padre, Hijo y Espíritu Santo",
-        content: '''
-El Padre es el Dios que actúa en la historia y dirige su propósito; el Hijo entra en la historia mediante la encarnación, muerte y resurrección; el Espíritu Santo inspira el testimonio apostólico y da convicción. Lucas presenta una investigación de los acontecimientos sobre Jesús, mientras los apóstoles anuncian lo que vieron y oyeron.
+Una lectura reducida al dato externo puede ignorar el propósito del autor, mientras una lectura que desprecia la historia puede convertir el texto en ideas sin anclaje. La interpretación responsable mantiene juntas la atención al acontecimiento, la forma literaria y el mensaje teológico.''', references: "Éxodo 12–14; Lucas 24:25-27; Hechos 2:22-36."),
+      StudySection(title: "9. Perspectiva trinitaria y preguntas difíciles", content: '''El Padre actúa en la historia de la redención, el Hijo entra en la historia mediante la encarnación y el Espíritu inspira el testimonio apostólico. La doctrina trinitaria se apoya en el testimonio conjunto de la Escritura y no depende de convertir cada dato arqueológico en demostración de una doctrina.
 
-La doctrina trinitaria no depende de un hallazgo arqueológico particular. Su fundamento está en el testimonio de la Escritura: el Padre envía al Hijo y el Espíritu da testimonio de Cristo. La investigación histórica puede iluminar el contexto de estos acontecimientos, pero no reemplaza el análisis teológico del texto.
+¿La arqueología prueba toda la Biblia? No; puede aportar evidencia sobre afirmaciones concretas. ¿Un texto teológico deja de ser histórico? No necesariamente. ¿Las diferencias de relato invalidan todo testimonio? No; deben evaluarse caso por caso. ¿La fe exige rechazar la investigación? No; exige honestidad y discernimiento.''', references: "Lucas 1:1-4; Juan 1:1-14; 14:26; 2 Pedro 1:20-21."),
+      StudySection(title: "10. Aplicación y síntesis", content: '''La confiabilidad histórica se estudia con rigor, paciencia y transparencia. La Iglesia no debe exagerar hallazgos arqueológicos ni ocultar preguntas difíciles. Debe distinguir hechos documentados, interpretaciones probables y cuestiones debatidas.
 
-El Hijo no es el Padre; su encarnación es un acontecimiento real. El Espíritu no es una invención literaria, sino la persona divina que actúa en la revelación y la vida de la Iglesia.
-''',
-        references: "Lucas 1:1-4; Juan 15:26-27; Hechos 2:32-33; 1 Pedro 1:10-12.",
-      ),
-      StudySection(
-        title: "8. Preguntas difíciles, aparentes contradicciones y errores de interpretación",
-        content: '''
-¿La arqueología ha confirmado cada relato bíblico? No. Algunos aspectos reciben apoyo externo, otros permanecen debatidos y otros no cuentan con evidencia directa disponible. No debe afirmarse una confirmación total.
-
-¿La ausencia de restos prueba que un acontecimiento no ocurrió? No necesariamente. La conservación arqueológica es desigual y muchos lugares no han sido excavados o identificados con certeza. Pero tampoco debe usarse esa limitación para afirmar cualquier hipótesis.
-
-¿La Biblia debe leerse como un libro moderno de historia? No. Sus libros tienen propósitos y géneros diversos. Debe evaluarse cada texto según su forma y contexto.
-
-¿La resurrección puede demostrarse con arqueología? La arqueología no puede verificar directamente un milagro. La investigación histórica examina testimonios tempranos, contexto y explicaciones alternativas; la afirmación cristiana se apoya en el testimonio apostólico.
-
-¿La fe exige ignorar las dificultades? No. Una fe responsable reconoce preguntas, distingue certeza de hipótesis y no inventa evidencias.
-''',
-        references: "Lucas 1:1-4; 1 Corintios 15:3-8; Juan 19:35.",
-      ),
-      StudySection(
-        title: "9. Preguntas y respuestas fundamentadas bíblicamente",
-        content: '''
-Pregunta: ¿Qué aporta la arqueología? Respuesta: Contexto material sobre lugares, costumbres, inscripciones, cronologías y pueblos antiguos.
-
-Pregunta: ¿Qué diferencia hay entre evidencia y conclusión? Respuesta: La evidencia son los datos disponibles; la conclusión es una interpretación que debe justificarse y puede ser revisada.
-
-Pregunta: ¿Por qué importa Lucas 1:1-4? Respuesta: Porque explica la investigación de testimonios y el propósito de ofrecer un relato ordenado.
-
-Pregunta: ¿Cuál es el testimonio temprano sobre la resurrección? Respuesta: Primera de Corintios 15:3-8 conserva una proclamación sobre muerte, sepultura, resurrección y apariciones.
-
-Pregunta: ¿Qué hacer cuando una cuestión permanece debatida? Respuesta: Reconocerlo con honestidad, presentar las hipótesis y no convertir una inferencia en certeza.
-''',
-        references: "Lucas 1:1-4; 1 Corintios 15:3-8; Hechos 18:12.",
-      ),
-      StudySection(
-        title: "10. Aplicación, síntesis doctrinal y conclusión",
-        content: '''
-La confiabilidad histórica debe examinarse con rigor, distinguiendo el texto, su contexto, las fuentes externas y el alcance real de cada hallazgo. La arqueología ilumina el mundo bíblico, pero no confirma cada afirmación ni resuelve por sí sola las cuestiones teológicas. Los géneros literarios y los propósitos de los autores deben respetarse.
-
-La fe cristiana se apoya en el testimonio de las Escrituras y, de manera central, en la muerte y resurrección de Jesucristo. La investigación honesta no necesita exageraciones ni negación de preguntas. El Padre actúa en la historia, el Hijo se encarna y resucita, y el Espíritu inspira el testimonio apostólico.
-
-La Iglesia debe presentar razones con humildad, reconocer los límites de la evidencia y anunciar fielmente el evangelio.
-''',
-        references: "Lucas 1:1-4; 1 Corintios 15:3-8; 2 Timoteo 4:5.",
-      ),
+El creyente puede estudiar la historia y reconocer que la Biblia comunica tanto acontecimientos como su significado delante de Dios. La confianza cristiana se centra en el Dios que se revela y en Jesucristo, cuya vida, muerte y resurrección constituyen el corazón del testimonio apostólico.''', references: "Juan 20:30-31; Hechos 17:11; 1 Corintios 15:1-11; 2 Timoteo 3:16-17.")
     ],
-    conclusion: '''
-La confiabilidad histórica de la Biblia debe estudiarse mediante el análisis del texto, su género, contexto y relación con otras fuentes. La arqueología aporta información valiosa, pero no confirma cada detalle ni debe utilizarse para afirmar más de lo que la evidencia permite. La honestidad exige distinguir datos, inferencias y cuestiones debatidas.
-
-El testimonio apostólico sobre la muerte y resurrección de Jesús es central para la fe cristiana. La investigación histórica puede examinar su antigüedad y contexto, mientras la confesión cristiana reconoce la acción de Dios. El Padre actúa en la historia, el Hijo se encarna y resucita, y el Espíritu inspira el testimonio.
-
-La Iglesia debe defender la fe sin exageraciones, responder preguntas con rigor y mantener su confianza en la verdad revelada.
-''',
+    conclusion: '''La confiabilidad histórica se estudia con rigor, paciencia y transparencia. La Iglesia no debe exagerar hallazgos arqueológicos ni ocultar preguntas difíciles. Debe distinguir hechos documentados, interpretaciones probables y cuestiones debatidas. La confianza cristiana se centra en el Dios que se revela y en Jesucristo, cuya vida, muerte y resurrección constituyen el corazón del testimonio apostólico.''',
   ),
-
-  Study(
-    number: '113',
+number: '113',
     title: "La teología bíblica: unidad, desarrollo y revelación progresiva",
     subtitle: "El desarrollo de los temas bíblicos a través de la historia de la redención.",
     introduction: '''
