@@ -50,6 +50,12 @@ fontWeight: FontWeight.bold,
 );
 }
 
+void _showComingSoon(BuildContext context, String feature) {
+  ScaffoldMessenger.of(context).showSnackBar(
+    SnackBar(content: Text('$feature: módulo en desarrollo.')),
+  );
+}
+
 class HomeBannerAd extends StatefulWidget {
 const HomeBannerAd({super.key});
 
