@@ -371,6 +371,31 @@ La meta no es defender una idea mediante argumentos forzados, sino comprender fi
 references:
 'Hechos 17:11; 2 Timoteo 2:15; 1 Corintios 8:4-6; Mateo 28:19; 1 Juan 4:1.',
 ),
+
+StudySection(
+title: '9. Conocer a Dios implica comunión, fe y obediencia',
+content: '''
+Juan 17:3 define la vida eterna en términos de conocer al único Dios verdadero y a Jesucristo, a quien Él envió. En el contexto de Juan 17, Jesús ora al Padre antes de su entrega y habla de la gloria y del amor que compartían antes de la fundación del mundo. Por eso, conocer a Dios no significa solamente aprender datos religiosos: incluye recibir su revelación, confiar en Él y vivir en relación con Él.
+
+Primera de Juan 2:3-6 relaciona el conocimiento de Dios con guardar sus mandamientos. El pasaje no enseña que la obediencia compre la salvación, sino que la vida transformada evidencia que la persona ha llegado a conocer al Señor. Efesios 2:8-10 mantiene juntas la gracia y las buenas obras: somos salvados por gracia mediante la fe, y creados en Cristo para andar en buenas obras.
+
+El conocimiento cristiano también es trinitario. Jesús habla con el Padre y revela su carácter; el Espíritu Santo enseña y da testimonio del Hijo (Juan 14:26; 15:26). No se trata de conocer a tres dioses, sino de conocer al único Dios tal como se ha dado a conocer: Padre, Hijo y Espíritu Santo.
+''',
+references: 'Juan 14:6-9, 14:26; Juan 15:26; Juan 17:1-3, 5, 24; Efesios 2:8-10; 1 Juan 2:3-6.',
+),
+StudySection(
+title: '10. Cómo estudiar correctamente la revelación de Dios',
+content: '''
+Para conocer lo que la Biblia enseña acerca de Dios debemos leer cada pasaje dentro de su contexto histórico, literario y doctrinal. Es necesario identificar quién habla, a quién se dirige, qué situación enfrenta y qué propósito cumple el texto. Después se compara con otros pasajes que tratan el mismo asunto, sin obligar a uno a negar lo que otros afirman claramente.
+
+Lucas 24:27 y 24:44 muestra a Jesús explicando a sus discípulos lo que las Escrituras decían acerca de Él. Hechos 17:11 presenta a los bereanos examinando cada día las Escrituras para comprobar lo que escuchaban. Segunda de Timoteo 3:16-17 enseña que toda la Escritura es inspirada por Dios y útil para formar al creyente.
+
+Cuando dos pasajes parecen contradecirse, no debemos escoger uno y descartar el otro. Primero examinamos su contexto y el sentido de sus palabras; luego distinguimos entre una afirmación directa, una descripción narrativa, una figura literaria y una conclusión teológica. Así evitamos construir doctrinas con frases aisladas y permitimos que el conjunto de la Palabra ilumine cada tema.
+
+Este método es especialmente importante al estudiar la Trinidad: los textos que afirman que Dios es uno y los que distinguen al Padre, al Hijo y al Espíritu Santo deben conservarse juntos.
+''',
+references: 'Lucas 24:25-27, 44-45; Hechos 17:10-12; 2 Timoteo 3:14-17; 2 Pedro 1:19-21.',
+),
 ],
 conclusion: '''
 Conocer verdaderamente a Dios es el fundamento de la vida cristiana y el punto de partida para comprender su revelación.
@@ -579,6 +604,20 @@ No debemos eliminar esta tensión. Es necesario estudiar el contexto y distingui
 Estos relatos enseñan que Dios se relaciona verdaderamente con las personas y que sus acciones en la historia responden a la conducta humana. A la vez, permanece fiel a su naturaleza y a su palabra.
 ''',
 references: 'Génesis 6:5-7; Éxodo 32:11-14; Números 23:19; 1 Samuel 15:11, 22-29; Jonás 3:4-10; Malaquías 3:6; Santiago 1:17.',
+),
+
+StudySection(
+title: '10. Dios es espíritu y no está limitado por la creación',
+content: '''
+Jesús declaró a la mujer samaritana que Dios es Espíritu y que quienes le adoran deben hacerlo en espíritu y en verdad (Juan 4:24). Esta afirmación enseña que la naturaleza divina no está limitada por un cuerpo material, un lugar geográfico ni una imagen fabricada por los seres humanos. Deuteronomio 4:15-19 recuerda a Israel que, cuando Dios habló desde el fuego, el pueblo no vio figura alguna; por eso no debía representar al Señor mediante imágenes.
+
+Algunos relatos describen las manos, los ojos, el rostro o el brazo de Dios. Estas expresiones comunican su acción, conocimiento, presencia y poder mediante lenguaje comprensible para los seres humanos. No deben interpretarse como si la esencia divina estuviera compuesta por partes corporales. El contexto permite reconocer cuándo la Escritura utiliza lenguaje figurado.
+
+La encarnación no contradice esta enseñanza. Juan 1:14 afirma que el Verbo se hizo carne: el Hijo eterno asumió una naturaleza humana verdadera. Esto no significa que el Padre o el Espíritu Santo se encarnaran, ni que la naturaleza divina dejara de ser espiritual. Colosenses 2:9 enseña que en Cristo habita corporalmente toda la plenitud de la Deidad. El Hijo es verdaderamente Dios y verdaderamente hombre.
+
+Por tanto, debemos distinguir entre la naturaleza espiritual del único Dios y la humanidad que el Hijo asumió en la encarnación. Esta distinción evita confundir a las personas divinas o reducir a Dios a una imagen material.
+''',
+references: 'Deuteronomio 4:12-19; Juan 1:1, 14, 18; Juan 4:21-24; Colosenses 1:15; Colosenses 2:9; 1 Timoteo 1:17.',
 ),
 ],
 conclusion: '''
@@ -801,6 +840,35 @@ La mejor manera de estudiar la Trinidad es examinar directamente las Escrituras,
 ''',
 references: 'Deuteronomio 6:4; Mateo 3:16-17; Juan 1:1-3; Juan 14:16-17; Juan 20:28; Hechos 5:3-4; 1 Corintios 8:4-6.',
 ),
+
+StudySection(
+title: '9. La unidad y distinción trinitaria en las fórmulas apostólicas',
+content: '''
+Mateo 28:19 registra el mandato de Jesús de bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. El texto menciona a las tres personas y utiliza «nombre» en singular. La singularidad del nombre no elimina las distinciones personales; las tres personas aparecen coordinadas en la confesión y en la vida de discipulado de la Iglesia.
+
+Segunda de Corintios 13:14 presenta la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo. Pablo pronuncia esta bendición sobre una iglesia concreta, al final de una carta en la que ha tratado problemas de conducta, unidad y fidelidad apostólica. La fórmula no es una lista accidental: sitúa a los creyentes bajo la gracia, el amor y la comunión vinculados con las tres personas.
+
+Efesios 4:4-6 también reúne un Espíritu, un Señor y un Dios y Padre de todos. El contexto trata la unidad de la Iglesia, pero esa unidad se fundamenta en la confesión del único Dios y en la obra del Espíritu y del Señor Jesucristo. Estos pasajes deben leerse junto con Deuteronomio 6:4 y 1 Corintios 8:4-6: la fe cristiana mantiene el monoteísmo bíblico y reconoce la distinción personal revelada en el Nuevo Testamento.
+
+No debemos convertir estas fórmulas en pruebas aisladas que sustituyan el estudio completo de la Biblia. Su fuerza doctrinal aparece al relacionarlas con los textos que afirman la divinidad del Padre, del Hijo y del Espíritu Santo.
+''',
+references: 'Deuteronomio 6:4; Mateo 28:18-20; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6; 1 Pedro 1:2.',
+),
+StudySection(
+title: '10. Preguntas difíciles y aparentes contradicciones sobre la Trinidad',
+content: '''
+¿Enseñar que el Padre, el Hijo y el Espíritu Santo son distintos significa creer en tres dioses? No. Deuteronomio 6:4 y 1 Corintios 8:4-6 afirman que hay un solo Dios; Mateo 28:19 y 2 Corintios 13:14 presentan conjuntamente a las tres personas. La doctrina debe conservar ambas afirmaciones.
+
+Si Jesús es Dios, ¿por qué ora al Padre? Juan 17:1-5 muestra al Hijo dirigiéndose al Padre. La oración no niega su divinidad; manifiesta que el Hijo es una persona distinta del Padre y que, al encarnarse, vivió una verdadera vida humana de obediencia y comunión.
+
+Si el Espíritu es Dios, ¿por qué es enviado? Juan 14:26 y 15:26 describen su misión en la historia de la salvación. Ser enviado no significa ser creado ni tener una naturaleza inferior. La misión revela el orden de la obra divina, no una diferencia de esencia.
+
+¿La palabra «Trinidad» aparece literalmente en la Biblia? No aparece como término bíblico, pero se utiliza para resumir el testimonio conjunto de las Escrituras. Una palabra teológica puede ser útil si expresa fielmente la enseñanza bíblica y no se convierte en autoridad por encima de ella.
+
+La respuesta doctrinal debe surgir de la lectura contextual y conjunta de los pasajes, no de la selección de un texto para cancelar otro.
+''',
+references: 'Deuteronomio 6:4; Juan 14:16-26; Juan 15:26; Juan 17:1-5; Mateo 28:19; 1 Corintios 8:4-6; 2 Corintios 13:14.',
+),
 ],
 conclusion: '''
 La doctrina de la Trinidad afirma que existe un solo Dios en tres personas distintas: el Padre, el Hijo y el Espíritu Santo.
@@ -999,6 +1067,33 @@ La resurrección es una afirmación central de la fe cristiana y constituye el f
 Sin la muerte y resurrección de Cristo, el anuncio apostólico del evangelio perdería su fundamento.
 ''',references: 'Marcos 10:45; Lucas 24:1-8; Juan 19:16-37; Juan 20:1-29; Romanos 5:8; 1 Corintios 15:3-8, 12-22.',
 ),
+
+StudySection(
+title: '9. La obediencia del Hijo durante su misión terrenal',
+content: '''
+Los Evangelios presentan a Jesús obedeciendo al Padre y cumpliendo la misión que recibió. En Juan 6:38, Jesús declara que descendió del cielo no para hacer su propia voluntad, sino la voluntad del que lo envió. En Getsemaní ora: «no se haga mi voluntad, sino la tuya» (Lucas 22:42). Estos textos deben leerse a la luz de la encarnación: el Hijo asumió una naturaleza humana completa y vivió una obediencia humana real.
+
+Filipenses 2:5-8 enseña que Cristo, existiendo en forma de Dios, tomó forma de siervo y se humilló hasta la muerte de cruz. El pasaje no describe a un ser creado que asciende a la divinidad, sino al Hijo que se humilla voluntariamente en su misión redentora. Juan 5:19-23, por su parte, presenta la unidad de obra y honor entre el Padre y el Hijo: el Hijo hace lo que ve hacer al Padre y debe recibir el mismo honor que el Padre.
+
+Por eso, los textos sobre obediencia y envío no deben separarse de los que afirman la preexistencia y divinidad del Hijo. La obediencia pertenece a su misión encarnada y a su relación filial; no demuestra que posea una naturaleza inferior ni que sea una criatura. Tampoco debemos borrar la distinción entre el Padre que envía y el Hijo que viene al mundo.
+
+La lectura conjunta mantiene dos verdades: Jesucristo es plenamente Dios y es verdaderamente hombre, y durante su ministerio cumplió voluntariamente la misión recibida del Padre.
+''',
+references: 'Juan 5:19-23; Juan 6:38; Juan 8:28-29; Juan 10:30; Lucas 22:39-46; Filipenses 2:5-11; Hebreos 5:7-9.',
+),
+StudySection(
+title: '10. Jesucristo, único mediador e intercesor de su pueblo',
+content: '''
+La mediación de Jesucristo se fundamenta en su identidad y en su obra. Primera de Timoteo 2:5 declara que hay un solo Dios y un solo mediador entre Dios y los hombres, Jesucristo hombre. El texto destaca su humanidad verdadera y su función única en la reconciliación. No enseña que Jesús sea una criatura separada de Dios, porque otros pasajes afirman su plena divinidad.
+
+Hebreos 4:14-16 presenta a Jesús como el gran Sumo Sacerdote que puede compadecerse de nuestras debilidades, pues fue tentado en todo según nuestra semejanza, pero sin pecado. Hebreos 7:24-25 explica que su sacerdocio permanece y que puede salvar perpetuamente a quienes se acercan a Dios por medio de Él, porque vive siempre para interceder por ellos.
+
+Romanos 8:34 añade que Cristo murió, resucitó, está a la diestra de Dios e intercede por los creyentes. Primera de Juan 2:1 lo presenta como abogado ante el Padre. Estos textos no describen sacrificios repetidos ni una nueva crucifixión: la intercesión actual de Cristo se apoya en la suficiencia de su sacrificio realizado una vez para siempre.
+
+La mediación del Hijo tampoco convierte al Padre y al Hijo en una misma persona. El Hijo intercede ante el Padre; esta relación confirma su distinción personal y la unidad del propósito salvador de Dios.
+''',
+references: 'Romanos 8:31-34; 1 Timoteo 2:5-6; Hebreos 4:14-16; Hebreos 7:23-28; Hebreos 9:24-28; 1 Juan 2:1-2.',
+),
 ],
 conclusion: '''
 Jesucristo es el Verbo eterno que se hizo carne. Las Escrituras presentan su plena divinidad y su verdadera humanidad, sin confundirlas ni separarlas.
@@ -1074,6 +1169,13 @@ title: '9. La seguridad de la salvación y la esperanza futura',
 content:
 'La Biblia ofrece consuelo y seguridad a quienes pertenecen a Cristo. Juan 10:27-30 presenta a las ovejas de Jesús escuchando su voz y recibiendo vida eterna; nadie puede arrebatarlas de su mano. Romanos 8:28-39 declara que nada podrá separar a los creyentes del amor de Dios que es en Cristo Jesús. Efesios 1:13-14 habla del Espíritu Santo como sello y garantía de la herencia. Sin embargo, la seguridad bíblica no debe confundirse con una presunción que permita vivir deliberadamente en desobediencia sin arrepentimiento. Las Escrituras también llaman a permanecer en la fe, a perseverar y a examinar la propia vida. La esperanza cristiana está puesta en la fidelidad de Dios y en el cumplimiento de sus promesas, no en la confianza orgullosa en los méritos personales.',
 references: 'Juan 10:27-30; Romanos 8:28-39; 1 Corintios 10:12-13; Efesios 1:13-14; Colosenses 1:21-23; Hebreos 3:12-14.',
+),
+
+StudySection(
+title: '10. Las buenas obras son fruto de la salvación, no su precio',
+content:
+'La Escritura enseña que la salvación es por gracia mediante la fe y no por obras, para que nadie se gloríe (Efesios 2:8-9). Sin embargo, el versículo siguiente afirma que los creyentes fueron creados en Cristo Jesús para buenas obras. Pablo no se contradice: las obras no son la causa que compra la salvación, sino el fruto de la nueva vida que Dios concede. Santiago 2:14-26 confronta una fe meramente verbal que no produce obediencia ni misericordia. Su argumento no enseña que las obras sustituyan la gracia; muestra que la fe viva se evidencia en acciones coherentes. Tito 3:4-8 mantiene el mismo equilibrio: Dios salva por su misericordia y renueva por el Espíritu Santo, y quienes han creído deben ocuparse en buenas obras. Por tanto, debemos rechazar tanto el legalismo, que convierte las obras en mérito para obtener aceptación, como la presunción, que pretende separar la fe de una vida transformada.',
+references: 'Efesios 2:8-10; Romanos 3:27-28; Santiago 2:14-26; Tito 3:4-8; Gálatas 5:6.',
 ),
 ],
 conclusion:
