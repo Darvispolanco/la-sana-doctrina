@@ -21929,7 +21929,8 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
           term.term.toLowerCase().contains(normalized) ||
           term.definition.toLowerCase().contains(normalized) ||
           term.references.toLowerCase().contains(normalized) ||
-          term.context.toLowerCase().contains(normalized);
+          term.context.toLowerCase().contains(normalized) ||
+          (legacyDictionaryContexts[term.term]?.toLowerCase().contains(normalized) ?? false);
       return matchesCategory && matchesQuery;
     }).toList()
       ..sort((a, b) => a.term.toLowerCase().compareTo(b.term.toLowerCase()));
@@ -22004,14 +22005,14 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(term.definition),
-                        if (term.context.isNotEmpty) ...[
+                        if (term.context.isNotEmpty || legacyDictionaryContexts.containsKey(term.term)) ...[
                           const SizedBox(height: 10),
                           const Text(
                             'Contexto en los estudios',
                             style: TextStyle(fontWeight: FontWeight.w700),
                           ),
                           const SizedBox(height: 4),
-                          Text(term.context),
+                          Text(term.context.isNotEmpty ? term.context : legacyDictionaryContexts[term.term]!),
                         ],
                         const SizedBox(height: 9),
                         Text(
@@ -22095,6 +22096,35 @@ const List<QuizPack> quizPacks = [
       QuizQuestion(question: '¿Qué es el arrepentimiento bíblico?', options: ['Sentir vergüenza sin cambiar', 'Volverse a Dios, reconociendo el pecado', 'Culpar siempre a otros', 'Una emoción pasajera sin fruto'], correctIndex: 1, explanation: 'El arrepentimiento implica un cambio de mente y dirección que se evidencia en frutos.', references: 'Hechos 3:19; Mateo 3:8'),
       QuizQuestion(question: '¿Qué anuncia el evangelio según 1 Corintios 15?', options: ['La prosperidad como centro', 'La muerte de Cristo por nuestros pecados y su resurrección', 'La salvación por genealogía', 'La ausencia de juicio'], correctIndex: 1, explanation: 'La muerte y resurrección de Jesucristo son el núcleo del mensaje apostólico.', references: '1 Corintios 15:1-4'),
       QuizQuestion(question: '¿Qué produce el Espíritu en el creyente según Gálatas 5?', options: ['Orgullo y división', 'El fruto del Espíritu', 'Indiferencia moral', 'Autosuficiencia'], correctIndex: 1, explanation: 'El Espíritu forma carácter conforme a Dios, expresado en amor, gozo, paz y las demás virtudes enumeradas.', references: 'Gálatas 5:22-23'),
+    ],
+  ),
+
+  QuizPack(
+    title: 'Historia de controversias y defensa doctrinal',
+    description: 'Movimientos históricos y evaluación de sus afirmaciones a la luz de la Escritura.',
+    questions: [
+      QuizQuestion(question: '¿Qué afirmación se asocia históricamente con el arrianismo?', options: ['El Hijo es eterno y plenamente Dios', 'El Hijo no es eterno ni igual al Padre en naturaleza divina', 'El Espíritu Santo es una persona divina', 'La encarnación fue real'], correctIndex: 1, explanation: 'El arrianismo se vinculó con la negación de la eternidad y plena deidad del Hijo. La evaluación bíblica considera textos como Juan 1:1-3 y Colosenses 1:16-17.', references: 'Juan 1:1-3; Colosenses 1:16-17'),
+      QuizQuestion(question: '¿Qué sostenía el docetismo acerca de la humanidad de Cristo?', options: ['Que Jesús fue verdaderamente humano', 'Que su humanidad corporal era solo aparente', 'Que Jesús no era el Mesías', 'Que el Hijo resucitó corporalmente'], correctIndex: 1, explanation: 'El docetismo negaba la humanidad real de Cristo; Juan afirma que el Verbo se hizo carne.', references: 'Juan 1:14; 1 Juan 4:2-3'),
+      QuizQuestion(question: '¿Qué caracteriza al modalismo?', options: ['Confiesa tres dioses independientes', 'Presenta al Padre, al Hijo y al Espíritu como modos de una sola persona', 'Niega la existencia de Dios', 'Afirma que Cristo no resucitó'], correctIndex: 1, explanation: 'La doctrina trinitaria distingue realmente al Padre, al Hijo y al Espíritu Santo; los textos muestran relaciones personales entre ellos.', references: 'Mateo 3:16-17; Juan 14:16-17'),
+      QuizQuestion(question: '¿Qué controversia se relaciona con la negación o disminución de la deidad del Espíritu Santo?', options: ['Macedonianismo', 'Donatismo', 'Catarismo', 'Novacianismo'], correctIndex: 0, explanation: 'El macedonianismo se asocia históricamente con una posición contraria a la plena divinidad del Espíritu Santo.', references: 'Hechos 5:3-4; 1 Corintios 3:16'),
+      QuizQuestion(question: 'Al estudiar movimientos antiguos conocidos por fuentes de sus adversarios, ¿qué procedimiento es responsable?', options: ['Repetir toda acusación como hecho', 'Ignorar todas las fuentes', 'Distinguir testimonios, datos verificables y etiquetas polémicas', 'Suponer que todos enseñaban exactamente lo mismo'], correctIndex: 2, explanation: 'La crítica de fuentes evita presentar acusaciones no verificadas como hechos y reconoce los límites de la evidencia histórica.', references: 'Proverbios 18:13,17; 1 Tesalonicenses 5:21'),
+      QuizQuestion(question: '¿Qué establece Deuteronomio 6:4 dentro de la enseñanza bíblica?', options: ['Que existen varios dioses', 'Que Jehová es uno', 'Que el Hijo fue creado', 'Que el Espíritu Santo no es divino'], correctIndex: 1, explanation: 'El Shemá establece el monoteísmo bíblico. Debe leerse junto con los pasajes que revelan la distinción del Padre, del Hijo y del Espíritu.', references: 'Deuteronomio 6:4-5; Mateo 28:19'),
+      QuizQuestion(question: 'Según 1 Pedro 3:15, ¿cómo debe presentarse la defensa de la esperanza cristiana?', options: ['Con insultos y amenazas', 'Con temor humano', 'Con mansedumbre y reverencia', 'Evitando toda explicación'], correctIndex: 2, explanation: 'La defensa cristiana combina claridad en la verdad con respeto y buena conducta.', references: '1 Pedro 3:15-16'),
+      QuizQuestion(question: '¿Cuál es la diferencia bíblica entre obediencia y legalismo?', options: ['La obediencia es fruto de la gracia; el legalismo confía en méritos o reglas humanas como base de aceptación', 'Son exactamente lo mismo', 'La gracia elimina toda obediencia', 'Las obras compran la salvación'], correctIndex: 0, explanation: 'La salvación es por gracia mediante la fe y las buenas obras son fruto de esa salvación, no su precio.', references: 'Efesios 2:8-10; Gálatas 2:16'),
+    ],
+  ),
+  QuizPack(
+    title: 'Interpretación bíblica y autoridad de la Escritura',
+    description: 'Contexto, género literario, observación y discernimiento doctrinal.',
+    questions: [
+      QuizQuestion(question: 'En el método de estudio bíblico, ¿qué pregunta corresponde a la observación?', options: ['¿Qué dice el texto?', '¿Qué deseo que diga?', '¿Cómo puedo cambiar su sentido?', '¿Qué tradición debo imponerle?'], correctIndex: 0, explanation: 'La observación reúne los datos presentes en el pasaje antes de formular una explicación o aplicación.', references: 'Nehemías 8:8; Lucas 10:26'),
+      QuizQuestion(question: '¿Qué procura establecer la interpretación bíblica?', options: ['La preferencia del lector', 'El sentido del pasaje en su contexto y propósito', 'Una aplicación sin estudiar el texto', 'Una doctrina a partir de una palabra aislada'], correctIndex: 1, explanation: 'La interpretación considera lenguaje, contexto histórico y literario, género y argumento del libro.', references: '2 Timoteo 2:15; 2 Pedro 3:16'),
+      QuizQuestion(question: '¿De dónde debe derivarse una aplicación bíblica fiel?', options: ['De una preferencia personal', 'Del sentido del pasaje interpretado correctamente', 'De una frase separada de su contexto', 'De una promesa que el texto no hace'], correctIndex: 1, explanation: 'La aplicación debe seguir al significado del texto y no convertir deseos personales en mandatos bíblicos.', references: 'Santiago 1:22-25; Mateo 7:24-27'),
+      QuizQuestion(question: '¿Qué incluye el contexto inmediato?', options: ['Solo el título del libro', 'Los versículos y párrafos que rodean el pasaje', 'Únicamente una definición moderna', 'Cualquier texto sin relación'], correctIndex: 1, explanation: 'Leer lo anterior y lo posterior permite reconocer el argumento y evita aislar una frase.', references: 'Filipenses 4:10-13'),
+      QuizQuestion(question: '¿Por qué es importante reconocer el género literario?', options: ['Porque todos los textos usan lenguaje idéntico', 'Porque ayuda a comprender cómo comunica el autor', 'Porque elimina la necesidad del contexto', 'Porque convierte la poesía en historia literal'], correctIndex: 1, explanation: 'Narración, poesía, profecía, parábola y carta emplean recursos distintos que deben considerarse al interpretar.', references: 'Salmo 1; Lucas 15; Romanos 1:1-7'),
+      QuizQuestion(question: '¿Qué describe mejor la eiségesis?', options: ['Extraer el sentido del texto', 'Introducir en el pasaje ideas ajenas a su sentido', 'Comparar el contexto', 'Leer el argumento completo'], correctIndex: 1, explanation: 'La eiségesis fuerza el texto para que confirme una idea previa, en lugar de escuchar lo que realmente comunica.', references: '2 Timoteo 2:15; 2 Pedro 3:16'),
+      QuizQuestion(question: '¿Qué enseña 2 Timoteo 3:16 acerca de la Escritura?', options: ['Que solo algunas partes son útiles', 'Que toda Escritura es inspirada por Dios y útil para formar', 'Que la experiencia sustituye la Biblia', 'Que la Biblia no corrige la conducta'], correctIndex: 1, explanation: 'Pablo afirma el origen divino y la utilidad de la Escritura para enseñar, corregir e instruir en justicia.', references: '2 Timoteo 3:16-17'),
+      QuizQuestion(question: '¿Cómo debe evaluarse una supuesta revelación que contradice el evangelio apostólico?', options: ['Aceptarla por la autoridad de quien la afirma', 'Colocarla por encima de la Escritura', 'Rechazar la contradicción y examinar toda afirmación por la enseñanza apostólica', 'Considerarla automáticamente verdadera si es reciente'], correctIndex: 2, explanation: 'La Iglesia debe probar las afirmaciones y permanecer en el evangelio recibido, sin aceptar otro mensaje contrario.', references: 'Gálatas 1:8-9; 1 Juan 4:1; Judas 3'),
     ],
   ),
 ];
