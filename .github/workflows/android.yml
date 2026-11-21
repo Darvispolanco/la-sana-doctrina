@@ -9,6 +9,7 @@ on:
   push:
     branches:
       - main
+      - fix/restore-study-catalog-dictionary-2026-11-21
 
 permissions:
   contents: read
