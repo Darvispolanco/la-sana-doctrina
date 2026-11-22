@@ -1,0 +1,81 @@
+/// Quinta ampliación del diccionario: términos trinitarios, cristológicos y bíblicos.
+/// Definiciones breves con referencias y contexto de lectura.
+const List<Map<String, String>> dictionaryTranche05 = [
+  {
+    'term': "Consubstancialidad",
+    'definition': "Condición de compartir una misma esencia o naturaleza; en la doctrina trinitaria afirma que el Hijo es de la misma naturaleza divina que el Padre.",
+    'category': "Cristología",
+    'references': "Juan 1:1; Juan 10:30; Hebreos 1:3",
+    'context': "El lenguaje debe expresar la plena divinidad del Hijo sin confundir su persona con la del Padre ni introducir tres dioses.",
+  },
+  {
+    'term': "Ousía",
+    'definition': "Término griego empleado en teología para referirse a la esencia o naturaleza.",
+    'category': "Teología trinitaria",
+    'references': "Deuteronomio 6:4; Juan 1:1; Colosenses 2:9",
+    'context': "Se utiliza para explicar que la distinción entre Padre, Hijo y Espíritu no divide la única naturaleza divina.",
+  },
+  {
+    'term': "Trinidad económica",
+    'definition': "Expresión que describe cómo el Padre, el Hijo y el Espíritu actúan en la creación y la historia de la salvación.",
+    'category': "Teología trinitaria",
+    'references': "Efesios 1:3-14; Mateo 3:16-17; 1 Pedro 1:2",
+    'context': "La obra salvadora revela distinciones y relaciones personales sin dividir la esencia ni la voluntad divina.",
+  },
+  {
+    'term': "Trinidad inmanente",
+    'definition': "Expresión teológica que se refiere a Dios en su vida eterna, independientemente de la creación.",
+    'category': "Teología trinitaria",
+    'references': "Juan 1:1-2; Juan 17:5; Juan 17:24",
+    'context': "Se estudia a partir de lo que Dios revela sobre las relaciones eternas del Padre, del Hijo y del Espíritu, sin especular más allá del texto.",
+  },
+  {
+    'term': "Operaciones inseparables",
+    'definition': "Principio teológico según el cual las obras externas de Dios son la obra del único Dios, aunque la Escritura destaque la acción de una persona.",
+    'category': "Teología trinitaria",
+    'references': "Juan 5:19; 1 Corintios 12:4-6; Efesios 1:3-14",
+    'context': "La creación y la salvación no son proyectos separados de tres dioses; los textos atribuyen acciones particulares sin dividir la acción divina.",
+  },
+  {
+    'term': "Relación de origen",
+    'definition': "Categoría teológica que describe las relaciones personales que distinguen al Padre, al Hijo y al Espíritu.",
+    'category': "Teología trinitaria",
+    'references': "Juan 1:1-2; Juan 15:26; Gálatas 4:4-6",
+    'context': "Se utiliza para hablar de distinciones relacionales, no de diferencias de esencia, poder o eternidad.",
+  },
+  {
+    'term': "Convicción de pecado",
+    'definition': "Obra por la que el Espíritu pone de manifiesto el pecado, la justicia y el juicio.",
+    'category': "Pneumatología",
+    'references': "Juan 16:7-11; Hechos 2:36-37",
+    'context': "Jesús atribuye al Espíritu esta obra; en Hechos la predicación produce reconocimiento de culpa y llamado a responder al evangelio.",
+  },
+  {
+    'term': "Arras del Espíritu",
+    'definition': "Garantía anticipada de la herencia futura que Dios concede mediante el Espíritu Santo.",
+    'category': "Pneumatología",
+    'references': "2 Corintios 1:21-22; 2 Corintios 5:5; Efesios 1:13-14",
+    'context': "La imagen de las arras expresa seguridad y anticipación de la consumación, no una posesión parcial de la persona divina.",
+  },
+  {
+    'term': "Realeza mesiánica",
+    'definition': "Autoridad real prometida al Mesías, descendiente de David, cuyo reino tiene alcance y permanencia según la promesa divina.",
+    'category': "Cristología",
+    'references': "2 Samuel 7:12-16; Lucas 1:32-33; Hechos 2:29-36",
+    'context': "Los evangelios y Hechos relacionan a Jesús con las promesas davídicas y su exaltación como Señor y Mesías.",
+  },
+  {
+    'term': "Preexistencia del Hijo",
+    'definition': "Existencia del Hijo antes de su nacimiento humano y antes de la creación.",
+    'category': "Cristología",
+    'references': "Juan 1:1-3; Juan 8:58; Juan 17:5",
+    'context': "Los textos presentan al Hijo antes de la encarnación; su existencia no comienza en Belén.",
+  },
+  {
+    'term': "Confesión cristológica",
+    'definition': "Declaración de fe acerca de la identidad y obra de Jesucristo como Señor, Mesías e Hijo de Dios.",
+    'category': "Cristología",
+    'references': "Mateo 16:13-17; Juan 20:28-31; Romanos 10:9",
+    'context': "Las confesiones del Nuevo Testamento responden a la identidad de Jesús y deben interpretarse junto al testimonio completo sobre su humanidad y divinidad.",
+  },
+];
