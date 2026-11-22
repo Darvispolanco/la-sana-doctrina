@@ -21564,11 +21564,21 @@ String query = '';
 
 @override
 Widget build(BuildContext context) {
-final normalizedQuery = query.trim().toLowerCase();
+final normalizedQuery = _dictionarySortKey(query.trim());
 final filteredStudies = EstudiosTab.studies.where((study) {
-return study.title.toLowerCase().contains(normalizedQuery) ||
-study.subtitle.toLowerCase().contains(normalizedQuery) ||
-study.number.toLowerCase().contains(normalizedQuery);
+  final searchableText = _dictionarySortKey([
+    study.number,
+    study.title,
+    study.subtitle,
+    study.introduction,
+    study.conclusion,
+    ...study.sections.expand((section) => [
+      section.title,
+      section.content,
+      section.references,
+    ]),
+  ].join(' '));
+  return normalizedQuery.isEmpty || searchableText.contains(normalizedQuery);
 }).toList();
 
 return ListView(
@@ -21593,6 +21603,11 @@ border: OutlineInputBorder(borderRadius: BorderRadius.circular(14)),
 ),
 ),
 const SizedBox(height: 12),
+Text(
+  '${filteredStudies.length} de ${EstudiosTab.studies.length} estudios',
+  style: const TextStyle(color: Colors.black54),
+),
+const SizedBox(height: 8),
 if (filteredStudies.isEmpty)
 const Padding(padding: EdgeInsets.all(24), child: Text('No se encontraron estudios con esa búsqueda.'))
 else
@@ -21619,7 +21634,26 @@ subtitle: Padding(
 padding: const EdgeInsets.only(top: 5),
 child: Text(study.subtitle),
 ),
-trailing: const Icon(Icons.chevron_right),
+trailing: Row(
+  mainAxisSize: MainAxisSize.min,
+  children: [
+    ValueListenableBuilder<Set<String>>(
+      valueListenable: SavedStudyStore.saved,
+      builder: (context, saved, _) {
+        final isSaved = saved.contains(study.number);
+        return IconButton(
+          tooltip: isSaved ? 'Quitar de guardados' : 'Guardar estudio',
+          icon: Icon(
+            isSaved ? Icons.bookmark : Icons.bookmark_border,
+            color: const Color(0xFF14243A),
+          ),
+          onPressed: () => SavedStudyStore.toggle(study.number),
+        );
+      },
+    ),
+    const Icon(Icons.chevron_right),
+  ],
+),
 onTap: () {
 Navigator.push(
 context,
