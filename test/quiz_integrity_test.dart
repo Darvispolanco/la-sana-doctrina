@@ -61,4 +61,17 @@ void main() {
     }
   });
 
+
+  test('el catálogo tiene títulos únicos y al menos mil preguntas', () {
+    final titles = quizPacks
+        .map((pack) => pack.title.trim().toLowerCase())
+        .toSet();
+    expect(titles, hasLength(quizPacks.length));
+    expect(quizPacks.length, greaterThanOrEqualTo(50));
+    expect(
+      quizPacks.fold<int>(0, (total, pack) => total + pack.questions.length),
+      greaterThanOrEqualTo(1000),
+    );
+  });
+
 }
