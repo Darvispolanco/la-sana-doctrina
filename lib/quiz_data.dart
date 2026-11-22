@@ -548,7 +548,13 @@ final List<QuizPack> quizPacks = <QuizPack>[
   ..._newEvaluationBlueprints.map((item) => QuizPack(
     title: item.title,
     description: item.description,
-    questions: (() {\n      final complete = _curatedQuestionsFor(item.title);\n      if (complete != null) return complete;\n      final specific = _doctrinalQuestionsFor(item.title) ?? <QuizQuestion>[];\n      final generated = _generateEvaluationQuestions(item.title, item.truth, item.references);\n      return <QuizQuestion>[...specific, ...generated.take(20 - specific.length)];\n    })(),
+    questions: (() {
+      final complete = _curatedQuestionsFor(item.title);
+      if (complete != null) return complete;
+      final specific = _doctrinalQuestionsFor(item.title) ?? <QuizQuestion>[];
+      final generated = _generateEvaluationQuestions(item.title, item.truth, item.references);
+      return <QuizQuestion>[...specific, ...generated.take(20 - specific.length)];
+    })(),
     difficulty: 'Intermedio',
     source: 'Estudios bíblicos y defensa doctrinal',
   )),
