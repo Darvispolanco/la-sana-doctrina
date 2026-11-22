@@ -7,6 +7,7 @@ import 'dictionary_tranche_02.dart';
 import 'dictionary_tranche_03.dart';
 import 'dictionary_tranche_04.dart';
 import 'dictionary_tranche_05.dart';
+import 'dictionary_tranche_06.dart';
 import 'quiz_data.dart';
 import 'study_data.dart';
 export 'study_data.dart';
@@ -560,6 +561,13 @@ final List<DictionaryTerm> dictionaryTerms = [
         context: entry['context']!,
       )),
   ...dictionaryTranche05.map((entry) => DictionaryTerm(
+        entry['term']!,
+        entry['definition']!,
+        entry['category']!,
+        entry['references']!,
+        context: entry['context']!,
+      )),
+  ...dictionaryTranche06.map((entry) => DictionaryTerm(
         entry['term']!,
         entry['definition']!,
         entry['category']!,
