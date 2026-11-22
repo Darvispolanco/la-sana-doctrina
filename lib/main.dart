@@ -22076,7 +22076,7 @@ class QuizPack {
   });
 }
 
-const List<QuizPack> quizPacks = [
+const List<QuizPack> _baseQuizPacks = [
   QuizPack(
     title: 'La doctrina de la Trinidad',
     description: 'Un solo Dios: Padre, Hijo y Espíritu Santo.',
@@ -22251,6 +22251,112 @@ const List<QuizPack> quizPacks = [
       QuizQuestion(question: '¿Qué enseña Gálatas 3 acerca de la promesa a Abraham?', options: ['Que la ley anuló la promesa', 'Que la promesa encuentra su cumplimiento en Cristo', 'Que los gentiles quedan excluidos', 'Que la bendición depende de genealogía'], correctIndex: 1, explanation: 'Pablo explica que la promesa precede a la ley y se cumple en Cristo, extendiendo la bendición a los que creen.', references: 'Gálatas 3:16-29'),
     ],
   ),
+];
+
+// Genera preguntas de comprensión, contexto y relación bíblica.
+const List<String> _evaluationFrames = ["¿Qué afirmación expresa el punto central de «{t}»?","¿Qué conclusión respeta el contexto bíblico de «{t}»?","¿Cuál lectura evita interpretar aisladamente «{t}»?","¿Qué relación entre pasajes ayuda a comprender «{t}»?","¿Qué debe afirmarse al comparar «{t}» con el conjunto de la Escritura?","¿Cuál resumen conserva el sentido doctrinal de «{t}»?","¿Qué afirmación puede sostenerse con las referencias indicadas para «{t}»?","¿Qué lectura armoniza mejor los textos relacionados con «{t}»?","¿Qué alternativa distingue la enseñanza bíblica de una conclusión añadida sobre «{t}»?","¿Qué principio debe guiar la interpretación de «{t}»?","¿Qué respuesta considera el contexto literario e histórico de «{t}»?","¿Qué afirmación mantiene la distinción entre pasajes al tratar «{t}»?","¿Qué opción expresa la enseñanza sin exceder lo que afirma el texto sobre «{t}»?","¿Qué conclusión se obtiene al leer conjuntamente las referencias de «{t}»?","¿Qué afirmación es compatible con la enseñanza bíblica completa sobre «{t}»?","¿Qué respuesta identifica el énfasis principal de los textos sobre «{t}»?","¿Qué interpretación considera la afirmación y el propósito del pasaje sobre «{t}»?","¿Qué opción permite explicar «{t}» con fidelidad a las Escrituras?","¿Qué afirmación evita confundir conceptos al estudiar «{t}»?","¿Qué conclusión final está mejor fundamentada para «{t}»?"];
+const List<String> _evaluationDistractors = [
+  'Debe decidirse por una frase aislada, aunque contradiga el contexto.',
+  'La tradición humana puede corregir el sentido de la Escritura.',
+  'Puede aceptarse aunque no tenga apoyo en los pasajes citados.',
+];
+
+List<QuizQuestion> _generateEvaluationQuestions(
+  String topic, String truth, String references,
+) => List<QuizQuestion>.generate(20, (index) {
+  final correct = index % 4;
+  final options = <String>[];
+  for (var slot = 0; slot < 4; slot++) {
+    options.add(slot == correct
+      ? truth
+      : _evaluationDistractors[(slot + index) % _evaluationDistractors.length]);
+  }
+  return QuizQuestion(
+    question: _evaluationFrames[index].replaceAll('{t}', topic),
+    options: options,
+    correctIndex: correct,
+    explanation: '$truth Comprueba la respuesta leyendo cada pasaje en su contexto y comparándolo con el testimonio bíblico relacionado.',
+    references: references,
+  );
+});
+
+QuizPack _expandEvaluation(QuizPack pack) {
+  if (pack.questions.length >= 20) {
+    return QuizPack(
+      title: pack.title, description: pack.description,
+      questions: pack.questions.take(20).toList(),
+      difficulty: pack.difficulty, source: pack.source,
+    );
+  }
+  final refs = pack.questions.isEmpty
+    ? '2 Timoteo 3:16-17; Hechos 17:11'
+    : pack.questions.first.references;
+  final generated = _generateEvaluationQuestions(pack.title, pack.description, refs);
+  return QuizPack(
+    title: pack.title, description: pack.description,
+    questions: <QuizQuestion>[
+      ...pack.questions,
+      ...generated.take(20 - pack.questions.length),
+    ],
+    difficulty: pack.difficulty, source: pack.source,
+  );
+}
+
+class _EvaluationBlueprint {
+  final String title, description, truth, references;
+  const _EvaluationBlueprint(this.title, this.description, this.truth, this.references);
+}
+
+const List<_EvaluationBlueprint> _newEvaluationBlueprints = [
+  _EvaluationBlueprint("Unidad de Dios", "El monoteísmo como base de la fe trinitaria.", "Hay un solo Dios; la Trinidad no enseña tres dioses.", "Dt 6:4; Is 45:5-6; 1 Co 8:4-6"),
+  _EvaluationBlueprint("El Padre", "Identidad y obras del Padre en relación con el Hijo y el Espíritu.", "El Padre es una persona divina y no otro nombre del Hijo.", "Mt 3:16-17; Jn 5:19-23; Ef 1:3-6"),
+  _EvaluationBlueprint("Divinidad del Hijo", "La plena divinidad de Jesucristo.", "El Hijo es Dios y comparte la naturaleza divina, sin ser la persona del Padre.", "Jn 1:1-3; Jn 20:28; Heb 1:8"),
+  _EvaluationBlueprint("Persona del Espíritu Santo", "Personalidad y divinidad del Espíritu Santo.", "El Espíritu habla, enseña, guía y puede ser entristecido; no es una fuerza impersonal.", "Jn 14:16-17,26; Hch 5:3-4; Ef 4:30"),
+  _EvaluationBlueprint("Relaciones trinitarias", "Distinción personal y unidad divina.", "Padre, Hijo y Espíritu son distintos y están relacionados, compartiendo la única identidad divina.", "Mt 28:19; 2 Co 13:14; 1 P 1:2"),
+  _EvaluationBlueprint("Bautismo de Jesús", "La manifestación simultánea de Padre, Hijo y Espíritu.", "El Hijo es bautizado, el Espíritu desciende y el Padre habla desde los cielos.", "Mt 3:13-17; Mr 1:9-11; Lc 3:21-22"),
+  _EvaluationBlueprint("Nombre del Padre, Hijo y Espíritu", "La fórmula bautismal de Mateo.", "Jesús nombra conjuntamente a las tres personas bajo el singular «nombre».", "Mt 28:18-20"),
+  _EvaluationBlueprint("Bendición apostólica", "La presencia trinitaria en la adoración de la Iglesia.", "Pablo distingue la gracia de Cristo, el amor de Dios y la comunión del Espíritu.", "2 Co 13:14"),
+  _EvaluationBlueprint("El Verbo eterno", "El prólogo del Evangelio de Juan.", "El Verbo estaba con Dios y era Dios; el texto distingue al Verbo de aquel con quien estaba.", "Jn 1:1-18"),
+  _EvaluationBlueprint("Jesús y el Padre", "La relación filial en el Evangelio de Juan.", "Jesús habla con el Padre y recibe misión de él; no se identifica personalmente como el Padre.", "Jn 5:19-23; 17:1-5"),
+  _EvaluationBlueprint("Encarnación del Hijo", "El Verbo asume verdadera humanidad.", "El Verbo se hizo carne sin dejar de ser quien eternamente es.", "Jn 1:14; Fil 2:5-8; Heb 2:14-17"),
+  _EvaluationBlueprint("Humanidad de Cristo", "La realidad de la naturaleza humana de Jesús.", "Jesús experimentó verdadera humanidad sin pecado y puede representarnos como sumo sacerdote.", "Lc 2:52; Heb 4:15"),
+  _EvaluationBlueprint("Expiación", "La muerte de Jesús por los pecados.", "Cristo murió por nuestros pecados conforme a las Escrituras y su sacrificio es suficiente.", "Is 53:4-6; Ro 3:24-26; 1 P 2:24"),
+  _EvaluationBlueprint("Resurrección de Cristo", "La resurrección corporal e histórica de Jesús.", "Dios resucitó a Jesús; la resurrección confirma su victoria y fundamenta la esperanza.", "Lc 24:36-43; 1 Co 15:3-20"),
+  _EvaluationBlueprint("Ascensión de Cristo", "La exaltación del Hijo a la diestra del Padre.", "El Cristo resucitado ascendió y fue exaltado sin borrar la distinción con el Padre.", "Hch 1:9-11; 2:32-36; Ef 1:20-23"),
+  _EvaluationBlueprint("Intercesión de Cristo", "El ministerio presente de Jesús por los creyentes.", "Jesús vive para interceder por quienes se acercan a Dios por medio de él.", "Ro 8:34; Heb 7:24-25; 1 Jn 2:1"),
+  _EvaluationBlueprint("Regeneración", "La obra del Espíritu en el nuevo nacimiento.", "El nuevo nacimiento es obra del Espíritu y no resultado del mérito humano.", "Jn 3:3-8; Tit 3:5-6"),
+  _EvaluationBlueprint("Santificación por el Espíritu", "La obra continua del Espíritu en la vida santa.", "El Espíritu produce fruto y capacita al creyente para andar conforme a la voluntad de Dios.", "Gá 5:16-25; 1 P 1:2"),
+  _EvaluationBlueprint("Dones espirituales", "La diversidad de dones para edificar la Iglesia.", "El Espíritu distribuye dones como quiere para el bien común y la edificación.", "1 Co 12:4-11; Ro 12:4-8; 1 P 4:10-11"),
+  _EvaluationBlueprint("Fruto del Espíritu", "El carácter que el Espíritu produce.", "El fruto del Espíritu se manifiesta en virtudes que contrastan con las obras de la carne.", "Gá 5:19-23"),
+  _EvaluationBlueprint("Oración cristiana", "La oración al Padre por medio del Hijo en el Espíritu.", "La oración cristiana se acerca al Padre por medio de Cristo y con ayuda del Espíritu.", "Mt 6:9; Jn 16:23-24; Ef 2:18; Ro 8:26"),
+  _EvaluationBlueprint("Adoración bíblica", "La adoración al único Dios revelado en la Trinidad.", "La adoración pertenece a Dios; el Hijo recibe honra y el Espíritu conduce a la verdad.", "Jn 4:23-24; 5:23; Fil 3:3"),
+  _EvaluationBlueprint("Autoridad bíblica", "Inspiración y suficiencia de las Escrituras.", "Toda la Escritura es inspirada por Dios y equipa al creyente para toda buena obra.", "2 Ti 3:16-17; 2 P 1:20-21"),
+  _EvaluationBlueprint("Hermenéutica", "Principios para interpretar los textos bíblicos.", "Cada texto debe leerse en su contexto literario, histórico y canónico.", "Neh 8:8; Lc 24:27; 2 P 3:16"),
+  _EvaluationBlueprint("Géneros bíblicos", "Narrativa, poesía, profecía, evangelios y epístolas.", "El género literario ayuda a reconocer el propósito y el lenguaje del pasaje.", "Sal 1; Is 5:1-7; Lc 1:1-4"),
+  _EvaluationBlueprint("Pactos bíblicos", "La unidad del plan redentor a través de los pactos.", "Los pactos desarrollan el propósito de Dios y encuentran cumplimiento en Cristo.", "Gn 12:1-3; Jer 31:31-34; Heb 8:6-13"),
+  _EvaluationBlueprint("Promesa a Abraham", "La promesa divina y su cumplimiento en Cristo.", "La bendición prometida a Abraham alcanza a las naciones por Cristo y se recibe por la fe.", "Gn 12:1-3; Gá 3:6-18"),
+  _EvaluationBlueprint("Ley y evangelio", "La función de la ley y la salvación por gracia.", "La ley revela el pecado, pero la justificación es por gracia mediante la fe.", "Ro 3:19-28; Gá 3:19-26; Ef 2:8-10"),
+  _EvaluationBlueprint("Justificación", "La declaración de justicia por gracia mediante la fe.", "Dios justifica al pecador por la fe, no por obras como mérito salvador.", "Ro 4:1-8; 5:1; Gá 2:16"),
+  _EvaluationBlueprint("Adopción", "La identidad de los creyentes como hijos de Dios.", "En Cristo recibimos adopción y el Espíritu da testimonio de esa relación filial.", "Ro 8:14-17; Gá 4:4-7; Ef 1:4-5"),
+  _EvaluationBlueprint("Iglesia cuerpo de Cristo", "Unidad y diversidad del pueblo redimido.", "La Iglesia es un cuerpo con muchos miembros, unidos en Cristo y capacitados por el Espíritu.", "1 Co 12:12-27; Ef 1:22-23; 4:1-16"),
+  _EvaluationBlueprint("Misión de la Iglesia", "El llamado a hacer discípulos y dar testimonio.", "La Iglesia anuncia el evangelio y hace discípulos en obediencia al mandato de Jesús.", "Mt 28:18-20; Hch 1:8; 2 Co 5:18-20"),
+  _EvaluationBlueprint("Bautismo cristiano", "El significado del bautismo como identificación con Cristo.", "El bautismo expresa unión con Cristo en su muerte y resurrección y la respuesta de fe.", "Mt 28:19; Ro 6:3-4; Col 2:12"),
+  _EvaluationBlueprint("Cena del Señor", "Memoria, proclamación y comunión en la mesa del Señor.", "La Cena anuncia la muerte del Señor y llama a participar con discernimiento y reverencia.", "Lc 22:14-20; 1 Co 10:16-17; 11:23-29"),
+  _EvaluationBlueprint("Santidad cristiana", "La vida apartada para Dios como fruto de la gracia.", "La santidad responde al carácter santo de Dios y se vive en obediencia por gracia.", "Lv 19:2; 1 P 1:14-16; Heb 12:14"),
+  _EvaluationBlueprint("Perseverancia", "La fidelidad continua de quienes confían en Cristo.", "El creyente es llamado a permanecer en Cristo y correr con perseverancia.", "Jn 15:4-10; Heb 10:23-25; 12:1-2"),
+  _EvaluationBlueprint("Tentación y pecado", "La responsabilidad humana ante la tentación.", "Dios no tienta al mal y provee ayuda para resistir; el pecado debe reconocerse y abandonarse.", "Stg 1:13-15; 1 Co 10:13; 1 Jn 1:9"),
+  _EvaluationBlueprint("Perdón y reconciliación", "El perdón recibido de Dios y practicado con el prójimo.", "Quienes reciben el perdón de Dios son llamados a perdonar como el Señor perdonó.", "Mt 6:12-15; Ef 4:32; Col 3:13"),
+];
+
+final List<QuizPack> quizPacks = <QuizPack>[
+  ..._baseQuizPacks.map(_expandEvaluation),
+  ..._newEvaluationBlueprints.map((item) => QuizPack(
+    title: item.title,
+    description: item.description,
+    questions: _generateEvaluationQuestions(item.title, item.truth, item.references),
+    difficulty: 'Intermedio',
+    source: 'Estudios bíblicos y defensa doctrinal',
+  )),
 ];
 
 class CuestionariosTab extends StatefulWidget {
