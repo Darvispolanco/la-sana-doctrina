@@ -3,6 +3,18 @@ import '../lib/dictionary_extra.dart';
 import '../lib/dictionary_tranche_02.dart';
 import '../lib/dictionary_tranche_03.dart';
 
+String normalizeTerm(String value) {
+  return value
+      .trim()
+      .toLowerCase()
+      .replaceAll(RegExp(r'\\s+'), ' ')
+      .replaceAll(RegExp(r'[áàä]'), 'a')
+      .replaceAll(RegExp(r'[éèë]'), 'e')
+      .replaceAll(RegExp(r'[íìï]'), 'i')
+      .replaceAll(RegExp(r'[óòö]'), 'o')
+      .replaceAll(RegExp(r'[úùü]'), 'u');
+}
+
 void main() {
   final entries = <Map<String, String>>[
     ...additionalDictionaryEntries,
@@ -24,11 +36,11 @@ void main() {
     }
   });
 
-  test('no hay términos duplicados entre los bloques ampliados', () {
+  test('no hay términos duplicados ignorando mayúsculas y tildes', () {
     final terms = <String>[
       ...baseDictionaryContexts.keys,
       ...entries.map((entry) => entry['term']!),
-    ].map((term) => term.trim().toLowerCase()).toList();
+    ].map(normalizeTerm).toList();
 
     expect(terms.toSet().length, terms.length,
         reason: 'Hay términos repetidos entre los bloques del diccionario.');
