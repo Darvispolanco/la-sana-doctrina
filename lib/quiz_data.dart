@@ -369,6 +369,53 @@ QuizQuestion _curatedQuestion(
   references: references,
 );
 
+List<QuizQuestion>? _doctrinalQuestionsFor(String title) {
+  switch (title) {
+    case 'El Padre':
+      return [
+        _curatedQuestion('En el bautismo de Jesús, ¿quién habla desde los cielos?', ['Jesús dirigiéndose a sí mismo', 'El Padre dando testimonio del Hijo', 'Juan el Bautista', 'Un ángel'], 1, 'Mateo distingue al Hijo que es bautizado, al Espíritu que desciende y al Padre que habla desde los cielos.', 'Mateo 3:16-17; Marcos 1:9-11'),
+        _curatedQuestion('En Juan 17:1-5, ¿a quién dirige Jesús su oración?', ['Al Padre', 'Al Espíritu Santo', 'A los discípulos', 'A los ángeles'], 0, 'La oración muestra una relación personal real entre el Hijo y el Padre, anterior a la encarnación.', 'Juan 17:1-5'),
+        _curatedQuestion('Según Efesios 1:3-6, ¿qué hace el Padre en el plan de salvación?', ['Es presentado como quien adopta a los creyentes por medio de Jesucristo', 'Es identificado como el apóstol Pablo', 'Es quien reemplaza la obra del Hijo', 'Es descrito como una criatura'], 0, 'Pablo atribuye al Padre la elección y adopción, y señala que estas bendiciones llegan por medio de Jesucristo.', 'Efesios 1:3-6'),
+        _curatedQuestion('¿Qué demuestra la expresión «mi Hijo amado» en Mateo 3:17?', ['Que Padre e Hijo son la misma persona sin distinción', 'Que el Padre identifica al Hijo y expresa su complacencia en él', 'Que Jesús es un profeta más', 'Que el Espíritu no estaba presente'], 1, 'La voz identifica al Hijo como objeto del testimonio del Padre; la escena presenta distinción personal.', 'Mateo 3:16-17'),
+        _curatedQuestion('En Juan 5:19-23, ¿qué relación presenta Jesús entre el Padre y el Hijo?', ['El Hijo actúa en perfecta relación con el Padre y recibe honra correspondiente', 'El Padre y el Hijo son adversarios', 'El Hijo desconoce al Padre', 'El Padre deja de ser Dios'], 0, 'El pasaje presenta la obra y la honra del Hijo en relación con el Padre, sin confundir sus personas.', 'Juan 5:19-23'),
+      ];
+    case 'Divinidad del Hijo':
+      return [
+        _curatedQuestion('¿Qué afirma Juan 1:1 acerca del Verbo?', ['Que era una criatura', 'Que estaba con Dios y era Dios', 'Que comenzó a existir en Belén', 'Que era solamente una idea'], 1, 'Juan afirma tanto la distinción relacional del Verbo respecto de Dios como su plena deidad.', 'Juan 1:1-3'),
+        _curatedQuestion('¿Cómo responde Tomás al encontrarse con el Cristo resucitado?', ['«Mi Señor y mi Dios»', '«Mi maestro y profeta»', '«Mi rey terrenal»', '«Mi ángel»'], 0, 'Tomás dirige a Jesús una confesión explícita de señorío y deidad, que Jesús no rechaza.', 'Juan 20:26-29'),
+        _curatedQuestion('¿Qué tratamiento recibe el Hijo en Hebreos 1:8?', ['Es llamado Dios en el argumento sobre su superioridad', 'Es llamado un ángel creado', 'Es presentado como inferior a los ángeles por naturaleza', 'Es identificado como el Espíritu Santo'], 0, 'Hebreos aplica al Hijo un lenguaje de realeza y deidad para mostrar su superioridad sobre los ángeles.', 'Hebreos 1:5-9'),
+        _curatedQuestion('Según Colosenses 1:16-17, ¿qué papel tiene el Hijo respecto de la creación?', ['Todas las cosas fueron creadas por medio de él y para él', 'Él fue creado junto con los astros', 'Solo apareció después de la creación', 'No tiene relación con el universo'], 0, 'Pablo atribuye al Hijo la mediación de la creación y su sustentación, no un lugar entre las criaturas.', 'Colosenses 1:15-17'),
+        _curatedQuestion('¿Qué enseña Filipenses 2:6-8 sobre Cristo?', ['Existiendo en forma de Dios, tomó condición de siervo y se humilló', 'Dejó de ser divino al encarnarse', 'Fue elevado a la divinidad por primera vez', 'Solo aparentó ser humano'], 0, 'El movimiento del pasaje va de la condición divina a la humillación voluntaria y a la obediencia hasta la muerte.', 'Filipenses 2:5-11'),
+      ];
+    case 'Persona del Espíritu Santo':
+      return [
+        _curatedQuestion('¿Qué hace el Espíritu Santo según Juan 14:26?', ['Enseña y recuerda a los discípulos las palabras de Jesús', 'Es presentado como una fuerza sin acción personal', 'Sustituye las palabras de Jesús', 'Niega la enseñanza apostólica'], 0, 'Jesús atribuye al Espíritu acciones personales de enseñanza y recordatorio.', 'Juan 14:25-26'),
+        _curatedQuestion('En Hechos 13:2, ¿cómo se expresa el Espíritu Santo?', ['Habla y aparta a Bernabé y Saulo para una obra', 'Es descrito como un objeto del templo', 'Permanece sin intervenir', 'Es confundido con Herodes'], 0, 'El Espíritu habla en la comunidad y dirige una misión concreta.', 'Hechos 13:1-4'),
+        _curatedQuestion('¿Qué advierte Pablo en Efesios 4:30?', ['Que no se entristezca al Espíritu Santo', 'Que el Espíritu no conoce a la Iglesia', 'Que el Espíritu es una emoción humana', 'Que los creyentes deben ignorarlo'], 0, 'La exhortación presupone una relación personal con el Espíritu, a quien se puede entristecer.', 'Efesios 4:25-32'),
+        _curatedQuestion('¿Qué conclusión presenta Hechos 5:3-4 al comparar mentir al Espíritu con mentir a Dios?', ['El Espíritu Santo es presentado con identidad divina', 'El Espíritu es un ángel creado', 'El Espíritu es solo una metáfora', 'Pedro niega la existencia de Dios'], 0, 'Pedro identifica la mentira al Espíritu con mentir a Dios, un dato central para la doctrina de su deidad.', 'Hechos 5:3-4'),
+        _curatedQuestion('Según 1 Corintios 12:11, ¿quién distribuye los dones como quiere?', ['El mismo Espíritu', 'Los creyentes según popularidad', 'Los gobernantes civiles', 'Los ángeles por iniciativa propia'], 0, 'La distribución soberana de los dones se atribuye al Espíritu, mostrando voluntad y acción personal.', '1 Corintios 12:4-11'),
+      ];
+    case 'Relaciones trinitarias':
+      return [
+        _curatedQuestion('¿Qué distingue la escena de Mateo 3:16-17?', ['Al Hijo bautizado, al Espíritu descendiendo y al Padre hablando', 'Tres dioses que compiten', 'Una sola persona cambiando de apariencia en momentos sucesivos', 'La ausencia del Espíritu'], 0, 'Los tres aparecen simultáneamente en relaciones diferenciadas dentro de una misma escena.', 'Mateo 3:16-17'),
+        _curatedQuestion('¿Qué estructura aparece en 2 Corintios 13:14?', ['La gracia de Cristo, el amor de Dios y la comunión del Espíritu', 'Una lista de tres ángeles', 'Tres caminos independientes de salvación', 'Una negación de la unidad divina'], 0, 'La bendición apostólica coordina a Cristo, Dios y el Espíritu en la vida de la Iglesia.', '2 Corintios 13:14'),
+        _curatedQuestion('¿Qué muestra 1 Pedro 1:2 sobre la obra trinitaria?', ['Presciencia del Padre, santificación del Espíritu y obediencia a Jesucristo', 'Tres salvaciones distintas', 'Que el Espíritu es una criatura', 'Que el Hijo no participa en la redención'], 0, 'Pedro distingue las acciones relacionadas del Padre, el Espíritu y Jesucristo en la salvación.', '1 Pedro 1:1-2'),
+        _curatedQuestion('¿Qué debe afirmarse al relacionar unidad divina y distinción personal?', ['Un solo Dios sin confundir al Padre, al Hijo y al Espíritu', 'Tres dioses separados', 'Una persona con tres nombres intercambiables', 'Tres partes incompletas de Dios'], 0, 'La enseñanza trinitaria conserva simultáneamente el monoteísmo y las distinciones personales del testimonio bíblico.', 'Deuteronomio 6:4; Mateo 28:19; 2 Corintios 13:14'),
+        _curatedQuestion('En Juan 14:16-17, ¿qué relación anuncia Jesús?', ['El Hijo pide al Padre y el Padre da otro Consolador', 'Jesús afirma que él es el Padre que se enviará a sí mismo', 'El Espíritu reemplaza al Padre', 'Los discípulos crean al Espíritu'], 0, 'El lenguaje de pedir, dar y enviar presenta relaciones personales diferenciadas.', 'Juan 14:16-17'),
+      ];
+    case 'Bautismo de Jesús':
+      return [
+        _curatedQuestion('¿Quién bautiza a Jesús en el Jordán?', ['Juan el Bautista', 'Pedro', 'El apóstol Juan', 'Moisés'], 0, 'Mateo narra que Jesús acude a Juan para ser bautizado y que Juan finalmente lo bautiza.', 'Mateo 3:13-16'),
+        _curatedQuestion('¿Qué sucede con el Espíritu cuando Jesús sale del agua?', ['Desciende sobre él como paloma', 'Se convierte en agua', 'Desaparece de la escena', 'Habla desde el templo'], 0, 'Los evangelios describen el descenso del Espíritu sobre Jesús en el momento de su bautismo.', 'Mateo 3:16; Marcos 1:10; Lucas 3:22'),
+        _curatedQuestion('¿Desde dónde se oye la voz que identifica al Hijo amado?', ['Desde los cielos', 'Desde Jerusalén', 'Desde el desierto', 'Desde la multitud'], 0, 'La voz celestial identifica a Jesús como el Hijo amado en quien el Padre se complace.', 'Mateo 3:17'),
+        _curatedQuestion('¿Por qué esta escena es relevante para estudiar la Trinidad?', ['Porque presenta simultáneamente al Padre, al Hijo y al Espíritu', 'Porque enseña tres dioses rivales', 'Porque omite toda distinción personal', 'Porque niega la identidad de Jesús'], 0, 'La simultaneidad de las acciones impide reducir la escena a una sucesión de papeles de una sola persona.', 'Mateo 3:16-17'),
+        _curatedQuestion('¿Qué añade Lucas 3:21-22 al relato?', ['Sitúa el descenso del Espíritu después del bautismo de Jesús mientras él ora', 'Afirma que Jesús no fue bautizado', 'Identifica al Espíritu con Juan', 'Elimina la voz celestial'], 0, 'Lucas conserva el bautismo, la oración de Jesús, el descenso del Espíritu y la voz celestial.', 'Lucas 3:21-22'),
+      ];
+    default:
+      return null;
+  }
+}
+
 List<QuizQuestion>? _curatedQuestionsFor(String title) {
   if (title != 'Unidad de Dios') return null;
   return [
@@ -446,7 +493,7 @@ final List<QuizPack> quizPacks = <QuizPack>[
   ..._newEvaluationBlueprints.map((item) => QuizPack(
     title: item.title,
     description: item.description,
-    questions: _curatedQuestionsFor(item.title) ?? _generateEvaluationQuestions(item.title, item.truth, item.references),
+    questions: (() {\n      final complete = _curatedQuestionsFor(item.title);\n      if (complete != null) return complete;\n      final specific = _doctrinalQuestionsFor(item.title) ?? <QuizQuestion>[];\n      final generated = _generateEvaluationQuestions(item.title, item.truth, item.references);\n      return <QuizQuestion>[...specific, ...generated.take(20 - specific.length)];\n    })(),
     difficulty: 'Intermedio',
     source: 'Estudios bíblicos y defensa doctrinal',
   )),
