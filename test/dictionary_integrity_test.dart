@@ -25,7 +25,7 @@ void main() {
   ];
 
   test('el diccionario ampliado conserva entradas completas', () {
-    expect(entries.length, greaterThanOrEqualTo(400));
+    expect(entries.length, greaterThanOrEqualTo(500));
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
