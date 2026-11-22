@@ -188,11 +188,6 @@ icon: Icons.quiz,
 title: 'Cuestionarios',
 subtitle: 'Repasa lo aprendido.',
 ),
-const FeatureTile(
-icon: Icons.headphones,
-title: 'Enseñanzas en audio',
-subtitle: 'Escucha lecciones cuando estén disponibles.',
-),
 const SizedBox(height: 12),
 const Text(
 'Versión inicial de desarrollo · El contenido se incorporará por etapas.',
@@ -22405,6 +22400,47 @@ QuizPack _expandEvaluation(QuizPack pack) {
   );
 }
 
+
+QuizQuestion _curatedQuestion(
+  String question,
+  List<String> options,
+  int correctIndex,
+  String explanation,
+  String references,
+) => QuizQuestion(
+  question: question,
+  options: options,
+  correctIndex: correctIndex,
+  explanation: explanation,
+  references: references,
+);
+
+List<QuizQuestion>? _curatedQuestionsFor(String title) {
+  if (title != 'Unidad de Dios') return null;
+  return [
+    _curatedQuestion('¿Qué declara Deuteronomio 6:4 en su confesión central?', ['Que Israel debe adorar a muchos dioses', 'Que Jehová es uno', 'Que Moisés es divino', 'Que cada nación tiene su propio creador'], 1, 'El Shemá llama a Israel a reconocer la unicidad de Jehová. La doctrina trinitaria mantiene este monoteísmo y no propone tres dioses.', 'Deuteronomio 6:4; Marcos 12:29'),
+    _curatedQuestion('¿Qué conclusión inmediata se desprende de Isaías 45:5-6?', ['Hay un solo Señor y no existe otro Dios', 'Los ídolos comparten la deidad', 'Dios fue formado por Israel', 'Los ángeles son dioses equivalentes'], 0, 'El contexto afirma la exclusividad de Jehová frente a los ídolos y las naciones.', 'Isaías 45:5-6; Isaías 44:6-8'),
+    _curatedQuestion('En 1 Corintios 8:4-6, ¿qué contrasta Pablo?', ['La fe y las obras', 'Los ídolos llamados dioses y la confesión de un solo Dios y un solo Señor', 'El templo y la sinagoga', 'La ley de Moisés y los profetas'], 1, 'Pablo rechaza la realidad de los ídolos como dioses y formula la confesión cristiana alrededor del único Dios, el Padre, y un solo Señor, Jesucristo.', '1 Corintios 8:4-6'),
+    _curatedQuestion('¿Por qué la Trinidad no equivale a creer en tres dioses?', ['Porque el Hijo y el Espíritu son criaturas', 'Porque Padre, Hijo y Espíritu son tres nombres de una sola persona', 'Porque confiesa una sola esencia divina y tres personas distintas', 'Porque solo el Padre es Dios'], 2, 'La distinción personal no divide la esencia divina. La doctrina afirma un solo Dios, no tres seres divinos independientes.', 'Deuteronomio 6:4; Mateo 28:19; 2 Corintios 13:14'),
+    _curatedQuestion('¿Qué significa que Dios es único en la enseñanza bíblica?', ['Que no existe otro ser que sea Dios por naturaleza', 'Que Dios está compuesto por tres dioses', 'Que el Padre creó al Hijo como primer ángel', 'Que Dios se manifiesta sin relaciones personales'], 0, 'La unicidad divina excluye otros dioses verdaderos; no elimina las distinciones personales que aparecen en el testimonio bíblico.', 'Isaías 45:5-6; 1 Corintios 8:4-6'),
+    _curatedQuestion('¿Cómo debe leerse Juan 1:1 junto con Deuteronomio 6:4?', ['Juan contradice el monoteísmo', 'Juan enseña que el Verbo era una criatura', 'Ambos textos deben conservarse: hay un solo Dios y el Verbo es Dios', 'Deuteronomio solo era válido antes de Jesús'], 2, 'Juan 1:1 atribuye deidad al Verbo y lo distingue relacionalmente de aquel con quien estaba. Esto debe armonizarse con el monoteísmo bíblico.', 'Deuteronomio 6:4; Juan 1:1-3'),
+    _curatedQuestion('¿Qué error aparece cuando se afirma que Padre, Hijo y Espíritu son tres dioses?', ['Se confunde la distinción personal con una división de la esencia divina', 'Se reconoce la humanidad de Jesús', 'Se afirma la inspiración bíblica', 'Se distingue el Antiguo del Nuevo Testamento'], 0, 'La doctrina trinitaria distingue personas sin dividir la única esencia divina.', 'Deuteronomio 6:4; Mateo 28:19'),
+    _curatedQuestion('¿Qué aporta Mateo 28:19 al estudio de la unidad divina?', ['Menciona tres nombres de tres dioses', 'Nombra al Padre, al Hijo y al Espíritu Santo bajo el singular nombre', 'Niega la divinidad de Cristo', 'Enseña que el Espíritu es un símbolo'], 1, 'El singular «nombre» y la mención coordinada de las tres personas son datos que deben estudiarse junto al monoteísmo bíblico.', 'Mateo 28:18-20'),
+    _curatedQuestion('¿Qué relación existe entre 1 Corintios 8:6 y la confesión de Israel?', ['Pablo abandona la fe en un solo Dios', 'Pablo incorpora a Jesús a la confesión cristiana sin enseñar dos dioses', 'Pablo identifica a Jesús como un ídolo', 'Pablo elimina al Padre de la fe'], 1, 'Pablo mantiene el monoteísmo y menciona al Padre como un solo Dios y a Jesucristo como un solo Señor dentro de la confesión cristiana.', 'Deuteronomio 6:4; 1 Corintios 8:4-6'),
+    _curatedQuestion('¿Qué debe evitarse al explicar la palabra «uno» en Deuteronomio 6:4?', ['Leer el versículo en su contexto', 'Compararlo con otros pasajes', 'Usarlo para negar textos que también llaman Dios al Hijo y presentan al Espíritu como divino', 'Reconocer su afirmación monoteísta'], 2, 'El texto afirma que Jehová es uno; no debe utilizarse para silenciar otros pasajes bíblicos, sino armonizarse con ellos.', 'Deuteronomio 6:4; Juan 1:1; Hechos 5:3-4'),
+    _curatedQuestion('¿Qué enseña Isaías 44:6 sobre la identidad de Dios?', ['Jehová es el primero y el postrero; fuera de él no hay Dios', 'Existen muchos creadores', 'Los ídolos pueden salvar', 'Israel debe adorar a los astros'], 0, 'La declaración forma parte de la polémica profética contra la idolatría y afirma la exclusividad de Jehová.', 'Isaías 44:6-8'),
+    _curatedQuestion('¿Cómo debe responderse a la objeción de que tres personas implican tres dioses?', ['Negando que el Padre sea distinto del Hijo', 'Explicando la diferencia entre persona y esencia sin convertirla en tres seres divinos', 'Afirmando que el Espíritu es solo una energía', 'Eliminando Mateo 28:19'], 1, 'La respuesta debe distinguir cuidadosamente las categorías: tres personas no significan tres esencias o tres dioses.', 'Mateo 28:19; 2 Corintios 13:14; Efesios 4:4-6'),
+    _curatedQuestion('¿Qué muestra Marcos 12:29 cuando Jesús cita el Shemá?', ['Que Jesús rechaza el Antiguo Testamento', 'Que Jesús reafirma la confesión de que Dios es uno', 'Que hay varios dioses verdaderos', 'Que la fe depende de los ídolos'], 1, 'Jesús reafirma el mandamiento central de Israel. La enseñanza cristiana sobre la Trinidad no abandona esa confesión.', 'Marcos 12:28-30; Deuteronomio 6:4-5'),
+    _curatedQuestion('¿Qué significa que el Padre, el Hijo y el Espíritu comparten la única naturaleza divina?', ['Que cada uno posee una tercera parte de Dios', 'Que son tres dioses coordinados', 'Que ninguno es una porción o criatura: cada persona es plenamente divina', 'Que solo actúan como símbolos'], 2, 'La esencia divina no se reparte en partes. La formulación trinitaria confiesa la plena deidad de cada persona sin multiplicar a Dios.', 'Juan 1:1; Hechos 5:3-4; Colosenses 2:9'),
+    _curatedQuestion('¿Qué método es adecuado cuando dos pasajes parecen difíciles de armonizar?', ['Elegir uno y descartar el otro', 'Aislar una frase', 'Estudiar contexto, destinatarios, género y conjunto del testimonio bíblico', 'Decidir según la tradición sin revisar el texto'], 2, 'La interpretación responsable considera el contexto inmediato y el canon completo, sin forzar contradicciones ni ignorar evidencia.', 'Hechos 17:11; 2 Timoteo 2:15'),
+    _curatedQuestion('¿Qué diferencia hay entre monoteísmo y modalismo?', ['Son exactamente la misma afirmación', 'El monoteísmo afirma un solo Dios; el modalismo sostiene que Padre, Hijo y Espíritu son modos de una sola persona', 'El monoteísmo enseña tres dioses', 'El modalismo afirma tres esencias'], 1, 'Confesar un solo Dios no resuelve por sí solo la cuestión de las personas. Los textos que muestran relaciones entre Padre, Hijo y Espíritu también deben considerarse.', 'Mateo 3:16-17; Juan 14:16-17; Deuteronomio 6:4'),
+    _curatedQuestion('¿Qué aporta Efesios 4:4-6 al argumento de unidad?', ['Relaciona un Espíritu, un Señor y un Dios y Padre', 'Enseña que cada creyente tiene un dios', 'Niega la obra del Espíritu', 'Presenta tres salvadores independientes'], 0, 'Pablo reúne la unidad del cuerpo, del Espíritu, del Señor y de Dios y Padre dentro de una exhortación a guardar la unidad.', 'Efesios 4:1-6'),
+    _curatedQuestion('¿Por qué no debe afirmarse que el Espíritu Santo es un segundo Dios separado?', ['Porque la Biblia nunca lo menciona', 'Porque el Espíritu es una criatura', 'Porque la Escritura enseña un solo Dios y presenta al Espíritu como divino, no como otro dios independiente', 'Porque el Espíritu es idéntico personalmente al Padre'], 2, 'Hechos 5:3-4 relaciona mentir al Espíritu Santo con mentir a Dios; esto debe leerse dentro del monoteísmo bíblico.', 'Hechos 5:3-4; Deuteronomio 6:4'),
+    _curatedQuestion('¿Cuál es la conclusión más equilibrada al comparar Deuteronomio 6:4, Mateo 28:19 y 1 Corintios 8:4-6?', ['La Biblia enseña tres dioses', 'La Biblia enseña un solo Dios y distingue al Padre, al Hijo y al Espíritu en su revelación', 'El Nuevo Testamento abandona el monoteísmo', 'Las tres personas son únicamente títulos'], 1, 'La conclusión debe conservar simultáneamente la unicidad de Dios y las distinciones personales presentes en el Nuevo Testamento.', 'Deuteronomio 6:4; Mateo 28:19; 1 Corintios 8:4-6'),
+    _curatedQuestion('¿Cuál afirmación representa mejor el propósito de estudiar la unidad de Dios?', ['Memorizar una frase sin examinar otros pasajes', 'Usar el monoteísmo para evitar estudiar a Cristo', 'Comprender la unicidad divina y relacionarla fielmente con toda la revelación bíblica', 'Sustituir la Biblia por definiciones humanas'], 2, 'La doctrina se construye reuniendo los datos bíblicos en su contexto. Ningún pasaje debe ser utilizado para anular otro texto inspirado.', 'Deuteronomio 6:4; Juan 1:1-18; Mateo 28:18-20'),
+  ];
+}
+
 class _EvaluationBlueprint {
   final String title, description, truth, references;
   const _EvaluationBlueprint(this.title, this.description, this.truth, this.references);
@@ -22456,7 +22492,7 @@ final List<QuizPack> quizPacks = <QuizPack>[
   ..._newEvaluationBlueprints.map((item) => QuizPack(
     title: item.title,
     description: item.description,
-    questions: _generateEvaluationQuestions(item.title, item.truth, item.references),
+    questions: _curatedQuestionsFor(item.title) ?? _generateEvaluationQuestions(item.title, item.truth, item.references),
     difficulty: 'Intermedio',
     source: 'Estudios bíblicos y defensa doctrinal',
   )),
