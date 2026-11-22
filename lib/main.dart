@@ -146,7 +146,7 @@ class InicioTab extends StatelessWidget {
     const SizedBox(height: 26), const SectionHeading('Explora la aplicación'), const SizedBox(height: 8),
     FeatureTile(icon: Icons.menu_book_rounded, title: 'Estudios bíblicos',
       subtitle: 'Explora los 150 estudios y profundiza en cada tema.', onTap: () => onNavigate(1)),
-    FeatureTile(icon: Icons.shield_outlined, title: 'Defensa doctrinal',
+    FeatureTile(icon: Icons.shield_outlined, title: 'Defensa de la doctrina',
       subtitle: 'Consulta los 100 estudios de defensa bíblica e histórica.', onTap: () =>
         Navigator.push(context, MaterialPageRoute(builder: (_) => const DefensaDoctrinalPage()))),
     FeatureTile(icon: Icons.search_rounded, title: 'Diccionario teológico',
@@ -22614,7 +22614,7 @@ class _DefensaDoctrinalPageState extends State<DefensaDoctrinalPage> {
                     child: Text(doc.id.substring(2))),
                   title: Text(doc.title, maxLines: 2, overflow: TextOverflow.ellipsis,
                     style: const TextStyle(fontWeight: FontWeight.w700)),
-                  subtitle: const Text('Estudio de defensa doctrinal'),
+                  subtitle: const Text('Estudio de Defensa de la doctrina'),
                   trailing: ValueListenableBuilder<Set<String>>(
                     valueListenable: SavedStudyStore.saved,
                     builder: (context,saved,_) {
@@ -22984,7 +22984,7 @@ class GuardadosTab extends StatelessWidget {
                   Card(child: ListTile(
                     leading: CircleAvatar(child: Text(doc.id.substring(2))),
                     title: Text(doc.title, maxLines: 2, overflow: TextOverflow.ellipsis),
-                    subtitle: const Text('Estudio de defensa doctrinal'),
+                    subtitle: const Text('Estudio de Defensa de la doctrina'),
                     onTap: () => Navigator.push(context, MaterialPageRoute(
                       builder: (_) => DefensaStudyDetailPage(doc: doc))),
                     trailing: IconButton(
