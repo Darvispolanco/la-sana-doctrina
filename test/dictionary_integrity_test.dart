@@ -5,6 +5,7 @@ import 'package:la_sana_doctrina/dictionary_tranche_03.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_04.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_05.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_06.dart';
+import 'package:la_sana_doctrina/dictionary_tranche_07.dart';
 
 String normalizeTerm(String value) {
   return value
@@ -26,6 +27,7 @@ void main() {
     ...dictionaryTranche04,
     ...dictionaryTranche05,
     ...dictionaryTranche06,
+    ...dictionaryTranche07,
   ];
 
   test('el diccionario ampliado conserva entradas completas y contextos específicos', () {
