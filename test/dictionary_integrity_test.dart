@@ -24,13 +24,18 @@ void main() {
     ...dictionaryTranche04,
   ];
 
-  test('el diccionario ampliado conserva entradas completas', () {
+  test('el diccionario ampliado conserva entradas completas y contextos específicos', () {
     expect(entries.length, greaterThanOrEqualTo(503));
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
             reason: 'Una entrada del diccionario no contiene $field.');
       }
+      expect(
+        entry['context']!.contains('Este concepto se interpreta en relación con'),
+        isFalse,
+        reason: 'El contexto de una entrada no debe ser una plantilla genérica.',
+      );
     }
     expect(baseDictionaryContexts.length, greaterThanOrEqualTo(56));
     for (final context in baseDictionaryContexts.entries) {
