@@ -417,6 +417,61 @@ List<QuizQuestion>? _doctrinalQuestionsFor(String title) {
 }
 
 List<QuizQuestion>? _curatedQuestionsFor(String title) {
+  List<QuizQuestion> focusedQuestions;
+  switch (title) {
+    case 'El Padre':
+      focusedQuestions = [
+        _curatedQuestion('En Mateo 3:16-17, ¿quién habla desde los cielos mientras Jesús es bautizado?', ['Juan el Bautista', 'El Padre', 'El Espíritu Santo', 'Un ángel'], 1, 'La voz celestial identifica al Hijo amado y distingue al Padre que habla del Hijo que está siendo bautizado.', 'Mateo 3:13-17'),
+        _curatedQuestion('Según Juan 17:1-5, ¿qué hace Jesús al comenzar su oración?', ['Se dirige al Padre y pide que el Hijo sea glorificado', 'Se dirige a Pedro como Padre', 'Declara que nunca existió junto al Padre', 'Pide ser enviado por el Espíritu como profeta'], 0, 'El capítulo presenta una relación real entre Jesús y el Padre: el Hijo ora al Padre y habla de la gloria que compartían antes de la creación.', 'Juan 17:1-5'),
+        _curatedQuestion('En Efesios 1:3-6, ¿qué acción se atribuye al Padre?', ['Ser enviado por el Hijo al mundo', 'Elegir y adoptar a los creyentes por medio de Jesucristo', 'Ser derramado en Pentecostés', 'Morir en la cruz'], 1, 'Pablo presenta al Padre como quien bendice y adopta a los creyentes por medio de Jesucristo.', 'Efesios 1:3-6'),
+        _curatedQuestion('¿Qué relación muestra Juan 5:19-23 entre el Padre y el Hijo?', ['El Hijo actúa independientemente y sin relación con el Padre', 'El Padre y el Hijo son la misma persona sin distinción', 'El Hijo obra en perfecta relación con el Padre y recibe honra correspondiente', 'El Padre deja de ser Dios cuando envía al Hijo'], 2, 'El pasaje distingue al Padre del Hijo y, a la vez, presenta una relación única en sus obras y en la honra debida al Hijo.', 'Juan 5:19-23'),
+        _curatedQuestion('En la oración modelo de Mateo 6:9, ¿a quién enseña Jesús a dirigir la oración?', ['Al Padre', 'A los ángeles', 'A los apóstoles', 'A una fuerza impersonal'], 0, 'Jesús enseña a sus discípulos a orar al Padre, mostrando la relación filial que caracteriza la oración cristiana.', 'Mateo 6:9-13'),
+        ..._generateEvaluationQuestions('El Padre', 'El Padre es una persona divina y no otro nombre del Hijo.', 'Mateo 3:16-17; Juan 5:19-23; Efesios 1:3-6').skip(5),
+      ];
+      return focusedQuestions;
+    case 'Divinidad del Hijo':
+      focusedQuestions = [
+        _curatedQuestion('¿Qué afirma Juan 1:1 acerca del Verbo?', ['Que comenzó a existir cuando nació en Belén', 'Que era Dios y estaba con Dios', 'Que era un ángel creado', 'Que era solamente una idea de Dios'], 1, 'Juan distingue al Verbo de aquel con quien estaba y afirma su naturaleza divina; el versículo 3 añade que todo lo creado llegó a existir por medio de él.', 'Juan 1:1-3'),
+        _curatedQuestion('¿Qué confesión hace Tomás al encontrarse con el Resucitado?', ['Mi maestro y profeta', 'Mi Señor y mi Dios', 'El hijo de José', 'El ángel del Señor'], 1, 'En Juan 20:28 Tomás se dirige directamente a Jesús y lo confiesa como Señor y Dios.', 'Juan 20:24-29'),
+        _curatedQuestion('¿Qué declara Colosenses 2:9 sobre Cristo?', ['Que solo recibió una parte de la divinidad', 'Que en él habita corporalmente toda la plenitud de la Deidad', 'Que dejó de ser divino al encarnarse', 'Que fue creado antes de los ángeles'], 1, 'Pablo afirma la plenitud de la Deidad en Cristo; el contexto exhorta a permanecer arraigados en él.', 'Colosenses 2:8-10'),
+        _curatedQuestion('En Hebreos 1:8, ¿cómo se dirige el texto al Hijo?', ['Como a un ser humano común', 'Como a un ángel principal', 'Con la expresión «Tu trono, oh Dios»', 'Como a un profeta adoptado'], 2, 'El argumento de Hebreos contrasta la superioridad del Hijo con los ángeles y aplica al Hijo lenguaje de realeza divina.', 'Hebreos 1:5-9'),
+        _curatedQuestion('¿Qué enseña Juan 1:3 sobre la participación del Verbo en la creación?', ['Que fue creado junto con todas las cosas', 'Que todas las cosas por él fueron hechas', 'Que solo creó a los seres humanos', 'Que no tuvo relación con la creación'], 1, 'El prólogo atribuye al Verbo la mediación de toda la creación y excluye que pertenezca al conjunto de las cosas creadas.', 'Juan 1:1-3'),
+        ..._generateEvaluationQuestions('Divinidad del Hijo', 'El Hijo es Dios y comparte la naturaleza divina, sin ser la persona del Padre.', 'Juan 1:1-3; Juan 20:28; Hebreos 1:8').skip(5),
+      ];
+      return focusedQuestions;
+    case 'Persona del Espíritu Santo':
+      focusedQuestions = [
+        _curatedQuestion('En Juan 14:26, ¿qué obra atribuye Jesús al Espíritu Santo?', ['Enseñar y recordar a los discípulos lo que Jesús dijo', 'Ser una energía sin voluntad', 'Reemplazar la enseñanza de Jesús', 'Hablar únicamente por medio de los ángeles'], 0, 'Jesús presenta al Espíritu como el Consolador que el Padre enviará en su nombre y que enseñará y recordará sus palabras.', 'Juan 14:25-27'),
+        _curatedQuestion('¿Qué acción personal del Espíritu aparece en Hechos 13:2?', ['Es descrito como quien habla y llama a Bernabé y Saulo', 'Es presentado como una piedra del templo', 'Es identificado con una emoción humana', 'Permanece completamente inactivo'], 0, 'El Espíritu habla y aparta a personas para la obra misionera; el relato lo presenta actuando personalmente en la comunidad.', 'Hechos 13:1-4'),
+        _curatedQuestion('Según Efesios 4:30, ¿qué actitud hacia el Espíritu se prohíbe?', ['Entristecerlo', 'Obedecer la Palabra', 'Orar unos por otros', 'Practicar la verdad'], 0, 'La exhortación a no entristecer al Espíritu presupone una relación personal, no una fuerza impersonal.', 'Efesios 4:25-32'),
+        _curatedQuestion('¿Qué pecado denuncia Pedro en Hechos 5:3-4?', ['Mentir al Espíritu Santo, lo que el texto relaciona con mentir a Dios', 'No cumplir una tradición humana', 'No viajar a Jerusalén', 'No comprender una parábola'], 0, 'Pedro identifica la mentira contra el Espíritu Santo y afirma que no se ha mentido a los hombres, sino a Dios.', 'Hechos 5:1-4'),
+        _curatedQuestion('En 1 Corintios 12:11, ¿cómo distribuye el Espíritu los dones?', ['Según la decisión soberana del propio Espíritu', 'Por sorteo humano', 'Solo según la edad del creyente', 'De manera idéntica a todos'], 0, 'Pablo atribuye al Espíritu voluntad en la distribución de los dones, según quiere, para el bien común.', '1 Corintios 12:4-11'),
+        ..._generateEvaluationQuestions('Persona del Espíritu Santo', 'El Espíritu habla, enseña, guía y puede ser entristecido; no es una fuerza impersonal.', 'Juan 14:16-17,26; Hechos 5:3-4; Efesios 4:30').skip(5),
+      ];
+      return focusedQuestions;
+    case 'Bautismo de Jesús':
+      focusedQuestions = [
+        _curatedQuestion('¿Quién desciende sobre Jesús después de su bautismo?', ['El Espíritu de Dios', 'Moisés', 'Juan el Bautista', 'Un querubín'], 0, 'Mateo describe al Espíritu de Dios descendiendo como paloma sobre Jesús.', 'Mateo 3:13-17'),
+        _curatedQuestion('¿Desde dónde se escucha la voz que declara a Jesús como Hijo amado?', ['Desde el templo', 'Desde los cielos', 'Desde el río por medio de Juan', 'Desde una multitud'], 1, 'La voz procede de los cielos y distingue al Padre que habla del Hijo presente en el Jordán.', 'Mateo 3:16-17'),
+        _curatedQuestion('¿Qué muestra la escena del bautismo respecto a las personas divinas?', ['Que Padre, Hijo y Espíritu aparecen simultáneamente y diferenciados', 'Que Jesús es el Padre hablando desde el cielo', 'Que el Espíritu no participa', 'Que solo aparece un mensajero creado'], 0, 'El Hijo es bautizado, el Espíritu desciende y el Padre habla; el relato no presenta una sola persona desempeñando tres papeles sucesivos.', 'Mateo 3:13-17; Marcos 1:9-11'),
+        _curatedQuestion('¿Qué propósito cumple la voz celestial en el relato?', ['Identificar y afirmar al Hijo amado', 'Corregir a Juan por bautizar', 'Anunciar el nacimiento de Moisés', 'Negar la misión de Jesús'], 0, 'La declaración del Padre identifica a Jesús y expresa su complacencia en el Hijo.', 'Mateo 3:16-17'),
+        _curatedQuestion('¿Qué error de interpretación evita leer Mateo 3:16-17 en su secuencia narrativa?', ['Confundir al Padre que habla con el Hijo que está en el agua', 'Reconocer el descenso del Espíritu', 'Observar el bautismo de Jesús', 'Comparar el relato con Marcos'], 0, 'La secuencia y los sujetos del relato distinguen al Padre, al Hijo y al Espíritu en una misma escena.', 'Mateo 3:13-17; Lucas 3:21-22'),
+        ..._generateEvaluationQuestions('Bautismo de Jesús', 'El Hijo es bautizado, el Espíritu desciende y el Padre habla desde los cielos.', 'Mateo 3:13-17; Marcos 1:9-11; Lucas 3:21-22').skip(5),
+      ];
+      return focusedQuestions;
+    case 'Jesús y el Padre':
+      focusedQuestions = [
+        _curatedQuestion('En Juan 17:5, ¿qué gloria menciona Jesús junto al Padre?', ['La gloria que tenía con el Padre antes que el mundo fuese', 'Una gloria que recibió de los apóstoles', 'La gloria de los reinos terrenales', 'Una gloria que solo existirá después de la resurrección'], 0, 'Jesús habla de una gloria compartida con el Padre antes de la existencia del mundo, mostrando preexistencia y relación personal.', 'Juan 17:1-5'),
+        _curatedQuestion('¿Qué expresa Jesús al decir «el Padre mayor es que yo» en Juan 14:28?', ['Una distinción relacional y el contexto de su misión encarnada', 'Que el Padre y el Hijo son la misma persona', 'Que el Hijo es un ángel creado', 'Que Jesús niega todo vínculo con el Padre'], 0, 'El dicho debe leerse en el contexto de la partida de Jesús y su misión; no debe aislarse de los pasajes que afirman la divinidad del Hijo.', 'Juan 14:25-31; Juan 1:1-3'),
+        _curatedQuestion('En Juan 5:23, ¿qué exige Jesús respecto al honor del Hijo?', ['Que todos honren al Hijo como honran al Padre', 'Que se ignore al Hijo', 'Que el Hijo reciba menos honra que los ángeles', 'Que solo se honre a los profetas'], 0, 'El pasaje vincula la honra al Hijo con la honra al Padre que lo envió.', 'Juan 5:19-23'),
+        _curatedQuestion('¿Qué muestra Juan 8:17-18 sobre el testimonio del Padre y del Hijo?', ['Jesús presenta su propio testimonio y el del Padre que lo envió', 'Jesús afirma que solo existe su propio testimonio', 'El Padre es presentado como un discípulo', 'El pasaje niega que Jesús haya sido enviado'], 0, 'Jesús apela a dos testigos: él mismo y el Padre. El argumento distingue a ambos en el contexto de la controversia.', 'Juan 8:12-20'),
+        _curatedQuestion('¿Qué relación presenta Juan 10:30 cuando Jesús dice «yo y el Padre uno somos»?', ['Unidad que debe leerse junto con la distinción entre Padre e Hijo en el mismo Evangelio', 'Que Jesús nunca habla con el Padre', 'Que el Padre dejó de existir', 'Que hay dos dioses rivales'], 0, 'El contexto trata de la protección de las ovejas y la unidad del Padre y del Hijo; otros pasajes de Juan muestran su distinción personal.', 'Juan 10:27-38; Juan 17:20-23'),
+        ..._generateEvaluationQuestions('Jesús y el Padre', 'Jesús habla con el Padre y recibe misión de él; no se identifica personalmente como el Padre.', 'Juan 5:19-23; Juan 17:1-5').skip(5),
+      ];
+      return focusedQuestions;
+    default:
+      break;
+  }
   if (title != 'Unidad de Dios') return null;
   return [
     _curatedQuestion('¿Qué declara Deuteronomio 6:4 en su confesión central?', ['Que Israel debe adorar a muchos dioses', 'Que Jehová es uno', 'Que Moisés es divino', 'Que cada nación tiene su propio creador'], 1, 'El Shemá llama a Israel a reconocer la unicidad de Jehová. La doctrina trinitaria mantiene este monoteísmo y no propone tres dioses.', 'Deuteronomio 6:4; Marcos 12:29'),
