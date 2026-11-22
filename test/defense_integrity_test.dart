@@ -26,7 +26,7 @@ void main() {
       final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
       expect(content.trim().isNotEmpty, isTrue, reason: 'El documento $id está vacío.');
       expect(
-        RegExp(r'(?m)^#{1,3}\s+\S').hasMatch(content),
+        RegExp(r'^#{1,3}\s+\S', multiLine: true).hasMatch(content),
         isTrue,
         reason: 'El documento $id no contiene encabezados estructurados.',
       );
