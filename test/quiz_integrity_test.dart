@@ -40,4 +40,25 @@ void main() {
       }
     }
   });
+  test('las evaluaciones trinitarias principales incluyen reactivos específicos', () {
+    const focusedTitles = [
+      'El Padre',
+      'Divinidad del Hijo',
+      'Persona del Espíritu Santo',
+      'Bautismo de Jesús',
+      'Jesús y el Padre',
+    ];
+
+    for (final title in focusedTitles) {
+      final pack = quizPacks.singleWhere((item) => item.title == title);
+      final firstFive = pack.questions.take(5).toList();
+      expect(firstFive, hasLength(5));
+      expect(
+        firstFive.map((question) => question.options[question.correctIndex]).toSet(),
+        hasLength(5),
+        reason: 'La evaluación $title debe comenzar con respuestas específicas y no repetir una única plantilla.',
+      );
+    }
+  });
+
 }
