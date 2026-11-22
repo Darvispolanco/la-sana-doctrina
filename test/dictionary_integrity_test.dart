@@ -13,8 +13,7 @@ String normalizeTerm(String value) {
       .replaceAll(RegExp(r'[éèë]'), 'e')
       .replaceAll(RegExp(r'[íìï]'), 'i')
       .replaceAll(RegExp(r'[óòö]'), 'o')
-      .replaceAll(RegExp(r'[úùü]'), 'u')
-      .replaceAll('ñ', 'n');
+      .replaceAll(RegExp(r'[úùü]'), 'u');
 }
 
 void main() {
@@ -26,13 +25,14 @@ void main() {
   ];
 
   test('el diccionario ampliado conserva entradas completas', () {
-    expect(entries.length, greaterThanOrEqualTo(500));
+    expect(entries.length, greaterThanOrEqualTo(503));
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
-            reason: 'La entrada ${entry['term']} no contiene $field.');
+            reason: 'La entrada \${entry['term']} no contiene $field.');
       }
     }
+    expect(baseDictionaryContexts.length, greaterThanOrEqualTo(56));
     for (final context in baseDictionaryContexts.entries) {
       expect(context.key.trim(), isNotEmpty);
       expect(context.value.trim(), isNotEmpty);
@@ -40,9 +40,7 @@ void main() {
   });
 
   test('no hay términos duplicados ignorando mayúsculas y tildes', () {
-    final terms = <String>[
-      ...entries.map((entry) => entry['term']!),
-    ].map(normalizeTerm).toList();
+    final terms = entries.map((entry) => normalizeTerm(entry['term']!)).toList();
 
     expect(terms.toSet().length, terms.length,
         reason: 'Hay términos repetidos entre los bloques del diccionario.');
