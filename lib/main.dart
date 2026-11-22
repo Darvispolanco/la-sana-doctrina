@@ -1,4 +1,6 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dictionary_extra.dart';
 import 'dictionary_tranche_02.dart';
@@ -126,76 +128,27 @@ padding: const EdgeInsets.all(18),
 children: [
 Container(
 padding: const EdgeInsets.all(22),
-decoration: BoxDecoration(
-color: const Color(0xFF14243A),
-borderRadius: BorderRadius.circular(22),
-),
-child: const Column(
-crossAxisAlignment: CrossAxisAlignment.start,
-children: [
+decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(22)),
+child: const Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
 Icon(Icons.menu_book, color: Color(0xFFD5B46A), size: 36),
 SizedBox(height: 14),
-Text(
-'CONOCIENDO MÁS DE DIOS',
-style: TextStyle(
-color: Color(0xFFD5B46A),
-fontSize: 12,
-letterSpacing: 1.3,
-fontWeight: FontWeight.bold,
-),
-),
+Text('CONOCIENDO MÁS DE DIOS', style: TextStyle(color: Color(0xFFD5B46A), fontSize: 12, letterSpacing: 1.3, fontWeight: FontWeight.bold)),
 SizedBox(height: 8),
-Text(
-'Crecer en la verdad de las Escrituras.',
-style: TextStyle(
-color: Colors.white,
-fontSize: 23,
-fontWeight: FontWeight.bold,
-),
-),
+Text('Crecer en la verdad de las Escrituras.', style: TextStyle(color: Colors.white, fontSize: 23, fontWeight: FontWeight.bold)),
 SizedBox(height: 12),
-Text(
-'“Pero tú habla lo que está de acuerdo con la sana doctrina”.',
-style: TextStyle(
-color: Colors.white70,
-fontStyle: FontStyle.italic,
-),
-),
+Text('“Pero tú habla lo que está de acuerdo con la sana doctrina”.', style: TextStyle(color: Colors.white70, fontStyle: FontStyle.italic)),
 SizedBox(height: 5),
-Text(
-'Tito 2:1',
-style: TextStyle(
-color: Color(0xFFD5B46A),
-fontWeight: FontWeight.bold,
-),
-),
-],
-),
+Text('Tito 2:1', style: TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold)),
+]),
 ),
 const SizedBox(height: 22),
 const SectionHeading('Explora la aplicación'),
 const SizedBox(height: 10),
-const FeatureTile(
-icon: Icons.menu_book,
-title: 'Estudios bíblicos',
-subtitle: 'Aprende doctrina paso a paso.',
-),
-const FeatureTile(
-icon: Icons.search,
-title: 'Diccionario teológico',
-subtitle: 'Consulta términos y conceptos bíblicos.',
-),
-const FeatureTile(
-icon: Icons.quiz,
-title: 'Cuestionarios',
-subtitle: 'Repasa lo aprendido.',
-),
-const SizedBox(height: 12),
-const Text(
-'Versión inicial de desarrollo · El contenido se incorporará por etapas.',
-textAlign: TextAlign.center,
-style: TextStyle(color: Colors.black54, fontSize: 12),
-),
+FeatureTile(icon: Icons.menu_book, title: 'Estudios bíblicos', subtitle: 'Consulta los 150 estudios de formación bíblica.', onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const EstudiosTab()))),
+FeatureTile(icon: Icons.shield_outlined, title: 'Defensa doctrinal', subtitle: 'Consulta los 100 estudios de defensa bíblica e histórica.', onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const DefensaDoctrinalPage()))),
+FeatureTile(icon: Icons.search, title: 'Diccionario teológico', subtitle: 'Busca términos, conceptos y referencias bíblicas.', onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const DiccionarioTab()))),
+FeatureTile(icon: Icons.quiz, title: 'Cuestionarios', subtitle: 'Comprueba lo aprendido con evaluaciones bíblicas.', onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const CuestionariosTab()))),
+FeatureTile(icon: Icons.bookmark_border, title: 'Mis guardados', subtitle: 'Vuelve a tus estudios favoritos.', onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const GuardadosTab()))),
 const SizedBox(height: 16),
 const HomeBannerAd(),
 ],
@@ -22776,6 +22729,169 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
   }
 }
 
+class DefensaDoc {
+  final String id;
+  final String title;
+  final String file;
+  final String content;
+  const DefensaDoc({required this.id, required this.title, required this.file, required this.content});
+}
+
+class DefensaRepository {
+  static Future<List<DefensaDoc>> loadAll() async {
+    final raw = await rootBundle.loadString('assets/defensa_doctrinal/indice.json');
+    final entries = (jsonDecode(raw) as List).cast<Map<String, dynamic>>();
+    final docs = await Future.wait(entries.map((entry) async {
+      final file = entry['file'] as String;
+      final id = entry['id'] as String;
+      final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
+      final firstLine = content.split('\n').first.trim();
+      final title = firstLine.replaceFirst(RegExp(r'^#\s*Estudio\s+\d+[.:]?\s*'), '').trim();
+      return DefensaDoc(id: id, title: title.isEmpty ? file : title, file: file, content: content);
+    }));
+    docs.sort((a,b) => a.id.compareTo(b.id));
+    return docs;
+  }
+}
+
+class DefensaDoctrinalPage extends StatefulWidget {
+  const DefensaDoctrinalPage({super.key});
+  @override
+  State<DefensaDoctrinalPage> createState() => _DefensaDoctrinalPageState();
+}
+
+class _DefensaDoctrinalPageState extends State<DefensaDoctrinalPage> {
+  final _search = TextEditingController();
+  late final Future<List<DefensaDoc>> _docs = DefensaRepository.loadAll();
+  @override
+  void dispose() { _search.dispose(); super.dispose(); }
+
+  @override
+  Widget build(BuildContext context) => Scaffold(
+    appBar: AppBar(title: const Text('Defensa doctrinal')),
+    body: FutureBuilder<List<DefensaDoc>>(
+      future: _docs,
+      builder: (context, snapshot) {
+        if (snapshot.hasError) return const Center(child: Padding(
+          padding: EdgeInsets.all(24), child: Text('No se pudieron cargar los estudios. Comprueba los recursos de la aplicación.')));
+        if (!snapshot.hasData) return const Center(child: CircularProgressIndicator());
+        final all = snapshot.data!;
+        final q = _search.text.trim().toLowerCase();
+        final results = all.where((doc) => q.isEmpty ||
+          doc.id.toLowerCase().contains(q) || doc.title.toLowerCase().contains(q) ||
+          doc.content.toLowerCase().contains(q)).toList();
+        return Column(children: [
+          Container(
+            margin: const EdgeInsets.fromLTRB(16,16,16,12),
+            padding: const EdgeInsets.all(18),
+            decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(18)),
+            child: const Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+              Icon(Icons.shield_outlined, color: Color(0xFFD5B46A), size: 32),
+              SizedBox(width: 12),
+              Expanded(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Text('100 ESTUDIOS DE DEFENSA', style: TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold, letterSpacing: .7)),
+                SizedBox(height: 6),
+                Text('Investigación bíblica, histórica y respuesta doctrinal.', style: TextStyle(color: Colors.white, fontSize: 16, fontWeight: FontWeight.w600)),
+              ])),
+            ]),
+          ),
+          Padding(padding: const EdgeInsets.fromLTRB(16,0,16,10), child: TextField(
+            controller: _search, onChanged: (_) => setState(() {}),
+            decoration: InputDecoration(hintText: 'Buscar en los 100 estudios...',
+              prefixIcon: const Icon(Icons.search),
+              suffixIcon: _search.text.isEmpty ? null : IconButton(
+                onPressed: () { _search.clear(); setState(() {}); }, icon: const Icon(Icons.close)),
+              border: OutlineInputBorder(borderRadius: BorderRadius.circular(14))),
+          )),
+          Padding(padding: const EdgeInsets.fromLTRB(18,0,18,8), child: Align(
+            alignment: Alignment.centerLeft, child: Text(results.length.toString() + ' de 100 estudios',
+              style: const TextStyle(color: Color(0xFF526174), fontWeight: FontWeight.w600)))),
+          Expanded(child: results.isEmpty
+            ? const _EmptySearchState(title: 'No encontramos ese estudio', message: 'Prueba con otra palabra o número.')
+            : ListView.separated(
+              padding: const EdgeInsets.fromLTRB(16,0,16,20), itemCount: results.length,
+              separatorBuilder: (_,__) => const SizedBox(height: 7),
+              itemBuilder: (context,i) {
+                final doc = results[i];
+                return Card(child: ListTile(
+                  leading: CircleAvatar(backgroundColor: const Color(0xFFE9DFC8),
+                    foregroundColor: const Color(0xFF14243A),
+                    child: Text(doc.id.substring(2))),
+                  title: Text(doc.title, maxLines: 2, overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(fontWeight: FontWeight.w700)),
+                  subtitle: const Text('Estudio de defensa doctrinal'),
+                  trailing: ValueListenableBuilder<Set<String>>(
+                    valueListenable: SavedStudyStore.saved,
+                    builder: (context,saved,_) {
+                      final active = saved.contains(doc.id);
+                      return IconButton(
+                        tooltip: active ? 'Quitar de guardados' : 'Guardar estudio',
+                        onPressed: () => SavedStudyStore.toggle(doc.id),
+                        icon: Icon(active ? Icons.bookmark : Icons.bookmark_border,
+                          color: active ? const Color(0xFF14243A) : Colors.black54));
+                    }),
+                  onTap: () => Navigator.push(context, MaterialPageRoute(
+                    builder: (_) => DefensaStudyDetailPage(doc: doc))),
+                ));
+              },
+            )),
+        ]);
+      },
+    ),
+  );
+}
+
+class DefensaStudyDetailPage extends StatelessWidget {
+  final DefensaDoc doc;
+  const DefensaStudyDetailPage({super.key, required this.doc});
+
+  List<Widget> _renderContent() {
+    final lines = doc.content.split('\n');
+    final widgets = <Widget>[];
+    for (final raw in lines) {
+      final line = raw.trim();
+      if (line.isEmpty) { widgets.add(const SizedBox(height: 7)); continue; }
+      if (line.startsWith('#')) {
+        final heading = line.replaceFirst(RegExp(r'^#+\s*'), '').replaceAll('**','');
+        widgets.add(Padding(padding: const EdgeInsets.only(top: 12,bottom: 5),
+          child: Text(heading, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold,
+            color: Color(0xFF14243A)))));
+      } else {
+        final paragraph = line.replaceAll('**','').replaceAll(RegExp(r'^[-*]\s+'), '• ');
+        widgets.add(SelectableText(paragraph, style: const TextStyle(fontSize: 15, height: 1.6)));
+      }
+    }
+    return widgets;
+  }
+
+  @override
+  Widget build(BuildContext context) => Scaffold(
+    appBar: AppBar(title: Text(doc.title, maxLines: 1, overflow: TextOverflow.ellipsis),
+      actions: [ValueListenableBuilder<Set<String>>(
+        valueListenable: SavedStudyStore.saved,
+        builder: (context,saved,_) {
+          final active = saved.contains(doc.id);
+          return IconButton(tooltip: active ? 'Quitar de guardados' : 'Guardar estudio',
+            onPressed: () => SavedStudyStore.toggle(doc.id),
+            icon: Icon(active ? Icons.bookmark : Icons.bookmark_border,
+              color: active ? const Color(0xFFD5B46A) : null));
+        })]),
+    body: ListView(padding: const EdgeInsets.all(20), children: [
+      Container(padding: const EdgeInsets.all(18),
+        decoration: BoxDecoration(color: const Color(0xFF14243A), borderRadius: BorderRadius.circular(16)),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text('DEFENSA DOCTRINAL · ESTUDIO ' + doc.id.substring(2),
+            style: const TextStyle(color: Color(0xFFD5B46A), fontWeight: FontWeight.bold, letterSpacing: .6)),
+          const SizedBox(height: 8),
+          Text(doc.title, style: const TextStyle(color: Colors.white, fontSize: 22, fontWeight: FontWeight.bold)),
+        ])),
+      const SizedBox(height: 14),
+      ..._renderContent(),
+    ]),
+  );
+}
+
+
 class GuardadosTab extends StatelessWidget {
 const GuardadosTab({super.key});
 
@@ -22784,35 +22900,49 @@ Widget build(BuildContext context) {
 return ValueListenableBuilder<Set<String>>(
 valueListenable: SavedStudyStore.saved,
 builder: (context, saved, _) {
-final savedStudies = EstudiosTab.studies.where((study) => saved.contains(study.number)).toList();
-if (savedStudies.isEmpty) {
-return const Center(
-child: Padding(
-padding: EdgeInsets.all(28),
-child: Column(mainAxisSize: MainAxisSize.min, children: [
+final mainItems = EstudiosTab.studies.where((study) => saved.contains(study.number)).toList();
+final defenseIds = saved.where((id) => id.startsWith('D-')).toSet();
+return FutureBuilder<List<DefensaDoc>>(
+future: DefensaRepository.loadAll(),
+builder: (context, snapshot) {
+final defenseItems = snapshot.data?.where((doc) => defenseIds.contains(doc.id)).toList() ?? <DefensaDoc>[];
+if (mainItems.isEmpty && defenseItems.isEmpty) {
+return const Center(child: Padding(padding: EdgeInsets.all(28), child: Column(mainAxisSize: MainAxisSize.min, children: [
 Icon(Icons.bookmark_border, size: 58, color: Color(0xFF14243A)),
 SizedBox(height: 14),
 Text('Todavía no tienes estudios guardados', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
 SizedBox(height: 8),
-Text('Abre cualquier estudio y pulsa el icono de marcador para añadirlo aquí.', textAlign: TextAlign.center),
-]),
-),
-);
+Text('Abre un estudio y pulsa el marcador para añadirlo a tus favoritos.', textAlign: TextAlign.center),
+])));
 }
-return ListView(
-padding: const EdgeInsets.all(16),
-children: [
-const Text('Mis estudios favoritos', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-const SizedBox(height: 12),
-for (final study in savedStudies)
+return ListView(padding: const EdgeInsets.all(16), children: [
+if (mainItems.isNotEmpty) ...[
+const Text('ESTUDIOS BÍBLICOS', style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14243A))),
+const SizedBox(height: 8),
+for (final study in mainItems)
 Card(child: ListTile(
 leading: const Icon(Icons.bookmark, color: Color(0xFF14243A)),
 title: Text(study.title, style: const TextStyle(fontWeight: FontWeight.bold)),
 subtitle: Text('Estudio ${study.number}'),
 onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => StudyDetailPage(study: study))),
-trailing: IconButton(tooltip: 'Quitar de guardados', icon: const Icon(Icons.bookmark_remove_outlined), onPressed: () => SavedStudyStore.toggle(study.number)),
+trailing: IconButton(icon: const Icon(Icons.bookmark_remove_outlined), tooltip: 'Quitar de guardados', onPressed: () => SavedStudyStore.toggle(study.number)),
 )),
 ],
+if (defenseItems.isNotEmpty) ...[
+const SizedBox(height: 12),
+const Text('DEFENSA DOCTRINAL', style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF14243A))),
+const SizedBox(height: 8),
+for (final doc in defenseItems)
+Card(child: ListTile(
+leading: const Icon(Icons.shield_outlined, color: Color(0xFF14243A)),
+title: Text(doc.title, style: const TextStyle(fontWeight: FontWeight.bold)),
+subtitle: Text('Defensa ${doc.id}'),
+onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => DefensaStudyDetailPage(doc: doc))),
+trailing: IconButton(icon: const Icon(Icons.bookmark_remove_outlined), tooltip: 'Quitar de guardados', onPressed: () => SavedStudyStore.toggle(doc.id)),
+)),
+],
+]);
+},
 );
 },
 );
@@ -22825,27 +22955,23 @@ super.key,
 required this.icon,
 required this.title,
 required this.subtitle,
+this.onTap,
 });
 
 final IconData icon;
 final String title;
 final String subtitle;
+final VoidCallback? onTap;
 
 @override
 Widget build(BuildContext context) {
 return Card(
 child: ListTile(
-leading: Icon(
-icon,
-color: const Color(0xFF14243A),
-size: 28,
-),
-title: Text(
-title,
-style: const TextStyle(fontWeight: FontWeight.w600),
-),
+leading: Icon(icon, color: const Color(0xFF14243A), size: 28),
+title: Text(title, style: const TextStyle(fontWeight: FontWeight.w600)),
 subtitle: Text(subtitle),
 trailing: const Icon(Icons.arrow_forward_ios, size: 15),
+onTap: onTap,
 ),
 );
 }
