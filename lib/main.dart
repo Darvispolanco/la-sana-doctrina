@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dictionary_extra.dart';
+import 'dictionary_tranche_02.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
@@ -21898,6 +21899,13 @@ final List<DictionaryTerm> dictionaryTerms = [
   DictionaryTerm('Paráclito', 'Término griego usado para el Consolador o Ayudador prometido por Jesús, referido al Espíritu Santo.', 'Trinidad', 'Juan 14:16,26; 15:26'),
 
   ...additionalDictionaryEntries.map((entry) => DictionaryTerm(
+        entry['term']!,
+        entry['definition']!,
+        entry['category']!,
+        entry['references']!,
+        context: entry['context']!,
+      )),
+  ...dictionaryTranche02.map((entry) => DictionaryTerm(
         entry['term']!,
         entry['definition']!,
         entry['category']!,
