@@ -22253,12 +22253,65 @@ const List<QuizPack> _baseQuizPacks = [
   ),
 ];
 
-// Genera preguntas de comprensión, contexto y relación bíblica.
-const List<String> _evaluationFrames = ["¿Qué afirmación expresa el punto central de «{t}»?","¿Qué conclusión respeta el contexto bíblico de «{t}»?","¿Cuál lectura evita interpretar aisladamente «{t}»?","¿Qué relación entre pasajes ayuda a comprender «{t}»?","¿Qué debe afirmarse al comparar «{t}» con el conjunto de la Escritura?","¿Cuál resumen conserva el sentido doctrinal de «{t}»?","¿Qué afirmación puede sostenerse con las referencias indicadas para «{t}»?","¿Qué lectura armoniza mejor los textos relacionados con «{t}»?","¿Qué alternativa distingue la enseñanza bíblica de una conclusión añadida sobre «{t}»?","¿Qué principio debe guiar la interpretación de «{t}»?","¿Qué respuesta considera el contexto literario e histórico de «{t}»?","¿Qué afirmación mantiene la distinción entre pasajes al tratar «{t}»?","¿Qué opción expresa la enseñanza sin exceder lo que afirma el texto sobre «{t}»?","¿Qué conclusión se obtiene al leer conjuntamente las referencias de «{t}»?","¿Qué afirmación es compatible con la enseñanza bíblica completa sobre «{t}»?","¿Qué respuesta identifica el énfasis principal de los textos sobre «{t}»?","¿Qué interpretación considera la afirmación y el propósito del pasaje sobre «{t}»?","¿Qué opción permite explicar «{t}» con fidelidad a las Escrituras?","¿Qué afirmación evita confundir conceptos al estudiar «{t}»?","¿Qué conclusión final está mejor fundamentada para «{t}»?"];
+// Preguntas con enfoques distintos: afirmación, contexto, relación canónica,
+// límites de interpretación, distinciones doctrinales y aplicación.
+const List<String> _evaluationFrames = [
+  '¿Qué afirmación resume con mayor precisión «{t}»?',
+  'Al leer el pasaje principal en su párrafo completo, ¿qué debe conservarse?',
+  '¿Qué conclusión está respaldada por las referencias bíblicas de «{t}»?',
+  '¿Cómo debe relacionarse el pasaje principal con los demás textos citados?',
+  '¿Cuál interpretación evita añadir al texto una idea que no expresa?',
+  '¿Qué aspecto doctrinal no debe perderse al explicar «{t}»?',
+  '¿Qué afirmación respeta tanto el contexto inmediato como el contexto bíblico general?',
+  'Si dos pasajes parecen usar expresiones distintas, ¿qué principio ayuda a estudiarlos?',
+  '¿Cuál conclusión distingue lo que el texto afirma de lo que solo podría suponerse?',
+  '¿Qué criterio permite evaluar una enseñanza sobre «{t}»?',
+  '¿Qué lectura toma en cuenta quién habla, a quién se dirige y con qué propósito?',
+  '¿Cuál afirmación evita confundir conceptos que la Escritura mantiene diferenciados?',
+  '¿Qué respuesta se mantiene dentro de los límites de la evidencia bíblica citada?',
+  '¿Qué debe hacer el estudiante antes de formular una conclusión doctrinal sobre «{t}»?',
+  '¿Qué opción armoniza el pasaje con el testimonio completo de la Escritura?',
+  '¿Cuál es la mejor manera de responder a una objeción basada en un versículo aislado?',
+  '¿Qué conclusión puede enseñarse sin omitir los textos que complementan el tema?',
+  '¿Qué práctica fortalece una defensa bíblica responsable de «{t}»?',
+  '¿Cuál afirmación diferencia una explicación del texto de una opinión personal?',
+  'Después de comparar las referencias, ¿qué conclusión central debe retenerse?',
+];
+
+const List<String> _evaluationExplanations = [
+  'La respuesta identifica la proposición central del tema. No debe confundirse la síntesis doctrinal con una frase aislada.',
+  'El párrafo y el argumento del capítulo delimitan el sentido de las palabras; leer solo una frase puede alterar el significado.',
+  'Una conclusión doctrinal debe poder sostenerse con los pasajes indicados y no depender de una premisa externa.',
+  'Los textos relacionados se interpretan de manera complementaria, atendiendo al propósito y al contexto de cada autor.',
+  'La interpretación responsable distingue entre lo que el pasaje declara y las inferencias que no demuestra.',
+  'Una explicación fiel conserva el énfasis doctrinal del tema y evita reducirlo a una formulación incompleta.',
+  'El contexto inmediato y el conjunto de la Biblia deben considerarse juntos, sin forzar contradicciones artificiales.',
+  'Las diferencias de expresión deben estudiarse atendiendo al género, audiencia y propósito de cada pasaje.',
+  'No se debe presentar como enseñanza explícita aquello que el texto no afirma; las inferencias requieren fundamento.',
+  'Toda enseñanza debe examinarse mediante el contexto, la comparación de pasajes y la coherencia con el evangelio.',
+  'Identificar emisor, destinatario y propósito ayuda a evitar aplicaciones fuera del sentido original.',
+  'La precisión doctrinal exige mantener las distinciones que los propios pasajes presentan.',
+  'La conclusión correcta no puede ir más allá de la evidencia ni ignorar referencias relevantes.',
+  'Primero se observa el texto, después se interpreta en contexto y finalmente se formula la conclusión.',
+  'La armonía bíblica no consiste en borrar diferencias, sino en comprender cómo cada pasaje contribuye al tema.',
+  'Un versículo aislado no debe separarse del argumento del capítulo ni del testimonio bíblico relacionado.',
+  'Una enseñanza completa considera los textos que amplían, precisan o complementan el tema.',
+  'La defensa bíblica requiere leer, comparar, explicar y responder con respeto y fidelidad al texto.',
+  'Las opiniones personales no tienen la misma autoridad que la enseñanza demostrable de la Escritura.',
+  'La conclusión central debe reflejar el contenido de las referencias y permanecer fiel al contexto de cada una.',
+];
+
 const List<String> _evaluationDistractors = [
-  'Debe decidirse por una frase aislada, aunque contradiga el contexto.',
-  'La tradición humana puede corregir el sentido de la Escritura.',
-  'Puede aceptarse aunque no tenga apoyo en los pasajes citados.',
+  'Debe interpretarse separado del argumento del capítulo para evitar que otros textos influyan.',
+  'Una palabra aislada basta para establecer la doctrina, aunque el contexto indique otra cosa.',
+  'La conclusión puede sostenerse aunque el pasaje no presente evidencia para ella.',
+  'La tradición interpretativa debe sustituir el sentido que se obtiene del contexto.',
+  'Los textos que parecen distintos deben considerarse contradictorios sin intentar compararlos.',
+  'El género literario, los destinatarios y el propósito del autor no afectan la interpretación.',
+  'Una explicación doctrinal es válida aunque omita referencias bíblicas relevantes.',
+  'La opinión del lector tiene prioridad cuando el texto resulta difícil.',
+  'Solo debe considerarse el versículo citado, nunca el párrafo ni el libro completo.',
+  'Una inferencia posible debe tratarse como si fuera una afirmación explícita del pasaje.',
 ];
 
 List<QuizQuestion> _generateEvaluationQuestions(
@@ -22269,13 +22322,13 @@ List<QuizQuestion> _generateEvaluationQuestions(
   for (var slot = 0; slot < 4; slot++) {
     options.add(slot == correct
       ? truth
-      : _evaluationDistractors[(slot + index) % _evaluationDistractors.length]);
+      : _evaluationDistractors[(index * 3 + slot + index ~/ 2) % _evaluationDistractors.length]);
   }
   return QuizQuestion(
     question: _evaluationFrames[index].replaceAll('{t}', topic),
     options: options,
     correctIndex: correct,
-    explanation: '$truth Comprueba la respuesta leyendo cada pasaje en su contexto y comparándolo con el testimonio bíblico relacionado.',
+    explanation: '${_evaluationExplanations[index]} ${truth} Referencias para comprobarlo: ${references}.',
     references: references,
   );
 });
