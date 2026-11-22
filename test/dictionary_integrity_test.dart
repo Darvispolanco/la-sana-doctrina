@@ -1,4 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:la_sana_doctrina/main.dart' show dictionaryTerms;
 import 'package:la_sana_doctrina/dictionary_extra.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_02.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_03.dart';
@@ -48,6 +49,13 @@ void main() {
       expect(context.key.trim(), isNotEmpty);
       expect(context.value.trim(), isNotEmpty);
     }
+  });
+
+  test('el diccionario visible en la aplicación integra la base y las ampliaciones', () {
+    final visibleTerms = dictionaryTerms.map((entry) => normalizeTerm(entry.term)).toList();
+    expect(visibleTerms.length, greaterThanOrEqualTo(636));
+    expect(visibleTerms.toSet().length, visibleTerms.length,
+        reason: 'La lista visible contiene términos repetidos.');
   });
 
   test('no hay términos duplicados ignorando mayúsculas y tildes', () {
