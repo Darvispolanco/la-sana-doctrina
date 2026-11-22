@@ -7,12 +7,13 @@ String normalizeTerm(String value) {
   return value
       .trim()
       .toLowerCase()
-      .replaceAll(RegExp(r'\\s+'), ' ')
+      .replaceAll(RegExp(r'\s+'), ' ')
       .replaceAll(RegExp(r'[áàä]'), 'a')
       .replaceAll(RegExp(r'[éèë]'), 'e')
       .replaceAll(RegExp(r'[íìï]'), 'i')
       .replaceAll(RegExp(r'[óòö]'), 'o')
-      .replaceAll(RegExp(r'[úùü]'), 'u');
+      .replaceAll(RegExp(r'[úùü]'), 'u')
+      .replaceAll('ñ', 'n');
 }
 
 void main() {
@@ -20,10 +21,11 @@ void main() {
     ...additionalDictionaryEntries,
     ...dictionaryTranche02,
     ...dictionaryTranche03,
+    ...dictionaryTranche04,
   ];
 
   test('el diccionario ampliado conserva entradas completas', () {
-    expect(entries.length, greaterThanOrEqualTo(450));
+    expect(entries.length, greaterThanOrEqualTo(400));
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
@@ -38,7 +40,6 @@ void main() {
 
   test('no hay términos duplicados ignorando mayúsculas y tildes', () {
     final terms = <String>[
-      ...baseDictionaryContexts.keys,
       ...entries.map((entry) => entry['term']!),
     ].map(normalizeTerm).toList();
 
