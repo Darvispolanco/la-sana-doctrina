@@ -9,13 +9,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con Salmo 47:1; Apocalipsis 7:10, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Adopcionismo",
-    'definition': "Enseñanza antigua que consideraba a Jesús un hombre adoptado como Hijo, en lugar de confesar su filiación eterna.",
-    'category': "Historia doctrinal",
-    'references': "Juan 1:1-3; Juan 17:5",
-    'context': "Este concepto se interpreta en relación con Juan 1:1-3; Juan 17:5, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Adversario",
     'definition': "Designación de quien se opone o acusa; en ciertos pasajes se aplica a Satanás.",
     'category': "Doctrina bíblica",
@@ -121,13 +114,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con 1 Juan 5:11-13; Romanos 8:31-39, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Conciencia",
-    'definition': "Facultad interior que acusa o defiende la conducta moral de una persona.",
-    'category': "Ética bíblica",
-    'references': "Romanos 2:14-16; 1 Timoteo 1:5",
-    'context': "Este concepto se interpreta en relación con Romanos 2:14-16; 1 Timoteo 1:5, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Condenación",
     'definition': "Sentencia de juicio por el pecado, de la cual Cristo libra a quienes están en Él.",
     'category': "Salvación",
@@ -149,25 +135,11 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con Romanos 12:1-2; 2 Timoteo 2:21, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Conversión",
-    'definition': "Respuesta por la que una persona se vuelve a Dios en arrepentimiento y fe.",
-    'category': "Salvación",
-    'references': "Hechos 15:3; 1 Tesalonicenses 1:9",
-    'context': "Este concepto se interpreta en relación con Hechos 15:3; 1 Tesalonicenses 1:9, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Corazón",
     'definition': "Centro de pensamiento, voluntad, deseo y decisión en el lenguaje bíblico.",
     'category': "Antropología bíblica",
     'references': "Proverbios 4:23; Mateo 15:18-19",
     'context': "Este concepto se interpreta en relación con Proverbios 4:23; Mateo 15:18-19, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
-    'term': "Culpa",
-    'definition': "Responsabilidad moral derivada de una transgresión.",
-    'category': "Salvación",
-    'references': "Salmo 51:1-4; Romanos 3:19",
-    'context': "Este concepto se interpreta en relación con Salmo 51:1-4; Romanos 3:19, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
     'term': "Dádiva",
@@ -189,13 +161,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'category': "Ética bíblica",
     'references': "Génesis 3:1-6; Romanos 5:19",
     'context': "Este concepto se interpreta en relación con Génesis 3:1-6; Romanos 5:19, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
-    'term': "Doxología",
-    'definition': "Expresión breve de alabanza que atribuye gloria a Dios.",
-    'category': "Culto",
-    'references': "Romanos 11:36; Judas 24-25",
-    'context': "Este concepto se interpreta en relación con Romanos 11:36; Judas 24-25, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
     'term': "Edificación",
@@ -240,13 +205,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con 2 Pedro 1:19-21; Romanos 16:26, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Exaltación de Cristo",
-    'definition': "Reconocimiento y elevación del Hijo resucitado a la posición de honor y autoridad.",
-    'category': "Cristología",
-    'references': "Filipenses 2:9-11; Hechos 2:32-36",
-    'context': "Este concepto se interpreta en relación con Filipenses 2:9-11; Hechos 2:32-36, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Fidelidad",
     'definition': "Constancia y confiabilidad de Dios, y virtud que Él demanda de su pueblo.",
     'category': "Teología",
@@ -275,13 +233,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con Efesios 2:8-9; 1 Corintios 1:29-31, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Juicio final",
-    'definition': "Evaluación definitiva de la humanidad por Dios al concluir la historia.",
-    'category': "Escatología",
-    'references': "Mateo 25:31-46; Apocalipsis 20:11-15",
-    'context': "Este concepto se interpreta en relación con Mateo 25:31-46; Apocalipsis 20:11-15, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Lectura canónica",
     'definition': "Interpretación de un pasaje considerando su lugar dentro del conjunto de la Escritura.",
     'category': "Hermenéutica",
@@ -296,32 +247,11 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con Romanos 8:28-30; 2 Timoteo 1:9, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Mediación",
-    'definition': "Función de quien interviene para establecer o asegurar una relación entre partes.",
-    'category': "Cristología",
-    'references': "1 Timoteo 2:5-6; Hebreos 8:6",
-    'context': "Este concepto se interpreta en relación con 1 Timoteo 2:5-6; Hebreos 8:6, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Misterio de la piedad",
     'definition': "Verdad revelada acerca de Cristo y la obra de Dios, confesada en la comunidad cristiana.",
     'category': "Doctrina",
     'references': "1 Timoteo 3:16",
     'context': "Este concepto se interpreta en relación con 1 Timoteo 3:16, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
-    'term': "Pacto davídico",
-    'definition': "Promesa de Dios a David acerca de su descendencia y de un reino establecido por Dios.",
-    'category': "Historia bíblica",
-    'references': "2 Samuel 7:12-16; Lucas 1:32-33",
-    'context': "Este concepto se interpreta en relación con 2 Samuel 7:12-16; Lucas 1:32-33, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
-    'term': "Pacto mosaico",
-    'definition': "Relación de pacto establecida por Dios con Israel en el Sinaí mediante la Ley.",
-    'category': "Historia bíblica",
-    'references': "Éxodo 19:3-6; 24:3-8",
-    'context': "Este concepto se interpreta en relación con Éxodo 19:3-6; 24:3-8, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
     'term': "Paz con Dios",
@@ -373,13 +303,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'context': "Este concepto se interpreta en relación con 1 Juan 4:1-3; 1 Tesalonicenses 5:19-22, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
-    'term': "Reino de Dios",
-    'definition': "Gobierno soberano de Dios que se manifiesta en la obra y autoridad de Jesús y tendrá consumación futura.",
-    'category': "Escatología",
-    'references': "Marcos 1:14-15; Lucas 17:20-21",
-    'context': "Este concepto se interpreta en relación con Marcos 1:14-15; Lucas 17:20-21, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
     'term': "Sacrificio vicario",
     'definition': "Sacrificio realizado en favor de otros y en lugar de ellos.",
     'category': "Salvación",
@@ -420,13 +343,6 @@ const List<Map<String, String>> dictionaryTranche04 = [
     'category': "Cristología",
     'references': "Colosenses 2:9-10; Hebreos 7:25",
     'context': "Este concepto se interpreta en relación con Colosenses 2:9-10; Hebreos 7:25, atendiendo al argumento y al contexto de cada pasaje.",
-  },
-  {
-    'term': "Unión con Cristo",
-    'definition': "Relación espiritual por la que los creyentes participan de los beneficios de la obra de Jesús.",
-    'category': "Salvación",
-    'references': "Romanos 6:3-11; Efesios 1:3-7",
-    'context': "Este concepto se interpreta en relación con Romanos 6:3-11; Efesios 1:3-7, atendiendo al argumento y al contexto de cada pasaje.",
   },
   {
     'term': "Veracidad de Dios",
