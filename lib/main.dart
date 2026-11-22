@@ -5,6 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'dictionary_extra.dart';
 import 'dictionary_tranche_02.dart';
 import 'dictionary_tranche_03.dart';
+import 'dictionary_tranche_04.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
@@ -21959,6 +21960,13 @@ final List<DictionaryTerm> dictionaryTerms = [
         context: entry['context']!,
       )),
   ...dictionaryTranche03.map((entry) => DictionaryTerm(
+        entry['term']!,
+        entry['definition']!,
+        entry['category']!,
+        entry['references']!,
+        context: entry['context']!,
+      )),
+  ...dictionaryTranche04.map((entry) => DictionaryTerm(
         entry['term']!,
         entry['definition']!,
         entry['category']!,
