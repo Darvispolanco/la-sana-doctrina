@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'dictionary_extra.dart';
 import 'dictionary_tranche_02.dart';
 import 'dictionary_tranche_03.dart';
@@ -7,6 +8,7 @@ Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();
 
 await MobileAds.instance.initialize();
+await SavedStudyStore.load();
 
 runApp(const SanaDoctrinaApp());
 }
@@ -201,7 +203,7 @@ const HomeBannerAd(),
 }
 }
 
-class EstudiosTab extends StatelessWidget {
+class EstudiosTab extends StatefulWidget {
 const EstudiosTab({super.key});
 
 static const studies = <Study>[
@@ -21597,7 +21599,21 @@ Este estudio cierra el catálogo de 150 temas y reúne principios que atraviesan
 ];
 
 @override
+State<EstudiosTab> createState() => _EstudiosTabState();
+}
+
+class _EstudiosTabState extends State<EstudiosTab> {
+String query = '';
+
+@override
 Widget build(BuildContext context) {
+final normalizedQuery = query.trim().toLowerCase();
+final filteredStudies = EstudiosTab.studies.where((study) {
+return study.title.toLowerCase().contains(normalizedQuery) ||
+study.subtitle.toLowerCase().contains(normalizedQuery) ||
+study.number.toLowerCase().contains(normalizedQuery);
+}).toList();
+
 return ListView(
 padding: const EdgeInsets.all(16),
 children: [
@@ -21610,7 +21626,20 @@ const Text(
 'Estudia las Escrituras tema por tema y fortalece tus fundamentos.',
 ),
 const SizedBox(height: 14),
-for (final study in studies)
+TextField(
+onChanged: (value) => setState(() => query = value),
+decoration: InputDecoration(
+hintText: 'Buscar estudio por título o tema...',
+prefixIcon: const Icon(Icons.search),
+suffixIcon: query.isEmpty ? null : IconButton(onPressed: () => setState(() => query = ''), icon: const Icon(Icons.clear)),
+border: OutlineInputBorder(borderRadius: BorderRadius.circular(14)),
+),
+),
+const SizedBox(height: 12),
+if (filteredStudies.isEmpty)
+const Padding(padding: EdgeInsets.all(24), child: Text('No se encontraron estudios con esa búsqueda.'))
+else
+for (final study in filteredStudies)
 Card(
 clipBehavior: Clip.antiAlias,
 child: ListTile(
@@ -21646,6 +21675,23 @@ builder: (_) => StudyDetailPage(study: study),
 ),
 ],
 );
+}
+}
+
+class SavedStudyStore {
+static final ValueNotifier<Set<String>> saved = ValueNotifier<Set<String>>({});
+
+static Future<void> load() async {
+final preferences = await SharedPreferences.getInstance();
+saved.value = preferences.getStringList('saved_study_numbers')?.toSet() ?? <String>{};
+}
+
+static Future<void> toggle(String number) async {
+final next = Set<String>.from(saved.value);
+if (!next.add(number)) next.remove(number);
+saved.value = next;
+final preferences = await SharedPreferences.getInstance();
+await preferences.setStringList('saved_study_numbers', next.toList());
 }
 }
 
@@ -21692,6 +21738,19 @@ const gold = Color(0xFFD5B46A);
 return Scaffold(
 appBar: AppBar(
 title: Text(study.title),
+actions: [
+ValueListenableBuilder<Set<String>>(
+valueListenable: SavedStudyStore.saved,
+builder: (context, saved, _) {
+final isSaved = saved.contains(study.number);
+return IconButton(
+tooltip: isSaved ? 'Quitar de guardados' : 'Guardar estudio',
+icon: Icon(isSaved ? Icons.bookmark : Icons.bookmark_border),
+onPressed: () => SavedStudyStore.toggle(study.number),
+);
+},
+),
+],
 ),
 body: ListView(
 padding: const EdgeInsets.all(20),
@@ -22722,30 +22781,40 @@ const GuardadosTab({super.key});
 
 @override
 Widget build(BuildContext context) {
+return ValueListenableBuilder<Set<String>>(
+valueListenable: SavedStudyStore.saved,
+builder: (context, saved, _) {
+final savedStudies = EstudiosTab.studies.where((study) => saved.contains(study.number)).toList();
+if (savedStudies.isEmpty) {
 return const Center(
 child: Padding(
 padding: EdgeInsets.all(28),
-child: Column(
-mainAxisSize: MainAxisSize.min,
-children: [
-Icon(
-Icons.bookmark_border,
-size: 58,
-color: Color(0xFF14243A),
-),
+child: Column(mainAxisSize: MainAxisSize.min, children: [
+Icon(Icons.bookmark_border, size: 58, color: Color(0xFF14243A)),
 SizedBox(height: 14),
-Text(
-'Tus estudios guardados',
-style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-),
+Text('Todavía no tienes estudios guardados', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold), textAlign: TextAlign.center),
 SizedBox(height: 8),
-Text(
-'Aquí aparecerán los estudios y versículos que marques como favoritos.',
-textAlign: TextAlign.center,
+Text('Abre cualquier estudio y pulsa el icono de marcador para añadirlo aquí.', textAlign: TextAlign.center),
+]),
 ),
+);
+}
+return ListView(
+padding: const EdgeInsets.all(16),
+children: [
+const Text('Mis estudios favoritos', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+const SizedBox(height: 12),
+for (final study in savedStudies)
+Card(child: ListTile(
+leading: const Icon(Icons.bookmark, color: Color(0xFF14243A)),
+title: Text(study.title, style: const TextStyle(fontWeight: FontWeight.bold)),
+subtitle: Text('Estudio ${study.number}'),
+onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => StudyDetailPage(study: study))),
+trailing: IconButton(tooltip: 'Quitar de guardados', icon: const Icon(Icons.bookmark_remove_outlined), onPressed: () => SavedStudyStore.toggle(study.number)),
+)),
 ],
-),
-),
+);
+},
 );
 }
 }
