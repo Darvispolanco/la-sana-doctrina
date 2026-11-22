@@ -29,7 +29,7 @@ void main() {
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
-            reason: 'La entrada \${entry['term']} no contiene $field.');
+            reason: 'Una entrada del diccionario no contiene $field.');
       }
     }
     expect(baseDictionaryContexts.length, greaterThanOrEqualTo(56));
