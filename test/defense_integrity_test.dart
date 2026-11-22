@@ -21,24 +21,12 @@ void main() {
     for (final entry in entries) {
       final id = entry['id'] as String;
       final file = entry['file'] as String;
-      expect(id, matches(RegExp(r'^D-\d{3}));
+      expect(id, matches(RegExp(r'^D-\d{3}$')));
 
       final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
       expect(content.trim().isNotEmpty, isTrue, reason: 'El documento $id está vacío.');
       expect(
         RegExp(r'(?m)^#{1,3}\s+\S').hasMatch(content),
-        isTrue,
-        reason: 'El documento $id no contiene encabezados estructurados.',
-      );
-    }
-  });
-}
-)));
-
-      final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
-      expect(content.trim().isNotEmpty, isTrue, reason: 'El documento $id está vacío.');
-      expect(
-        RegExp(r'(?m)^#{1,3}\\s+\\S').hasMatch(content),
         isTrue,
         reason: 'El documento $id no contiene encabezados estructurados.',
       );
