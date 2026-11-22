@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/dictionary_extra.dart';
-import '../lib/dictionary_tranche_02.dart';
-import '../lib/dictionary_tranche_03.dart';
+import 'package:la_sana_doctrina/dictionary_extra.dart';
+import 'package:la_sana_doctrina/dictionary_tranche_02.dart';
+import 'package:la_sana_doctrina/dictionary_tranche_03.dart';
 
 String normalizeTerm(String value) {
   return value
