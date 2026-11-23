@@ -1,24 +1,51 @@
-# Estudio 74. Universalismo contemporáneo: esperanza y advertencias bíblicas
+# D-074. Universalismo contemporáneo: salvación, juicio y esperanza bíblica
 
-## Panorama
-Las expresiones actuales del universalismo varían: algunas proponen una esperanza de reconciliación final para todos; otras afirman que la condenación definitiva no existe. Debe distinguirse una esperanza humilde en la misericordia de Dios de una certeza doctrinal que elimina las advertencias bíblicas.
+## 1. Delimitación
 
-## La misericordia de Dios
-Juan 3:16-17 anuncia el amor de Dios y el envío del Hijo para salvar al mundo. 1 Timoteo 2:1-6 llama a orar por todos y presenta a Cristo como único mediador. 2 Pedro 3:9 resalta la paciencia de Dios y su deseo de arrepentimiento.
+El universalismo es una familia de posturas que sostienen, de distintas maneras, que finalmente todas las personas serán reconciliadas con Dios. Algunas expresiones enfatizan la esperanza de una restauración universal; otras afirman que el juicio no tendrá consecuencias definitivas. El análisis debe distinguir entre desear que todos sean salvos y afirmar que la Escritura garantiza ese resultado sin importar la respuesta al evangelio.
 
-## El juicio
-Mateo 25:31-46 presenta dos destinos en el juicio del Hijo del Hombre. Juan 5:28-29 habla de resurrección de vida y de condenación. Apocalipsis 20:11-15 describe el juicio final. No se puede enseñar la misericordia ignorando estos textos.
+## 2. El deseo salvador de Dios
 
-## Cómo leer los pasajes universales
-Romanos 5:18-21 contrasta la condenación en Adán con la justificación y vida en Cristo. 1 Corintios 15:22-28 describe el orden de la resurrección y la derrota de la muerte. Deben leerse en el argumento de Pablo, distinguiendo la victoria de Cristo de la afirmación automática de que cada individuo participa de ella sin fe ni arrepentimiento.
+1 Timoteo 2:1-6 exhorta a orar por todos y afirma que Dios quiere que todos sean salvos y vengan al conocimiento de la verdad. El contexto impulsa a la Iglesia a orar ampliamente y presenta a Cristo como único mediador entre Dios y los seres humanos.
 
-## Preguntas y respuestas
-1. **¿Dios es misericordioso?** Sí, abundantemente.
-2. **¿La misericordia elimina el juicio?** Los textos bíblicos mantienen ambos.
-3. **¿La iglesia debe llamar al arrepentimiento?** Sí.
-4. **¿Debemos afirmar más de lo que la Escritura afirma?** No.
+El deseo de salvación no debe convertirse automáticamente en una afirmación de que todos serán salvos. El mismo Nuevo Testamento llama a arrepentirse y creer.
 
-## Conclusión
-La proclamación cristiana ofrece gracia real y advierte sobre el juicio real. La esperanza debe permanecer sometida al testimonio completo de la Escritura.
-## Pasajes
-Mateo 25:31-46; Juan 3:16-21; 5:28-29; Romanos 5:12-21; 1 Corintios 15:20-28; 1 Timoteo 2:1-6; 2 Pedro 3:8-13; Apocalipsis 20:11-15.
+## 3. La invitación universal del evangelio
+
+Juan 3:16-18 presenta el amor de Dios al mundo y la promesa de vida eterna para quien cree en el Hijo. El pasaje también habla de condenación para quien no cree. La amplitud de la invitación no elimina la seriedad de la respuesta humana.
+
+Hechos 17:30-31 anuncia que Dios manda a todos los seres humanos en todo lugar que se arrepientan, porque ha establecido un día de juicio por medio del varón que designó y acreditó al resucitarlo.
+
+## 4. Los textos sobre juicio
+
+Mateo 25:31-46 presenta el juicio del Hijo del Hombre y una separación entre grupos. 2 Tesalonicenses 1:5-10 habla de justicia divina y de la manifestación de Cristo. Apocalipsis 20:11-15 describe el juicio final.
+
+Estos pasajes no deben suavizarse hasta perder su advertencia. Tampoco deben utilizarse para especular sobre el destino individual de personas concretas. El propósito es llamar a la fidelidad y anunciar el evangelio.
+
+## 5. La esperanza de la restauración
+
+Colosenses 1:19-20 habla de la reconciliación de todas las cosas por medio de Cristo. Efesios 1:9-10 describe el propósito de reunir todas las cosas en Cristo. Estos textos muestran el alcance cósmico de la obra de Jesús.
+
+Sin embargo, deben compararse con los pasajes que hablan de juicio y respuesta al evangelio. «Todas las cosas» puede referirse a la restauración del orden creado bajo la autoridad de Cristo; no debe interpretarse sin considerar el contexto y el resto del canon.
+
+## 6. Preguntas y respuestas
+
+**¿Dios desea que todos sean salvos?** 1 Timoteo 2:1-6 presenta ese deseo y llama a orar por todos.
+
+**¿Eso significa que la respuesta al evangelio es irrelevante?** No. Juan 3:16-18 y Hechos 17:30-31 llaman a creer y arrepentirse.
+
+**¿Podemos declarar el destino eterno de cada persona?** No nos corresponde emitir juicios individuales que Dios no ha revelado. Debemos anunciar el evangelio y dejar el juicio final al Señor.
+
+**¿La esperanza de restauración debe ignorar los textos sobre juicio?** No. La interpretación debe conservar ambos conjuntos de pasajes.
+
+## 7. Discernimiento
+
+Una enseñanza debe evaluarse preguntando si mantiene la realidad del pecado, la necesidad de Cristo, el llamado al arrepentimiento y la justicia de Dios. La compasión por todas las personas es bíblica; eliminar las advertencias de Jesús no lo es.
+
+## 8. Síntesis
+
+El evangelio se anuncia a todos y Dios llama al arrepentimiento. La obra de Cristo tiene alcance universal en su autoridad y propósito, pero la Escritura también enseña juicio y la necesidad de responder al evangelio. La esperanza cristiana debe respetar todo el testimonio bíblico.
+
+## 9. Referencias bíblicas
+
+Mateo 25:31-46; Juan 3:16-21; Hechos 17:30-31; Romanos 2:5-11; 1 Timoteo 2:1-6; Efesios 1:9-10; Colosenses 1:15-23; 2 Tesalonicenses 1:5-10; Apocalipsis 20:11-15.
