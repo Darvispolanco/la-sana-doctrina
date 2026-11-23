@@ -48,6 +48,37 @@ Romanos 12:1-2 llama a no conformarse a este siglo, sino a ser transformados med
 
 La fidelidad cristiana no exige aislamiento cultural, pero sí rechaza la mezcla de la adoración a Dios con prácticas que contradicen el evangelio. Cristo es suficiente y la Escritura orienta el discernimiento.
 
+## 8. Diferenciar cultura, adaptación y sincretismo
+
+La encarnación del evangelio en una cultura no exige copiar cada práctica religiosa de esa cultura. La Iglesia puede utilizar idiomas, música, formas de hospitalidad, expresiones artísticas y recursos educativos propios de cada pueblo, siempre que el contenido del evangelio permanezca fiel. La adaptación cultural comunica el mensaje; el sincretismo altera la confianza y la adoración debidas a Dios.
+
+Hechos 17:16-31 ofrece un ejemplo de diálogo contextual. Pablo observa la religiosidad ateniense, identifica un punto de contacto y utiliza una inscripción para iniciar su exposición. Sin embargo, no adopta la idolatría de la ciudad: anuncia al Creador, llama al arrepentimiento y proclama la resurrección.
+
+## 9. Examen de la lealtad religiosa
+
+**Deuteronomio 6:4-5.** El pueblo debe amar al Señor con todo su ser. La lealtad no puede dividirse entre Dios y poderes a los que se atribuya autoridad espiritual independiente.
+
+**1 Reyes 18:20-40.** Elías confronta la vacilación entre Jehová y Baal. La narración llama a reconocer quién es el Dios verdadero y muestra la gravedad de una adoración mezclada.
+
+**1 Corintios 10:14-22.** Pablo advierte que la participación en la mesa del Señor no puede combinarse con participación en cultos idolátricos. El contexto trata de la lealtad expresada en la adoración.
+
+**Colosenses 2:8-10.** La advertencia contra filosofías engañosas está conectada con la suficiencia de Cristo, en quien habita la plenitud de la Deidad. El criterio es si una práctica desplaza la centralidad del Hijo.
+
+## 10. Preguntas para evaluar una práctica
+
+1. ¿Qué significado atribuyen sus participantes a la práctica?
+2. ¿Se dirige a Dios o a otro poder espiritual?
+3. ¿Promete protección, perdón o salvación mediante un objeto o rito?
+4. ¿Es una expresión cultural o un acto de culto?
+5. ¿Puede realizarse sin contradecir la enseñanza bíblica?
+6. ¿Qué efectos produce en la conciencia, la comunidad y la confianza en Cristo?
+
+No basta con juzgar una práctica por su apariencia externa. Es necesario conocer su significado real y escuchar cómo la entienden quienes la realizan.
+
+## 11. Aplicación pastoral
+
+La iglesia debe enseñar a discernir sin promover aislamiento, desprecio cultural ni temor supersticioso. Puede reconocer elementos culturales legítimos y rechazar aquello que atribuya poder divino a criaturas u objetos. La fidelidad cristiana se expresa en adoración exclusiva a Dios, amor al prójimo y una vida transformada.
+
 ## 9. Referencias bíblicas
 
 Deuteronomio 6:4-5; Deuteronomio 12:29-32; 1 Reyes 18:20-40; Hechos 17:16-31; Romanos 12:1-2; 1 Corintios 10:14-22; Colosenses 2:8-10.
