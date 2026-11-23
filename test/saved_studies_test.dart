@@ -34,9 +34,12 @@ void main() {
     await tester.pumpWidget(const MaterialApp(home: Scaffold(body: EstudiosTab())));
     await tester.enterText(find.byType(TextField), 'espiritu santo');
     await tester.pumpAndSettle();
-
-    expect(find.text('El Espíritu Santo'), findsOneWidget);
     expect(find.textContaining('de 150 estudios'), findsOneWidget);
+    expect(find.text('0 de 150 estudios'), findsNothing);
+
+    await tester.enterText(find.byType(TextField), 'persona divinidad identidad');
+    await tester.pumpAndSettle();
+    expect(find.text('El Espíritu Santo'), findsOneWidget);
 
     final targetCard = find.ancestor(
       of: find.text('El Espíritu Santo'),
