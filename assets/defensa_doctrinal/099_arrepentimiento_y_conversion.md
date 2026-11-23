@@ -62,7 +62,23 @@ Juan 16:8-11 describe la obra del Espíritu al convencer al mundo de pecado, jus
 
 Esta perspectiva evita dos errores: atribuir la salvación al mérito humano o tratar la respuesta de fe y arrepentimiento como algo innecesario.
 
-## 9. Preguntas y respuestas
+## 9. Bautismo y confesión pública de la fe
+
+Hechos 2:38-41 une el llamado al arrepentimiento con el bautismo en el nombre de Jesucristo y la recepción de la palabra. En Hechos 8:12-17, Hechos 10:44-48 y Hechos 19:1-7 aparecen distintos relatos de personas que reciben el evangelio y son bautizadas. Estos pasajes deben leerse en sus contextos particulares, sin convertir una narración aislada en una fórmula que ignore el conjunto del testimonio bíblico.
+
+Romanos 6:3-4 relaciona el bautismo con la identificación del creyente con la muerte y resurrección de Cristo. El bautismo es una respuesta pública de obediencia y una señal vinculada a la fe; no debe tratarse como un pago humano que obliga a Dios a conceder salvación. Tampoco debe separarse de la fe y del discipulado que representa.
+
+La Iglesia debe enseñar el bautismo con seriedad, explicar su significado bíblico y acompañar a cada persona en su decisión. No debe manipular, avergonzar ni presionar a alguien para producir una respuesta externa sin comprensión y convicción.
+
+## 10. Conversión inicial y arrepentimiento continuo
+
+La conversión señala el comienzo de una nueva orientación hacia Dios, pero la vida cristiana continúa requiriendo confesión, corrección y crecimiento. Primera de Juan 1:8-9 llama a reconocer los pecados y confiar en la fidelidad y justicia de Dios para perdonar y limpiar. Gálatas 6:1 enseña que la restauración debe realizarse con espíritu de mansedumbre y vigilancia personal.
+
+Esto no significa que el creyente deba vivir bajo una condenación constante ni que deba repetir una conversión cada vez que falla. Significa que la relación con Dios produce humildad, disposición a corregirse y confianza continua en la gracia de Cristo.
+
+La perseverancia incluye volver a la verdad cuando se ha errado, reparar el daño cuando sea posible y buscar ayuda pastoral responsable. El arrepentimiento genuino no es una actuación pública, sino una disposición sincera que se expresa en decisiones y frutos.
+
+## 11. Preguntas y respuestas
 
 **¿Arrepentirse significa sentir tristeza solamente?** No. Segunda de Corintios 7:8-11 muestra que la tristeza según Dios produce un cambio concreto.
 
@@ -76,16 +92,16 @@ Esta perspectiva evita dos errores: atribuir la salvación al mérito humano o t
 
 **¿Qué papel tiene el Espíritu Santo?** Convence de pecado y renueva la vida conforme a la obra de Cristo (Jn 16:8-11; Tit 3:4-7).
 
-## 10. Aplicación pastoral
+## 12. Aplicación pastoral
 
 La iglesia debe anunciar el arrepentimiento sin manipular mediante miedo ni reducirlo a una emoción pública. Debe enseñar qué significa volverse a Dios, acompañar a quienes desean cambiar y promover frutos concretos de justicia, misericordia y obediencia.
 
 La corrección pastoral debe conducir a la restauración y no a la humillación. La persona que reconoce su pecado necesita escuchar el llamado al perdón en Cristo y recibir acompañamiento para caminar en una vida nueva.
 
-## 11. Síntesis doctrinal
+## 13. Síntesis doctrinal
 
 Dios llama a todas las personas a arrepentirse y creer en el evangelio. El arrepentimiento no es solo emoción ni mérito humano: es un cambio real de orientación que responde a la gracia y produce frutos de obediencia. La conversión se dirige a Dios por medio de Jesucristo y es acompañada por la obra renovadora del Espíritu Santo.
 
-## 12. Referencias bíblicas
+## 14. Referencias bíblicas
 
-Isaías 55:6-7; Ezequiel 18:30-32; Marcos 1:14-15; Lucas 3:7-14; Lucas 13:1-5; Lucas 15:1-32; Lucas 19:1-10; Juan 16:8-11; Hechos 2:37-41; Hechos 3:19; Hechos 17:30; Hechos 20:21; Romanos 2:4; 2 Corintios 7:8-11; Efesios 2:8-10; Tito 3:4-7; Santiago 2:14-26; 2 Timoteo 2:24-26.
+Isaías 55:6-7; Ezequiel 18:30-32; Marcos 1:14-15; Lucas 3:7-14; Lucas 13:1-5; Lucas 15:1-32; Lucas 19:1-10; Juan 16:8-11; Hechos 2:37-41; Hechos 3:19; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Hechos 17:30; Hechos 20:21; Romanos 2:4; 2 Corintios 7:8-11; Romanos 6:3-4; Efesios 2:8-10; Tito 3:4-7; 1 Juan 1:8-9; Gálatas 6:1; Santiago 2:14-26; 2 Timoteo 2:24-26.
