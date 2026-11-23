@@ -82,6 +82,38 @@ La respuesta trinitaria debe exponer de manera positiva el monoteísmo bíblico,
 
 La precisión exige reconocer la diversidad de las corrientes unitarias y evitar generalizaciones. La defensa de la doctrina se dirige a las ideas, se fundamenta en la Escritura y se comunica con respeto.
 
+
+## 13. La distinción entre unidad numérica y distinción personal
+
+La confesión bíblica de que Dios es uno debe conservarse en toda explicación cristiana. Deuteronomio 6:4 no es un texto secundario ni una afirmación que la doctrina trinitaria pueda relativizar. La cuestión consiste en interpretar esa confesión junto con los pasajes que presentan al Padre, al Hijo y al Espíritu en relaciones diferenciadas. En Mateo 3:16-17, el Hijo es bautizado, el Espíritu desciende y la voz del Padre se escucha desde los cielos. El relato no presenta tres dioses rivales, pero tampoco describe a una sola persona desempeñando simultáneamente tres papeles sin distinción. El texto muestra una relación real entre el Padre, el Hijo y el Espíritu en un mismo acontecimiento.
+
+La doctrina trinitaria utiliza el lenguaje de una esencia y tres personas para expresar de forma ordenada esos datos bíblicos. La palabra «persona» no debe entenderse como si se hablara de tres seres humanos independientes, cada uno con una naturaleza divina separada. Tampoco debe imaginarse que Dios está dividido en tres partes. La confesión afirma una sola naturaleza divina, indivisible y eterna, compartida plenamente por el Padre, el Hijo y el Espíritu. Esta formulación intenta evitar dos errores: convertir la distinción en tres dioses y borrar la distinción para proteger la unidad. El estudio debe permitir que todos los textos relevantes permanezcan en la explicación.
+
+## 14. El envío del Hijo y la relación eterna con el Padre
+
+En el Evangelio de Juan, Jesús habla repetidamente del Padre que lo envió. Esos textos expresan la misión del Hijo y la relación que mantiene con el Padre. Juan 5:19-23 presenta al Hijo actuando en perfecta unidad con el Padre y afirma que todos deben honrar al Hijo como honran al Padre. Juan 17:1-5 muestra al Hijo dirigiéndose al Padre y hablando de la gloria que compartía con él antes de que el mundo existiera. La misión histórica de Jesús no debe confundirse con el comienzo de su existencia. El que fue enviado al mundo es el Verbo que ya estaba con Dios antes de la creación.
+
+La obediencia del Hijo durante su encarnación tampoco debe utilizarse como una negación automática de su deidad. Filipenses 2:5-11 presenta su humillación voluntaria y su exaltación; Hebreos 2:14-18 destaca su participación real en la condición humana. Estos pasajes explican la misión redentora y la humanidad verdadera de Cristo. Una lectura completa debe mantener juntas la preexistencia, la encarnación, la obediencia y la gloria del Hijo. Si se seleccionan únicamente los textos de envío y obediencia, se deja fuera el testimonio sobre su existencia anterior y su relación única con el Padre.
+
+## 15. El Espíritu como sujeto de acciones personales
+
+La evidencia sobre la personalidad del Espíritu no se limita a un título. Juan 14:26 dice que enseña y recuerda; Juan 15:26 afirma que da testimonio de Cristo; Juan 16:13 describe su guía a la verdad. Hechos 13:2 lo presenta hablando y llamando a Bernabé y a Saulo para una misión. Primera Corintios 12:11 atribuye al Espíritu la distribución de dones conforme a su voluntad. Romanos 8:26-27 habla de su intercesión. La acumulación de estas acciones, en diferentes contextos, impide reducirlo sin más a una energía impersonal.
+
+Al mismo tiempo, la personalidad del Espíritu no significa que sea un ser creado separado de Dios. Hechos 5:3-4 relaciona mentir al Espíritu con mentir a Dios, y los textos de la bendición apostólica lo sitúan junto al Padre y al Hijo en la vida de la iglesia. La doctrina trinitaria reconoce su divinidad y su distinción personal. Su obra no compite con la del Padre ni con la del Hijo: el Espíritu glorifica a Cristo, aplica la verdad y capacita a la comunidad para vivir en obediencia. La enseñanza debe evaluarse a partir de todos estos pasajes, no de una sola imagen bíblica.
+
+## 16. Cómo examinar argumentos y traducciones
+
+En debates sobre la Trinidad suelen aparecer argumentos basados en una palabra, una traducción o una frase aislada. El procedimiento responsable consiste en revisar el contexto inmediato, el argumento del libro, el uso del término en otros pasajes y la relación con el resto de la Escritura. Juan 1:1, por ejemplo, debe leerse junto con Juan 1:3, 1:14, 17:5 y 20:28. Colosenses 1:15 debe interpretarse con los versículos 16-20. Los textos sobre la obediencia del Hijo deben compararse con los que hablan de su preexistencia y gloria. Una conclusión no es sólida si necesita ignorar la explicación que el mismo autor ofrece unas líneas después.
+
+También es necesario distinguir entre una dificultad de traducción y una conclusión doctrinal. Las diferencias gramaticales pueden requerir estudio, pero no autorizan a descartar el testimonio amplio de los escritos apostólicos. Si un argumento depende de una sola versión, se deben comparar traducciones y consultar el contexto sin presentar una preferencia lingüística como si resolviera toda la cuestión. La defensa trinitaria debe ser transparente sobre lo que el texto afirma directamente y sobre las inferencias que se extraen. Esta honestidad permite que el diálogo sea verificable y evita exagerar la fuerza de un argumento particular.
+
+## 17. Una forma respetuosa de dialogar con corrientes unitarias
+
+Antes de responder, es necesario preguntar qué entiende la persona por «Dios», «Hijo», «Verbo» y «Espíritu». El término unitarismo abarca comunidades diversas, y dos personas pueden utilizar las mismas palabras con significados diferentes. Se debe identificar la declaración doctrinal concreta, escuchar cómo se interpretan los pasajes y después examinar los textos bíblicos relevantes. No es correcto atribuir a todos los unitarios una misma explicación sobre Jesús, la creación o el Espíritu. Tampoco es adecuado sustituir la argumentación por etiquetas o descalificaciones personales.
+
+Una conversación fructífera puede seguir un orden sencillo: comenzar por la confesión de un solo Dios; estudiar la relación entre el Padre y el Hijo en Juan; examinar la creación y preexistencia de Cristo; considerar la encarnación y la confesión de Tomás; y finalmente revisar las acciones y la divinidad del Espíritu. En cada paso se debe permitir que el interlocutor explique su lectura y se deben comparar las conclusiones con el contexto. La meta de la defensa doctrinal es dar razón de la fe con claridad, mansedumbre y respeto, sin ocultar las diferencias ni convertirlas en ataques contra las personas.
+
+
 ## 8. Referencias bíblicas
 
 Deuteronomio 6:4; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Juan 20:28; Hechos 5:3-4; Hechos 13:1-4; Romanos 8:26-27; 1 Corintios 8:4-6; 1 Corintios 12:4-11; 2 Corintios 13:14.
