@@ -1,37 +1,71 @@
-# Estudio 81. Un solo Dios: el fundamento del monoteísmo bíblico
+# D-081. Un solo Dios: el fundamento del monoteísmo bíblico
 
-## 1. Tesis
-La Biblia enseña inequívocamente que existe un solo Dios verdadero. La doctrina trinitaria no añade dos dioses al Dios de Israel; confiesa que el único Dios existe eternamente como Padre, Hijo y Espíritu Santo. El monoteísmo es el punto de partida, no un obstáculo que deba eliminarse.
+## 1. Propósito y delimitación
+
+La doctrina cristiana comienza con la confesión de que existe un solo Dios. La enseñanza trinitaria no sustituye el monoteísmo por la creencia en tres dioses; procura explicar de manera coherente el testimonio bíblico que afirma la unicidad divina y, a la vez, distingue al Padre, al Hijo y al Espíritu Santo.
+
+La pregunta central no es si Dios es uno —la Escritura lo afirma con claridad—, sino cómo debemos comprender esa unidad al considerar todos los pasajes que hablan del Padre, de Jesucristo y del Espíritu. Ningún texto debe aislarse para silenciar a los demás.
 
 ## 2. Deuteronomio 6:4 en su contexto
-El Shemá aparece en el discurso de Moisés a Israel antes de entrar en la tierra prometida (Dt 5–6). Después de recordar el pacto y los mandamientos, Moisés llama al pueblo a amar al Señor con todo el corazón, alma y fuerzas (6:5). La confesión de que Jehová es uno exige lealtad exclusiva frente a los dioses de las naciones. El texto no desarrolla por sí solo la distinción personal, pero establece que no hay varios dioses.
 
-## 3. Isaías 44:6 y 45:5
-En Isaías 40–48, el profeta confronta la idolatría y anuncia que el Señor gobierna la historia. «Fuera de mí no hay Dios» (44:6; 45:5) niega cualquier rival divino. El contexto no está discutiendo cómo se relacionan internamente las personas divinas, sino la unicidad del Creador y Salvador.
+Deuteronomio 6 forma parte de las instrucciones de Moisés a Israel antes de entrar en la tierra prometida. El pueblo debía recordar la liberación de Egipto, permanecer fiel al pacto y rechazar la idolatría de las naciones.
 
-## 4. 1 Corintios 8:4-6
-Pablo responde a la controversia sobre alimentos ofrecidos a ídolos. Afirma que no hay más que un Dios y, en la misma confesión, habla de «un Dios, el Padre» y «un Señor, Jesucristo», por medio de quien son todas las cosas. No presenta dos dioses: reformula la confesión monoteísta incluyendo a Jesús en la identidad y obra creadora del único Señor.
+El versículo 4 declara: «Oye, Israel: Jehová nuestro Dios, Jehová uno es» (RVR1960). La confesión introduce el mandato de amar al Señor con todo el corazón, alma y fuerzas (Dt 6:5). Por tanto, el pasaje exige lealtad exclusiva al Dios del pacto; no es una definición aislada que pueda utilizarse para descartar otros textos bíblicos.
 
-## 5. Cómo se armoniza con la Trinidad
-El monoteísmo responde a cuántos dioses hay: uno. Los textos sobre el Padre, el Hijo y el Espíritu responden quiénes son los que se relacionan y actúan divinamente. No se debe convertir «tres personas» en «tres dioses», ni «un solo Dios» en «una sola persona» sin demostrarlo desde los textos.
+Jesús reafirma esta confesión en Marcos 12:28-30. Cuando un escriba pregunta por el primer mandamiento, Jesús cita el Shemá y une la confesión de un solo Dios con el amor total hacia Él. El Nuevo Testamento no abandona el monoteísmo de Israel.
 
-## 6. Objeciones y respuestas
-**Objeción: «Uno» significa necesariamente una sola persona.**  
-Respuesta: Deuteronomio 6:4 afirma la unicidad de Dios en el contexto del pacto; no define la estructura personal de Dios. Otros pasajes deben ser incluidos en la doctrina.
+## 3. La exclusividad de Dios frente a los ídolos
 
-**Objeción: 1 Corintios 8:6 dice que el Padre es el único Dios y Jesús es solo Señor.**  
-Respuesta: Pablo incluye a Jesús en la confesión del único Dios y le atribuye la mediación de todas las cosas. «Señor» también es un título bíblico de gran densidad divina.
+Isaías 44:6-8 presenta al Señor como Rey de Israel, Redentor y primero y último; declara que fuera de Él no hay Dios. El contexto es una polémica contra los ídolos fabricados por seres humanos. Isaías 45:5-6 vuelve a afirmar que no hay otro Dios.
 
-**Objeción: La Trinidad contradice el monoteísmo.**  
-Respuesta: solo lo haría si afirmara tres seres divinos independientes. No lo hace: confiesa una única esencia divina.
+Estos textos enseñan que ningún ídolo, criatura, poder espiritual o gobernante comparte la identidad del único Dios verdadero. La confesión monoteísta excluye la existencia de dioses independientes que compitan con el Señor.
 
-## 7. Preguntas y respuestas
-1. **¿Cuántos dioses hay?** Uno.
-2. **¿El monoteísmo debe abandonarse para aceptar la Trinidad?** No.
-3. **¿Deuteronomio 6:4 explica por sí solo toda la Trinidad?** No; establece el fundamento monoteísta.
-4. **¿Qué aporta 1 Corintios 8:4-6?** Integra al Padre y al Señor Jesucristo en la confesión cristiana del único Dios.
+La doctrina trinitaria debe conservar íntegramente esta afirmación. No enseña tres centros de deidad separados, tres voluntades divinas rivales ni tres seres que formen una asociación de dioses.
 
-## Conclusión
-La Trinidad comienza afirmando con Israel que solo hay un Dios. La iglesia lee esa confesión junto con el testimonio completo del Nuevo Testamento acerca del Padre, del Hijo y del Espíritu Santo.
-## Pasajes
-Deuteronomio 6:4-5; Isaías 44:6-8; 45:5-7; Marcos 12:28-34; Juan 17:3; 1 Corintios 8:4-6; Efesios 4:4-6; Santiago 2:19.
+## 4. La confesión cristiana en 1 Corintios 8:4-6
+
+Pablo responde a una cuestión concreta de la comunidad de Corinto: la comida relacionada con los ídolos. En los versículos 4-5 reconoce que los ídolos no son dioses verdaderos, aunque existan seres llamados dioses y señores en el lenguaje religioso de las naciones.
+
+En el versículo 6 formula la confesión cristiana: «para nosotros, sin embargo, sólo hay un Dios, el Padre, del cual proceden todas las cosas» y «un Señor, Jesucristo, por medio del cual son todas las cosas». Pablo no presenta dos dioses. Incluye al Padre y a Jesucristo en la confesión cristiana del único Dios, distinguiendo sus referencias y atribuyendo al Hijo una función universal en la creación.
+
+El texto debe leerse junto con Juan 1:1-3 y Colosenses 1:15-17, donde el Verbo y el Hijo aparecen relacionados con Dios y con la creación de todas las cosas.
+
+## 5. La unidad divina y la distinción personal
+
+Mateo 28:19 manda bautizar «en el nombre del Padre, y del Hijo, y del Espíritu Santo». El singular «nombre» aparece unido a la mención coordinada de las tres personas. El pasaje no explica por sí solo cada aspecto de la naturaleza divina, pero sí ofrece un dato que debe integrarse con el resto de la enseñanza bíblica.
+
+En Mateo 3:16-17 el Hijo es bautizado, el Espíritu desciende y el Padre habla desde los cielos. En 2 Corintios 13:14 Pablo menciona la gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo. En 1 Pedro 1:2 aparecen relacionados el Padre, el Espíritu y Jesucristo en la descripción de la salvación.
+
+La distinción personal no significa división de la esencia divina. La unidad de Dios tampoco obliga a confundir al Padre con el Hijo o al Hijo con el Espíritu.
+
+## 6. Cómo relacionar los pasajes sin forzarlos
+
+Un estudio responsable sigue cuatro pasos: observar las palabras del texto; identificar quién habla, a quién se dirige y cuál es el argumento; comparar los pasajes relacionados; y formular una conclusión que no exceda la evidencia.
+
+Deuteronomio 6:4 afirma que Dios es uno. Juan 1:1 afirma que el Verbo era Dios y que estaba con Dios. Hechos 5:3-4 relaciona mentir al Espíritu Santo con mentir a Dios. Mateo 3:16-17 distingue al Padre, al Hijo y al Espíritu en una misma escena. La conclusión debe tomar en serio todos estos datos.
+
+No es correcto convertir «uno» en una excusa para ignorar la distinción que muestran los relatos, ni utilizar la distinción para afirmar tres dioses. Ambas desviaciones dejan fuera una parte del testimonio bíblico.
+
+## 7. Preguntas difíciles y respuestas bíblicas
+
+**¿La Trinidad enseña tres dioses?** No. La doctrina confiesa un solo Dios y distingue tres personas. Deuteronomio 6:4 y 1 Corintios 8:4-6 mantienen el monoteísmo.
+
+**Si el Padre es Dios y el Hijo es Dios, ¿hay dos dioses?** La conclusión no se obtiene sumando personas como si fueran seres divinos separados. Juan 1:1-3 distingue al Verbo de aquel con quien estaba y afirma su deidad; el conjunto bíblico mantiene la confesión de un solo Dios.
+
+**¿Deuteronomio 6:4 niega al Hijo y al Espíritu?** El texto afirma la unicidad del Señor en su contexto. No menciona directamente todas las relaciones reveladas posteriormente en el Nuevo Testamento; por eso debe compararse con Mateo 28:19, Juan 1:1-18 y Hechos 5:3-4.
+
+**¿La unidad de Dios significa que Padre, Hijo y Espíritu son la misma persona?** La unidad divina no elimina las relaciones que los textos describen. Mateo 3:16-17 y Juan 14:16-17 presentan distinciones que deben conservarse.
+
+## 8. Errores que deben evitarse
+
+Debe evitarse presentar la Trinidad como tres dioses, dividir a Dios en tres partes, llamar al Hijo una criatura o reducir al Espíritu a una fuerza impersonal. También debe evitarse utilizar una sola palabra o versículo fuera de su contexto para resolver una cuestión que requiere comparar varios pasajes.
+
+Las formulaciones teológicas sirven como síntesis; no tienen autoridad para corregir la Escritura. Si una explicación no respeta los textos, debe revisarse.
+
+## 9. Síntesis doctrinal
+
+La Biblia enseña que Jehová es el único Dios verdadero. El Nuevo Testamento mantiene esa confesión y presenta al Padre, al Hijo y al Espíritu Santo en relaciones y acciones diferenciadas. La doctrina trinitaria procura expresar ambos datos sin dividir la esencia divina ni confundir las personas.
+
+## 10. Referencias bíblicas para el estudio
+
+Deuteronomio 6:4-5; Isaías 44:6-8; Isaías 45:5-6; Marcos 12:28-30; Mateo 3:16-17; Mateo 28:18-20; Juan 1:1-18; Juan 14:16-17; Hechos 5:3-4; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6; 1 Pedro 1:1-2.
