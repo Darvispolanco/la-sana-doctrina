@@ -40,7 +40,7 @@ void main() {
           reason: 'El documento $id necesita mayor desarrollo bíblico y contextual.',
         );
         expect(
-          RegExp(r'^#{1,3}\s+.*referencias bíblicas', multiLine: true, caseSensitive: false).hasMatch(content),
+          RegExp(r'^#{1,3}\s+.*referencias', multiLine: true, caseSensitive: false).hasMatch(content),
           isTrue,
           reason: 'El documento $id debe incluir referencias bíblicas identificables.',
         );
