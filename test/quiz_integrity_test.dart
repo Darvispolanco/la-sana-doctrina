@@ -144,11 +144,14 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.textContaining('Pregunta 1:'), findsOneWidget);
-    final resultsList = find.byType(ListView).first;
+    final resultsScrollView = find.descendant(
+      of: find.byType(CustomScrollView),
+      matching: find.byType(Scrollable),
+    ).first;
     await tester.scrollUntilVisible(
       find.textContaining('Pregunta 20:'),
       500,
-      scrollable: resultsList,
+      scrollable: resultsScrollView,
     );
     expect(find.textContaining('Pregunta 20:'), findsOneWidget);
   });
