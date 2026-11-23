@@ -195,10 +195,6 @@ void main() {
     await tester.pumpAndSettle();
 
     expect(find.textContaining('Pregunta 1:'), findsOneWidget);
-    final resultsScrollView = find.descendant(
-      of: find.byType(CustomScrollView),
-      matching: find.byType(Scrollable),
-    ).first;
     final lastReviewQuestion = find.textContaining('Pregunta 20:');
     await tester.ensureVisible(lastReviewQuestion);
     await tester.pumpAndSettle();
