@@ -17,6 +17,32 @@ class QuizQuestion {
   });
 }
 
+String _normalizedQuestionKey(String value) => value
+    .toLowerCase()
+    .replaceAll(RegExp(r'[áàä]'), 'a')
+    .replaceAll(RegExp(r'[éèë]'), 'e')
+    .replaceAll(RegExp(r'[íìï]'), 'i')
+    .replaceAll(RegExp(r'[óòö]'), 'o')
+    .replaceAll(RegExp(r'[úùü]'), 'u')
+    .replaceAll('ñ', 'n')
+    .replaceAll(RegExp(r'[^a-z0-9]'), '');
+
+List<QuizQuestion> _uniqueQuestions(Iterable<QuizQuestion> questions) {
+  final seen = <String>{};
+  return questions.where((question) {
+    final key = _normalizedQuestionKey(question.question);
+    return key.isNotEmpty && seen.add(key);
+  }).toList();
+}
+
+List<QuizQuestion> _completeQuestionSet(
+  Iterable<QuizQuestion> preferred,
+  Iterable<QuizQuestion> supplemental,
+) {
+  final unique = _uniqueQuestions([...preferred, ...supplemental]);
+  return unique.take(20).toList();
+}
+
 class QuizPack {
   final String title;
   final String description;
@@ -333,24 +359,16 @@ List<QuizQuestion> _generateEvaluationQuestions(
 });
 
 QuizPack _expandEvaluation(QuizPack pack) {
-  if (pack.questions.length >= 20) {
-    return QuizPack(
-      title: pack.title, description: pack.description,
-      questions: pack.questions.take(20).toList(),
-      difficulty: pack.difficulty, source: pack.source,
-    );
-  }
   final refs = pack.questions.isEmpty
-    ? '2 Timoteo 3:16-17; Hechos 17:11'
-    : pack.questions.first.references;
+      ? '2 Timoteo 3:16-17; Hechos 17:11'
+      : pack.questions.first.references;
   final generated = _generateEvaluationQuestions(pack.title, pack.description, refs);
   return QuizPack(
-    title: pack.title, description: pack.description,
-    questions: <QuizQuestion>[
-      ...pack.questions,
-      ...generated.take(20 - pack.questions.length),
-    ],
-    difficulty: pack.difficulty, source: pack.source,
+    title: pack.title,
+    description: pack.description,
+    questions: _completeQuestionSet(pack.questions, generated),
+    difficulty: pack.difficulty,
+    source: pack.source,
   );
 }
 
@@ -734,12 +752,11 @@ final List<QuizPack> quizPacks = <QuizPack>[
     description: item.description,
     questions: (() {
       final complete = _curatedQuestionsFor(item.title);
-      if (complete != null) return complete;
-      final specific = _doctrinalQuestionsFor(item.title) ?? <QuizQuestion>[];
-      final supplemental = _additionalTrinityQuestions(item.title);
+      final specific = complete ?? _doctrinalQuestionsFor(item.title) ?? <QuizQuestion>[];
+      final supplemental = complete == null ? _additionalTrinityQuestions(item.title) : <QuizQuestion>[];
       final curated = <QuizQuestion>[...specific, ...supplemental];
       final generated = _generateEvaluationQuestions(item.title, item.truth, item.references);
-      return <QuizQuestion>[...curated, ...generated.take(20 - curated.length)];
+      return _completeQuestionSet(curated, generated);
     })(),
     difficulty: 'Intermedio',
     source: 'Estudios bíblicos y defensa doctrinal',
