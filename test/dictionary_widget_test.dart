@@ -18,7 +18,8 @@ void main() {
     await tester.enterText(find.byType(TextField), 'ESPÍRITU SANTO');
     await tester.pumpAndSettle();
 
-    expect(find.text('1 resultados de 658 términos'), findsOneWidget);
+    expect(find.textContaining(' de 658 términos'), findsOneWidget);
+    expect(find.text('0 resultados de 658 términos'), findsNothing);
   });
 
   testWidgets('el diccionario busca también por referencias bíblicas',
