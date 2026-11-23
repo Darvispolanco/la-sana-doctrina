@@ -54,6 +54,32 @@ Debe rechazarse el uso de supuestas revelaciones para exigir dinero, controlar r
 
 El Espíritu Santo guía y fortalece a la Iglesia, pero ninguna experiencia contemporánea puede corregir el evangelio ni colocarse por encima de la Escritura. Las afirmaciones espirituales deben examinarse con discernimiento bíblico y responsabilidad comunitaria.
 
+## 8. Diferenciar guía espiritual de doctrina normativa
+
+La Biblia presenta al Espíritu Santo guiando a los creyentes, fortaleciendo la misión y concediendo sabiduría. Sin embargo, una impresión personal no equivale automáticamente a una palabra infalible para toda la Iglesia. La dirección debe examinarse, contrastarse con la Escritura y considerarse junto con la sabiduría y el consejo de la comunidad.
+
+Hechos 16:6-10 relata decisiones misioneras en las que el Espíritu dirigió el recorrido de Pablo y sus compañeros. El texto describe una situación concreta de misión; no establece que toda impresión contemporánea tenga autoridad equivalente a la Escritura. Santiago 1:5 invita a pedir sabiduría, y Proverbios 15:22 destaca la importancia del consejo.
+
+## 9. La prueba cristológica de una afirmación
+
+Juan 16:13-15 enseña que el Espíritu glorifica a Cristo y toma de lo suyo para anunciarlo a los discípulos. Por tanto, una experiencia que exalta al mensajero, desplaza a Jesucristo o contradice el evangelio debe ser examinada con especial cuidado.
+
+1 Juan 4:1-3 relaciona el discernimiento con la confesión correcta acerca de Jesucristo venido en carne. Gálatas 1:6-9 establece que ningún mensaje diferente del evangelio debe aceptarse, aunque su mensajero reclame autoridad extraordinaria.
+
+## 10. Cómo evaluar testimonios personales
+
+Un testimonio puede describir lo que una persona vivió y el significado que le atribuye, pero no se convierte por eso en norma doctrinal. Conviene separar lo que la persona observó, lo que interpretó y la conclusión que propone para otros. Esta distinción evita convertir experiencias individuales en mandamientos universales.
+
+No se debe ridiculizar a quien relata una experiencia ni aceptar automáticamente cada interpretación. La respuesta bíblica combina respeto, escucha y examen. La verdad no necesita presión emocional para sostenerse.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué diferencia existe entre dirección personal y doctrina normativa?
+2. ¿Qué función tiene el consejo según Proverbios 15:22?
+3. ¿Cómo describe Juan 16:13-15 la obra del Espíritu?
+4. ¿Qué límite establece Gálatas 1:6-9?
+5. ¿Cómo separar hechos, interpretaciones y conclusiones en un testimonio?
+
 ## 10. Referencias bíblicas
 
 Proverbios 11:14; Hebreos 1:1-2; Romanos 8:14-16; Gálatas 1:6-9; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; Santiago 1:5; 1 Juan 4:1-6.
