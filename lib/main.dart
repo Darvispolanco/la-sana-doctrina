@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -1280,10 +1281,12 @@ class _HomeBannerAdState extends State<HomeBannerAd> {
 BannerAd? _bannerAd;
 bool _isLoaded = false;
 
-// Unidad de banner de producción de La Sana Doctrina (AdMob).
+// Producción usa la unidad real. Las compilaciones debug conservan el ID
+// de prueba oficial para evitar tráfico publicitario inválido durante el desarrollo.
 // La cuenta de AdMob y los pagos deben estar a nombre de un adulto responsable.
-static const String _bannerAdUnitId =
-'ca-app-pub-3642704038738168/1492221540';
+static const String _bannerAdUnitId = kReleaseMode
+    ? 'ca-app-pub-3642704038738168/1492221540'
+    : 'ca-app-pub-3940256099942544/6300978111';
 
 void _loadBanner() {
 final banner = BannerAd(
