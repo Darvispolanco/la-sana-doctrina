@@ -32,7 +32,7 @@ void main() {
       );
       final numericId = int.parse(id.substring(2));
       if (numericId >= 81 && numericId <= 100) {
-        final wordCount = content.trim().split(RegExp(r'\\s+')).length;
+        final wordCount = content.trim().split(RegExp(r'\s+')).length;
         expect(
           wordCount,
           greaterThanOrEqualTo(650),
