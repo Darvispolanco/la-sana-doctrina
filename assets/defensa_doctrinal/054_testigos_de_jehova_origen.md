@@ -88,6 +88,6 @@ La finalidad es comprender lo que el texto afirma, no encontrar una frase aislad
 4. ¿Qué acciones personales del Espíritu aparecen en Juan 14 y Hechos 13?
 5. ¿Por qué una metáfora bíblica no debe utilizarse para ignorar otros textos?
 
-## 10. Referencias bíblicas
+undefined## 10. Referencias bíblicas
 
 Deuteronomio 6:4; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Hechos 5:3-4; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Colosenses 1:15-20; Hebreos 1:1-12.
