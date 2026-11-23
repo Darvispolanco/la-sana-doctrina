@@ -1,40 +1,53 @@
-# Estudio 36. La encarnación del Verbo
+# D-036. La encarnación del Verbo
 
-## 1. Tesis central
-La encarnación es el acontecimiento por el cual el Hijo eterno asumió una naturaleza humana verdadera. No significa que la Deidad se transformara en humanidad, ni que Jesús fuera una apariencia espiritual. El mismo Verbo que era Dios se hizo carne (Jn 1:1, 14).
+## 1. Qué significa la encarnación
 
-## 2. Juan 1:1-18 en su contexto
-El prólogo presenta al Verbo como eterno, divino, creador y fuente de vida. En el versículo 14, ese Verbo entra en la historia como carne y habita entre nosotros. El versículo 18 dirige la mirada al Hijo, que da a conocer al Padre. La encarnación permite conocer a Dios mediante la revelación personal del Hijo.
+La encarnación es la enseñanza bíblica de que el Hijo eterno asumió una naturaleza humana real. No significa que Dios dejara de ser Dios ni que Jesús aparentara tener un cuerpo. El Verbo se hizo carne y habitó entre nosotros (Jn 1:14).
 
-## 3. El nacimiento virginal
-**Mateo 1:18-25** explica que María concibió por obra del Espíritu Santo y que el niño sería llamado Jesús porque salvaría a su pueblo de sus pecados. Mateo relaciona el acontecimiento con Isaías 7:14. El contexto original de Isaías debe estudiarse en su crisis histórica (Is 7); Mateo interpreta el nacimiento de Jesús como cumplimiento pleno dentro del desarrollo de la promesa bíblica.
+## 2. El contexto de Juan 1:1-18
 
-**Lucas 1:26-38** relata el anuncio a María. El ángel atribuye la concepción a la acción del Espíritu y llama al niño Hijo del Altísimo. El pasaje distingue la obra del Espíritu, la maternidad de María y la identidad del Hijo.
+El prólogo de Juan presenta al Verbo como existente desde el principio, en relación con Dios y siendo Dios. Por medio de Él fueron hechas todas las cosas. El versículo 14 anuncia que el mismo Verbo se hizo carne.
 
-## 4. El Hijo asumió nuestra condición
-**Gálatas 4:4-5** une el envío del Hijo, su nacimiento de mujer y su misión redentora. **Hebreos 2:14-18** explica que participó de carne y sangre para vencer la muerte y ser sumo sacerdote misericordioso. **Romanos 8:3** declara que Dios envió a su Hijo en semejanza de carne de pecado y condenó el pecado en la carne. «Semejanza» no significa apariencia: protege la afirmación de humanidad real sin atribuir pecado a Cristo.
+El sujeto no cambia: el Verbo que existía antes de la creación es quien entra en la historia humana. La encarnación une la eternidad del Hijo con su presencia histórica.
 
-## 5. La encarnación y la Trinidad
-El Padre envía al Hijo (Jn 3:16-17; Gá 4:4); el Hijo viene y se entrega (Jn 10:17-18; Gá 2:20); el Espíritu obra en la concepción (Lc 1:35). Las acciones son distintas y coordinadas. La encarnación no convierte al Hijo en el Padre ni al Espíritu en el Hijo.
+## 3. Nacimiento verdadero
 
-## 6. Objeciones y respuestas
-**Objeción: Si Jesús es Dios, no puede ser verdaderamente humano.**  
-Respuesta: Juan 1:14 y Hebreos 2:14-18 afirman ambas realidades. La Biblia no presenta la humanidad como negación de la divinidad.
+Mateo 1:18-25 y Lucas 1:26-38 relatan el anuncio y nacimiento de Jesús. Gálatas 4:4 afirma que Dios envió a su Hijo, nacido de mujer y bajo la ley.
 
-**Objeción: El Espíritu Santo es el padre biológico de Jesús.**  
-Respuesta: Lucas 1:35 describe la acción creadora del Espíritu; Mateo 1:18-25 identifica al niño como Hijo y no enseña una unión sexual o biológica divina. La concepción es milagrosa.
+El nacimiento de Jesús fue real y ocurrió en la historia. No fue una aparición sin humanidad. El Hijo asumió la condición humana desde el comienzo de su vida terrenal.
 
-**Objeción: Jesús solo parecía humano.**  
-Respuesta: tuvo nacimiento, crecimiento, hambre, cansancio, sufrimiento y muerte (Lc 2:52; Jn 4:6; 19:30).
+## 4. Crecimiento y experiencias humanas
+
+Lucas 2:40-52 describe el crecimiento de Jesús en sabiduría y estatura. Mateo 4:2 habla de su hambre; Juan 4:6 de su cansancio; Juan 19:28 de su sed. Estos relatos muestran una humanidad completa.
+
+Hebreos 4:15 afirma que fue tentado en todo según nuestra semejanza, pero sin pecado. La encarnación no implica pecado ni imperfección moral.
+
+## 5. La encarnación y la salvación
+
+Hebreos 2:14-18 explica que Jesús participó de carne y sangre para vencer mediante la muerte y ayudar a los que son tentados. La humanidad de Cristo está vinculada con su obra sacerdotal y redentora.
+
+Filipenses 2:5-11 presenta su humillación voluntaria y obediencia hasta la muerte de cruz. La encarnación no es una teoría abstracta: está relacionada con el amor y la salvación.
+
+## 6. La deidad permanece
+
+Juan 1:1 afirma que el Verbo era Dios. Colosenses 2:9 declara que en Cristo habita corporalmente toda la plenitud de la Deidad. La humanidad asumida no elimina su naturaleza divina.
+
+El mismo Hijo es verdadero Dios y verdadero hombre. La Escritura no obliga a escoger entre su divinidad y su humanidad.
 
 ## 7. Preguntas y respuestas
-1. **¿Quién se encarnó?** El Verbo eterno, el Hijo.
-2. **¿Qué asumió?** Humanidad verdadera y completa.
-3. **¿Qué papel tuvo el Espíritu?** Obra en la concepción milagrosa (Lc 1:35).
-4. **¿La encarnación elimina la distinción Padre-Hijo?** No; el Padre envía y el Hijo es enviado.
 
-## 8. Conclusión
-La encarnación es central para el evangelio: el Hijo eterno asumió nuestra humanidad sin dejar de ser quien es. La lectura conjunta de Juan, Mateo, Lucas, Pablo y Hebreos protege tanto la divinidad como la humanidad real de Jesucristo.
+**¿El Verbo dejó de ser Dios al hacerse carne?** No. Juan 1:1 y 1:14 deben leerse juntos.
 
-## Pasajes para repaso
-Mateo 1:18-25; Lucas 1:26-38; Juan 1:1-18; 3:16-17; Gálatas 4:4-5; Filipenses 2:5-11; Hebreos 2:14-18.
+**¿Jesús solo aparentaba tener cuerpo?** No. Los Evangelios muestran hambre, cansancio, crecimiento y sufrimiento reales.
+
+**¿La humanidad de Jesús implica que tuvo pecado?** No. Hebreos 4:15 afirma que fue sin pecado.
+
+**¿Por qué el Hijo se hizo hombre?** Hebreos 2:14-18 relaciona su humanidad con la redención y su ayuda a los creyentes.
+
+## 8. Síntesis
+
+El Verbo eterno se hizo verdaderamente hombre sin dejar de ser el Hijo divino. Su encarnación es fundamento de su obediencia, muerte, resurrección y obra sacerdotal.
+
+## 9. Referencias bíblicas
+
+Mateo 1:18-25; Lucas 1:26-38; Lucas 2:40-52; Juan 1:1-18; Juan 4:1-7; Juan 19:28; Colosenses 2:9; Filipenses 2:5-11; Hebreos 2:14-18; Hebreos 4:14-16.
