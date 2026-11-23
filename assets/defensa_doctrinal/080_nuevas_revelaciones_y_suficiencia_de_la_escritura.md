@@ -52,6 +52,43 @@ Una enseñanza debe evaluarse por su fidelidad a Cristo, su coherencia con el ev
 
 La Escritura es la autoridad normativa y suficiente para la fe cristiana. El Espíritu guía y edifica a la Iglesia, pero ninguna experiencia o mensaje contemporáneo puede sustituir ni contradecir el evangelio revelado en Cristo y transmitido por los apóstoles.
 
+## 8. Diferenciar revelación bíblica, iluminación y dirección
+
+La revelación bíblica comunica la verdad que Dios dio a conocer y que constituye el fundamento de la fe. La iluminación describe la obra del Espíritu que ayuda a comprender y aplicar esa verdad. La dirección se refiere a la guía de Dios en decisiones, misión y vida cotidiana. Estas categorías se relacionan, pero no tienen la misma autoridad.
+
+Una impresión personal puede ser significativa para quien la recibe, pero no debe convertirse automáticamente en doctrina para toda la Iglesia. Debe examinarse, compararse con la Escritura y considerarse junto con la sabiduría y el consejo. Nadie debe utilizar una supuesta revelación para controlar la conciencia de otra persona.
+
+## 9. Hebreos 1 y la centralidad del Hijo
+
+Hebreos 1:1-4 contrasta la comunicación anterior por los profetas con la revelación en el Hijo. El Hijo es heredero de todo, agente de la creación y resplandor de la gloria de Dios. El argumento continúa mostrando su superioridad sobre los ángeles.
+
+El pasaje no significa que Dios haya dejado de guiar a su pueblo. Establece que toda comprensión cristiana debe permanecer centrada en Cristo. Ninguna experiencia posterior puede presentar un evangelio distinto ni desplazar la autoridad del Hijo.
+
+## 10. Gálatas 1 y el límite del mensaje
+
+Pablo se sorprende de que los creyentes se aparten hacia un evangelio diferente. Su advertencia alcanza incluso a un mensajero celestial: la autoridad aparente del mensajero no valida un mensaje contrario al evangelio recibido. El contenido debe evaluarse, no solo la experiencia o reputación de quien lo anuncia.
+
+Judas 3 llama a contender por la fe entregada a los santos. La Iglesia puede crecer en comprensión y aplicación, pero no reemplazar el fundamento apostólico.
+
+## 11. Cómo examinar una experiencia espiritual
+
+1. Escribir con precisión qué se afirmó, sin adornar el relato.
+2. Distinguir lo observado de la interpretación personal.
+3. Comparar el mensaje con pasajes bíblicos completos.
+4. Examinar si glorifica a Cristo y produce fruto coherente con el evangelio.
+5. Buscar consejo de creyentes maduros que puedan discrepar con libertad.
+6. Rechazar cualquier uso de la experiencia para manipular, amenazar o exigir obediencia incuestionable.
+
+1 Tesalonicenses 5:19-22 mantiene la apertura al Espíritu junto con el examen de todo. 1 Juan 4:1 manda probar los espíritus. El discernimiento bíblico no es credulidad ni cinismo: es evaluación responsable.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué diferencia existe entre revelación bíblica, iluminación y dirección?
+2. ¿Qué enseña Hebreos 1 sobre la centralidad del Hijo?
+3. ¿Por qué Gálatas 1:8-9 no permite aceptar cualquier mensaje extraordinario?
+4. ¿Cómo se relacionan Judas 3 y la enseñanza continua de la Iglesia?
+5. ¿Qué pasos ayudan a examinar una experiencia sin manipular a quien la comparte?
+
 ## 10. Referencias bíblicas
 
 Marcos 7:1-13; Juan 16:13-15; Efesios 4:11-16; Gálatas 1:6-9; Hebreos 1:1-2; 2 Timoteo 3:14-17; Judas 3; 1 Tesalonicenses 5:19-22; 1 Juan 4:1-6.
