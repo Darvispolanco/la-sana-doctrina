@@ -29,4 +29,21 @@ void main() {
     expect(SavedStudyStore.saved.value, isEmpty);
     expect(preferences.getStringList('saved_study_numbers'), isEmpty);
   });
+  testWidgets('Estudios permite buscar sin tildes y guardar desde el catálogo', (tester) async {
+    await tester.pumpWidget(const MaterialApp(home: EstudiosTab()));
+    await tester.enterText(find.byType(TextField), 'espiritu santo');
+    await tester.pumpAndSettle();
+
+    expect(find.text('El Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('de 150 estudios'), findsOneWidget);
+
+    await tester.tap(find.byTooltip('Guardar estudio'));
+    await tester.pumpAndSettle();
+    expect(SavedStudyStore.saved.value, contains('06'));
+
+    await tester.pumpWidget(const MaterialApp(home: GuardadosTab()));
+    await tester.pumpAndSettle();
+    expect(find.text('El Espíritu Santo'), findsOneWidget);
+  });
+
 }
