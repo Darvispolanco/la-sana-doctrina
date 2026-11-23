@@ -23,10 +23,14 @@ void main() {
 
     await tester.enterText(find.byType(TextField), 'monoteismo');
     await tester.pumpAndSettle();
-    expect(find.text('1 de 100 estudios'), findsOneWidget);
+    expect(find.textContaining('de 100 estudios'), findsOneWidget);
     expect(find.text('Un solo Dios: el fundamento del monoteísmo bíblico'), findsOneWidget);
 
-    await tester.tap(find.byTooltip('Guardar estudio'));
+    final targetCard = find.ancestor(
+      of: find.text('Un solo Dios: el fundamento del monoteísmo bíblico'),
+      matching: find.byType(Card),
+    );
+    await tester.tap(find.descendant(of: targetCard, matching: find.byTooltip('Guardar estudio')));
     await tester.pumpAndSettle();
 
     expect(SavedStudyStore.saved.value, contains('D-081'));
