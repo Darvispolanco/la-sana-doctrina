@@ -147,6 +147,69 @@ jobs:
           print('Verified: release uses the production banner; debug uses Google test ads.')
           PY
 
+      - name: Configure persistent Android signing key
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+        run: |
+          set -euo pipefail
+          if [ -z "$ANDROID_KEYSTORE_BASE64" ]; then
+            echo "ANDROID_SIGNING_CONFIGURED=false" >> "$GITHUB_ENV"
+            echo "::warning::No persistent signing key configured. APKs from this run may require uninstalling the previous app before updating."
+            exit 0
+          fi
+          if [ -z "$ANDROID_KEYSTORE_PASSWORD" ] || [ -z "$ANDROID_KEY_ALIAS" ] || [ -z "$ANDROID_KEY_PASSWORD" ]; then
+            echo "Signing keystore secrets are incomplete." >&2
+            exit 1
+          fi
+          printf '%s' "$ANDROID_KEYSTORE_BASE64" | base64 --decode > android/app/release-keystore.jks
+          test -s android/app/release-keystore.jks
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          candidates = [Path('android/app/build.gradle.kts'), Path('android/app/build.gradle')]
+          gradle = next((p for p in candidates if p.exists()), None)
+          if gradle is None:
+              raise SystemExit('Android Gradle file not found')
+          source = gradle.read_text()
+          if gradle.suffix == '.kts':
+              config = '''    signingConfigs {
+                  create("persistent") {
+                      storeFile = file("release-keystore.jks")
+                      storePassword = System.getenv("ANDROID_KEYSTORE_PASSWORD")
+                      keyAlias = System.getenv("ANDROID_KEY_ALIAS")
+                      keyPassword = System.getenv("ANDROID_KEY_PASSWORD")
+                  }
+              }
+          '''
+              if 'create("persistent")' not in source:
+                  source = source.replace('    buildTypes {', config + '    buildTypes {', 1)
+              source = source.replace('    buildTypes {', '    buildTypes {\n        getByName("debug") { signingConfig = signingConfigs.getByName("persistent") }', 1)
+              source = source.replace('signingConfig = signingConfigs.getByName("debug")', 'signingConfig = signingConfigs.getByName("persistent")')
+          else:
+              config = '''    signingConfigs {
+                  persistent {
+                      storeFile file("release-keystore.jks")
+                      storePassword System.getenv("ANDROID_KEYSTORE_PASSWORD")
+                      keyAlias System.getenv("ANDROID_KEY_ALIAS")
+                      keyPassword System.getenv("ANDROID_KEY_PASSWORD")
+                  }
+              }
+          '''
+              if 'persistent {' not in source:
+                  source = source.replace('    buildTypes {', config + '    buildTypes {', 1)
+              source = source.replace('    buildTypes {', '    buildTypes {\n        debug { signingConfig signingConfigs.persistent }', 1)
+              source = source.replace('signingConfig signingConfigs.debug', 'signingConfig signingConfigs.persistent')
+          if 'persistent' not in source:
+              raise SystemExit('Persistent signing configuration was not applied')
+          gradle.write_text(source)
+          print('Persistent signing configured for debug and release builds.')
+          PY
+          echo "ANDROID_SIGNING_CONFIGURED=true" >> "$GITHUB_ENV"
+
       - name: Analyze project
         run: flutter analyze --no-fatal-infos
 
@@ -154,12 +217,20 @@ jobs:
         run: flutter test
 
       - name: Build debug APK with a unique Android version code
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: >-
           flutter build apk --debug
           --build-name=0.1.0
           --build-number=${GITHUB_RUN_NUMBER}
 
       - name: Build production APK with a unique Android version code
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: >-
           flutter build apk --release
           --build-name=0.1.0
