@@ -45,6 +45,47 @@ El Libro de Mormón es una escritura oficial de los Santos de los Últimos Días
 - [The Book of Mormon and the Bible Are God’s Word](https://www.churchofjesuschrist.org/welcome/bible-book-of-mormon-word-of-god?lang=eng)
 - [Common Questions](https://www.churchofjesuschrist.org/welcome/common-questions?lang=eng)
 
+## 9. Contexto y evaluación de las afirmaciones oficiales
+
+Para estudiar el Libro de Mormón es necesario distinguir su condición de texto religioso, su función dentro de la comunidad que lo recibe como escritura y las afirmaciones históricas sobre su origen. La Iglesia de Jesucristo de los Santos de los Últimos Días lo presenta como un testimonio adicional de Jesucristo y como parte de su canon. Esa descripción debe exponerse con exactitud antes de formular una crítica.
+
+El examen puede organizarse en tres planos: **histórico**, que pregunta por el origen, transmisión y documentación del texto; **literario**, que analiza su composición, lenguaje y estructura; y **doctrinal**, que compara lo que enseña con el testimonio bíblico. Mezclar los tres planos conduce a conclusiones apresuradas.
+
+No debe afirmarse que todos los miembros sostienen la misma opinión sobre cada cuestión histórica. Tampoco debe presentarse una objeción como demostrada sin explicar su evidencia. La honestidad intelectual fortalece la defensa doctrinal.
+
+## 10. Criterios bíblicos para evaluar una fuente religiosa
+
+**El evangelio apostólico (Gálatas 1:6-9).** Pablo advierte contra cualquier mensaje que altere el evangelio recibido. La autoridad que una comunidad atribuya a un documento no elimina la obligación de examinar su contenido.
+
+**La identidad de Cristo (Juan 1:1-18).** El Verbo es presentado como Dios, agente de la creación y aquel que se hizo carne. Una enseñanza sobre Jesús debe compararse con todo el pasaje, no solo con la presencia de su nombre.
+
+**La plenitud de Cristo (Colosenses 2:8-10).** Pablo advierte sobre filosofías engañosas y afirma que en Cristo habita corporalmente toda la plenitud de la Deidad. El pasaje dirige al creyente a permanecer arraigado en Cristo.
+
+**La prueba de las enseñanzas (Hechos 17:10-12).** Los bereanos examinaron las Escrituras para comprobar lo que escuchaban. El ejemplo promueve una evaluación informada y constante.
+
+## 11. Diferenciar autoridad, utilidad y testimonio
+
+Un documento puede tener valor histórico sin ser inspirado; puede ayudar a comprender una comunidad sin tener autoridad doctrinal; y puede mencionar verdades bíblicas sin que todas sus afirmaciones sean correctas. Por eso, no basta con preguntar si un texto habla de Dios o de Jesucristo. Hay que examinar sus afirmaciones sobre la naturaleza divina, la persona de Cristo, la salvación y la autoridad final.
+
+La tradición trinitaria sostiene que la Biblia es la norma para evaluar toda enseñanza cristiana. La consulta de fuentes oficiales de otra comunidad es necesaria para representarla con justicia, pero esas fuentes no reemplazan el examen bíblico.
+
+## 12. Guía de diálogo y estudio
+
+1. Identificar la afirmación exacta que se está discutiendo.
+2. Consultar el texto oficial y leerlo en su contexto.
+3. Separar afirmaciones históricas de afirmaciones doctrinales.
+4. Leer los pasajes bíblicos completos y comparar sus temas.
+5. Evitar burlas, generalizaciones y acusaciones que no puedan demostrarse.
+6. Explicar positivamente la fe trinitaria, no limitarse a enumerar desacuerdos.
+
+## 13. Preguntas de profundización
+
+1. ¿Por qué se debe presentar con exactitud la posición oficial de una comunidad?
+2. ¿Qué diferencia existe entre valor histórico y autoridad inspirada?
+3. ¿Qué límite establece Gálatas 1:6-9 a una revelación doctrinal posterior?
+4. ¿Cómo se relacionan Juan 1:1-18 y Colosenses 2:8-10?
+5. ¿Qué método permite comparar una fuente religiosa con la Biblia sin caricaturizarla?
+
 ## 8. Referencias bíblicas
 
 Mateo 28:18-20; Juan 1:1-18; Hechos 17:11; 1 Corintios 8:4-6; Gálatas 1:6-9; Colosenses 2:8-10; 2 Timoteo 3:14-17; Judas 3; 1 Juan 4:1-6.
