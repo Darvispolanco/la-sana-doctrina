@@ -1,21 +1,53 @@
-# Estudio 40. Bogomilismo: dualismo medieval y creación bíblica
+# D-040. Bogomilismo: dualismo medieval y respuesta bíblica
 
-## Contexto histórico
-El bogomilismo surgió en los Balcanes, especialmente en Bulgaria, durante la Edad Media. Las fuentes lo vinculan con formas de dualismo religioso y con críticas a estructuras eclesiásticas de su época. Gran parte de la información procede de opositores, por lo que las descripciones deben distinguirse de los datos corroborados. No todas las comunidades llamadas bogomilas necesariamente compartieron idénticas prácticas o formulaciones.
+## 1. Contexto histórico
 
-## El problema del dualismo
-El dualismo radical presenta el bien y el mal como principios últimos enfrentados. La Biblia, en cambio, enseña que solo Dios es eterno y creador; Satanás es criatura y rebelde, no un dios igual a Dios. **Isaías 45:5-7** proclama la soberanía única del Señor; **Colosenses 1:16-17** afirma que todo fue creado por medio de Cristo y para él, y que en él subsiste.
+El bogomilismo apareció en los Balcanes, especialmente en Bulgaria, durante la Edad Media, y suele relacionarse con el siglo X. Las fuentes disponibles proceden en gran medida de autores eclesiásticos que lo combatieron, por lo que las reconstrucciones de sus creencias requieren cautela. Los historiadores advierten que no debe suponerse que todas las comunidades asociadas al nombre compartieran exactamente las mismas ideas.
 
-## La bondad de la creación y la encarnación
-Génesis 1 declara buena la creación. 1 Timoteo 4:1-5 rechaza prohibiciones ascéticas que tratan como impuro lo que Dios creó para recibirse con gratitud. Esto no legitima el abuso de los bienes, sino que distingue creación buena y uso pecaminoso.
-Juan 1:14 y 1 Juan 4:2-3 insisten en que Jesucristo vino en carne. La salvación no consiste en escapar de una creación intrínsecamente malvada, sino en la redención que Dios trae a su creación.
+El interés doctrinal de este estudio se concentra en las afirmaciones dualistas atribuidas a algunas corrientes y en su relación con la enseñanza bíblica sobre creación, encarnación y salvación.
 
-## Preguntas y respuestas
-1. **¿Existe un poder maligno igual a Dios?** No; el mal no es un principio eterno coigual al Creador.
-2. **¿La materia es intrínsecamente mala?** La creación de Dios es declarada buena (Gn 1).
-3. **¿Por qué importa la encarnación?** Confirma que el Hijo asumió verdadera humanidad.
+## 2. Un solo Creador
 
-## Conclusión
-La Escritura rechaza tanto el dualismo metafísico como la idolatría de lo creado. Dios es el único Creador, y Cristo redime a seres humanos reales en una creación que será renovada.
-## Pasajes
-Génesis 1; Isaías 45:5-7; Juan 1:1-14; Colosenses 1:15-20; 1 Timoteo 4:1-5; 1 Juan 4:1-3.
+Génesis 1 presenta a Dios creando todo lo que existe y declarando buena su obra. Isaías 45:5-7 afirma que el Señor es el único Dios. La Escritura no enseña dos principios eternos e iguales, uno creador del bien y otro responsable del mal.
+
+El mal no es un dios rival. La Biblia lo presenta como rebelión contra Dios y como una realidad que será juzgada y vencida por Él.
+
+## 3. La bondad de la creación y el problema del pecado
+
+Génesis 1:31 declara que todo lo creado era bueno en gran manera. Génesis 3 narra la entrada del pecado mediante la desobediencia humana. Romanos 8:19-23 describe a la creación sometida a corrupción y esperando liberación.
+
+La creación puede estar afectada por el pecado sin ser mala por naturaleza. El problema no se resuelve despreciando el mundo material, sino esperando la redención que Dios promete.
+
+## 4. La encarnación del Hijo
+
+Juan 1:14 afirma que el Verbo se hizo carne. 1 Juan 4:2-3 considera fundamental confesar que Jesucristo ha venido en carne. Hebreos 2:14-18 relaciona su humanidad con la muerte y la obra sacerdotal.
+
+La encarnación real contradice cualquier enseñanza que considere la materia incompatible con la acción salvadora de Dios. El Hijo asumió una humanidad verdadera.
+
+## 5. La salvación y la resurrección
+
+1 Corintios 15:3-8 anuncia que Cristo murió, fue sepultado y resucitó. Lucas 24:36-43 presenta al Resucitado ante sus discípulos. Romanos 8:19-23 ofrece esperanza para la creación, que espera ser liberada de la corrupción.
+
+La esperanza cristiana no consiste en escapar de una creación que Dios considera mala, sino en la redención de la persona y la renovación de la creación bajo el señorío de Cristo.
+
+## 6. Preguntas y respuestas
+
+**¿Existen dos dioses eternos, uno bueno y otro malo?** No. Isaías 45:5-7 afirma la unicidad y soberanía del Señor.
+
+**¿La materia es mala por naturaleza?** Génesis 1:31 declara buena la creación.
+
+**¿Jesús tuvo un cuerpo real?** Juan 1:14, Hebreos 2:14-18 y Lucas 24:36-43 afirman su humanidad y resurrección reales.
+
+**¿La salvación consiste en abandonar la creación?** Romanos 8:19-23 habla de liberación y renovación, no de que el Creador haya hecho algo malo.
+
+## 7. Precisión histórica y diálogo
+
+No deben repetirse acusaciones medievales como si todas estuvieran demostradas. Es importante distinguir entre fuentes de los propios grupos, testimonios de adversarios y reconstrucciones modernas. El análisis bíblico debe dirigirse a las afirmaciones concretas y evitar caricaturizar a personas o comunidades.
+
+## 8. Síntesis doctrinal
+
+La Biblia enseña que un solo Dios creó todas las cosas y que su obra fue buena. El pecado introdujo corrupción, pero el Hijo se encarnó verdaderamente, murió y resucitó para redimir. La esperanza cristiana incluye la renovación de la creación.
+
+## 9. Referencias bíblicas
+
+Génesis 1:1-31; Génesis 3:1-24; Isaías 45:5-7; Juan 1:1-18; Lucas 24:36-43; Romanos 8:19-23; 1 Corintios 15:1-8; Hebreos 2:14-18; 1 Juan 4:1-3.
