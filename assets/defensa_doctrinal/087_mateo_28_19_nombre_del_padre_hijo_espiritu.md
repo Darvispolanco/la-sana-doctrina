@@ -1,32 +1,61 @@
-# Estudio 87. Mateo 28:19: el nombre del Padre, del Hijo y del Espíritu Santo
+# D-087. Mateo 28:19: el nombre del Padre, del Hijo y del Espíritu Santo
 
-## 1. Contexto
-Mateo 28:16-20 presenta al Resucitado reuniéndose con los once discípulos en Galilea. Jesús declara que toda autoridad le ha sido dada y ordena hacer discípulos de todas las naciones, bautizándolos y enseñándoles a obedecer. La fórmula trinitaria está dentro de la comisión final de Jesús.
+## 1. Texto y pregunta principal
 
-## 2. «En el nombre» en singular
-El texto dice «en el nombre» y después menciona al Padre, al Hijo y al Espíritu Santo. El singular une la confesión; la coordinación distingue a los tres. No se debe forzar la gramática para decir que los tres nombres son una sola persona, ni usar el plural para postular tres dioses.
+Mateo 28:19 registra el mandato de Jesús: «Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo». El texto reúne tres referencias personales dentro de una sola fórmula bautismal.
 
-## 3. Relación con el resto de Mateo
-Mateo 3:13-17 ya presentó a las tres personas en el bautismo de Jesús. Mateo 11:25-27 muestra la relación única entre Padre e Hijo. Mateo 12:28 atribuye la obra de Jesús al Espíritu de Dios. La comisión final reúne el patrón que el Evangelio ha mostrado.
+El estudio debe considerar el contexto de la Gran Comisión, la gramática del versículo y su relación con otros pasajes. No es suficiente aislar la palabra «nombre» ni convertir una observación gramatical en una conclusión que exceda lo que el pasaje enseña.
 
-## 4. Relación con Hechos
-Hechos habla de bautizar en el nombre de Jesucristo (Hch 2:38; 8:16; 10:48; 19:5). Esas expresiones destacan la autoridad y confesión de Jesús. No deben utilizarse para cancelar el mandato de Mateo; los relatos pueden describir aspectos distintos de la misma práctica cristiana.
+## 2. El contexto: la autoridad del Cristo resucitado
 
-## 5. Objeciones y respuestas
-**Objeción: El texto debería decir «nombres» si fueran tres personas.**  
-Respuesta: la unidad del nombre expresa la unidad divina y de autoridad; la mención de tres distingue las personas.
-**Objeción: La fórmula fue añadida posteriormente.**  
-Respuesta: la fórmula aparece en la tradición textual amplia de Mateo y es citada por autores cristianos antiguos. Una acusación de interpolación necesita evidencia manuscrita concreta; no basta repetirla.
-**Objeción: Hechos solo bautiza en el nombre de Jesús.**  
-Respuesta: «en el nombre de Jesús» identifica la fe y autoridad cristianas, no necesariamente una transcripción literal de la fórmula completa.
+Mateo 28:16-20 relata el encuentro de los discípulos con Jesús resucitado en Galilea. Algunos adoran, aunque el texto reconoce que hubo quienes dudaron. Jesús declara que toda autoridad le ha sido dada en el cielo y en la tierra (v. 18).
 
-## 6. Preguntas y respuestas
-1. **¿Cuántos nombres aparecen gramaticalmente?** Uno, seguido de tres personas nombradas.
-2. **¿Quién ordena el bautismo?** Jesús resucitado.
-3. **¿La fórmula enseña tres dioses?** No.
-4. **¿Debe interpretarse con Hechos?** Sí; ambos testimonios se armonizan.
+A partir de esa autoridad, manda hacer discípulos de todas las naciones, bautizarlos y enseñarles a guardar todo lo que Él ha mandado (vv. 19-20). La fórmula bautismal no aparece como una frase aislada, sino dentro de la misión universal de la Iglesia.
 
-## Conclusión
-Mateo 28:19 es una base esencial para la confesión trinitaria: unidad divina y distinción personal dentro de la misión de hacer discípulos.
-## Pasajes
-Mateo 3:13-17; 11:25-27; 12:28; 28:16-20; Hechos 2:36-41; 8:12-17; 10:44-48; 19:1-7.
+El mandato concluye con la promesa de la presencia de Jesús todos los días hasta el fin del mundo. La autoridad, el bautismo, la enseñanza y la presencia de Cristo forman una unidad literaria.
+
+## 3. El singular «nombre»
+
+El texto griego utiliza el singular «nombre» y menciona al Padre, al Hijo y al Espíritu Santo. La forma singular es un dato importante: Jesús no presenta tres nombres separados dentro de tres bautismos independientes, sino una sola fórmula que reúne las tres referencias.
+
+Sin embargo, no debe afirmarse que la palabra singular, por sí sola, resuelve todos los aspectos de la doctrina. El argumento se fortalece al comparar la fórmula con la confesión de un solo Dios y con los pasajes que muestran relaciones personales entre Padre, Hijo y Espíritu.
+
+## 4. La mención coordinada de las tres personas
+
+El Padre, el Hijo y el Espíritu aparecen coordinados en la misma instrucción. El texto no presenta al Padre como una persona y a los otros dos como simples objetos o criaturas. Los tres forman parte de la fórmula que identifica la iniciación bautismal de los discípulos.
+
+La coordinación debe leerse junto con Mateo 3:16-17, donde los tres aparecen en la escena del bautismo de Jesús; Juan 14:16-17, donde el Hijo pide al Padre que envíe otro Consolador; y 2 Corintios 13:14, donde Pablo reúne la gracia de Cristo, el amor de Dios y la comunión del Espíritu.
+
+## 5. El bautismo y la formación de discípulos
+
+El verbo «bautizándolos» está unido al mandato de hacer discípulos. En el contexto de Mateo, el bautismo no es un acto aislado de la enseñanza y la obediencia. El versículo 20 añade que los nuevos discípulos deben ser enseñados a guardar todo lo que Jesús mandó.
+
+Por tanto, Mateo 28:19 debe relacionarse con la instrucción de la Iglesia, la fe en Cristo y la vida de obediencia. No debe reducirse a una discusión verbal separada de la misión que Jesús encomienda.
+
+## 6. Relación con Hechos y las expresiones bautismales
+
+Hechos utiliza expresiones como «en el nombre de Jesucristo» o «en el nombre del Señor Jesús» al describir bautismos (Hch 2:38; 8:16; 10:48; 19:5). Esas expresiones identifican la autoridad y la confesión cristiana vinculadas a Jesús.
+
+No es correcto asumir automáticamente que Lucas está transcribiendo en cada relato una fórmula litúrgica completa palabra por palabra. Los pasajes son narraciones que resumen acontecimientos y subrayan la identificación con Jesús. Deben leerse junto con el mandato explícito de Mateo 28:19 y el conjunto de la enseñanza apostólica.
+
+## 7. Preguntas y respuestas bíblicas
+
+**¿El singular «nombre» demuestra que Dios es uno?** Es coherente con el monoteísmo bíblico, pero debe estudiarse junto con Deuteronomio 6:4, 1 Corintios 8:4-6 y los demás pasajes relevantes.
+
+**¿La fórmula menciona tres dioses?** No. Menciona al Padre, al Hijo y al Espíritu Santo dentro de un solo «nombre». La Biblia mantiene la confesión de un solo Dios.
+
+**¿Por qué Hechos habla del bautismo en el nombre de Jesús?** Porque los relatos destacan la autoridad de Jesús y la identificación de los creyentes con Él. Esas expresiones no deben usarse para borrar el mandato de Mateo 28:19.
+
+**¿Mateo 28:19 enseña que Padre, Hijo y Espíritu son la misma persona?** El versículo los distingue en la coordinación de la fórmula. Otros pasajes, como Mateo 3:16-17 y Juan 14:16-17, confirman que existen relaciones personales diferenciadas.
+
+## 8. Principios para una interpretación responsable
+
+Debe respetarse el contexto de la Gran Comisión, observar la forma singular de «nombre», reconocer la coordinación de las tres personas y comparar el texto con los relatos de Hechos. Una conclusión doctrinal no debe depender de una sola palabra ni ignorar el resto del Nuevo Testamento.
+
+## 9. Síntesis doctrinal
+
+Mateo 28:19 coloca al Padre, al Hijo y al Espíritu Santo dentro de una única fórmula bautismal. El singular «nombre» es compatible con la confesión de un solo Dios, mientras que la mención coordinada conserva la distinción de las personas. El pasaje debe leerse en el marco de la autoridad de Cristo y de la misión de hacer discípulos.
+
+## 10. Referencias bíblicas
+
+Deuteronomio 6:4-5; Mateo 3:16-17; Mateo 28:16-20; Hechos 2:38; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Juan 14:16-17, 26; 1 Corintios 8:4-6; 2 Corintios 13:14.
