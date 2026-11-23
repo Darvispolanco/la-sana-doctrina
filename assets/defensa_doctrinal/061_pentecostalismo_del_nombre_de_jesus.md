@@ -48,6 +48,36 @@ Al dialogar sobre estas cuestiones, conviene preguntar qué afirma exactamente l
 
 La Biblia confiesa un solo Dios, afirma la deidad del Hijo y presenta relaciones diferenciadas entre el Padre, el Hijo y el Espíritu. Mateo 28:19 debe leerse junto con los relatos de Hechos. Ninguna expresión debe aislarse para anular el conjunto del testimonio bíblico.
 
+## 9. Examen detallado de los relatos de bautismo
+
+Hechos 2 ocurre en el contexto de Pentecostés. Pedro anuncia a Jesús crucificado y resucitado, declara que Dios lo ha hecho Señor y Cristo, y llama a sus oyentes al arrepentimiento y al bautismo en el nombre de Jesucristo. El énfasis del relato está en la respuesta al Mesías rechazado y exaltado por Dios.
+
+En Hechos 8, los samaritanos reciben la palabra y son bautizados; posteriormente Pedro y Juan oran por ellos para que reciban el Espíritu Santo. En Hechos 10, el Espíritu cae sobre los gentiles mientras Pedro predica, y el apóstol ordena que sean bautizados. En Hechos 19, Pablo encuentra discípulos que solo conocían el bautismo de Juan y les explica la relación con Jesús. Cada episodio responde a una situación distinta dentro de la expansión del evangelio.
+
+La expresión «en el nombre de Jesús» identifica la autoridad y pertenencia al Señor. El texto narrativo no afirma que la fórmula de Mateo 28:19 deba descartarse. La lectura canónica compara el mandato de Jesús con la manera en que Hechos describe la incorporación de nuevos creyentes.
+
+## 10. Distinción personal y bautismo de Jesús
+
+Mateo 3:13-17 es especialmente importante porque el relato presenta al Hijo, al Espíritu y al Padre en una misma escena. El Hijo no es la voz que habla desde los cielos; el Espíritu no es el hombre que entra en el Jordán. La narración mantiene sujetos y acciones diferenciadas.
+
+Juan 14:16-17 añade que el Hijo pedirá al Padre otro Consolador. La relación entre pedir, enviar y ser enviado no puede reducirse a una sucesión de nombres sin explicar el sentido del texto. La doctrina trinitaria mantiene la unidad de Dios y la distinción personal.
+
+## 11. Errores de lectura que deben evitarse
+
+- Usar Hechos 2:38 como si fuera una transcripción completa de cada palabra pronunciada en todos los bautismos.
+- Ignorar Mateo 28:19 porque Hechos utiliza una expresión más breve.
+- Confundir la autoridad de Jesús con la afirmación de que el Padre y el Hijo son la misma persona.
+- Convertir diferencias de práctica bautismal en juicios sobre la sinceridad o el destino eterno de cada creyente.
+- Citar un pasaje sin leer el relato de conversión completo.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué problema pastoral responde Pedro en Hechos 2?
+2. ¿Qué diferencias existen entre los relatos de Hechos 8, 10 y 19?
+3. ¿Qué significa actuar o bautizar en el nombre de Jesús?
+4. ¿Cómo se relacionan Mateo 3:16-17 y Mateo 28:19?
+5. ¿Qué distinciones personales aparecen en Juan 14:16-17?
+
 ## 9. Referencias bíblicas
 
 Deuteronomio 6:4-5; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Marcos 12:28-30; Juan 1:1-18; Juan 14:16-17; Juan 17:1-5; Juan 20:28; Hechos 2:38; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Colosenses 2:9; Hechos 17:11; 2 Timoteo 2:15.
