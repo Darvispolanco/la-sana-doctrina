@@ -78,6 +78,32 @@ La defensa de la deidad de Cristo debe incluir también su humanidad, muerte y r
 4. ¿Cómo se distingue al Padre del Hijo en Juan 17?
 5. ¿Por qué la defensa cristológica debe afirmar tanto humanidad como deidad?
 
+
+## 14. La preexistencia del Verbo y la creación
+
+Juan 1:1-3 no comienza con el nacimiento de Jesús, sino con el Verbo que ya existía en el principio. El evangelista afirma que el Verbo estaba con Dios y que era Dios, y después declara que todas las cosas fueron hechas por medio de él. La distinción relacional aparece en la expresión «con Dios», mientras que la deidad aparece en la afirmación siguiente. El versículo 14 identifica al Verbo con el que se hizo carne. Por tanto, el Jesús que camina por Galilea es el mismo Verbo que existía antes de la creación y que entró verdaderamente en la historia humana. La interpretación debe conservar las dos afirmaciones sin reducir una a la otra.
+
+Colosenses 1:15-20 desarrolla el lugar de Cristo en la creación y la reconciliación. El pasaje declara que todas las cosas fueron creadas por medio de él y para él, y que él es antes de todas ellas. La expresión «primogénito de toda creación» debe interpretarse con los versículos que explican su supremacía. El contexto no lo presenta como una criatura más, sino como aquel por medio de quien todo fue creado y en quien todo subsiste. Hebreos 1:1-12 también presenta al Hijo como superior a los ángeles y utiliza lenguaje creador para describirlo. La deidad de Cristo no depende de una sola frase, sino del testimonio convergente de los autores bíblicos.
+
+## 15. La encarnación y la humanidad verdadera de Jesús
+
+La defensa de la deidad de Cristo no debe debilitar su humanidad. Los Evangelios presentan a Jesús naciendo, creciendo, experimentando hambre y cansancio, llorando ante la muerte de Lázaro, sufriendo y muriendo. Hebreos 2:14-18 explica que participó de carne y sangre para vencer mediante la muerte y ser un sumo sacerdote misericordioso. Filipenses 2:5-8 describe su humillación y obediencia. Estas afirmaciones no contradicen Juan 1:1; explican cómo el Verbo eterno asumió una naturaleza humana real. La fe cristiana no confiesa una apariencia humana, sino al Hijo que se hizo verdaderamente hombre sin dejar de ser divino.
+
+La encarnación es esencial para comprender la obra salvadora. Si Jesús no compartió realmente nuestra humanidad, su solidaridad con nosotros se vuelve una representación. Si no es el Hijo divino, se pierde el testimonio sobre su preexistencia y su autoridad para salvar. La iglesia debe mantener juntas ambas dimensiones: verdadero Dios y verdadero hombre. Esta confesión también orienta el trato pastoral, porque el Hijo conoce la debilidad humana desde su experiencia encarnada y puede compadecerse de quienes se acercan a Dios por medio de él. La doctrina cristológica no es un ejercicio abstracto; explica quién es el Salvador y por qué su obra tiene alcance redentor.
+
+## 16. La confesión de Tomás y la conclusión del Evangelio
+
+Juan 20:24-29 relata que Tomás no acepta inicialmente el testimonio de los otros discípulos. Cuando Jesús se presenta, lo invita a comprobar que es el mismo que fue crucificado. Tomás responde confesándolo como «Señor mío, y Dios mío». El evangelista no presenta esa confesión como un error que Jesús deba corregir. En Juan 20:30-31 explica que las señales fueron escritas para que los lectores crean que Jesús es el Cristo, el Hijo de Dios, y tengan vida en su nombre. La confesión de Tomás forma parte de la culminación teológica del libro.
+
+El texto debe leerse junto con Juan 1:1-18 y Juan 17:1-5. El Verbo que estaba con Dios y era Dios se hizo carne; el Hijo que habla con el Padre recuerda la gloria que compartía con él antes de la creación; y el Resucitado recibe la confesión de Tomás. Estos pasajes no convierten al Padre y al Hijo en una sola persona. Presentan al Hijo como distinto del Padre y, al mismo tiempo, digno de la confesión divina. La lectura trinitaria busca conservar el sentido de todos estos testimonios sin silenciar ninguno.
+
+## 17. Cómo dialogar sin confundir doctrina y dignidad personal
+
+Al conversar con una persona de Iglesia ni Cristo, conviene preguntar qué entiende por la identidad de Jesús y cómo interpreta los pasajes principales. La declaración institucional puede orientar la descripción general, pero no sustituye la escucha de cada interlocutor. Se deben examinar Juan 1:1-3, Juan 20:28, Colosenses 2:9 y Hebreos 1 en su contexto, y permitir que la persona explique sus objeciones. Si se discute una traducción, hay que identificar la diferencia concreta y evitar presentar una sola decisión lingüística como si resolviera todo el debate.
+
+La defensa de la deidad de Cristo debe ser firme en el contenido y respetuosa en el trato. No corresponde ridiculizar a las personas, atribuirles motivos ocultos ni declarar el destino eterno de cada integrante. La iglesia está llamada a dar razón de su esperanza con mansedumbre y reverencia. Una conversación doctrinal útil no oculta las diferencias, pero tampoco convierte la diferencia en desprecio. El objetivo es exponer con claridad quién es Jesús según el testimonio bíblico y por qué su humanidad y deidad son esenciales para el evangelio.
+
+
 ## 9. Referencias bíblicas
 
 Mateo 3:16-17; Juan 1:1-18; Juan 5:19-23; Juan 17:1-5; Juan 20:24-29; Colosenses 1:15-20; Colosenses 2:8-10; Filipenses 2:5-11; Hebreos 1:1-12.
