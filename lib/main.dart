@@ -635,7 +635,9 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
         ),
         const SizedBox(height: 5),
         Text(
-          dictionaryTerms.length.toString() + ' términos disponibles',
+          normalized.isEmpty
+              ? '${dictionaryTerms.length} términos disponibles'
+              : '${filtered.length} resultados de ${dictionaryTerms.length} términos',
           style: const TextStyle(color: Colors.black54),
         ),
         const SizedBox(height: 14),
