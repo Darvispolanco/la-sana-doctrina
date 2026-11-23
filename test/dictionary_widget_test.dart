@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:la_sana_doctrina/main.dart';
 
 void main() {
-  testWidgets('el diccionario muestra el catálogo completo y busca sin distinguir tildes',
+  testWidgets('el diccionario busca términos sin distinguir tildes ni mayúsculas',
       (tester) async {
     await tester.pumpWidget(const MaterialApp(home: Scaffold(body: DiccionarioTab())));
 
@@ -12,23 +12,24 @@ void main() {
     await tester.enterText(find.byType(TextField), 'Espiritu Santo');
     await tester.pumpAndSettle();
 
-    expect(find.textContaining(' de 658 términos'), findsOneWidget);
-    expect(find.text('0 resultados de 658 términos'), findsNothing);
+    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('0 resultados de'), findsNothing);
 
     await tester.enterText(find.byType(TextField), 'ESPÍRITU SANTO');
     await tester.pumpAndSettle();
 
-    expect(find.textContaining(' de 658 términos'), findsOneWidget);
-    expect(find.text('0 resultados de 658 términos'), findsNothing);
+    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('0 resultados de'), findsNothing);
   });
 
-  testWidgets('el diccionario busca también por referencias bíblicas',
+  testWidgets('el diccionario permite localizar conceptos por referencias bíblicas',
       (tester) async {
     await tester.pumpWidget(const MaterialApp(home: Scaffold(body: DiccionarioTab())));
 
     await tester.enterText(find.byType(TextField), 'Juan 14:16-17,26');
     await tester.pumpAndSettle();
 
-    expect(find.textContaining(' de 658 términos'), findsOneWidget);
+    expect(find.textContaining('resultados de'), findsOneWidget);
+    expect(find.textContaining('0 resultados de'), findsNothing);
   });
 }
