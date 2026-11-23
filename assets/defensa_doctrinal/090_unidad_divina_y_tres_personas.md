@@ -58,8 +58,8 @@ La interpretación fiel no escoge una afirmación y descarta la otra. Estudia am
 
 Al analizar un pasaje se debe identificar el género literario, el contexto inmediato, los destinatarios, el argumento del autor y las palabras importantes. Después se comparan los textos relacionados y se distingue entre afirmación explícita e inferencia teológica. Hechos 17:11 y 2 Timoteo 2:15 respaldan una actitud de examen diligente.
 
-## 10. Síntesis doctrinal y referencias
+## 10. Síntesis doctrinal y referencias bíblicas
 
 La Biblia confiesa un solo Dios y distingue al Padre, al Hijo y al Espíritu Santo. El Padre es Dios, el Hijo es Dios y el Espíritu es Dios; no son tres dioses ni una sola persona con tres nombres intercambiables. La doctrina trinitaria procura expresar estos datos sin dividir la esencia divina ni confundir las personas.
 
-Referencias: Deuteronomio 6:4-5; Isaías 44:6-8; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Marcos 12:28-30; Juan 1:1-18; Juan 14:16-26; Juan 16:13-15; Juan 17:1-5; Hechos 5:3-4; Hechos 17:11; 1 Corintios 8:4-6; 1 Corintios 12:4-11; 2 Corintios 13:14; Efesios 1:3-14; Efesios 2:18; Hebreos 1:1-12; 1 Pedro 1:1-2.
+Referencias bíblicas: Deuteronomio 6:4-5; Isaías 44:6-8; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Marcos 12:28-30; Juan 1:1-18; Juan 14:16-26; Juan 16:13-15; Juan 17:1-5; Hechos 5:3-4; Hechos 17:11; 1 Corintios 8:4-6; 1 Corintios 12:4-11; 2 Corintios 13:14; Efesios 1:3-14; Efesios 2:18; Hebreos 1:1-12; 1 Pedro 1:1-2.
