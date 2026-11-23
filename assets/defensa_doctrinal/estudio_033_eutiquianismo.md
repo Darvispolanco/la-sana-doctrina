@@ -1,39 +1,53 @@
-# Estudio 33. Eutiquianismo: la humanidad de Cristo no queda absorbida
+# D-033. Eutiquianismo: la humanidad de Cristo no desaparece en la encarnación
 
 ## 1. Contexto histórico
-Eutiques fue un monje de Constantinopla del siglo V cuya enseñanza se convirtió en foco de controversia. En el debate posterior al Concilio de Éfeso, sus expresiones sobre la relación entre humanidad y divinidad de Cristo fueron consideradas problemáticas porque podían implicar que la humanidad quedaba absorbida o alterada por la divinidad. Los documentos antiguos reflejan una disputa compleja; por eso no se deben atribuir a todos los opositores de Eutiques una misma posición.
 
-## 2. La humanidad real de Jesús
-**Lucas 24:36-43** relata que el Resucitado muestra manos y pies e invita a comprobar que no es un espíritu sin cuerpo; incluso come delante de sus discípulos. El contexto responde al desconcierto de los testigos. La resurrección no descarta la humanidad corporal, sino que la confirma transformada y glorificada.
+Eutiques fue un monje de Constantinopla del siglo V cuya enseñanza se convirtió en parte de la controversia cristológica que precedió al Concilio de Calcedonia de 451. Sus posiciones fueron entendidas por sus críticos como una confusión de las naturalezas de Cristo después de la encarnación, de modo que la humanidad dejaba de conservar su integridad.
 
-**Juan 20:24-29** presenta a Tomás invitado a comprobar las heridas de Jesús. El relato conduce a la confesión «¡Señor mío, y Dios mío!» (20:28): el mismo resucitado es verdaderamente humano y recibe una confesión de divinidad.
+La historia de la controversia fue compleja y estuvo marcada por disputas eclesiásticas y políticas. Este estudio se concentra en el problema doctrinal: cómo afirmar la unidad personal de Cristo sin absorber ni confundir su humanidad.
 
-**Hebreos 2:14-18** enseña que el Hijo participó de carne y sangre para vencer la muerte y socorrer a los tentados. Si su humanidad fuera absorbida o meramente aparente, el argumento de solidaridad con los seres humanos perdería su fuerza.
+## 2. El testimonio bíblico de la humanidad
 
-## 3. Divinidad sin absorción de humanidad
-**Colosenses 2:9** afirma que toda la plenitud de la Deidad habita corporalmente en Cristo. No dice que su cuerpo o humanidad desaparezcan. **Filipenses 2:6-8** presenta al que existe en forma de Dios tomando forma de siervo. El movimiento es de asunción, no de anulación.
+Los Evangelios presentan a Jesús naciendo, creciendo, sintiendo hambre, cansancio, dolor y tristeza. Lucas 2:52 habla de su crecimiento; Juan 4:6 lo muestra cansado; Mateo 26:38 registra su profunda tristeza en Getsemaní.
 
-## 4. Distinciones necesarias
-La doctrina cristiana histórica busca confesar que las dos naturalezas permanecen sin confusión ni cambio, y sin separación ni división, en la única persona de Cristo. Esta fórmula es una síntesis teológica posterior; debe comprobarse con los datos bíblicos, no imponerse sobre ellos. Los evangelios muestran simultáneamente hambre, cansancio, sufrimiento y muerte, junto con autoridad sobre la creación, perdón de pecados y adoración.
+Estos detalles no son adornos narrativos. Confirman que el Hijo asumió una humanidad real. Si la humanidad desapareciera o fuera absorbida, los relatos perderían su sentido.
 
-## 5. Objeciones y respuestas
-**Objeción: La humanidad de Cristo no puede permanecer junto a la plenitud divina.**  
-Respuesta: la Escritura afirma ambas cosas en la misma persona (Jn 1:14; Col 2:9; Heb 2:14-18).
+## 3. El testimonio bíblico de la deidad
 
-**Objeción: Después de resucitar, Jesús dejó de ser humano.**  
-Respuesta: Lucas 24:36-43 y Juan 20:24-29 describen continuidad corporal en un estado glorificado.
+Juan 1:1-3 afirma que el Verbo era Dios y que todas las cosas fueron hechas por medio de Él. Colosenses 2:9 declara que en Cristo habita corporalmente toda la plenitud de la Deidad. Hebreos 1:1-3 presenta al Hijo como resplandor de la gloria divina y sustentador de todas las cosas.
 
-**Objeción: Reconocer dos naturalezas implica dos hijos.**  
-Respuesta: los textos hablan del único Hijo que se encarnó, sufrió y resucitó (Gá 4:4; Heb 2:14).
+La humanidad de Jesús no reduce su deidad. El mismo Hijo eterno se hizo carne.
 
-## 6. Preguntas y respuestas
-1. **¿Cuál es el riesgo doctrinal?** Que la humanidad real de Cristo quede absorbida o anulada.
-2. **¿Qué prueba Lucas 24?** La continuidad de la humanidad corporal del Resucitado.
-3. **¿La plenitud divina elimina la humanidad?** No; Colosenses 2:9 afirma plenitud divina corporalmente en Cristo.
-4. **¿Cuántas personas confiesa la fe cristiana en Cristo?** Una: el Hijo eterno encarnado.
+## 4. Una persona, dos naturalezas
 
-## 7. Conclusión
-La Biblia no obliga a escoger entre la divinidad y la humanidad de Jesús. Confiesa al Hijo divino que asumió humanidad verdadera y la conserva en su resurrección gloriosa.
+La Escritura presenta un solo sujeto: Jesucristo. El Hijo eterno es quien nace, vive, sufre y muere en su humanidad. No se trata de dos personas que cooperan ni de una naturaleza que absorbe a la otra.
 
-## Pasajes para repaso
-Lucas 24:36-43; Juan 20:24-29; Filipenses 2:5-11; Colosenses 2:9; Hebreos 2:14-18.
+La distinción de naturalezas permite reconocer que Jesús tiene una humanidad real y una naturaleza divina plena. La unidad personal impide dividirlo en dos sujetos.
+
+## 5. El sufrimiento y la muerte de Cristo
+
+Los Evangelios relatan el sufrimiento real de Jesús. Hebreos 2:14-18 relaciona su participación en carne y sangre con la muerte y su obra sacerdotal. 1 Pedro 2:21-24 afirma que Cristo padeció y llevó nuestros pecados en su cuerpo.
+
+La muerte de Jesús no fue una ilusión ni una experiencia ajena a su humanidad. El Hijo se entregó realmente por nosotros.
+
+## 6. El valor de la precisión histórica
+
+No debe utilizarse «eutiquianismo» como sinónimo de toda formulación que hable de una unidad en Cristo. Las iglesias miáfisitas contemporáneas distinguen su lenguaje de la postura atribuida a Eutiques y confiesan la humanidad y deidad de Cristo. Una evaluación responsable debe conocer esa diferencia y no confundir comunidades.
+
+## 7. Preguntas y respuestas
+
+**¿La humanidad de Cristo fue absorbida por su deidad?** Los relatos de los Evangelios y Hebreos 2:14-18 presentan una humanidad verdadera.
+
+**¿La unidad de Cristo exige confundir sus naturalezas?** No. La unidad personal no elimina la distinción entre lo divino y lo humano.
+
+**¿La deidad se pierde si Jesús experimenta hambre o cansancio?** No. Esas experiencias pertenecen a su humanidad asumida y no niegan Juan 1:1 ni Colosenses 2:9.
+
+**¿Miáfisismo y eutiquianismo son equivalentes?** No deben equipararse automáticamente; las iglesias miáfisitas afirman la humanidad y deidad de Cristo.
+
+## 8. Síntesis doctrinal
+
+El Hijo eterno asumió una humanidad real que no desapareció en la encarnación. Jesucristo es una persona, verdadero Dios y verdadero hombre. La doctrina debe conservar la unidad personal sin confundir ni absorber sus naturalezas.
+
+## 9. Referencias bíblicas
+
+Lucas 2:40-52; Mateo 26:36-46; Juan 1:1-14; Juan 4:1-7; Colosenses 2:9; Hebreos 1:1-3; Hebreos 2:14-18; 1 Pedro 2:21-24.
