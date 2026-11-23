@@ -1,48 +1,49 @@
-# Estudio 34. Monofisismo y miafisismo: precisión en el lenguaje cristológico
+# D-034. Monofisismo y miáfisismo: precisión histórica y confesión de Cristo
 
-## 1. Por qué se necesita precisión
-Los términos *monofisismo* y *miafisismo* se relacionan con debates sobre cómo confesar la unidad de Cristo. No deben usarse como sinónimos automáticos. Algunas tradiciones ortodoxas orientales emplean la fórmula «una naturaleza encarnada del Verbo» para expresar la unidad del Cristo encarnado, y rechazan que ello signifique mezclar o absorber la humanidad. Por tanto, no es correcto etiquetar sin matices a todos los miafisitas como eutiquianos.
+## 1. Por qué es necesaria la distinción
 
-## 2. Los datos bíblicos que deben mantenerse
-**Juan 1:14:** el Verbo se hizo carne. El sujeto es el Verbo eterno y la encarnación es real.
+Los términos «monofisismo» y «miáfisismo» se parecen, pero no deben utilizarse como si siempre significaran lo mismo. La controversia histórica posterior al Concilio de Calcedonia fue compleja. Algunas posiciones asociadas al monofisismo radical fueron entendidas como una absorción de la humanidad de Cristo; las iglesias miáfisitas orientales han afirmado que en Cristo existe una unidad encarnada sin negar su humanidad ni su divinidad.
 
-**Romanos 1:3-4:** Pablo habla del Hijo, nacido del linaje de David según la carne y declarado Hijo de Dios con poder por la resurrección. El mismo Hijo aparece en su condición humana histórica y en su identidad divina.
+Por respeto y precisión, no se debe etiquetar automáticamente a las iglesias copta, siríaca, armenia o etíope como eutiquianas. Sus propias formulaciones requieren ser escuchadas y examinadas con cuidado.
 
-**Colosenses 2:9:** la plenitud de la Deidad habita corporalmente en Cristo. La expresión mantiene unida la confesión de su divinidad y su existencia corporal.
+## 2. La unidad personal de Cristo
 
-**Hebreos 4:15:** Cristo comparte nuestras debilidades y fue tentado sin pecado. Su humanidad no es ficticia ni absorbida.
+Juan 1:14 afirma que el Verbo se hizo carne. El sujeto es el Verbo eterno, que asume humanidad. El texto no presenta dos personas ni una humanidad aparente.
 
-## 3. Historia y evaluación
-El Concilio de Calcedonia (451) formuló una confesión de Cristo en dos naturalezas, sin confusión, cambio, división ni separación. Las Iglesias ortodoxas orientales no recibieron Calcedonia y han defendido formulaciones miafisitas propias. Los diálogos ecuménicos modernos han mostrado que parte de la diferencia histórica pudo involucrar vocabulario, énfasis y contextos polémicos, aunque persisten diferencias eclesiológicas y teológicas. No se debe declarar que todas las partes dicen exactamente lo mismo, ni afirmar que toda tradición miafisita enseña la mezcla eutiquiana.
+Filipenses 2:5-11 describe al Hijo en forma de Dios que toma forma de siervo y se humilla hasta la muerte. El pasaje mantiene la identidad del Hijo y describe su verdadera condición de siervo.
 
-## 4. Cómo evaluar una formulación
-Preguntas útiles:
-- ¿Afirma la plena divinidad del Hijo?
-- ¿Afirma su humanidad completa y permanente?
-- ¿Mantiene un solo sujeto personal?
-- ¿Evita convertir la humanidad en apariencia o en una realidad absorbida?
-- ¿Explica los textos bíblicos sin descartar unos para proteger otros?
+## 3. La humanidad no debe desaparecer
 
-La etiqueta histórica por sí sola no basta para evaluar la confesión concreta de una comunidad.
+Hebreos 2:14-18 enseña que Jesús participó de carne y sangre y fue hecho semejante a sus hermanos. Lucas 2:52 habla de su crecimiento; Juan 19:28 registra que tuvo sed.
 
-## 5. Objeciones y respuestas
-**Objeción: Todo uso de «una naturaleza» significa que la humanidad fue absorbida.**  
-Respuesta: no necesariamente. Hay que leer la definición que ofrece la tradición concreta. Algunas formulaciones miafisitas insisten expresamente en la humanidad real y no confundida de Cristo.
+Estos textos requieren una humanidad verdadera. No basta afirmar que Cristo tuvo un cuerpo visible; la Escritura muestra experiencias humanas completas y una vida real.
 
-**Objeción: Calcedonia es un versículo bíblico.**  
-Respuesta: no; es una formulación conciliar histórica que pretende resumir los datos bíblicos. La autoridad final para la doctrina cristiana corresponde a la Escritura.
+## 4. La deidad no debe reducirse
 
-**Objeción: La diferencia de vocabulario carece de importancia.**  
-Respuesta: el lenguaje importa porque puede proteger o distorsionar la confesión bíblica; debe examinarse su significado real y no solo la palabra empleada.
+Juan 1:1 afirma que el Verbo era Dios. Colosenses 2:9 declara que en Cristo habita corporalmente toda la plenitud de la Deidad. Hebreos 1:8-12 presenta al Hijo con lenguaje de dignidad divina y permanencia.
+
+La defensa de la humanidad no debe llevar a negar la deidad. La fe cristiana confiesa al Hijo eterno encarnado.
+
+## 5. La controversia de Calcedonia
+
+El Concilio de Calcedonia de 451 formuló una declaración que buscaba mantener la unidad de la persona de Cristo y distinguir sus naturalezas sin confusión ni separación. La recepción de esa fórmula no fue uniforme y dio lugar a divisiones que persistieron.
+
+La historia muestra que las palabras técnicas pueden ser interpretadas de manera distinta. Por eso, al dialogar con cristianos de tradiciones no calcedonianas, debe preguntarse qué quieren afirmar con sus términos antes de acusarlos de negar la humanidad o la deidad de Cristo.
 
 ## 6. Preguntas y respuestas
-1. **¿Monofisismo y miafisismo son idénticos en todo uso?** No.
-2. **¿Todas las Iglesias ortodoxas orientales son eutiquianas?** No; esa acusación general es históricamente injustificada.
-3. **¿Qué debe mantenerse bíblicamente?** Divinidad plena, humanidad completa y unidad personal de Cristo.
-4. **¿Calcedonia sustituye la Biblia?** No; es una síntesis histórica que debe evaluarse a la luz de la Escritura.
 
-## 7. Conclusión
-La sana doctrina exige precisión y justicia histórica. La humanidad y divinidad de Cristo deben confesarse sin confusión ni separación, y las comunidades deben evaluarse por sus enseñanzas reales, no por etiquetas polémicas.
+**¿Toda postura llamada miáfisita enseña que la humanidad desapareció?** No. Las iglesias miáfisitas afirman la humanidad y divinidad de Cristo; no deben confundirse sin más con el eutiquianismo.
 
-## Pasajes para repaso
-Juan 1:1-14; Romanos 1:3-4; Filipenses 2:5-11; Colosenses 2:9; Hebreos 2:14-18; 4:14-16.
+**¿La unidad de Cristo significa una sola naturaleza sin humanidad real?** La Escritura afirma que el Verbo se hizo carne y participó de nuestra humanidad (Jn 1:14; Heb 2:14-18).
+
+**¿La distinción de naturalezas significa dos personas?** No. Los textos presentan a un solo Hijo encarnado.
+
+**¿Cómo se debe dialogar sobre términos históricos?** Definiendo primero cómo los utiliza cada tradición y comparando sus afirmaciones con la Escritura.
+
+## 7. Síntesis doctrinal
+
+La doctrina cristiana debe afirmar una sola persona, Jesucristo, verdadero Dios y verdadero hombre. El monofisismo radical y las formulaciones miáfisitas no deben confundirse automáticamente. La precisión histórica ayuda a evaluar las afirmaciones sin caricaturizar a comunidades.
+
+## 8. Referencias bíblicas
+
+Lucas 2:40-52; Juan 1:1-14; Juan 19:28; Filipenses 2:5-11; Colosenses 2:9; Hebreos 1:1-12; Hebreos 2:14-18.
