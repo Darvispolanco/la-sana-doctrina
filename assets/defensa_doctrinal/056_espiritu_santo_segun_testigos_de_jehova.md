@@ -1,31 +1,55 @@
-# Estudio 56. El Espíritu Santo: examen bíblico frente a una concepción impersonal
+# D-056. El Espíritu Santo según los testigos de Jehová: fuerza activa o persona divina
 
-## Enseñanza a comparar
-La enseñanza oficial de los Testigos de Jehová describe el espíritu santo como la fuerza activa de Dios y no como una persona divina. La descripción debe verificarse en sus materiales oficiales vigentes. Este estudio compara esa afirmación con los textos bíblicos que presentan al Espíritu hablando, enseñando, decidiendo y siendo tratado como Dios.
+## 1. Presentación de la postura oficial
 
-## Juan 14:16-17, 26
-Jesús promete «otro Consolador» y dice que el Padre lo enviará. El contexto distingue a Jesús, al Padre y al Espíritu. El Espíritu enseña y recuerda las palabras de Cristo. El pasaje no lo describe como una energía sin agencia.
+Las publicaciones oficiales de los testigos de Jehová describen al Espíritu Santo como la fuerza activa de Dios y niegan que sea una persona divina. Para responder correctamente, se debe identificar esa afirmación y examinar los pasajes donde la Escritura atribuye al Espíritu palabra, voluntad, conocimiento y relación personal.
 
-## Hechos 13:2-4
-El Espíritu Santo habla en primera persona: «Apartadme a Bernabé y a Saulo». La iglesia ayuna, ora y los envía conforme a esa dirección. El lenguaje atribuye iniciativa y voluntad al Espíritu.
+## 2. El Espíritu habla
 
-## Hechos 5:3-4
-Pedro pregunta por qué Ananías mintió al Espíritu Santo y luego afirma que no mintió a los hombres, sino a Dios. El paralelismo relaciona al Espíritu con Dios. El texto no presenta una fuerza impersonal como destinataria de una mentira personal.
+Hechos 13:1-4 describe a la iglesia de Antioquía reunida en adoración. El Espíritu Santo dice: «Apartadme a Bernabé y a Saulo para la obra a que los he llamado». El relato atribuye al Espíritu una declaración y un llamado.
 
-## 1 Corintios 12:4-11
-El Espíritu distribuye dones «como él quiere». La voluntad y distribución soberana son acciones personales. Efesios 4:30 advierte no contristar al Espíritu Santo.
+Hechos 8:29 también presenta al Espíritu hablando a Felipe. Hechos 10:19-20 muestra al Espíritu dando instrucciones a Pedro. Estos textos deben leerse como relatos de dirección divina en la misión.
 
-## Objeciones y respuestas
-**«Espíritu» significa viento o fuerza.** La palabra puede tener varios sentidos, pero el contexto determina su uso. En estos pasajes el Espíritu habla, enseña, decide y puede ser contristado.
-**El Espíritu es llamado poder.** El Espíritu puede actuar con poder (Hch 1:8), pero eso no demuestra que sea solamente poder; una persona puede ejercer poder sin ser reducida a él.
+## 3. El Espíritu enseña y da testimonio
 
-## Preguntas y respuestas
-1. **¿El Espíritu habla?** Sí (Hch 13:2).
-2. **¿Tiene voluntad?** Sí, distribuye dones como quiere (1 Co 12:11).
-3. **¿Es divino?** Hechos 5:3-4 lo relaciona directamente con Dios.
-4. **¿Es distinto del Padre y del Hijo?** Juan 14:16-17, 26 los distingue.
+Juan 14:26 identifica al Consolador como el Espíritu Santo y le atribuye enseñar y recordar las palabras de Jesús. Juan 15:26 afirma que dará testimonio de Cristo. Juan 16:13-15 describe su guía a la verdad y su acción de glorificar al Hijo.
 
-## Conclusión
-La Biblia presenta al Espíritu Santo como persona divina, no como simple energía. Su personalidad y divinidad deben demostrarse mediante la totalidad de los textos.
-## Pasajes
-Juan 14:16-26; Hechos 5:1-4; 13:1-4; 1 Corintios 12:4-11; Efesios 4:30.
+No se trata de una simple mención de poder. El discurso atribuye al Espíritu acciones propias de un agente personal y lo distingue del Padre y del Hijo.
+
+## 4. El Espíritu decide y distribuye
+
+1 Corintios 12:4-11 presenta diversidad de dones y afirma que el mismo Espíritu reparte a cada uno en particular como quiere. La expresión atribuye voluntad al Espíritu y lo sitúa como agente en la edificación de la Iglesia.
+
+Romanos 8:26-27 habla de su intercesión por los creyentes. Efesios 4:30 advierte que no se le entristezca. La suma de estos pasajes presenta una relación personal.
+
+## 5. Hechos 5:3-4 y la divinidad del Espíritu
+
+Pedro pregunta a Ananías por qué mintió al Espíritu Santo y luego afirma que no mintió a los hombres, sino a Dios. El contexto relaciona directamente la mentira al Espíritu con la mentira a Dios.
+
+El pasaje debe estudiarse junto con la confesión de un solo Dios y con los textos que distinguen al Padre, al Hijo y al Espíritu.
+
+## 6. Preguntas y respuestas
+
+**¿El Espíritu solamente representa el poder de Dios?** La Escritura le atribuye poder, pero también palabra, voluntad, enseñanza e intercesión (Hch 13:2; 1 Co 12:11; Ro 8:26).
+
+**¿Juan 14:26 presenta al Espíritu como maestro?** Sí. El texto dice que enseñará y recordará las palabras de Jesús.
+
+**¿Hechos 5:3-4 relaciona al Espíritu con Dios?** Sí. Pedro relaciona mentir al Espíritu con mentir a Dios.
+
+**¿La personalidad del Espíritu crea tres dioses?** No. La doctrina trinitaria mantiene la unidad divina y distingue las personas.
+
+## 7. Cómo dialogar
+
+Conviene utilizar una traducción bíblica compartida cuando sea posible, leer los pasajes completos y preguntar cómo se explica la acción del Espíritu en cada contexto. No se debe depender de una sola metáfora ni de una disputa gramatical aislada.
+
+## 8. Síntesis doctrinal
+
+El Espíritu Santo habla, enseña, guía, distribuye dones, intercede y puede ser entristecido. Hechos 5:3-4 relaciona mentirle con mentir a Dios. Estos datos deben considerarse al evaluar la afirmación de que es únicamente una fuerza impersonal.
+
+## 9. Fuente oficial para identificar la postura
+
+- [What Is the Holy Spirit?](https://www.jw.org/en/bible-teachings/questions/what-is-the-holy-spirit/)
+
+## 10. Referencias bíblicas
+
+Juan 14:16-26; Juan 15:26-27; Juan 16:7-15; Hechos 5:1-4; Hechos 8:29; Hechos 10:19-20; Hechos 13:1-4; Romanos 8:26-27; 1 Corintios 12:4-11; Efesios 4:30.
