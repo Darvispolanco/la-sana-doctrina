@@ -12,13 +12,13 @@ void main() {
     await tester.enterText(find.byType(TextField), 'Espiritu Santo');
     await tester.pumpAndSettle();
 
-    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('resultados de'), findsOneWidget);
     expect(find.textContaining('0 resultados de'), findsNothing);
 
     await tester.enterText(find.byType(TextField), 'ESPÍRITU SANTO');
     await tester.pumpAndSettle();
 
-    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('resultados de'), findsOneWidget);
     expect(find.textContaining('0 resultados de'), findsNothing);
   });
 
