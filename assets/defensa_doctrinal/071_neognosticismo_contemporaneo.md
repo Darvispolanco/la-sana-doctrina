@@ -48,6 +48,38 @@ Debe preguntarse qué enseña una corriente sobre el Creador, la bondad de la cr
 
 El Dios de la Biblia es el Creador de todo; el Verbo se hizo verdaderamente carne y la salvación se encuentra en Cristo, no en conocimientos secretos. La Iglesia debe examinar toda enseñanza conforme al testimonio apostólico.
 
+## 8. Comparación con el gnosticismo antiguo
+
+El gnosticismo antiguo no fue una sola organización ni una doctrina idéntica en todas sus expresiones. Algunos sistemas describían una jerarquía de seres espirituales, atribuían la creación material a un demiurgo inferior y presentaban la salvación como liberación mediante conocimiento especial. Los grupos contemporáneos llamados «neognósticos» pueden diferir ampliamente; el término debe utilizarse solo cuando exista una semejanza doctrinal demostrable.
+
+No debe llamarse gnóstica a toda enseñanza que hable de conocimiento espiritual, ni a toda crítica de la sociedad material. El criterio es más preciso: ¿se niega la bondad del Creador?, ¿se desprecia la encarnación?, ¿se divide la realidad entre un dios supremo y un creador inferior?, ¿se reserva la salvación a una élite con conocimiento secreto?
+
+## 9. Examen bíblico ampliado
+
+**Génesis 1:1-31.** Dios crea los cielos y la tierra y declara buena su obra. La creación no es presentada como un error de una deidad inferior.
+
+**Juan 1:1-3, 14.** El Verbo es Dios, participa en la creación y se hace carne. El mismo sujeto divino entra en la historia humana.
+
+**Colosenses 1:15-20.** Todo fue creado por medio del Hijo y para Él; en Él habita la plenitud y por medio de su sangre se realiza la reconciliación. El texto une creación y redención bajo la autoridad de Cristo.
+
+**1 Juan 4:1-3.** La confesión de Jesucristo venido en carne es un criterio para discernir la enseñanza. La encarnación real no es opcional.
+
+**1 Timoteo 4:1-5.** Pablo advierte contra enseñanzas que prohíben lo que Dios creó para ser recibido con gratitud. El texto debe aplicarse en su contexto y no como aprobación indiscriminada de cualquier conducta.
+
+## 10. El conocimiento cristiano y la vida comunitaria
+
+El conocimiento bíblico no es un secreto que haga superior a una minoría. Se anuncia públicamente, se enseña en la comunidad y conduce al amor. Efesios 4:11-16 relaciona la enseñanza con madurez y estabilidad; 1 Corintios 8:1 advierte que el conocimiento sin amor envanece.
+
+La verdad cristiana no debe utilizarse para crear castas espirituales ni para controlar a los demás mediante supuestos secretos. El conocimiento de Dios produce humildad, obediencia y servicio.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué afirmaciones históricas permiten identificar un sistema dualista?
+2. ¿Qué enseña Génesis 1 sobre la bondad de la creación?
+3. ¿Cómo relaciona Colosenses 1 creación y reconciliación?
+4. ¿Por qué la encarnación es central en 1 Juan 4:1-3?
+5. ¿Qué peligro señala 1 Corintios 8:1 cuando el conocimiento no está unido al amor?
+
 ## 9. Referencias bíblicas
 
 Génesis 1:1-31; Juan 1:1-18; Romanos 10:8-17; Colosenses 1:15-20; Colosenses 2:8-10; Hebreos 2:14-17; 1 Juan 4:1-3.
