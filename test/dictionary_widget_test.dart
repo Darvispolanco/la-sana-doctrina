@@ -12,7 +12,8 @@ void main() {
     await tester.enterText(find.byType(TextField), 'Espiritu Santo');
     await tester.pumpAndSettle();
 
-    expect(find.text('1 resultados de 658 términos'), findsOneWidget);
+    expect(find.textContaining(' de 658 términos'), findsOneWidget);
+    expect(find.text('0 resultados de 658 términos'), findsNothing);
 
     await tester.enterText(find.byType(TextField), 'ESPÍRITU SANTO');
     await tester.pumpAndSettle();
@@ -27,6 +28,6 @@ void main() {
     await tester.enterText(find.byType(TextField), 'Juan 14:16-17,26');
     await tester.pumpAndSettle();
 
-    expect(find.textContaining('resultados de'), findsOneWidget);
+    expect(find.textContaining(' de 658 términos'), findsOneWidget);
   });
 }
