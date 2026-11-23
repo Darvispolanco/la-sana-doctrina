@@ -50,6 +50,34 @@ La doctrina trinitaria no afirma que el Padre y el Hijo sean la misma persona. A
 
 El testimonio bíblico presenta a Jesucristo como verdadero hombre y verdadero Dios, el Verbo eterno que se hizo carne. Es distinto del Padre, a quien se dirige en oración, y comparte la naturaleza divina. Toda afirmación sobre su identidad debe evaluarse considerando el conjunto de la Escritura.
 
+## 10. El contexto de Juan 1 y el argumento cristológico
+
+El prólogo de Juan presenta al Verbo antes de la creación y afirma que todas las cosas fueron hechas por medio de Él. En Juan 1:14, el mismo Verbo se hace carne. El texto no presenta a un hombre que recibe posteriormente un título honorífico, sino al Verbo que entra verdaderamente en la condición humana.
+
+Juan 20:28 aparece después de la resurrección. Tomás responde al Jesús que se presenta ante los discípulos y lo confiesa como Señor y Dios. El relato no separa al Cristo resucitado de la identidad que el prólogo atribuye al Verbo.
+
+Colosenses 2:8-10 advierte contra enseñanzas que apartan de Cristo y afirma que toda la plenitud de la Deidad habita corporalmente en Él. El adverbio «corporalmente» es importante porque la afirmación se refiere al Cristo encarnado, no a una idea abstracta de divinidad.
+
+## 11. El Hijo y el Padre en los relatos evangélicos
+
+La distinción entre Jesús y el Padre aparece en su oración, obediencia filial y misión. En Juan 17, Jesús se dirige al Padre y habla de la gloria que compartía con Él. En Mateo 3, el Padre da testimonio del Hijo mientras el Espíritu desciende. Estos textos no deben interpretarse como si el Padre y el Hijo fueran una sola persona.
+
+La doctrina trinitaria afirma simultáneamente que el Hijo comparte la naturaleza divina y que es distinto del Padre. La relación filial no convierte a Jesús en una criatura, del mismo modo que la deidad del Hijo no elimina la distinción personal.
+
+## 12. Criterios de diálogo doctrinal
+
+Al conversar con un miembro de Iglesia ni Cristo, conviene preguntar cómo entiende Juan 1:1, Juan 20:28 y Colosenses 2:9, y qué significado atribuye a Juan 17:1-5. Después se comparan las respuestas con los textos completos. No se debe asumir que toda persona conoce o sostiene cada formulación institucional.
+
+La defensa de la deidad de Cristo debe incluir también su humanidad, muerte y resurrección. Presentar solamente textos de exaltación sin los relatos de la vida humana de Jesús daría una explicación incompleta. La fe cristiana confiesa al mismo Hijo como verdaderamente Dios y verdaderamente hombre.
+
+## 13. Preguntas de profundización
+
+1. ¿Qué continuidad existe entre el Verbo de Juan 1:1 y el Jesús de Juan 1:14?
+2. ¿Qué importancia tiene la confesión de Tomás en Juan 20:28?
+3. ¿Qué afirma exactamente Colosenses 2:9?
+4. ¿Cómo se distingue al Padre del Hijo en Juan 17?
+5. ¿Por qué la defensa cristológica debe afirmar tanto humanidad como deidad?
+
 ## 9. Referencias bíblicas
 
 Mateo 3:16-17; Juan 1:1-18; Juan 5:19-23; Juan 17:1-5; Juan 20:24-29; Colosenses 1:15-20; Colosenses 2:8-10; Filipenses 2:5-11; Hebreos 1:1-12.
