@@ -1,30 +1,61 @@
-# Estudio 95. Encarnación y dos naturalezas de Cristo
+# D-095. La encarnación y las dos naturalezas de Cristo
 
-## 1. El único Hijo encarnado
-La Escritura presenta a Jesucristo como una sola persona: el Hijo eterno que asumió humanidad verdadera. La distinción entre naturaleza divina y humana sirve para explicar cómo el mismo Jesús actúa y experimenta según ambas sin convertirse en dos personas.
+## 1. La afirmación central
 
-## 2. Juan 1:14
-El Verbo se hizo carne y habitó entre nosotros. El contexto del prólogo ya ha declarado que el Verbo es Dios y creador. La encarnación no es una apariencia ni una transformación de Dios en una criatura; es la asunción de humanidad real.
+La encarnación enseña que el Hijo eterno asumió una naturaleza humana verdadera sin dejar de ser quien eternamente es. Jesucristo no fue una apariencia humana ni un hombre que posteriormente recibió la divinidad. Es el Verbo que se hizo carne.
 
-## 3. Filipenses 2:5-11
-Pablo exhorta a la humildad y presenta a Cristo, quien existiendo en forma de Dios tomó forma de siervo y se humilló hasta la muerte. El mismo sujeto que posee dignidad divina asume condición humana. El texto no dice que dejara de ser Dios.
+La expresión «dos naturalezas» resume el testimonio bíblico sobre su plena deidad y su verdadera humanidad. Debe utilizarse para explicar los textos, no para reemplazarlos.
 
-## 4. Hebreos 2:14-18
-El Hijo participa de carne y sangre, vence mediante la muerte y se hace sumo sacerdote misericordioso. La solidaridad con la humanidad es real. Hebreos 4:15 afirma que fue tentado sin pecado.
+## 2. Juan 1:14: el Verbo se hizo carne
 
-## 5. Qué debemos evitar
-- Dividir a Cristo en dos sujetos personales.
-- Negar o minimizar su humanidad.
-- Confundir humanidad y divinidad como si una anulara la otra.
-- Tratar las limitaciones humanas como prueba automática contra su divinidad.
+Juan 1:1-18 presenta al Verbo como existente desde el principio, en relación con Dios y siendo Dios. El versículo 14 declara que el Verbo se hizo carne y habitó entre nosotros. El mismo sujeto que es presentado como divino asume la condición humana.
 
-## 6. Preguntas y respuestas
-1. **¿Quién se encarnó?** El Hijo eterno.
-2. **¿Fue humana su naturaleza?** Sí, completa y real.
-3. **¿Dejó de ser Dios?** No.
-4. **¿Hay dos Cristos?** No; un solo Hijo encarnado.
+El texto no dice que el Verbo dejó de ser Dios ni que solo aparentó ser humano. La encarnación es real. Los discípulos contemplaron su gloria y el Evangelio desarrolla su identidad mediante sus palabras, obras, muerte y resurrección.
 
-## Conclusión
-La encarnación es el misterio central de la cristología: el Hijo eterno asumió nuestra humanidad sin dejar de ser divino. Esta verdad sostiene la realidad de su mediación y salvación.
-## Pasajes
-Juan 1:1-18; Filipenses 2:5-11; Colosenses 2:9; Hebreos 2:14-18; 4:14-16.
+## 3. Nacimiento y desarrollo humano
+
+Lucas 2:40-52 describe el crecimiento de Jesús en sabiduría, estatura y gracia. Mateo 4:2 afirma que tuvo hambre después de ayunar. Juan 4:6 lo presenta cansado del camino y Juan 19:28 registra que tuvo sed.
+
+Estos relatos muestran limitaciones y experiencias humanas reales. No son una negación de su deidad, sino evidencia de la humanidad que asumió. La doctrina debe evitar convertir su humanidad en una apariencia o minimizar el significado de su encarnación.
+
+## 4. Hebreos 2: participación en carne y sangre
+
+Hebreos 2:14-18 explica que los hijos participan de carne y sangre y que Jesús participó de lo mismo para vencer mediante su muerte y ayudar a los que son tentados. El autor relaciona su humanidad con su obra sacerdotal y redentora.
+
+El pasaje subraya que Jesús debía ser semejante a sus hermanos para ser misericordioso y fiel sumo sacerdote. Su humanidad es necesaria para comprender su solidaridad con nosotros y su obra a favor de los creyentes.
+
+## 5. La deidad del Hijo permanece
+
+Juan 1:1 afirma que el Verbo era Dios. Colosenses 2:9 declara que en Cristo habita corporalmente toda la plenitud de la Deidad. Hebreos 1:3 lo presenta como resplandor de la gloria de Dios y expresión exacta de su ser.
+
+Estos textos deben leerse junto con los relatos de su vida humana. No existe contradicción en afirmar que el Hijo es divino y que asumió una humanidad verdadera; el error consiste en negar una de las dos afirmaciones.
+
+## 6. Tentación, obediencia y ausencia de pecado
+
+Hebreos 4:15 enseña que Jesús fue tentado en todo según nuestra semejanza, pero sin pecado. Mateo 4:1-11 relata su tentación en el desierto y muestra su respuesta mediante la Escritura.
+
+Su obediencia no fue una actuación. Vivió una vida humana de fidelidad al Padre. Filipenses 2:5-8 presenta su humillación voluntaria y obediencia hasta la muerte de cruz.
+
+## 7. Una persona, no dos sujetos separados
+
+Los Evangelios hablan de un solo Jesucristo: el mismo que nació, enseñó, sanó, murió y resucitó es el Hijo eterno. No se debe hablar como si existieran dos personas independientes dentro de Jesús, una divina y otra humana.
+
+La distinción entre naturalezas ayuda a reconocer que algunas acciones y experiencias pertenecen a su humanidad, mientras que otras expresan su autoridad divina. Sin embargo, el sujeto de las acciones es el mismo Hijo encarnado.
+
+## 8. Preguntas y respuestas
+
+**¿Jesús dejó de ser Dios al encarnarse?** No. Juan 1:14 afirma que el Verbo se hizo carne, mientras Juan 1:1 y Colosenses 2:9 afirman su deidad.
+
+**¿Jesús solo aparentaba tener cuerpo?** No. Lucas 2, Juan 4 y Hebreos 2 presentan experiencias humanas reales.
+
+**¿Tuvo pecado porque fue tentado?** Hebreos 4:15 afirma que fue tentado, pero sin pecado.
+
+**¿Había dos personas en Cristo?** La Escritura presenta a un solo Hijo encarnado. La distinción doctrinal es entre naturaleza divina y naturaleza humana, no entre dos Cristos.
+
+## 9. Síntesis doctrinal
+
+Jesucristo es el Hijo eterno que asumió verdadera humanidad. Es plenamente divino y plenamente humano, sin confusión ni separación de su identidad personal. Su encarnación hace posible su obediencia, sufrimiento, muerte y obra sacerdotal a favor de los creyentes.
+
+## 10. Referencias bíblicas
+
+Mateo 1:18-25; Mateo 4:1-11; Lucas 2:40-52; Juan 1:1-18; Juan 4:1-7; Juan 19:28; Colosenses 2:9; Filipenses 2:5-11; Hebreos 1:1-3; Hebreos 2:14-18; Hebreos 4:14-16.
