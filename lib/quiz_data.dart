@@ -17,7 +17,9 @@ class QuizQuestion {
   });
 }
 
-String _normalizedQuestionKey(String value) => value
+/// Normaliza el texto para comparar preguntas sin depender de mayúsculas,
+/// tildes, signos, espacios ni caracteres Unicode combinados.
+String normalizeQuizQuestionKey(String value) => value
     .toLowerCase()
     .replaceAll(RegExp(r'[áàä]'), 'a')
     .replaceAll(RegExp(r'[éèë]'), 'e')
@@ -25,21 +27,25 @@ String _normalizedQuestionKey(String value) => value
     .replaceAll(RegExp(r'[óòö]'), 'o')
     .replaceAll(RegExp(r'[úùü]'), 'u')
     .replaceAll('ñ', 'n')
+    .replaceAll(RegExp(r'[\\u0300-\\u036f]'), '')
     .replaceAll(RegExp(r'[^a-z0-9]'), '');
 
-List<QuizQuestion> _uniqueQuestions(Iterable<QuizQuestion> questions) {
+/// Conserva la primera versión de cada pregunta y descarta duplicados.
+List<QuizQuestion> uniqueQuizQuestions(Iterable<QuizQuestion> questions) {
   final seen = <String>{};
-  return questions.where((question) {
-    final key = _normalizedQuestionKey(question.question);
-    return key.isNotEmpty && seen.add(key);
-  }).toList();
+  final unique = <QuizQuestion>[];
+  for (final question in questions) {
+    final key = normalizeQuizQuestionKey(question.question);
+    if (key.isNotEmpty && seen.add(key)) unique.add(question);
+  }
+  return unique;
 }
 
 List<QuizQuestion> _completeQuestionSet(
   Iterable<QuizQuestion> preferred,
   Iterable<QuizQuestion> supplemental,
 ) {
-  final unique = _uniqueQuestions([...preferred, ...supplemental]);
+  final unique = uniqueQuizQuestions([...preferred, ...supplemental]);
   return unique.take(20).toList();
 }
 
