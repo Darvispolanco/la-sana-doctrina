@@ -128,7 +128,10 @@ void main() {
       await tester.scrollUntilVisible(
         correctOption,
         250,
-        scrollable: find.byType(ListView).first,
+        scrollable: find.descendant(
+          of: find.byType(ListView).first,
+          matching: find.byType(Scrollable),
+        ).first,
       );
       await tester.tap(correctOption);
       await tester.pumpAndSettle();
@@ -140,7 +143,10 @@ void main() {
       await tester.scrollUntilVisible(
         nextButton,
         250,
-        scrollable: find.byType(ListView).first,
+        scrollable: find.descendant(
+          of: find.byType(ListView).first,
+          matching: find.byType(Scrollable),
+        ).first,
       );
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
