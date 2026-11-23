@@ -38,7 +38,11 @@ void main() {
     expect(find.text('El Espíritu Santo'), findsOneWidget);
     expect(find.textContaining('de 150 estudios'), findsOneWidget);
 
-    await tester.tap(find.byTooltip('Guardar estudio'));
+    final targetCard = find.ancestor(
+      of: find.text('El Espíritu Santo'),
+      matching: find.byType(Card),
+    );
+    await tester.tap(find.descendant(of: targetCard, matching: find.byTooltip('Guardar estudio')));
     await tester.pumpAndSettle();
     expect(SavedStudyStore.saved.value, contains('06'));
 
