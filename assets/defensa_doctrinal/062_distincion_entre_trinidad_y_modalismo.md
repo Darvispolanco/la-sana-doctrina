@@ -56,6 +56,38 @@ El diálogo debe centrarse en los textos y sus argumentos, no en ataques a perso
 
 La Escritura enseña que Dios es uno y distingue al Padre, al Hijo y al Espíritu mediante relaciones y acciones personales. Mateo 3:16-17, Juan 14:16-26 y Juan 17:1-5 son pasajes fundamentales para estudiar esta distinción.
 
+## 10. Análisis gramatical y narrativo de los pasajes principales
+
+**Mateo 3:16-17.** El relato identifica a Jesús como quien sale del agua, al Espíritu como quien desciende y al Padre como quien habla desde los cielos. La narración no presenta un solo sujeto cambiando de función, sino tres referencias coordinadas en una misma escena. La conclusión debe respetar lo que el relato muestra sin afirmar más de lo que el pasaje explica.
+
+**Juan 17:1-5.** La oración contiene dos sujetos relacionados: el Hijo que habla y el Padre a quien se dirige. El Hijo pide gloria y recuerda la gloria compartida antes de la creación. El lenguaje de comunión y relación no puede reducirse a una conversación teatral sin explicar por qué el texto insiste en esa relación.
+
+**Juan 14:16-26.** Jesús promete pedir al Padre otro Consolador. En el versículo 26, el Padre envía al Espíritu en el nombre del Hijo. La estructura distingue al que pide, al que envía y al que es enviado. El pasaje debe integrarse con la confesión de un solo Dios.
+
+**Juan 10:30.** La declaración «Yo y el Padre uno somos» aparece en un contexto sobre la protección de las ovejas y la autoridad divina. El plural «somos» conserva una distinción entre Jesús y el Padre, mientras «uno» expresa su unidad. No debe utilizarse el versículo para negar el contexto de Juan 17 ni para introducir dos dioses.
+
+## 11. Unidad de esencia y distinción de personas
+
+La doctrina trinitaria utiliza el lenguaje de esencia y persona para resumir dos grupos de datos bíblicos. «Esencia» expresa que el Padre, el Hijo y el Espíritu no son tres dioses, sino el único Dios. «Persona» expresa que el Padre no es el Hijo, el Hijo no es el Espíritu y el Espíritu no es el Padre.
+
+Estas palabras no deben tratarse como fórmulas mágicas ni como sustitutos de la Escritura. Son categorías que ayudan a evitar contradicciones: no dividir la naturaleza divina y no confundir las relaciones personales. Su validez depende de que expresen fielmente el conjunto del testimonio bíblico.
+
+## 12. Errores frecuentes en el debate
+
+1. Confundir «uno» con «una sola persona» sin analizar el uso bíblico del lenguaje.
+2. Confundir distinción personal con separación de tres seres divinos.
+3. Leer la oración de Jesús como si el texto no distinguiera a quien habla de aquel a quien se dirige.
+4. Utilizar una metáfora de manifestación para ignorar las relaciones explícitas de los relatos.
+5. Suponer que toda persona que utiliza un término doctrinal sostiene la misma explicación técnica.
+
+## 13. Preguntas de profundización
+
+1. ¿Qué sujetos y acciones aparecen en Mateo 3:16-17?
+2. ¿Qué revela Juan 17 sobre la relación entre Padre e Hijo?
+3. ¿Cómo funciona la secuencia de envío en Juan 14:16-26?
+4. ¿Qué significa la unidad de Juan 10:30 dentro del contexto?
+5. ¿Cómo ayudan las categorías de esencia y persona a evitar tanto el triteísmo como la confusión personal?
+
 ## 10. Referencias bíblicas
 
 Deuteronomio 6:4; Mateo 3:13-17; Juan 10:27-38; Juan 14:16-26; Juan 15:26-27; Juan 17:1-5; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Efesios 4:30.
