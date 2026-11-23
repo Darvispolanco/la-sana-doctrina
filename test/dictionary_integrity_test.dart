@@ -7,6 +7,7 @@ import 'package:la_sana_doctrina/dictionary_tranche_04.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_05.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_06.dart';
 import 'package:la_sana_doctrina/dictionary_tranche_07.dart';
+import 'package:la_sana_doctrina/dictionary_tranche_08.dart';
 
 String normalizeTerm(String value) {
   return value
@@ -29,10 +30,11 @@ void main() {
     ...dictionaryTranche05,
     ...dictionaryTranche06,
     ...dictionaryTranche07,
+    ...dictionaryTranche08,
   ];
 
   test('el diccionario ampliado conserva entradas completas y contextos específicos', () {
-    expect(entries.length, greaterThanOrEqualTo(580));
+    expect(entries.length, greaterThanOrEqualTo(602));
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
@@ -53,7 +55,7 @@ void main() {
 
   test('el diccionario visible en la aplicación integra la base y las ampliaciones', () {
     final visibleTerms = dictionaryTerms.map((entry) => normalizeTerm(entry.term)).toList();
-    expect(visibleTerms.length, greaterThanOrEqualTo(636));
+    expect(visibleTerms.length, greaterThanOrEqualTo(658));
     expect(visibleTerms.toSet().length, visibleTerms.length,
         reason: 'La lista visible contiene términos repetidos.');
   });
