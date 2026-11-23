@@ -65,6 +65,7 @@ void main() {
   test('las evaluaciones trinitarias prioritarias no usan preguntas de relleno', () {
     const focusedTitles = [
       'Unidad de Dios',
+      'Relaciones trinitarias',
       'El Padre',
       'Divinidad del Hijo',
       'Persona del Espíritu Santo',
