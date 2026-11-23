@@ -136,18 +136,15 @@ jobs:
           workflow = Path('.github/workflows/android.yml').read_text()
           production_unit = 'ca-app-pub-3642704038738168/1492221540'
           production_app = 'ca-app-pub-3642704038738168~5569657844'
-          test_ids = (
-              'ca-app-pub-3940256099942544',
-              'ca-app-pub-3940256099942544~',
-          )
+          debug_test_unit = 'ca-app-pub-3940256099942544/6300978111'
 
-          if production_unit not in dart:
-              raise SystemExit('Production banner unit ID is missing from lib/main.dart')
-          if any(test_id in dart for test_id in test_ids):
-              raise SystemExit('A Google test ad ID remains in lib/main.dart')
+          if production_unit not in dart or 'kReleaseMode' not in dart:
+              raise SystemExit('Production banner ID is not restricted to release builds')
+          if debug_test_unit not in dart:
+              raise SystemExit('Debug builds must use the official Google test banner')
           if production_app not in workflow:
               raise SystemExit('Production AdMob App ID is missing from Android configuration')
-          print('Production AdMob App ID and banner unit ID verified; no test banner ID found.')
+          print('Verified: release uses the production banner; debug uses Google test ads.')
           PY
 
       - name: Analyze project
