@@ -48,6 +48,42 @@ Se debe pedir que se lea el pasaje completo, identificar el argumento y comparar
 
 La doctrina trinitaria conserva el monoteísmo y toma en serio los textos que afirman la deidad del Hijo y del Espíritu y distinguen sus relaciones con el Padre. La defensa no debe depender de una fórmula humana, sino del testimonio completo de la Escritura.
 
+## 8. Argumentos bíblicos organizados por tema
+
+**Monoteísmo.** Deuteronomio 6:4, Isaías 45:5-6 y 1 Corintios 8:4-6 afirman que hay un solo Dios. La doctrina trinitaria no suma tres dioses ni divide la esencia divina.
+
+**Deidad del Hijo.** Juan 1:1-3 afirma que el Verbo era Dios y que todas las cosas fueron hechas por medio de Él. Juan 20:28 registra la confesión de Tomás; Colosenses 2:9 declara que toda la plenitud de la Deidad habita corporalmente en Cristo.
+
+**Distinción del Padre y el Hijo.** Juan 17:1-5 presenta al Hijo dirigiéndose al Padre y hablando de la gloria compartida antes de la creación. Mateo 3:16-17 distingue al Hijo bautizado, al Espíritu que desciende y al Padre que habla.
+
+**Divinidad y personalidad del Espíritu.** Hechos 5:3-4 relaciona mentir al Espíritu con mentir a Dios; Juan 14:26 y Hechos 13:2 le atribuyen enseñanza y palabra; 1 Corintios 12:11 habla de su voluntad al distribuir dones.
+
+## 9. Responder sin simplificar las objeciones
+
+Una objeción antitrinitaria puede surgir de una preocupación legítima por el monoteísmo, de una interpretación particular de un pasaje o de una tradición teológica. La respuesta debe identificar qué afirmación se está discutiendo. No basta con repetir que «Dios es tres en uno» sin explicar los textos; tampoco es correcto atribuir a todos los interlocutores la misma postura.
+
+Se recomienda este procedimiento: definir el término; leer el pasaje completo; identificar quién habla y a quién; observar el argumento del autor; comparar textos relacionados; y formular una conclusión que no exceda la evidencia. Cuando una cuestión depende de gramática o historia textual, se debe reconocerlo y evitar afirmaciones simplistas.
+
+## 10. Errores que la doctrina trinitaria debe evitar
+
+- **Triteísmo:** presentar al Padre, al Hijo y al Espíritu como tres dioses independientes.
+- **Confusión personal:** afirmar que Padre, Hijo y Espíritu son una misma persona con tres nombres.
+- **Subordinación de esencia:** convertir la relación del Hijo con el Padre en inferioridad de naturaleza.
+- **Impersonalidad del Espíritu:** ignorar los textos que le atribuyen voluntad, palabra y enseñanza.
+- **Prueba aislada:** construir toda la doctrina sobre una sola palabra sin atender al conjunto bíblico.
+
+## 11. La finalidad de la defensa doctrinal
+
+La defensa de la Trinidad no es un ejercicio de superioridad intelectual. Debe conducir a una adoración más fiel, a una comprensión correcta del evangelio y a una vida cristiana centrada en el Padre, el Hijo y el Espíritu Santo. 1 Pedro 3:15 llama a presentar defensa con mansedumbre y reverencia; 2 Timoteo 2:24-25 exige paciencia y aptitud para enseñar.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué textos mantienen el monoteísmo bíblico?
+2. ¿Qué pasajes afirman la deidad del Hijo?
+3. ¿Qué textos muestran la distinción entre el Padre y el Hijo?
+4. ¿Qué acciones personales y divinas se atribuyen al Espíritu?
+5. ¿Cómo se evita tanto el triteísmo como la confusión de personas?
+
 ## 9. Referencias bíblicas
 
 Deuteronomio 6:4-5; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Marcos 12:28-30; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Juan 20:28; Hechos 5:3-4; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; 2 Corintios 13:14; Colosenses 2:9.
