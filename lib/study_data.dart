@@ -1125,7 +1125,7 @@ content:
 references: 'Romanos 8:13-14; 1 Corintios 6:11; Gálatas 5:16-25; 2 Tesalonicenses 2:13; 1 Pedro 1:2.',
 ),
 StudySection(
-title: '6. La santificación inicial y el crecimiento espiritual',
+title: '6. La santificación recibida en Cristo y el crecimiento espiritual',
 content:
 'La enseñanza bíblica permite distinguir entre la santificación que se recibe por la obra de Cristo y el crecimiento continuo en una vida de obediencia. En 1 Corintios 1:2, Pablo se dirige a los creyentes como santificados en Cristo Jesús y llamados a ser santos. Hebreos 10:10 habla de la santificación mediante la ofrenda de Cristo, mientras que 2 Corintios 7:1 exhorta a perfeccionar la santidad en el temor de Dios. Estos pasajes muestran que el creyente pertenece a Dios por medio de Cristo y, al mismo tiempo, debe continuar creciendo en obediencia. La santificación no debe utilizarse para justificar el pecado ni para enseñar que el cristiano nunca necesita corregir su conducta.',
 references: '1 Corintios 1:2; Hebreos 10:10-14; 2 Corintios 7:1; Filipenses 3:12-14.',
