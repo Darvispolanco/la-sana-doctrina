@@ -1,24 +1,55 @@
-# Estudio 79. Errores en la enseñanza de la gracia: gracia y santidad
+# D-079. Errores en la enseñanza de la gracia: evitar el legalismo y el libertinaje
 
-## Dos distorsiones
-Una distorsión enseña que la aceptación de Dios se gana por obras y normas humanas. La otra usa la gracia como excusa para permanecer deliberadamente en pecado. El Nuevo Testamento rechaza ambas.
+## 1. La gracia debe comprenderse en su contexto bíblico
 
-## Romanos 6:1-14
-Pablo pregunta si debemos continuar en pecado para que la gracia abunde y responde: «En ninguna manera». El argumento se basa en la unión con Cristo en su muerte y resurrección. La gracia no solo perdona; inaugura una nueva vida.
+La gracia es el favor inmerecido de Dios y su acción salvadora a favor de los pecadores. Dos errores frecuentes la deforman: convertir la obediencia en mérito que compra la salvación, o utilizar la gracia como excusa para continuar deliberadamente en el pecado.
 
-## Tito 2:11-14
-La gracia de Dios se ha manifestado para salvación y nos enseña a renunciar a la impiedad. El contexto conecta la esperanza futura con una vida sobria, justa y piadosa. No se puede separar la gracia de su fruto transformador.
+El Nuevo Testamento rechaza ambos extremos y presenta la gracia como fundamento de la salvación y fuente de una vida transformada.
 
-## Gálatas 5:13-26
-La libertad cristiana no es ocasión para la carne, sino servicio por amor. Pablo contrasta las obras de la carne con el fruto del Espíritu. La santidad no se produce por orgullo moral, sino por caminar en el Espíritu.
+## 2. La gracia no se compra con obras
 
-## Preguntas y respuestas
-1. **¿La gracia permite pecar sin arrepentimiento?** No; Romanos 6 lo rechaza.
-2. **¿La santidad compra salvación?** No; es fruto de la gracia.
-3. **¿Cómo se vive la libertad?** Sirviendo por amor y andando en el Espíritu.
-4. **¿Qué evita ambos extremos?** Leer juntos justificación, unión con Cristo y santificación.
+Romanos 3:21-28 enseña que la justificación es por gracia mediante la redención en Cristo. Efesios 2:8-9 excluye las obras como fundamento de jactancia. Gálatas 2:15-21 afirma que nadie es justificado por las obras de la ley.
 
-## Conclusión
-La gracia salva y transforma. La iglesia debe rechazar tanto el legalismo como el libertinaje, anunciando el perdón de Cristo y llamando a una vida santa.
-## Pasajes
-Romanos 6:1-14; Gálatas 5:13-26; Efesios 2:8-10; Tito 2:11-14; 1 Pedro 1:13-16.
+Estos textos no eliminan la obediencia. Establecen que la aceptación ante Dios depende de la obra de Cristo y no del mérito humano.
+
+## 3. La gracia no autoriza el pecado
+
+Romanos 6:1-14 plantea una pregunta: ¿perseveraremos en el pecado para que la gracia abunde? Pablo responde de manera negativa y explica que los creyentes han sido unidos a Cristo en su muerte y resurrección para andar en vida nueva.
+
+La gracia no es permiso para vivir sin arrepentimiento. El creyente ya no debe presentar sus miembros al pecado como instrumentos de injusticia.
+
+## 4. Tito 2:11-14: la gracia educa
+
+Pablo afirma que la gracia de Dios se ha manifestado para salvación y nos enseña a renunciar a la impiedad y a vivir sobria, justa y piadosamente. Cristo se entregó para redimir y purificar un pueblo celoso de buenas obras.
+
+El pasaje conecta salvación, transformación y esperanza futura. La gracia no solo cambia la posición del creyente; también forma su conducta.
+
+## 5. La libertad cristiana se expresa en amor
+
+Gálatas 5:1-14 enseña que Cristo nos hizo libres, pero advierte que esa libertad no debe utilizarse como ocasión para la carne. Pablo resume la vida comunitaria en servir por amor.
+
+La libertad cristiana no es autonomía absoluta ni desprecio por los mandamientos de Dios. Es libertad del pecado y de la condenación para vivir en amor.
+
+## 6. La disciplina y la restauración
+
+Gálatas 6:1-2 llama a restaurar con espíritu de mansedumbre a quien sea sorprendido en alguna falta y a llevar las cargas unos de otros. La corrección bíblica busca restauración, no humillación.
+
+La gracia no exige encubrir el pecado ni permite tratar con crueldad a quien necesita corrección. La verdad y la misericordia deben mantenerse unidas.
+
+## 7. Preguntas y respuestas
+
+**¿La gracia significa que no importa cómo vivimos?** No. Romanos 6:1-14 y Tito 2:11-14 enseñan una vida nueva.
+
+**¿La obediencia compra el favor de Dios?** No. La justificación es por gracia mediante la fe (Ro 3:21-28).
+
+**¿La libertad cristiana permite dañar al prójimo?** No. Gálatas 5:13 llama a servir por amor.
+
+**¿Cómo se corrige a quien cae?** Con verdad, mansedumbre y propósito de restauración (Gá 6:1-2).
+
+## 8. Síntesis doctrinal
+
+La gracia excluye el mérito humano y produce una vida de obediencia. Rechaza tanto el legalismo como el libertinaje. La salvación se recibe por fe y transforma al creyente para vivir en santidad y amor.
+
+## 9. Referencias bíblicas
+
+Romanos 3:21-28; Romanos 6:1-14; Gálatas 2:15-21; Gálatas 5:1-14; Gálatas 6:1-2; Efesios 2:8-10; Tito 2:11-14; Tito 3:4-8.
