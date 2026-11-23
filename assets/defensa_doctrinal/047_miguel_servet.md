@@ -44,6 +44,40 @@ La verdad doctrinal debe defenderse mediante la Escritura, la razón y el diálo
 
 Servet fue una figura importante de las controversias antitrinitarias del siglo XVI. Su historia debe estudiarse sin justificar la persecución religiosa. La doctrina trinitaria debe defenderse con el testimonio bíblico y con respeto a la dignidad humana.
 
+## 9. Contexto del proceso contra Servet
+
+El caso de Miguel Servet pertenece a un siglo marcado por conflictos entre autoridades civiles y religiosas, censura, controversias confesionales y castigos severos por disidencia. Servet publicó críticas a la doctrina trinitaria y mantuvo desacuerdos con distintos reformadores. Su ejecución en Ginebra en 1553 debe analizarse dentro de ese contexto jurídico y político, sin convertirla en un argumento a favor o en contra de la verdad de una doctrina.
+
+La responsabilidad histórica exige reconocer que la violencia ejercida por motivos religiosos no constituye un método legítimo para defender la fe. Una persona puede sostener una enseñanza equivocada y conservar, aun así, su dignidad humana. La corrección doctrinal y el trato justo no son incompatibles.
+
+## 10. Análisis bíblico de la controversia trinitaria
+
+**Deuteronomio 6:4.** La confesión de Israel establece que Jehová es uno. La doctrina trinitaria no puede abandonar este fundamento ni utilizar la distinción de personas para introducir tres dioses.
+
+**Mateo 3:16-17.** En el bautismo de Jesús, el Hijo está en el agua, el Espíritu desciende y la voz del Padre se escucha desde los cielos. La escena obliga a considerar una distinción real entre los tres.
+
+**Juan 1:1-3, 14.** El Verbo estaba con Dios y era Dios; todas las cosas fueron hechas por medio de Él; y ese Verbo se hizo carne. El texto reúne distinción, deidad y encarnación.
+
+**Juan 17:1-5.** El Hijo se dirige al Padre y habla de la gloria que tenía junto a Él antes de la creación. La relación no comienza con la encarnación.
+
+**Colosenses 2:9.** Pablo declara que en Cristo habita corporalmente toda la plenitud de la Deidad. El pasaje debe leerse dentro de la advertencia contra filosofías y enseñanzas que apartan de Cristo.
+
+**Hechos 5:3-4.** Pedro identifica la mentira al Espíritu Santo con la mentira a Dios. El texto aporta un dato importante para la comprensión de la identidad del Espíritu.
+
+## 11. Defensa doctrinal y ética cristiana
+
+1 Pedro 3:15 une la disposición a presentar defensa con mansedumbre y reverencia. 2 Timoteo 2:24-26 enseña que el siervo del Señor no debe ser contencioso, sino amable, paciente y apto para enseñar. Estas instrucciones no debilitan la convicción; definen la manera cristiana de comunicarla.
+
+El ejemplo negativo de la persecución religiosa debe llevar a rechazar la coacción de conciencia. La iglesia puede enseñar, persuadir, corregir y establecer sus propias convicciones comunitarias, pero no debe utilizar violencia ni poder civil para imponer la fe.
+
+## 12. Preguntas de profundización
+
+1. ¿Por qué la ejecución de Servet no demuestra la verdad ni la falsedad de la Trinidad?
+2. ¿Qué distinciones aparecen en Mateo 3:16-17?
+3. ¿Cómo combina Juan 1:1-14 la deidad y la encarnación del Verbo?
+4. ¿Qué aporta Juan 17:1-5 al tema de la relación entre Padre e Hijo?
+5. ¿Qué actitud exige 1 Pedro 3:15 al defender una convicción?
+
 ## 8. Referencias bíblicas
 
 Deuteronomio 6:4; Mateo 3:16-17; Mateo 28:18-20; Juan 1:1-18; Juan 14:16-17; Juan 17:1-5; Juan 20:28; Colosenses 2:9; Hebreos 1:1-12; 2 Timoteo 2:24-26; 1 Pedro 3:15.
