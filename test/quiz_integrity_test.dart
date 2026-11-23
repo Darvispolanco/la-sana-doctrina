@@ -62,6 +62,35 @@ void main() {
   });
 
 
+  test('las evaluaciones trinitarias prioritarias no usan preguntas de relleno', () {
+    const focusedTitles = [
+      'Unidad de Dios',
+      'El Padre',
+      'Divinidad del Hijo',
+      'Persona del Espíritu Santo',
+      'Bautismo de Jesús',
+      'Jesús y el Padre',
+    ];
+
+    for (final title in focusedTitles) {
+      final pack = quizPacks.singleWhere((item) => item.title == title);
+      expect(pack.questions, hasLength(20), reason: title);
+      final texts = pack.questions.map((item) => item.question.trim()).toSet();
+      expect(texts, hasLength(20), reason: 'Preguntas repetidas en $title');
+
+      for (final question in pack.questions) {
+        expect(
+          question.question,
+          isNot(contains('Al leer el pasaje principal')),
+          reason: 'Se detectó una plantilla genérica en $title',
+        );
+        expect(question.references, isNotEmpty);
+        expect(question.explanation.length, greaterThan(45));
+      }
+    }
+  });
+
+
   test('el catálogo tiene títulos únicos y al menos mil preguntas', () {
     final titles = quizPacks
         .map((pack) => pack.title.trim().toLowerCase())
