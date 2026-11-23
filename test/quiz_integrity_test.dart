@@ -125,7 +125,11 @@ void main() {
     for (var i = 0; i < pack.questions.length; i++) {
       final question = pack.questions[i];
       final correctOption = find.text(question.options[question.correctIndex]).first;
-      await tester.ensureVisible(correctOption);
+      await tester.scrollUntilVisible(
+        correctOption,
+        250,
+        scrollable: find.byType(ListView).first,
+      );
       await tester.tap(correctOption);
       await tester.pumpAndSettle();
 
@@ -133,7 +137,11 @@ void main() {
           ? 'Ver resultado'
           : 'Siguiente pregunta';
       final nextButton = find.text(nextLabel).last;
-      await tester.ensureVisible(nextButton);
+      await tester.scrollUntilVisible(
+        nextButton,
+        250,
+        scrollable: find.byType(ListView).first,
+      );
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
     }
