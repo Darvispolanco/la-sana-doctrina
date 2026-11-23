@@ -48,6 +48,34 @@ La cruz demuestra que la salvación no puede reducirse al esfuerzo humano. El Hi
 
 La salvación es un regalo de Dios, recibido por la fe en Jesucristo. Las buenas obras son fruto de la gracia y evidencia de una fe viva, no un mérito que compra el perdón.
 
+## 10. Exégesis de Romanos 3–4
+
+Romanos 3:21-26 explica que la justicia de Dios se manifiesta por medio de la fe en Jesucristo y que la justificación es un regalo de gracia mediante la redención. Pablo presenta a Cristo como fundamento de la obra salvadora y excluye la jactancia humana. En los versículos 27-28 concluye que la persona es justificada por fe aparte de las obras de la ley.
+
+Romanos 4 desarrolla el argumento mediante Abraham. Si Abraham hubiera sido justificado por obras, tendría motivo de gloriarse, pero no delante de Dios. Pablo contrasta el salario debido al trabajador con la justicia que Dios acredita al que cree. La fe no compra el favor divino; recibe la promesa de Dios.
+
+Este argumento no enseña que las obras sean inútiles. Pablo mismo presenta la nueva vida como obediencia y servicio. Lo que niega es que el ser humano pueda presentar sus logros como precio de la reconciliación.
+
+## 11. Santiago 2 y la fe que obra
+
+Santiago pregunta qué provecho tiene decir que se tiene fe si no hay obras. Su ejemplo de una persona necesitada muestra que las palabras sin ayuda concreta no sirven. Después utiliza a Abraham y Rahab para ilustrar que la fe se expresa en acciones.
+
+Pablo y Santiago no necesitan ser enfrentados. Pablo combate la confianza en las obras como mérito de justificación; Santiago combate una profesión vacía que no produce obediencia. Ambos textos deben leerse en sus respectivos contextos. La fe salvadora no es una obra que compra la gracia, pero tampoco es una afirmación sin fruto.
+
+## 12. La obra trinitaria de la salvación
+
+La salvación procede del único Dios trino. Efesios 1:3-14 presenta la elección y propósito del Padre, la redención en el Hijo y el sello del Espíritu. 1 Pedro 1:1-2 relaciona la presciencia del Padre, la santificación del Espíritu y la obediencia a Jesucristo. La obra salvadora es una, aunque la Escritura atribuya acciones diferenciadas a las personas divinas.
+
+Esta perspectiva impide convertir la salvación en un proyecto de autosuperación humana. La gloria pertenece a Dios y la respuesta del creyente es fe, gratitud y obediencia.
+
+## 13. Preguntas de profundización
+
+1. ¿Qué excluye Pablo al hablar de justificación por fe en Romanos 3?
+2. ¿Qué demuestra el ejemplo de Abraham en Romanos 4?
+3. ¿Qué problema corrige Santiago 2:14-26?
+4. ¿Cómo se relacionan Pablo y Santiago sin contradecirse?
+5. ¿Qué acciones del Padre, del Hijo y del Espíritu aparecen en Efesios 1:3-14?
+
 ## 9. Referencias bíblicas
 
 Isaías 64:6; Romanos 3:9-28; Romanos 4:1-8; Gálatas 2:15-21; Efesios 2:1-10; Tito 2:11-14; Tito 3:4-8; Santiago 2:14-26.
