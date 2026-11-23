@@ -70,6 +70,22 @@ Estos textos sostienen la confianza en la fidelidad divina. A la vez, el Nuevo T
 
 La perseverancia no es un mérito independiente que obliga a Dios; es parte de la vida sostenida por su gracia.
 
+## 10. Justificación, adopción y nueva vida
+
+Romanos 5:1-2 enseña que, justificados por la fe, tenemos paz para con Dios por medio de Jesucristo. La justificación describe la declaración favorable de Dios sobre quienes creen en Cristo; no significa que el creyente haya alcanzado una perfección moral propia ni que el pecado haya dejado de ser serio.
+
+Gálatas 4:4-7 y Romanos 8:14-17 presentan la adopción: quienes reciben la obra del Hijo son incorporados a la familia de Dios y reciben el testimonio del Espíritu. La salvación no consiste únicamente en quedar libres de culpa; incluye una nueva relación con el Padre.
+
+La nueva vida también produce santificación. Romanos 6:11-14 llama a vivir para Dios y no presentar el cuerpo al pecado. La justificación, la adopción y la santificación están relacionadas, pero no deben confundirse: describen aspectos distintos de la gracia que salva y transforma.
+
+## 11. La salvación y la perseverancia de la comunidad
+
+Hebreos 10:19-25 exhorta a acercarse a Dios con confianza, mantener firme la esperanza y estimularse al amor y a las buenas obras. La perseverancia cristiana no es un esfuerzo aislado: se vive en comunión, enseñanza, oración y cuidado mutuo.
+
+Colosenses 1:21-23 une la reconciliación realizada por Cristo con el llamado a permanecer fundados y firmes en la fe. Estos pasajes no autorizan a la Iglesia a declarar sin conocimiento el estado final de cada persona; sí la llaman a enseñar, acompañar y exhortar a perseverar.
+
+La seguridad bíblica descansa en la fidelidad de Dios y en la suficiencia de Cristo. Por eso produce gratitud y obediencia, no orgullo ni indiferencia.
+
 ## 10. Preguntas y respuestas
 
 **¿Las obras salvan?** No son el fundamento de la justificación. Efesios 2:8-10 enseña que somos salvos por gracia y creados para buenas obras.
@@ -90,4 +106,4 @@ La salvación tiene su origen en la gracia y misericordia de Dios, se recibe med
 
 ## 12. Referencias bíblicas
 
-Juan 3:16-18; Juan 10:27-30; Juan 15:1-10; Hechos 2:37-41; Romanos 3:9-26; Romanos 6:1-14; Romanos 8:31-39; Romanos 10:9-17; Gálatas 4:4-7; Gálatas 5:6, 16-25; Efesios 1:3-14; Efesios 2:1-10; Tito 3:4-7; Santiago 2:14-26.
+Juan 3:16-18; Juan 10:27-30; Juan 15:1-10; Hechos 2:37-41; Romanos 3:9-26; Romanos 6:1-14; Romanos 8:31-39; Romanos 10:9-17; Gálatas 4:4-7; Gálatas 5:6, 16-25; Efesios 1:3-14; Efesios 2:1-10; Tito 3:4-7; Santiago 2:14-26.; Romanos 5:1-2; Romanos 6:11-14; Romanos 8:14-17; Hebreos 10:19-25; Colosenses 1:21-23
