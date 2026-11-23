@@ -56,6 +56,44 @@ El movimiento de los Santos de los Últimos Días tiene una historia y un canon 
 - [Common Questions](https://www.churchofjesuschrist.org/welcome/common-questions?lang=eng)
 - [The Articles of Faith](https://www.churchofjesuschrist.org/comeuntochrist/article/articles-of-faith)
 
+## 8. Historia, fuentes y desarrollo institucional
+
+El movimiento de los Santos de los Últimos Días surgió en el contexto religioso estadounidense del siglo XIX, un período caracterizado por avivamientos, nuevas comunidades y debates sobre autoridad, restauración y experiencia religiosa. Joseph Smith afirmó recibir revelaciones y organizó una comunidad que posteriormente desarrolló una estructura institucional propia.
+
+La historia del movimiento debe estudiarse a partir de documentos de distintas etapas: relatos tempranos, publicaciones oficiales, textos canónicos, declaraciones institucionales actuales y estudios históricos independientes. No todos los documentos tienen el mismo propósito ni reflejan necesariamente la posición actual de la organización.
+
+Es importante distinguir tres preguntas: qué afirmó Joseph Smith en un momento determinado; qué establecieron las autoridades institucionales después; y qué cree hoy un miembro concreto. La respuesta a una de estas preguntas no sustituye automáticamente las otras.
+
+## 9. Comparación de la doctrina de Dios
+
+La doctrina oficial de los Santos de los Últimos Días describe al Padre, al Hijo y al Espíritu Santo como seres distintos, unidos en propósito y voluntad. La doctrina trinitaria histórica confiesa un solo ser o esencia divina en tres personas coeternas. Ambas posiciones utilizan lenguaje cristiano sobre el Padre, el Hijo y el Espíritu, pero no significan lo mismo.
+
+La evaluación debe explicar con claridad esa diferencia sin recurrir a burlas. Desde la perspectiva trinitaria, Deuteronomio 6:4 e Isaías 45:5-6 excluyen tres seres divinos independientes. Juan 1:1-3, Colosenses 2:9 y Hebreos 1:8-12 afirman la deidad del Hijo. Hechos 5:3-4 y 1 Corintios 12:11 aportan datos sobre la divinidad y acción personal del Espíritu.
+
+## 10. Examen cristológico y pneumatológico
+
+**Juan 1:1-3.** El Verbo estaba con Dios y era Dios; todas las cosas llegaron a existir por medio de Él. La interpretación debe explicar la distinción relacional y la afirmación de deidad presentes en el mismo pasaje.
+
+**Colosenses 1:15-17.** El Hijo es anterior a todas las cosas y todo fue creado por medio de Él y para Él. «Primogénito» debe interpretarse en el argumento sobre supremacía y creación, no aislarse para concluir sin más que es una criatura.
+
+**Colosenses 2:9.** Pablo afirma que en Cristo habita corporalmente toda la plenitud de la Deidad. El texto es central para la comprensión trinitaria de la identidad del Hijo encarnado.
+
+**Juan 14:16-17, 26.** Jesús promete otro Consolador, enviado por el Padre en su nombre. El Espíritu enseña y recuerda las palabras de Cristo. La relación entre quien pide, quien envía y quien es enviado debe conservarse.
+
+## 11. Cómo conversar con miembros de esta comunidad
+
+Una conversación respetuosa comienza preguntando qué fuente oficial expresa la creencia que la persona sostiene. No se debe asumir que todos conocen cada detalle de la teología institucional ni que cada miembro interpreta de igual manera todos los textos. Es mejor identificar una afirmación concreta, leer el pasaje completo y preguntar cómo se relaciona con otros textos bíblicos.
+
+La finalidad de la defensa cristiana no es humillar ni ganar una discusión mediante frases preparadas. Es dar razón de la esperanza con mansedumbre, explicar el evangelio y tratar al interlocutor como una persona digna de respeto.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué diferencia existe entre tres seres unidos en propósito y una esencia divina en tres personas?
+2. ¿Cómo utiliza Juan 1:1-3 el lenguaje de relación y deidad?
+3. ¿Qué significa «primogénito» en el argumento de Colosenses 1:15-17?
+4. ¿Qué afirma Colosenses 2:9 sobre la identidad de Cristo?
+5. ¿Por qué es necesario distinguir las fuentes oficiales de las creencias personales?
+
 ## 10. Referencias bíblicas
 
 Deuteronomio 6:4-5; Isaías 45:5-6; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Hechos 5:3-4; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Colosenses 1:15-20.
