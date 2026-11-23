@@ -1,24 +1,47 @@
-# Estudio 59. Adventismo: historia y evaluación doctrinal equilibrada
+# D-059. Adventismo: historia y evaluación de su doctrina trinitaria actual
 
-## Contexto histórico
-El adventismo surgió en el siglo XIX dentro del movimiento millerita en Estados Unidos. Tras la expectativa de 1844, diversos grupos tomaron caminos distintos. La Iglesia Adventista del Séptimo Día se organizó en 1863. Su historia incluye énfasis en la segunda venida, el sábado, el santuario y la salud. Ha habido desarrollo doctrinal a lo largo del tiempo.
+## 1. Precisión necesaria
 
-## La Trinidad en el adventismo actual
-La Iglesia Adventista del Séptimo Día contemporánea confiesa oficialmente la Trinidad: un Dios en tres personas coeternas, Padre, Hijo y Espíritu Santo. Históricamente, algunos pioneros sostuvieron posiciones no trinitarias, pero no debe proyectarse esa etapa sobre la declaración doctrinal actual. Tampoco es correcto afirmar que todos los grupos que usan el nombre adventista comparten exactamente la misma doctrina.
+La Iglesia Adventista del Séptimo Día surgió del movimiento millerita del siglo XIX y se organizó como denominación en 1863. Su historia doctrinal ha tenido desarrollo interno, especialmente en la manera de expresar la doctrina de Dios.
 
-## Cómo evaluar diferencias
-Las diferencias sobre sábado, santuario, estado de los muertos o interpretación profética deben estudiarse por separado. No toda diferencia secundaria equivale a negar el evangelio o la Trinidad. Se deben comparar las declaraciones oficiales con los textos bíblicos y evitar generalizaciones.
+Es incorrecto clasificar sin matices al adventismo actual como una denominación antitrinitaria. Su declaración oficial de creencias fundamentales afirma que hay un solo Dios: Padre, Hijo y Espíritu Santo, una unidad de tres personas coeternas.
 
-## Pasajes para el discernimiento
-Colosenses 2:16-17 advierte contra juzgar a los creyentes por comida, bebida o días festivos; Romanos 14:5-6 trata las diferencias de conciencia sobre días. Estos textos no resuelven por sí solos toda cuestión sobre el sábado, pero sí exigen cuidado antes de condenar a otros por prácticas discutibles. La identidad de Cristo y el evangelio deben examinarse con textos como Juan 1:1-18 y Efesios 2:8-10.
+## 2. La declaración doctrinal actual
 
-## Preguntas y respuestas
-1. **¿El adventismo actual es oficialmente antitrinitario?** No; la Iglesia Adventista del Séptimo Día afirma la Trinidad.
-2. **¿Todos los pioneros pensaban igual?** No; existieron cambios y diversidad.
-3. **¿Toda diferencia sobre días o prácticas es herejía?** No; debe analizarse cada doctrina.
-4. **¿Cómo dialogar?** Consultar la declaración oficial y estudiar los pasajes en contexto.
+La declaración oficial adventista incluye una creencia titulada «La Trinidad» y apartados específicos sobre Dios Padre, Dios Hijo y Dios Espíritu Santo. Esa formulación es trinitaria y debe reconocerse con exactitud al describir la denominación contemporánea.
 
-## Conclusión
-Una defensa responsable de la sana doctrina evita acusaciones desactualizadas. La evaluación debe atender a las creencias actuales de cada comunidad y distinguir las doctrinas centrales de las diferencias secundarias.
-## Pasajes
-Mateo 28:19; Juan 1:1-18; Romanos 14:1-12; 1 Corintios 8:4-6; Colosenses 2:16-19; Efesios 2:8-10.
+La evaluación de otras doctrinas adventistas —como el sábado, el santuario, el juicio investigador o la interpretación profética— requiere estudios separados y no debe confundirse con la pregunta específica de si confiesan la Trinidad.
+
+## 3. La Trinidad en la Escritura
+
+Deuteronomio 6:4 afirma que Dios es uno. Mateo 28:19 menciona al Padre, al Hijo y al Espíritu Santo en una sola fórmula bautismal. 2 Corintios 13:14 reúne la gracia de Cristo, el amor de Dios y la comunión del Espíritu.
+
+Juan 1:1-3 afirma la deidad del Verbo; Hechos 5:3-4 relaciona mentir al Espíritu con mentir a Dios. Estos pasajes forman parte del fundamento bíblico de la doctrina trinitaria.
+
+## 4. Diferenciar historia y enseñanza actual
+
+En los primeros años del adventismo existieron posiciones no trinitarias entre algunos pioneros. La denominación desarrolló posteriormente su formulación doctrinal hasta adoptar oficialmente una confesión trinitaria. No es correcto trasladar automáticamente las opiniones de algunos pioneros a todos los miembros actuales.
+
+La historia debe estudiarse cronológicamente y distinguiendo entre autores individuales, documentos de época y declaraciones oficiales vigentes.
+
+## 5. Preguntas y respuestas
+
+**¿El adventismo actual es oficialmente trinitario?** Sí. Su declaración oficial de creencias afirma un solo Dios en tres personas coeternas.
+
+**¿Todos los pioneros adventistas tenían la misma postura?** No. La historia doctrinal muestra desarrollo y diferencias.
+
+**¿Ser trinitario significa que todas las doctrinas de una denominación son idénticas?** No. La Trinidad es una cuestión específica; otras enseñanzas deben evaluarse por separado.
+
+**¿Cómo se debe dialogar con un adventista?** Reconociendo su confesión trinitaria oficial y conversando con precisión sobre la doctrina concreta que se esté estudiando.
+
+## 6. Síntesis
+
+El adventismo actual confiesa oficialmente la Trinidad. Su historia incluye un desarrollo doctrinal que debe estudiarse sin generalizaciones. Una defensa bíblica rigurosa distingue entre la postura institucional presente y las opiniones históricas de individuos.
+
+## 7. Fuente oficial para identificar su creencia actual
+
+- [Adventist.org: What We Believe](https://adventist.org/beliefs)
+
+## 8. Referencias bíblicas
+
+Deuteronomio 6:4; Mateo 3:16-17; Mateo 28:18-20; Juan 1:1-18; Hechos 5:3-4; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6; 1 Pedro 1:1-2.
