@@ -50,6 +50,38 @@ Jesús advierte sobre los falsos profetas y enseña que se reconocen por sus fru
 
 La Iglesia debe valorar el servicio y la guía del Espíritu, pero toda afirmación de autoridad y profecía debe examinarse. Cristo es el fundamento y la revelación culminante; el testimonio apostólico conserva autoridad normativa para la fe de la Iglesia.
 
+## 8. Examen de los dones y ministerios
+
+Efesios 4:11-16 enumera ministerios dados para capacitar a los santos y edificar el cuerpo de Cristo. El propósito es que la Iglesia alcance unidad en la fe, conocimiento del Hijo y madurez, para no ser llevada por cualquier viento de doctrina. El texto vincula ministerio con servicio, formación y estabilidad doctrinal.
+
+1 Corintios 12–14 describe diversidad de dones y establece que su ejercicio debe contribuir a la edificación. En 1 Corintios 14:29, las profecías deben ser evaluadas por los demás. El don no elimina la responsabilidad de la comunidad ni concede inmunidad a quien habla.
+
+El Nuevo Testamento no permite utilizar un título ministerial para evitar la evaluación. La autoridad de quien enseña se demuestra por su fidelidad a Cristo y a la Palabra, no por la espectacularidad de sus afirmaciones.
+
+## 9. Cómo probar una profecía o dirección espiritual
+
+1. **Contenido:** ¿está de acuerdo con el evangelio y con la enseñanza bíblica?
+2. **Cristología:** ¿glorifica a Jesucristo o desplaza su señorío hacia un mensajero humano?
+3. **Carácter:** ¿produce verdad, amor, justicia y dominio propio?
+4. **Responsabilidad:** ¿permite examen y corrección?
+5. **Fruto comunitario:** ¿edifica a la iglesia o produce temor, dependencia y división?
+
+Deuteronomio 18:20-22 contiene criterios para evaluar a quien habla en nombre del Señor dentro del pacto de Israel. En el Nuevo Testamento, 1 Juan 4:1 y 1 Tesalonicenses 5:19-22 llaman a probar las afirmaciones espirituales. Los textos deben aplicarse atendiendo a su contexto y no como instrumentos de acusación ligera.
+
+## 10. Riesgos de autoridad no examinable
+
+Una comunidad se encuentra en peligro cuando una persona afirma que sus decisiones no pueden cuestionarse, exige recursos mediante amenazas espirituales o presenta sus opiniones como mandatos divinos. Jesús enseñó que los gobernantes de las naciones se enseñorean, pero que entre sus discípulos no debe ser así (Mr 10:42-45).
+
+El cuidado pastoral incluye transparencia, rendición de cuentas, protección de los vulnerables y libertad para comparar toda enseñanza con la Escritura. La obediencia cristiana nunca debe utilizarse para encubrir abuso.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué propósito tienen los ministerios de Efesios 4:11-16?
+2. ¿Por qué 1 Corintios 14:29 manda evaluar las profecías?
+3. ¿Qué límites establece Gálatas 1:8-9?
+4. ¿Cómo define Jesús el liderazgo en Marcos 10:42-45?
+5. ¿Qué diferencia hay entre reconocer un don y conceder autoridad incuestionable a una persona?
+
 ## 9. Referencias bíblicas
 
 Mateo 7:15-20; Hechos 1:21-26; 1 Corintios 9:1; 1 Corintios 14:29-33; 1 Corintios 15:7-10; Gálatas 1:6-9; Efesios 2:19-22; Efesios 3:4-6; Hebreos 1:1-2; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; 1 Pedro 5:1-4.
