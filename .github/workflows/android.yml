@@ -187,6 +187,7 @@ jobs:
           '''
               if 'create("persistent")' not in source:
                   source = source.replace('    buildTypes {', config + '    buildTypes {', 1)
+              source = source.replace('    buildTypes {', '    buildTypes {\n        getByName("debug") { signingConfig = signingConfigs.getByName("persistent") }', 1)
               source = source.replace('signingConfig = signingConfigs.getByName("debug")', 'signingConfig = signingConfigs.getByName("persistent")')
           else:
               config = '''    signingConfigs {
@@ -200,6 +201,7 @@ jobs:
           '''
               if 'persistent {' not in source:
                   source = source.replace('    buildTypes {', config + '    buildTypes {', 1)
+              source = source.replace('    buildTypes {', '    buildTypes {\n        debug { signingConfig signingConfigs.persistent }', 1)
               source = source.replace('signingConfig signingConfigs.debug', 'signingConfig signingConfigs.persistent')
           if 'persistent' not in source:
               raise SystemExit('Persistent signing configuration was not applied')
