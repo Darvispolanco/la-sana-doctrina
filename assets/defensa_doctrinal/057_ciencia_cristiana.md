@@ -49,6 +49,34 @@ La Ciencia Cristiana tiene una historia y un sistema de enseñanzas propios. La 
 - [Frequently Asked Questions](https://www.christianscience.com/what-we-believe/frequently-asked-questions)
 - [What a Christian Scientist Believes](https://www.christianscience.com/what-we-believe/what-a-christian-scientist-believes)
 
+## 8. Examen de las afirmaciones sobre la realidad y el pecado
+
+La Ciencia Cristiana debe estudiarse distinguiendo sus escritos fundacionales, las declaraciones institucionales actuales y las interpretaciones que sus miembros hacen de ellos. Sus formulaciones sobre la realidad espiritual, la materia, el pecado y la sanidad no siempre se resumen correctamente en una sola frase. Por ello, el análisis debe citar la afirmación concreta y no depender de caricaturas.
+
+**La realidad del pecado.** Romanos 3:9-23 describe a la humanidad bajo el pecado y concluye que todos necesitan la gracia de Dios. 1 Juan 1:8-10 advierte que negar el pecado es engañarse y presenta la confesión como parte de la vida en la luz. La enseñanza bíblica no trata el pecado como una simple percepción equivocada, sino como una condición moral que requiere perdón y transformación.
+
+**La realidad de la encarnación.** Juan 1:14 afirma que el Verbo se hizo carne. El sujeto que se encarna es el Verbo del prólogo, no una idea espiritual separada del Jesús histórico. Hebreos 2:14-18 vincula la humanidad del Hijo con su muerte y su obra sacerdotal.
+
+**La realidad de la cruz.** Los Evangelios narran el sufrimiento y muerte de Jesús; 1 Corintios 15:3-8 incluye su muerte, sepultura y resurrección en el mensaje recibido por los apóstoles. La cruz no puede reducirse a una lección simbólica sin atender al acontecimiento que el testimonio apostólico anuncia.
+
+## 9. Sanidad, oración y responsabilidad
+
+La Biblia enseña que Dios puede sanar y llama a orar por los enfermos (Stg 5:13-16). También reconoce que los creyentes pueden experimentar debilidad y enfermedad. Pablo menciona su propia aflicción y la respuesta que recibió en 2 Corintios 12:7-10; además, aconseja a Timoteo una medida práctica relacionada con su salud en 1 Timoteo 5:23.
+
+Estos pasajes impiden afirmar que toda enfermedad demuestra falta de fe o que la sanidad está garantizada si la persona alcanza cierto nivel de comprensión espiritual. La iglesia debe orar, acompañar y evitar culpabilizar a quien sufre. La fe no debe utilizarse para impedir que una persona busque atención apropiada.
+
+## 10. Cristo y el Consolador
+
+Juan 14:16-17 presenta al Espíritu como otro Consolador, enviado por el Padre a petición del Hijo. Juan 15:26 afirma que dará testimonio de Cristo. La doctrina trinitaria reconoce la distinción personal y la divinidad del Espíritu; no lo reduce a una cualidad abstracta de la conciencia humana.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué afirma 1 Juan 1:8-10 sobre negar y confesar el pecado?
+2. ¿Por qué Juan 1:14 identifica al Verbo eterno con el Jesús encarnado?
+3. ¿Qué lugar ocupan muerte y resurrección en 1 Corintios 15:3-8?
+4. ¿Qué equilibrio muestran 2 Corintios 12:7-10 y Santiago 5:13-16 sobre enfermedad y oración?
+5. ¿Cómo se debe presentar una crítica doctrinal sin caricaturizar a una comunidad?
+
 ## 9. Referencias bíblicas
 
 Juan 1:1-18; Juan 20:24-29; Romanos 3:9-26; Romanos 6:23; 1 Corintios 15:1-8; 2 Corintios 12:7-10; Colosenses 2:9; Hebreos 2:14-18; 1 Timoteo 5:23; 1 Juan 1:8-10.
