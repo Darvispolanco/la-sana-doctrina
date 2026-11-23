@@ -40,16 +40,11 @@ jobs:
             flutter create \
               --platforms=android \
               --org com.lasanadoctrina \
-              --project-name la_sana_doctrina \
+              --project-name app \
               /tmp/la_sana_doctrina_android
 
             cp -R /tmp/la_sana_doctrina_android/android ./android
           fi
-
-      - name: Prepare assets
-        run: |
-          mkdir -p assets/audio
-          mkdir -p assets/images
 
       - name: Install dependencies
         run: flutter pub get
