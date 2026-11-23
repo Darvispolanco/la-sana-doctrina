@@ -50,6 +50,34 @@ El Espíritu Santo habla, enseña, guía, distribuye dones, intercede y puede se
 
 - [What Is the Holy Spirit?](https://www.jw.org/en/bible-teachings/questions/what-is-the-holy-spirit/)
 
+## 11. Estudio de los verbos personales aplicados al Espíritu
+
+En Juan 14:26, Jesús afirma que el Consolador enseñará y hará recordar a los discípulos sus palabras. En Juan 15:26, el Espíritu dará testimonio de Cristo. En Juan 16:13-15, guiará a la verdad, hablará, anunciará y glorificará al Hijo. El argumento del discurso no se limita a describir una energía que produce efectos: presenta al Espíritu como agente que actúa en relación con el Padre, el Hijo y los discípulos.
+
+Hechos 13:2 ofrece un ejemplo narrativo: el Espíritu habla a la comunidad reunida y aparta a Bernabé y Saulo para una obra. La iglesia responde ayunando, orando y enviándolos. El texto atribuye al Espíritu iniciativa y dirección.
+
+En 1 Corintios 12:11, el Espíritu distribuye dones a cada uno como quiere. Romanos 8:26-27 le atribuye intercesión y conocimiento de la intención divina. Efesios 4:30 advierte que puede ser entristecido. Estos pasajes deben considerarse de manera acumulativa.
+
+## 12. La divinidad del Espíritu y el monoteísmo
+
+Hechos 5:3-4 relaciona mentir al Espíritu Santo con mentir a Dios. El relato no presenta al Espíritu como una criatura ni como un simple instrumento separado de Dios. A la vez, Mateo 3:16-17 y Juan 14:16-17 distinguen al Espíritu del Hijo y del Padre.
+
+La doctrina trinitaria no concluye que existan tres dioses. Afirma que el Espíritu es plenamente divino y personalmente distinto dentro de la única identidad divina. La explicación debe mantener tanto la unidad de Dios como las relaciones que describen los textos.
+
+## 13. Imágenes bíblicas y lenguaje personal
+
+La Escritura compara la acción del Espíritu con viento, fuego, agua, aceite, sello y garantía. Estas imágenes describen aspectos de su obra, pero ninguna agota su identidad. No es correcto tomar una metáfora —por ejemplo, viento o poder— y utilizarla para negar los pasajes que le atribuyen palabra, voluntad, enseñanza e intercesión.
+
+De la misma manera, reconocer su personalidad no significa atribuirle un cuerpo humano ni separarlo de Dios como una deidad independiente. La doctrina debe derivarse del conjunto del testimonio bíblico.
+
+## 14. Preguntas de profundización
+
+1. ¿Qué acciones del Espíritu aparecen en Juan 14:26 y Juan 16:13-15?
+2. ¿Qué muestra Hechos 13:1-4 sobre la dirección de la misión?
+3. ¿Qué aporta 1 Corintios 12:11 al tema de la voluntad del Espíritu?
+4. ¿Cómo relaciona Hechos 5:3-4 al Espíritu con Dios?
+5. ¿Por qué las metáforas bíblicas no deben convertirse en definiciones exhaustivas?
+
 ## 10. Referencias bíblicas
 
 Juan 14:16-26; Juan 15:26-27; Juan 16:7-15; Hechos 5:1-4; Hechos 8:29; Hechos 10:19-20; Hechos 13:1-4; Romanos 8:26-27; 1 Corintios 12:4-11; Efesios 4:30.
