@@ -54,6 +54,43 @@ Toda enseñanza debe examinarse por su fidelidad al evangelio, su uso del contex
 
 Dios cuida a sus hijos y llama a la generosidad, pero el evangelio no es una técnica para obtener riqueza. El centro es Jesucristo crucificado y resucitado. La fe produce contentamiento, fidelidad y amor al prójimo en abundancia y escasez.
 
+## 11. Examen contextual de textos utilizados en el debate
+
+**1 Corintios 15:1-4.** Pablo recuerda el evangelio que recibió y transmitió: Cristo murió por nuestros pecados, fue sepultado y resucitó. La centralidad del evangelio no puede sustituirse por una promesa de riqueza o éxito.
+
+**Marcos 8:34-38.** Jesús llama a negarse a sí mismo, tomar la cruz y seguirle. La vida de discípulo puede incluir pérdida y sufrimiento por causa de Cristo. El pasaje contradice la idea de que la fe garantiza una vida sin dificultades.
+
+**Lucas 12:13-21.** La parábola del rico insensato no condena todo recurso económico, sino la avaricia y la falsa seguridad basada en bienes acumulados. El hombre no es rico para con Dios y descubre que la vida no está bajo su control.
+
+**1 Timoteo 6:6-10, 17-19.** Pablo exhorta al contentamiento y advierte sobre el amor al dinero. A quienes tienen recursos les manda no ser altivos ni poner la esperanza en las riquezas, sino en Dios, y ser generosos. La enseñanza no demoniza a toda persona con recursos; confronta la confianza idolátrica en ellos.
+
+**2 Corintios 8–9.** La colecta para los creyentes necesitados se organiza con disposición voluntaria y responsabilidad. Pablo no presenta la ofrenda como una inversión que obliga a Dios a devolver dinero, sino como servicio y generosidad.
+
+## 12. Pruebas prácticas para evaluar un mensaje
+
+- ¿El mensaje anuncia primero la muerte y resurrección de Cristo o coloca el bienestar material en el centro?
+- ¿Presenta las promesas bíblicas dentro de su contexto original?
+- ¿Reconoce que los creyentes fieles también pueden sufrir necesidad?
+- ¿Permite que las personas den libremente y con información clara?
+- ¿Evita prometer resultados económicos garantizados?
+- ¿Acompaña a quienes están enfermos o en necesidad sin culparlos?
+
+Una enseñanza debe evaluarse por su contenido, su uso de la Escritura y sus consecuencias pastorales. El éxito económico de un predicador no demuestra que su mensaje sea verdadero.
+
+## 13. La generosidad como fruto del evangelio
+
+La generosidad cristiana nace de la gracia recibida y del amor al prójimo. 2 Corintios 8:9 relaciona la generosidad de los creyentes con la gracia de Cristo, quien se hizo pobre por amor a ellos. El pasaje no autoriza a manipular a los pobres ni a prometer que una donación producirá riqueza personal.
+
+La iglesia debe rendir cuentas de los recursos, proteger a los vulnerables y evitar presiones espirituales. La ofrenda es un acto de adoración y servicio, no el precio de un milagro.
+
+## 14. Preguntas de profundización
+
+1. ¿Cuál es el contenido del evangelio según 1 Corintios 15:1-4?
+2. ¿Qué advierte Jesús en Lucas 12:13-21?
+3. ¿Cómo describe Pablo el contentamiento en Filipenses 4:11-13?
+4. ¿Qué principios de libertad y responsabilidad aparecen en 2 Corintios 8–9?
+5. ¿Qué señales muestran que una enseñanza utiliza el dinero para manipular?
+
 ## 10. Referencias bíblicas
 
 Mateo 6:19-34; Marcos 8:34-38; Lucas 12:13-21; 1 Corintios 15:1-4; 2 Corintios 8–9; 2 Corintios 11:23-30; 2 Corintios 12:7-10; Filipenses 4:10-13; 1 Timoteo 6:6-10; Hebreos 11; 3 Juan 2.
