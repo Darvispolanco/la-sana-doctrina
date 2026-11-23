@@ -9,7 +9,8 @@ Aplicación Flutter para formación bíblica y defensa de la doctrina cristiana,
 - **Diccionario teológico:** catálogo ampliado de 658 términos con definiciones, contexto y referencias bíblicas.
 - **Evaluaciones:** 50 evaluaciones de 20 preguntas cada una. La curación editorial de las preguntas sigue en proceso; el número total no significa que todos los reactivos hayan sido revisados individualmente.
 - **Guardados:** conserva localmente los identificadores de estudios y documentos de Defensa mediante `shared_preferences`.
-- **Anuncios:** integración de Google Mobile Ads. La configuración de la aplicación Android se aplica en el flujo de compilación.
+- **Anuncios:** Google Mobile Ads está integrado, pero el banner del código usa el identificador de prueba oficial de Google. Antes de monetizar se debe sustituir por una unidad publicitaria real y verificar la configuración de AdMob.
+- **Uso sin conexión:** los estudios, documentos de Defensa y diccionario están incluidos como recursos locales; los anuncios requieren conexión. No hay un buscador bíblico independiente ni una Biblia completa integrada.
 
 No se incluye una sección de enseñanzas en audio ni una traducción bíblica completa integrada.
 
