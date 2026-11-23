@@ -780,10 +780,11 @@ class _DefensaDoctrinalPageState extends State<DefensaDoctrinalPage> {
           padding: EdgeInsets.all(24), child: Text('No se pudieron cargar los estudios. Comprueba los recursos de la aplicación.')));
         if (!snapshot.hasData) return const Center(child: CircularProgressIndicator());
         final all = snapshot.data!;
-        final q = _search.text.trim().toLowerCase();
+        final q = _dictionarySortKey(_search.text.trim());
         final results = all.where((doc) => q.isEmpty ||
-          doc.id.toLowerCase().contains(q) || doc.title.toLowerCase().contains(q) ||
-          doc.content.toLowerCase().contains(q)).toList();
+          _dictionarySortKey(doc.id).contains(q) ||
+          _dictionarySortKey(doc.title).contains(q) ||
+          _dictionarySortKey(doc.content).contains(q)).toList();
         return Column(children: [
           Container(
             margin: const EdgeInsets.fromLTRB(16,16,16,12),
