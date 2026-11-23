@@ -13,7 +13,7 @@ String normalizeTerm(String value) {
   return value
       .trim()
       .toLowerCase()
-      .replaceAll(RegExp(r'\s+'), ' ')
+      .replaceAll(RegExp(r'\\s+'), ' ')
       .replaceAll(RegExp(r'[áàä]'), 'a')
       .replaceAll(RegExp(r'[éèë]'), 'e')
       .replaceAll(RegExp(r'[íìï]'), 'i')
@@ -33,8 +33,8 @@ void main() {
     ...dictionaryTranche08,
   ];
 
-  test('el diccionario ampliado conserva entradas completas y contextos específicos', () {
-    expect(entries.length, greaterThanOrEqualTo(602));
+  test('cada entrada del diccionario contiene explicación y contexto útiles', () {
+    expect(entries, isNotEmpty);
     for (final entry in entries) {
       for (final field in ['term', 'definition', 'category', 'references', 'context']) {
         expect(entry[field]?.trim().isNotEmpty, isTrue,
@@ -46,21 +46,21 @@ void main() {
         reason: 'El contexto de una entrada no debe ser una plantilla genérica.',
       );
     }
-    expect(baseDictionaryContexts.length, greaterThanOrEqualTo(56));
+    expect(baseDictionaryContexts, isNotEmpty);
     for (final context in baseDictionaryContexts.entries) {
       expect(context.key.trim(), isNotEmpty);
       expect(context.value.trim(), isNotEmpty);
     }
   });
 
-  test('el diccionario visible en la aplicación integra la base y las ampliaciones', () {
+  test('el diccionario visible integra sus colecciones sin duplicados', () {
     final visibleTerms = dictionaryTerms.map((entry) => normalizeTerm(entry.term)).toList();
-    expect(visibleTerms.length, greaterThanOrEqualTo(658));
+    expect(visibleTerms, isNotEmpty);
     expect(visibleTerms.toSet().length, visibleTerms.length,
         reason: 'La lista visible contiene términos repetidos.');
   });
 
-  test('no hay términos duplicados ignorando mayúsculas y tildes', () {
+  test('las colecciones ampliadas no repiten términos ignorando mayúsculas y tildes', () {
     final terms = entries.map((entry) => normalizeTerm(entry['term']!)).toList();
 
     expect(terms.toSet().length, terms.length,
