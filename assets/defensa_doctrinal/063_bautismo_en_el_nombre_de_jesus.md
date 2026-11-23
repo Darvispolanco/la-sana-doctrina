@@ -76,6 +76,38 @@ Los pastores y maestros deben explicar por qué la iglesia practica el bautismo 
 4. ¿Cómo se relacionan el nombre de Jesús y la fórmula de Mateo 28:19?
 5. ¿Qué responsabilidades pastorales acompañan la enseñanza del bautismo?
 
+
+## 14. La autoridad de Jesús como fundamento de la Gran Comisión
+
+Mateo 28:18-20 comienza con la declaración de que toda autoridad ha sido dada a Jesús. El mandato de hacer discípulos y bautizar procede del Cristo resucitado, no de una costumbre posterior de la iglesia. La fórmula que menciona al Padre, al Hijo y al Espíritu Santo se encuentra dentro de una comisión que abarca a todas las naciones y que continúa con la enseñanza de los mandamientos de Jesús. Por eso, el bautismo debe comprenderse como parte del discipulado y de la incorporación a la comunidad que reconoce la autoridad del Señor.
+
+La expresión «en el nombre» no debe tratarse como una fórmula mágica cuyo valor dependa de pronunciar una secuencia de sonidos sin comprender el evangelio. En la Biblia, el nombre puede representar autoridad, identidad y pertenencia. Bautizar en el nombre del Padre, del Hijo y del Espíritu sitúa al discípulo dentro de la confesión y la obra del único Dios. Bautizar en el nombre de Jesús, como se expresa en Hechos, subraya que el creyente se identifica con el Señor crucificado y resucitado. La interpretación debe permitir que ambos énfasis se complementen en lugar de convertirlos en afirmaciones rivales.
+
+## 15. El propósito narrativo de Hechos 2, 8, 10 y 19
+
+Hechos 2 presenta a Pedro predicando a una multitud en Jerusalén después de Pentecostés. Su llamado al arrepentimiento y al bautismo responde a la proclamación de que Jesús, rechazado y crucificado, ha sido exaltado como Señor y Cristo. Hechos 8 narra la recepción del evangelio en Samaria y la confirmación apostólica de esa incorporación. Hechos 10 muestra que los gentiles reciben el Espíritu mientras Pedro anuncia a Cristo, y Hechos 19 diferencia a quienes solo conocían el bautismo de Juan de quienes reciben el bautismo cristiano. Cada episodio contribuye a mostrar la expansión del evangelio y la inclusión de nuevos grupos.
+
+En ninguno de estos relatos el autor introduce una discusión explícita para cancelar Mateo 28:19. El lenguaje breve sobre bautizar en el nombre de Jesús destaca la autoridad del Mesías y la identidad de los creyentes con él. Para sostener que esos relatos eliminan la fórmula trinitaria, sería necesario demostrar que esa era la intención del autor, algo que los contextos no establecen. El intérprete debe distinguir entre una descripción narrativa y una instrucción normativa, sin separar artificialmente el libro de Hechos del mandato de Jesús.
+
+## 16. El bautismo y la confesión de un solo Dios
+
+La fórmula de Mateo 28:19 menciona al Padre, al Hijo y al Espíritu Santo bajo el singular «nombre». El pasaje no enseña tres dioses ni presenta tres autoridades rivales. Debe leerse junto con Deuteronomio 6:4 y 1 Corintios 8:4-6, que mantienen la confesión de un solo Dios. También debe relacionarse con Mateo 3:16-17, donde el Padre, el Hijo y el Espíritu aparecen diferenciados en una misma escena. El conjunto ofrece una base importante para comprender la unidad divina y la distinción personal.
+
+La doctrina trinitaria no depende de afirmar que cada texto contiene todos los detalles de la formulación teológica posterior. Su argumento consiste en reunir el testimonio bíblico: un solo Dios, el Hijo que comparte la identidad divina y se relaciona con el Padre, y el Espíritu que actúa personalmente y es presentado en relación con ambos. El bautismo incorpora al discípulo a la comunidad que confiesa al Dios revelado en la Escritura. Por ello, la enseñanza bautismal no debe utilizarse para separar la obra de Cristo de la del Padre y del Espíritu.
+
+## 17. Preguntas pastorales antes del bautismo
+
+Antes de bautizar a una persona, la iglesia debe asegurarse de que comprende el mensaje del evangelio, la necesidad del arrepentimiento, la fe en Jesucristo y el sentido de obediencia que acompaña al bautismo. Mateo 28:20 vincula el bautismo con la enseñanza continua de los mandamientos de Jesús. Romanos 6:1-4 presenta el bautismo en relación con la unión con Cristo en su muerte y resurrección. Gálatas 3:26-29 habla de quienes han sido bautizados en Cristo y pertenecen a él por la fe. Estos textos muestran que el bautismo no es una práctica aislada ni una garantía automática desligada de la respuesta al evangelio.
+
+El acompañamiento pastoral debe realizarse con paciencia. Las preguntas de una persona no deben ser tratadas como rebeldía, y una diferencia de vocabulario no debe resolverse mediante presión. Los responsables de enseñar deben explicar la práctica de su congregación a partir de la Escritura y permitir que el creyente comprenda lo que está confesando. La convicción doctrinal se fortalece cuando se enseña con transparencia y respeto, sin humillar a quienes vienen de otras tradiciones.
+
+## 18. Cómo explicar la relación entre los textos sin contradicciones artificiales
+
+Una exposición ordenada puede comenzar leyendo Mateo 28:16-20 y observando el mandato completo. Después se estudian los relatos de Hechos, identificando el contexto de cada bautismo y el énfasis en la autoridad de Jesús. A continuación se revisan Mateo 3:16-17 y Juan 14:16-17 para considerar la distinción del Padre, del Hijo y del Espíritu. Finalmente se relacionan estos pasajes con Romanos 6:1-4 y Gálatas 3:26-29 para explicar el significado espiritual del bautismo. Este orden evita que una frase breve sea separada de la enseñanza más amplia.
+
+La conclusión debe ser expresada con precisión: Hechos destaca la identificación con Jesucristo y su autoridad; Mateo conserva el mandato explícito de bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. La iglesia debe interpretar ambos testimonios como parte de una misma Escritura. No es necesario acusar a cada persona que practica una fórmula diferente de mala fe; es suficiente explicar por qué la enseñanza debe considerar todos los pasajes y por qué la instrucción de Jesús merece ser preservada.
+
+
 ## 9. Referencias bíblicas
 
 Mateo 3:13-17; Mateo 28:16-20; Hechos 2:37-41; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Romanos 6:1-4; 1 Corintios 8:4-6; Gálatas 3:26-29.
