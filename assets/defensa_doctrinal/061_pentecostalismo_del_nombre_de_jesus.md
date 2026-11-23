@@ -78,6 +78,32 @@ Juan 14:16-17 añade que el Hijo pedirá al Padre otro Consolador. La relación 
 4. ¿Cómo se relacionan Mateo 3:16-17 y Mateo 28:19?
 5. ¿Qué distinciones personales aparecen en Juan 14:16-17?
 
+
+## 13. La diferencia entre una fórmula narrativa y un mandato doctrinal
+
+Una narración puede resumir una acción sin reproducir cada palabra pronunciada durante ella. En Hechos, expresiones como bautizar «en el nombre de Jesucristo» comunican la autoridad bajo la cual se realiza el bautismo y la identidad del nuevo creyente con el Señor. Para determinar el mandato que la iglesia recibió de Jesús, también debe leerse Mateo 28:18-20, donde el Resucitado ordena hacer discípulos y bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. No existe una razón textual suficiente para suponer que Lucas quiso corregir o cancelar la instrucción de Mateo. La interpretación debe permitir que ambos testimonios conserven su sentido.
+
+El mismo principio se aplica a otros relatos bíblicos. Los autores seleccionan detalles de acuerdo con el propósito de cada episodio. Una descripción breve no es necesariamente una transcripción litúrgica completa. Hechos 2 enfatiza el arrepentimiento de quienes habían rechazado al Mesías; Hechos 8 destaca la expansión del evangelio a Samaria; Hechos 10 presenta la recepción de los gentiles; y Hechos 19 explica la diferencia entre el bautismo de Juan y el bautismo cristiano. La unidad de estos relatos se encuentra en la incorporación a Cristo y en la autoridad del Señor resucitado. Por eso, la doctrina bautismal debe construirse mediante la comparación de los pasajes y no mediante la oposición artificial entre ellos.
+
+## 14. El contexto de Mateo 28:18-20
+
+La Gran Comisión comienza con la declaración de que toda autoridad ha sido dada a Jesús en el cielo y en la tierra. Esa autoridad fundamenta el mandato de hacer discípulos, bautizar y enseñar. El bautismo no aparece como un acto independiente ni como una contraseña religiosa; forma parte del discipulado y de la incorporación a la comunidad que aprende a obedecer a Cristo. La mención del Padre, del Hijo y del Espíritu Santo sitúa la vida del discípulo dentro de la obra y la autoridad del único Dios. El singular «nombre» no debe transformarse en una afirmación de que las tres referencias son una sola persona, ni el plural de las tres referencias debe convertirse en tres dioses.
+
+El contexto también impide separar el bautismo de la enseñanza. Jesús manda enseñar a guardar todo lo que él ha ordenado y promete estar con sus discípulos todos los días. La práctica bautismal debe reflejar esa misión completa: fe en Cristo, aprendizaje de su palabra, comunión y obediencia. Cuando una discusión se limita a la pronunciación de una fórmula, puede perder de vista el propósito pastoral del mandato. La iglesia debe explicar el significado del bautismo, la autoridad de Jesús y la relación entre el Padre, el Hijo y el Espíritu de acuerdo con el conjunto de la Escritura.
+
+## 15. La distinción entre el Padre y el Hijo en el bautismo de Jesús
+
+Mateo 3:16-17 ofrece un relato especialmente claro para estudiar la distinción personal. Jesús está siendo bautizado, el Espíritu desciende sobre él y la voz del Padre declara su agrado por el Hijo. El pasaje no describe una ceremonia cristiana, pero sí revela cómo el evangelista presenta a los tres en una misma escena. Juan 14:16-17 añade que Jesús pedirá al Padre otro Consolador. Juan 15:26 describe al Espíritu que procede en la misión divina y da testimonio del Hijo. Estos textos no deben reducirse a nombres intercambiables sin atender a quién habla, quién pide y quién es enviado.
+
+La doctrina trinitaria no enseña que el Padre, el Hijo y el Espíritu sean tres dioses separados. Afirma que el único Dios existe eternamente como tres personas distintas. La distinción se observa en las relaciones y acciones que los textos atribuyen a cada uno; la unidad se mantiene por la confesión monoteísta y por la identidad divina compartida. La explicación debe evitar tanto la confusión personal como la división de Dios. Este equilibrio es esencial al enseñar sobre el bautismo, porque la fórmula de Mateo no puede interpretarse correctamente si se ignoran las relaciones que los Evangelios presentan.
+
+## 16. Criterios para evaluar una práctica bautismal
+
+Al evaluar una práctica, se deben plantear preguntas verificables: ¿qué texto se utiliza como fundamento?, ¿se distingue entre el mandato de Jesús y la narración de Hechos?, ¿se explica el arrepentimiento y la fe?, ¿se presenta el bautismo como obediencia al evangelio y no como un mecanismo mágico?, ¿se conserva la enseñanza bíblica sobre el Padre, el Hijo y el Espíritu? Estas preguntas permiten estudiar la práctica sin emitir juicios precipitados sobre la sinceridad de cada creyente. La evaluación doctrinal se dirige a las afirmaciones y a sus fundamentos, no a la dignidad personal de quienes participan en una comunidad.
+
+También conviene reconocer que las tradiciones cristianas pueden utilizar vocabularios distintos para describir la ceremonia. Una diferencia terminológica debe examinarse con cuidado antes de concluir que existe una diferencia sustancial. Si una comunidad afirma que bautiza bajo la autoridad de Jesús, esa afirmación debe entenderse en sus propios términos y compararse con Mateo 28:19 y los relatos de Hechos. La defensa bíblica no necesita exagerar el desacuerdo; necesita explicar por qué considera que la instrucción explícita de Jesús debe conservarse en la enseñanza y en la práctica de la iglesia.
+
+
 ## 9. Referencias bíblicas
 
 Deuteronomio 6:4-5; Isaías 45:5-6; Mateo 3:16-17; Mateo 28:18-20; Marcos 12:28-30; Juan 1:1-18; Juan 14:16-17; Juan 17:1-5; Juan 20:28; Hechos 2:38; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Colosenses 2:9; Hechos 17:11; 2 Timoteo 2:15.
