@@ -80,6 +80,36 @@ Una defensa honesta reconoce los puntos de coincidencia y formula las diferencia
 4. ¿Por qué el sábado o el santuario deben estudiarse como temas separados?
 5. ¿Cómo se puede dialogar con precisión cuando existe coincidencia sobre la Trinidad y diferencia en otros asuntos?
 
+
+## 13. La importancia de utilizar fuentes oficiales actuales
+
+Cuando se describe la doctrina de una denominación, es necesario identificar qué documento representa su enseñanza oficial vigente. En el caso adventista, la declaración de creencias fundamentales constituye una fuente institucional más apropiada para describir la postura actual que una cita aislada de un pionero o una publicación antigua. Los escritos históricos son importantes para reconstruir el desarrollo doctrinal, pero deben fecharse, contextualizarse y distinguirse de la posición institucional contemporánea. La historia de una doctrina no es idéntica a su formulación actual, y una comunidad puede experimentar cambios en su lenguaje y comprensión a lo largo del tiempo.
+
+La investigación también debe diferenciar entre una declaración doctrinal, la interpretación de un autor y la opinión de un miembro individual. Ninguna denominación está formada por personas que expresan cada tema con idéntico vocabulario. Por eso, al estudiar la Trinidad en el adventismo actual, se debe comenzar por la declaración oficial sobre Dios y después comparar su contenido con la Escritura. Si se desea evaluar otras enseñanzas, se debe abrir un análisis distinto y utilizar los documentos que correspondan. Esta separación evita que una diferencia sobre el sábado o la escatología sea presentada incorrectamente como evidencia de rechazo de la Trinidad.
+
+## 14. Comparación bíblica de la confesión trinitaria
+
+La declaración adventista actual utiliza lenguaje de un solo Dios y tres personas coeternas. Para examinar bíblicamente esa confesión, es útil comenzar por el monoteísmo de Deuteronomio 6:4 y 1 Corintios 8:4-6. Después se consideran los textos que distinguen al Padre, al Hijo y al Espíritu, como Mateo 3:16-17, donde los tres aparecen en una misma escena. Mateo 28:19 reúne al Padre, al Hijo y al Espíritu Santo en la fórmula bautismal, mientras 2 Corintios 13:14 presenta una bendición apostólica que menciona la gracia de Jesucristo, el amor de Dios y la comunión del Espíritu. Estos pasajes deben leerse en sus contextos literarios y dentro del testimonio completo del Nuevo Testamento.
+
+La deidad del Hijo se examina mediante Juan 1:1-3, Juan 20:28, Colosenses 1:15-20 y Hebreos 1:1-12. La identidad del Espíritu se estudia con Juan 14:16-26, Hechos 5:3-4, Hechos 13:1-4 y 1 Corintios 12:4-11. No todos estos textos cumplen la misma función: algunos muestran distinción personal, otros presentan atributos y obras divinas, y otros describen la misión del Espíritu. Una exposición ordenada evita exigir que cada pasaje contenga por sí solo toda la doctrina. La conclusión surge al considerar cómo los distintos autores bíblicos mantienen el monoteísmo y, a la vez, hablan del Padre, del Hijo y del Espíritu.
+
+## 15. Diferenciar coincidencias doctrinales y desacuerdos denominacionales
+
+Reconocer que el adventismo actual confiesa oficialmente la Trinidad no significa afirmar que todas sus doctrinas coincidan con las de otras iglesias trinitarias. Una denominación puede compartir una confesión sobre la naturaleza de Dios y diferir en temas de interpretación profética, culto, calendario religioso o escatología. Cada diferencia debe describirse con precisión y evaluarse mediante los textos pertinentes. Si se mezclan todos los temas en una sola acusación, se pierde la posibilidad de analizar los argumentos y se corre el riesgo de atribuir una posición falsa.
+
+También es importante reconocer las coincidencias reales. Cuando una persona adventista afirma que el Padre, el Hijo y el Espíritu son eternos y divinos, no es correcto responder como si negara necesariamente la Trinidad. El diálogo puede continuar sobre cómo interpreta pasajes específicos, qué significado concede a determinadas expresiones y cómo relaciona su confesión con otros puntos de su teología. La honestidad doctrinal requiere representar al interlocutor de manera que él mismo pueda reconocer su posición en la descripción. Esta regla no debilita la defensa bíblica; la hace más confiable.
+
+## 16. Preguntas para una evaluación responsable
+
+1. ¿Qué documento oficial expresa la creencia adventista actual sobre Dios?
+2. ¿Qué diferencias existen entre algunos escritos de pioneros y la declaración vigente?
+3. ¿Qué textos bíblicos se utilizan para afirmar la unidad de Dios?
+4. ¿Qué pasajes muestran la distinción del Padre, del Hijo y del Espíritu?
+5. ¿Qué otras doctrinas deben estudiarse separadamente de la cuestión trinitaria?
+
+La finalidad de estas preguntas es delimitar el tema antes de formular una conclusión. Una evaluación responsable evita etiquetas generales, reconoce la evidencia histórica y bíblica y permite que cada afirmación sea examinada en su contexto.
+
+
 ## 8. Referencias bíblicas
 
 Deuteronomio 6:4; Mateo 3:16-17; Mateo 28:18-20; Juan 1:1-18; Hechos 5:3-4; 1 Corintios 8:4-6; 2 Corintios 13:14; Efesios 4:4-6; 1 Pedro 1:1-2.
