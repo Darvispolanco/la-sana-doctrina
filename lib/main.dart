@@ -603,15 +603,17 @@ class _DiccionarioTabState extends State<DiccionarioTab> {
 
   @override
   Widget build(BuildContext context) {
-    final normalized = query.trim().toLowerCase();
+    final normalized = _dictionarySortKey(query.trim());
     final filtered = dictionaryTerms.where((term) {
       final matchesCategory = category == 'Todas' || term.category == category;
-      final matchesQuery = normalized.isEmpty ||
-          term.term.toLowerCase().contains(normalized) ||
-          term.definition.toLowerCase().contains(normalized) ||
-          term.references.toLowerCase().contains(normalized) ||
-          term.context.toLowerCase().contains(normalized) ||
-          (baseDictionaryContexts[term.term]?.toLowerCase().contains(normalized) ?? false);
+      final searchableText = _dictionarySortKey([
+        term.term,
+        term.definition,
+        term.references,
+        term.context,
+        baseDictionaryContexts[term.term] ?? '',
+      ].join(' '));
+      final matchesQuery = normalized.isEmpty || searchableText.contains(normalized);
       return matchesCategory && matchesQuery;
     }).toList()
       ..sort((a, b) => _dictionarySortKey(a.term).compareTo(_dictionarySortKey(b.term)));
