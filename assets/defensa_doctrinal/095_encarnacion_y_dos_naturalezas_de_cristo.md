@@ -62,6 +62,22 @@ El Hijo no solamente ofrece un ejemplo moral. Su vida humana de obediencia y su 
 
 Si se niega la verdadera humanidad de Cristo, se debilita la comprensión de su solidaridad y representación. Si se niega su deidad, se altera la identidad del Salvador que el Nuevo Testamento proclama.
 
+## 9. Cristo como mediador entre Dios y la humanidad
+
+Primera de Timoteo 2:5-6 presenta a un solo mediador entre Dios y los seres humanos: Jesucristo hombre, quien se dio a sí mismo en rescate por todos. Hebreos 4:14-16 y 7:24-27 relacionan su humanidad con su compasión sacerdotal y su capacidad de interceder por quienes se acercan a Dios por medio de Él.
+
+Su mediación no significa que sea un tercero ajeno a Dios ni que su humanidad sea aparente. El Hijo eterno asumió nuestra naturaleza y, como hombre verdadero, representó a la humanidad. Al mismo tiempo, su identidad divina distingue su mediación de la de cualquier otro ser humano.
+
+La encarnación permite comprender por qué Jesús puede revelar al Padre, compartir nuestra condición y realizar una obra sacerdotal suficiente. La Iglesia no debe separar estos aspectos: el mediador es el mismo Hijo eterno que se hizo hombre.
+
+## 10. La unidad de la persona de Cristo en la adoración y la fe
+
+Los Evangelios muestran que Jesús recibe honra y adoración, y el Nuevo Testamento llama a confesarlo como Señor (Mt 14:33; Jn 20:28; Fil 2:9-11). Esa adoración no se dirige a un hombre separado del Verbo, sino a Jesucristo, el Hijo encarnado.
+
+Al mismo tiempo, los textos mantienen su relación con el Padre: el Hijo ora, obedece y cumple la misión recibida. La distinción personal no divide a Cristo ni convierte su humanidad en una segunda persona.
+
+Esta unidad tiene consecuencias para la fe: el creyente confía en el Jesús histórico, crucificado y resucitado, y reconoce en Él al Hijo eterno. No se puede conservar el evangelio si se sustituye al Cristo bíblico por una figura que solo parece humana o por un ser que no comparte la naturaleza divina.
+
 ## 9. Preguntas y respuestas
 
 **¿Jesús dejó de ser Dios al encarnarse?** No. Juan 1:14 afirma que el Verbo se hizo carne, mientras Juan 1:1 y Colosenses 2:9 afirman su deidad.
@@ -80,4 +96,4 @@ Jesucristo es el Hijo eterno que asumió verdadera humanidad. Es plenamente divi
 
 ## 11. Referencias bíblicas
 
-Mateo 1:18-25; Mateo 4:1-11; Lucas 2:40-52; Juan 1:1-18; Juan 4:1-7; Juan 19:28; Romanos 5:18-19; Colosenses 2:9; Filipenses 2:5-11; Hebreos 1:1-3; Hebreos 2:14-18; Hebreos 4:14-16; Gálatas 4:4-5; 1 Corintios 15:3-8.
+Mateo 1:18-25; Mateo 4:1-11; Lucas 2:40-52; Juan 1:1-18; Juan 4:1-7; Juan 19:28; Romanos 5:18-19; Colosenses 2:9; Filipenses 2:5-11; Hebreos 1:1-3; Hebreos 2:14-18; Hebreos 4:14-16; Gálatas 4:4-5; 1 Corintios 15:3-8.; Mateo 14:33; Juan 20:28; Filipenses 2:9-11; 1 Timoteo 2:5-6; Hebreos 7:24-27
