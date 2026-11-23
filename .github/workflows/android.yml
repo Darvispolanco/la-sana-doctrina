@@ -26,11 +26,11 @@ jobs:
       - name: Download repository
         uses: actions/checkout@v5
 
-      - name: Install Java 17
+      - name: Install Java 21 (required by current Android Lint runtime)
         uses: actions/setup-java@v5
         with:
           distribution: temurin
-          java-version: '17'
+          java-version: '21'
 
       - name: Install Flutter
         uses: subosito/flutter-action@v2
