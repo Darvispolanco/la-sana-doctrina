@@ -13,7 +13,7 @@ String normalizeTerm(String value) {
   return value
       .trim()
       .toLowerCase()
-      .replaceAll(RegExp(r'\\s+'), ' ')
+      .replaceAll(RegExp(r'\s+'), ' ')
       .replaceAll(RegExp(r'[áàä]'), 'a')
       .replaceAll(RegExp(r'[éèë]'), 'e')
       .replaceAll(RegExp(r'[íìï]'), 'i')
