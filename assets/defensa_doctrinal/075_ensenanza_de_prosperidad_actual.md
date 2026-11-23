@@ -48,6 +48,34 @@ Debe examinarse si se promete un resultado material garantizado, si se culpabili
 
 Dios provee y cuida a su pueblo, pero la fe no garantiza riqueza ni ausencia de sufrimiento. El evangelio se centra en Jesucristo. La Iglesia está llamada al contentamiento, la generosidad transparente y el cuidado de quienes atraviesan necesidad.
 
+## 8. Examen de los textos de provisión
+
+**Mateo 6:25-34.** Jesús llama a no vivir dominados por la ansiedad y dirige la atención al cuidado del Padre. El contexto enseña a buscar primero el reino y su justicia. No promete que cada discípulo recibirá riqueza, sino que llama a confiar en Dios y a no convertir las necesidades materiales en el centro de la vida.
+
+**Filipenses 4:10-13.** Pablo agradece la ayuda recibida y explica que aprendió a vivir en abundancia y en escasez. «Todo lo puedo en Cristo» aparece dentro de ese aprendizaje de contentamiento; no es una garantía de obtener cualquier resultado deseado.
+
+**1 Timoteo 6:6-10, 17-19.** El apóstol advierte sobre el amor al dinero y ordena a quienes tienen recursos que no pongan su esperanza en la riqueza incierta. Deben ser generosos y ricos en buenas obras. El texto no condena toda posesión, sino la confianza y codicia que desplazan a Dios.
+
+## 9. Ofrendas, transparencia y cuidado de los vulnerables
+
+2 Corintios 8–9 describe una colecta para atender necesidades reales. Pablo cuida que la administración sea honorable delante de Dios y de las personas (2 Co 8:20-21). La ofrenda cristiana debe ser voluntaria, informada y transparente. No debe condicionarse a promesas de retorno financiero ni a amenazas de castigo espiritual.
+
+Una comunidad debe explicar el destino de los recursos, establecer controles responsables y proteger a quienes atraviesan necesidad. La generosidad no puede convertirse en una carga que prive a una familia de lo necesario ni en un mecanismo para enriquecer a un líder.
+
+## 10. Sufrimiento y fidelidad
+
+Hebreos 11 reúne testimonios de fe que incluyen victorias y sufrimientos. Pablo describe debilidad y aflicción en 2 Corintios 12:7-10. Estos pasajes muestran que la fidelidad no se mide por la ausencia de problemas ni por el nivel de ingresos.
+
+La iglesia debe acompañar a quienes sufren, orar por provisión y sanidad y ofrecer ayuda concreta. No debe culpar automáticamente al enfermo o al pobre por su situación. La compasión forma parte del testimonio del evangelio.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué enseña Mateo 6 sobre la confianza en el Padre?
+2. ¿Cuál es el contexto de Filipenses 4:13?
+3. ¿Qué advierte 1 Timoteo 6 sobre la riqueza?
+4. ¿Qué medidas de transparencia aparecen en 2 Corintios 8?
+5. ¿Por qué el sufrimiento de creyentes fieles impide medir la fe solo por resultados materiales?
+
 ## 9. Referencias bíblicas
 
 Mateo 6:19-34; Marcos 8:34-38; 1 Corintios 15:1-4; 2 Corintios 8–9; 2 Corintios 11:23-30; 2 Corintios 12:7-10; Filipenses 4:10-13; 1 Timoteo 6:6-10.
