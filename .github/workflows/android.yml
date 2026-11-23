@@ -70,7 +70,7 @@ jobs:
           if marker not in s:
               meta = '''        <meta-data
                   android:name="com.google.android.gms.ads.APPLICATION_ID"
-                  android:value="ca-app-pub-3642704038738168~5569657844"/>
+                  android:value="ca-app-pub-3642704038738168~6121712215"/>
           '''
               s = s.replace(
                   '</application>',
@@ -134,8 +134,8 @@ jobs:
 
           dart = Path('lib/main.dart').read_text()
           workflow = Path('.github/workflows/android.yml').read_text()
-          production_unit = 'ca-app-pub-3642704038738168/1492221540'
-          production_app = 'ca-app-pub-3642704038738168~5569657844'
+          production_unit = 'ca-app-pub-3642704038738168/1480914570'
+          production_app = 'ca-app-pub-3642704038738168~6121712215'
           debug_test_unit = 'ca-app-pub-3940256099942544/6300978111'
 
           if production_unit not in dart or 'kReleaseMode' not in dart:
