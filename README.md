@@ -9,7 +9,7 @@ Aplicación Flutter para formación bíblica y defensa de la doctrina cristiana,
 - **Diccionario teológico:** catálogo ampliado de 658 términos con definiciones, contexto y referencias bíblicas.
 - **Evaluaciones:** 50 evaluaciones de 20 preguntas cada una. La curación editorial de las preguntas sigue en proceso; el número total no significa que todos los reactivos hayan sido revisados individualmente.
 - **Guardados:** conserva localmente los identificadores de estudios y documentos de Defensa mediante `shared_preferences`.
-- **Anuncios:** Google Mobile Ads está integrado, pero el banner del código usa el identificador de prueba oficial de Google. Antes de monetizar se debe sustituir por una unidad publicitaria real y verificar la configuración de AdMob.
+- **Anuncios:** Google Mobile Ads está integrado. El identificador de aplicación y la unidad de banner se configuran en el flujo de GitHub Actions; Debug usa el ID oficial de prueba y Release usa la unidad configurada para producción. La publicación requiere revisión de consentimiento, privacidad y aprobación de AdMob.
 - **Uso sin conexión:** los estudios, documentos de Defensa y diccionario están incluidos como recursos locales; los anuncios requieren conexión. No hay un buscador bíblico independiente ni una Biblia completa integrada.
 
 No se incluye una sección de enseñanzas en audio ni una traducción bíblica completa integrada.
@@ -29,7 +29,7 @@ El APK de depuración es exclusivamente para pruebas y no debe usarse como actua
 
 Antes de publicar se debe completar la revisión editorial y doctrinal, probar la aplicación en dispositivos Android reales, definir la firma de lanzamiento, generar un Android App Bundle firmado, revisar la política de privacidad y completar la ficha de Play Console y la declaración de anuncios.
 
-El identificador Android configurado por el flujo es `com.lasanadoctrina.app`.
+El identificador Android configurado por el flujo es `com.lasanadoctrina.la_sana_doctrina`.
 
 ## Estado
 
