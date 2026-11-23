@@ -107,4 +107,46 @@ void main() {
     );
   });
 
+
+  testWidgets('la revisión de respuestas permite desplazamiento vertical', (tester) async {
+    final pack = quizPacks.first;
+    await tester.pumpWidget(
+      MaterialApp(
+        home: Scaffold(
+          body: const CuestionariosTab(),
+        ),
+      ),
+    );
+
+    await tester.tap(find.text(pack.title).first);
+    await tester.pumpAndSettle();
+
+    for (var i = 0; i < pack.questions.length; i++) {
+      final question = pack.questions[i];
+      final correctOption = find.text(question.options[question.correctIndex]).first;
+      await tester.ensureVisible(correctOption);
+      await tester.tap(correctOption);
+      await tester.pumpAndSettle();
+
+      final nextLabel = i + 1 == pack.questions.length
+          ? 'Ver resultado'
+          : 'Siguiente pregunta';
+      final nextButton = find.text(nextLabel).last;
+      await tester.ensureVisible(nextButton);
+      await tester.tap(nextButton);
+      await tester.pumpAndSettle();
+    }
+
+    final reviewButton = find.text('Ver respuestas');
+    expect(reviewButton, findsOneWidget);
+    await tester.tap(reviewButton);
+    await tester.pumpAndSettle();
+
+    expect(find.textContaining('Pregunta 1:'), findsOneWidget);
+    final resultsList = find.byType(ListView).first;
+    await tester.drag(resultsList, const Offset(0, -1600));
+    await tester.pumpAndSettle();
+    expect(find.textContaining('Pregunta 20:'), findsOneWidget);
+  });
+
 }
