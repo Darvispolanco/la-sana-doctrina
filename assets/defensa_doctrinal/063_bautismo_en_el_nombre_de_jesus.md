@@ -48,6 +48,34 @@ El bautismo debe explicarse como respuesta de fe y obediencia al evangelio, no c
 
 Hechos presenta el bautismo como identificación con Jesucristo y reconocimiento de su autoridad. Mateo 28:19 conserva el mandato de bautizar en el nombre del Padre, del Hijo y del Espíritu Santo. Ambos testimonios deben interpretarse de manera coherente.
 
+## 10. Estudio comparado de Mateo 28 y Hechos
+
+Mateo 28:18-20 está situado después de la resurrección. Jesús declara que toda autoridad le ha sido dada en el cielo y en la tierra y envía a sus discípulos a todas las naciones. El bautismo y la enseñanza forman parte de la misión que se realiza bajo su autoridad.
+
+Hechos 2:38 responde a la pregunta de los oyentes que han sido confrontados por el anuncio de Pedro. Hechos 8 describe la recepción del evangelio en Samaria; Hechos 10 muestra la inclusión de gentiles; y Hechos 19 distingue el bautismo de Juan del bautismo cristiano. La frase «en el nombre de Jesús» subraya que la nueva comunidad pertenece al Señor resucitado.
+
+Los relatos de Hechos no presentan una discusión sobre si Mateo 28:19 debe ser eliminado. La tarea del intérprete es reconocer el género narrativo, el propósito de cada episodio y la relación entre los textos. No es correcto convertir una expresión breve de Hechos en una negación de la enseñanza explícita de Mateo.
+
+## 11. El significado del nombre en la Biblia
+
+En el mundo bíblico, el nombre puede representar identidad, autoridad y pertenencia. Invocar el nombre del Señor significa reconocer su autoridad y depender de Él. Por eso, la expresión «en el nombre de Jesús» tiene un contenido cristológico importante: el bautismo identifica al creyente con Jesús y con su obra.
+
+Sin embargo, la importancia del nombre de Jesús no exige negar al Padre ni al Espíritu. Mateo 28:19 incluye a los tres; Hechos 2:38 destaca a Jesucristo. Ambos textos deben conservarse.
+
+## 12. Aplicación pastoral
+
+La enseñanza sobre el bautismo debe llevar a comprender el evangelio, el arrepentimiento, la fe y la incorporación a la comunidad cristiana. No debe utilizarse para humillar a quienes recibieron una enseñanza diferente ni para declarar automáticamente inválida la experiencia de fe de una persona sin examinar su situación.
+
+Los pastores y maestros deben explicar por qué la iglesia practica el bautismo de una manera determinada y fundamentar su enseñanza con el conjunto de las Escrituras. La convicción doctrinal se fortalece cuando puede explicarse con paciencia.
+
+## 13. Preguntas de profundización
+
+1. ¿Qué autoridad declara Jesús antes de dar la Gran Comisión?
+2. ¿Qué énfasis tiene Pedro en Hechos 2:38?
+3. ¿Por qué Hechos 10 es importante para comprender la incorporación de los gentiles?
+4. ¿Cómo se relacionan el nombre de Jesús y la fórmula de Mateo 28:19?
+5. ¿Qué responsabilidades pastorales acompañan la enseñanza del bautismo?
+
 ## 9. Referencias bíblicas
 
 Mateo 3:13-17; Mateo 28:16-20; Hechos 2:37-41; Hechos 8:12-17; Hechos 10:44-48; Hechos 19:1-7; Romanos 6:1-4; 1 Corintios 8:4-6; Gálatas 3:26-29.
