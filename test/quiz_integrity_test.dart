@@ -1,8 +1,46 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:la_sana_doctrina/main.dart';
+import 'package:la_sana_doctrina/quiz_data.dart';
 
 void main() {
+  test('la normalización descarta duplicados con diferencias de formato Unicode', () {
+    expect(
+      normalizeQuizQuestionKey('¿Qué enseña Jesús?'),
+      normalizeQuizQuestionKey('QUE ENSENA JESUS'),
+    );
+    expect(
+      normalizeQuizQuestionKey('¿Qué es la Trinidad?'),
+      normalizeQuizQuestionKey('Que\u0301 es la Trinidad!!!'),
+    );
+
+    const repeated = QuizQuestion(
+      question: '¿Qué enseña Jesús?',
+      options: ['A', 'B', 'C', 'D'],
+      correctIndex: 0,
+      explanation: 'Explicación de prueba.',
+      references: 'Juan 1:1',
+    );
+    const duplicate = QuizQuestion(
+      question: 'QUE ENSENA JESUS!!!',
+      options: ['A', 'B', 'C', 'D'],
+      correctIndex: 0,
+      explanation: 'Explicación de prueba.',
+      references: 'Juan 1:1',
+    );
+    expect(uniqueQuizQuestions([repeated, duplicate]), hasLength(1));
+  });
+
+  test('ningún cuestionario conserva preguntas duplicadas tras la limpieza', () {
+    for (final pack in quizPacks) {
+      final unique = uniqueQuizQuestions(pack.questions);
+      expect(
+        unique,
+        hasLength(pack.questions.length),
+        reason: 'La evaluación ${pack.title} contiene preguntas duplicadas.',
+      );
+    }
+  });
   test('hay al menos 50 evaluaciones con 20 preguntas completas', () {
     expect(quizPacks.length, greaterThanOrEqualTo(50));
 
