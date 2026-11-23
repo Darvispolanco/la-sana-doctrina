@@ -1,21 +1,53 @@
-# Estudio 78. Salvación por mérito humano: la gracia frente al orgullo
+# D-078. Salvación por mérito humano: la gracia como fundamento del evangelio
 
-## La necesidad universal
-Romanos 3:9-26 concluye que todos pecaron y que la justificación es por gracia mediante la redención en Cristo. El argumento de Pablo elimina toda jactancia: nadie puede presentarse ante Dios como si hubiera comprado su aceptación.
+## 1. La pregunta
 
-## Abraham como ejemplo
-Génesis 15:6 afirma que Abraham creyó a Dios y le fue contado por justicia. Romanos 4 desarrolla este texto y distingue la promesa recibida por fe del salario que se debe por trabajo. Santiago 2:21-24 cita a Abraham para mostrar que la fe genuina se evidencia en obediencia. Pablo y Santiago responden a errores distintos y no se contradicen.
+La Biblia llama a la obediencia, las buenas obras y la perseverancia. Sin embargo, enseña que nadie puede comprar la salvación ni presentarse ante Dios como justo por mérito propio. El fundamento de la salvación es la gracia de Dios y la obra redentora de Jesucristo.
 
-## Gracia que transforma
-Tito 3:4-7 enseña que Dios salva por misericordia, no por obras de justicia hechas por nosotros. Tito 2:11-14 explica que la gracia educa para renunciar a la impiedad y vivir sobriamente. La gracia no deja al creyente igual: lo transforma.
+## 2. Todos necesitan la gracia
 
-## Preguntas y respuestas
-1. **¿Las obras compran el perdón?** No.
-2. **¿La fe verdadera produce obediencia?** Sí.
-3. **¿Pablo y Santiago se contradicen?** No; tratan la justificación y la evidencia de la fe desde ángulos distintos.
-4. **¿Puede alguien presumir de su salvación?** No; toda gloria pertenece a Dios.
+Romanos 3:9-23 presenta a judíos y gentiles bajo pecado y concluye que todos pecaron. El argumento elimina toda jactancia humana: nadie puede alcanzar la justicia de Dios mediante sus propios logros.
 
-## Conclusión
-La salvación es regalo de Dios en Cristo. Las obras son fruto de la fe y evidencia de una vida transformada, nunca el precio que obliga a Dios.
-## Pasajes
-Génesis 15:1-6; Romanos 3:9-28; 4:1-8; Efesios 2:1-10; Santiago 2:14-26; Tito 2:11-14; 3:3-7.
+Isaías 64:6 expresa la incapacidad humana de presentar una justicia propia suficiente. El problema del pecado requiere una intervención divina, no una acumulación de méritos.
+
+## 3. Justificación por la fe
+
+Romanos 3:21-28 enseña que la justicia de Dios se manifiesta por medio de la fe en Jesucristo y que la justificación es por gracia mediante la redención que es en Él. Pablo pregunta dónde queda la jactancia y responde que queda excluida.
+
+Romanos 4 utiliza el ejemplo de Abraham para mostrar que fue contado por justo mediante la fe. El argumento no niega que la fe produzca obediencia; niega que las obras sean la base para comprar aceptación ante Dios.
+
+## 4. Efesios 2:8-10 y las buenas obras
+
+Pablo afirma que somos salvos por gracia mediante la fe, no por obras. Luego explica que somos hechura de Dios, creados en Cristo Jesús para buenas obras.
+
+El orden es esencial. Las buenas obras son resultado y propósito de la vida nueva, no el precio de la salvación. Separar los versículos 8-9 del versículo 10 crea una oposición que el texto no presenta.
+
+## 5. La obediencia como fruto
+
+Santiago 2:14-26 confronta una profesión de fe que no produce obras de misericordia. Abraham y Rahab aparecen como ejemplos de una fe que se expresa mediante acciones. Santiago no enseña que la persona pueda comprar el perdón, sino que una fe sin fruto está muerta.
+
+Tito 3:4-8 une la salvación por misericordia con el llamado a ocuparse en buenas obras. La gracia transforma la vida.
+
+## 6. El papel de Cristo
+
+Gálatas 2:15-21 afirma que la justificación no viene por las obras de la ley, sino por la fe en Jesucristo. Pablo declara que no desecha la gracia de Dios; si la justicia viniera por la ley, Cristo habría muerto en vano.
+
+La cruz demuestra que la salvación no puede reducirse al esfuerzo humano. El Hijo se entregó por los pecadores y la fe recibe esa obra.
+
+## 7. Preguntas y respuestas
+
+**¿Las buenas obras son necesarias?** Son fruto de la fe viva y propósito de la nueva vida, pero no compran la salvación (Ef 2:8-10; Stg 2:14-26).
+
+**¿La gracia elimina la obediencia?** No. Tito 2:11-14 enseña que la gracia educa para vivir piadosamente.
+
+**¿Puede alguien gloriarse ante Dios por sus méritos?** Romanos 3:27 excluye la jactancia.
+
+**¿La fe es una obra que merece salario?** Romanos 4:4-5 contrasta el salario debido con la fe que recibe la justicia como gracia.
+
+## 8. Síntesis
+
+La salvación es un regalo de Dios, recibido por la fe en Jesucristo. Las buenas obras son fruto de la gracia y evidencia de una fe viva, no un mérito que compra el perdón.
+
+## 9. Referencias bíblicas
+
+Isaías 64:6; Romanos 3:9-28; Romanos 4:1-8; Gálatas 2:15-21; Efesios 2:1-10; Tito 2:11-14; Tito 3:4-8; Santiago 2:14-26.
