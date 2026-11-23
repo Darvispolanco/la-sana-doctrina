@@ -750,7 +750,7 @@ class DefensaRepository {
       final id = entry['id'] as String;
       final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
       final firstLine = content.split('\n').first.trim();
-      final title = firstLine.replaceFirst(RegExp(r'^#\s*Estudio\s+\d+[.:]?\s*', caseSensitive: false), '').trim();
+      final title = firstLine.replaceFirst(RegExp(r'^#\s*(?:Estudio\s+\d+[.:]?\s*|D-\d{3}[.:]?\s*)', caseSensitive: false), '').trim();
       return DefensaDoc(id: id, title: title.isEmpty ? file : title, file: file, content: content);
     }));
     docs.sort((a,b) => a.id.compareTo(b.id));
