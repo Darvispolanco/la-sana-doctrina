@@ -52,6 +52,38 @@ Se debe preguntar si la enseñanza presenta a Dios como soberano, si interpreta 
 
 La fe bíblica confía en Dios; la oración expresa dependencia; y la confesión proclama la verdad acerca de Cristo. Las palabras humanas tienen responsabilidad moral, pero no poseen el poder creador ni la soberanía de Dios.
 
+## 10. Diferencia entre fe bíblica y pensamiento mágico
+
+La fe bíblica tiene como objeto al Dios vivo y responde a su carácter y promesas. El pensamiento mágico, en cambio, trata una fórmula, palabra o procedimiento como si pudiera controlar automáticamente los resultados. La diferencia no está en utilizar palabras —la oración siempre se expresa mediante palabras—, sino en quién tiene la autoridad y quién depende de quién.
+
+Génesis 1 atribuye la creación a la palabra soberana de Dios. Salmo 33:6-9 celebra esa acción creadora. Ninguno de los textos transfiere al ser humano el poder de producir realidad mediante declaraciones. El creyente puede pedir, confesar, bendecir y anunciar la verdad, pero no ocupa el lugar del Creador.
+
+## 11. Marcos 11:22-25 y la oración
+
+Jesús comienza diciendo: «Tened fe en Dios». La dirección de la fe es explícita: Dios es quien escucha y responde. El pasaje incluye una enseñanza sobre la oración y termina hablando del perdón. No puede separarse de su contexto ni convertirse en una técnica para obtener cualquier deseo.
+
+1 Juan 5:14-15 afirma que la confianza en la oración se relaciona con pedir conforme a la voluntad de Dios. En Getsemaní, Jesús expresa su petición y su sumisión al Padre (Mt 26:36-46). La fe no exige negar la realidad del sufrimiento; confía en Dios en medio de ella.
+
+## 12. Palabras, confesión y responsabilidad
+
+La Biblia enseña que las palabras pueden edificar o destruir. Santiago 3 advierte sobre el daño que puede causar la lengua; Efesios 4:25 llama a hablar verdad; Romanos 10:9-10 presenta la confesión de Jesús como Señor en relación con la fe salvadora.
+
+Estos textos no enseñan que una frase humana cree automáticamente salud, riqueza o circunstancias. Confesar a Cristo significa reconocer su señorío, no activar una fuerza impersonal. La responsabilidad del lenguaje es moral y relacional.
+
+## 13. Sufrimiento y cuidado pastoral
+
+Pablo describe su debilidad y la respuesta del Señor: «Bástate mi gracia» (2 Co 12:7-10). Filipenses 4:11-13 muestra que aprendió a vivir en abundancia y en escasez. Estos pasajes no celebran el sufrimiento por sí mismo, pero impiden afirmar que toda dificultad demuestra una confesión incorrecta o una fe insuficiente.
+
+Los líderes deben evitar culpar a quienes no reciben la respuesta que esperaban. La iglesia está llamada a orar, acompañar, compartir recursos y sostener a quienes atraviesan necesidades.
+
+## 14. Preguntas de profundización
+
+1. ¿Quién es el sujeto creador en Génesis 1?
+2. ¿Por qué Marcos 11:22 comienza dirigiendo la fe a Dios?
+3. ¿Qué límite establece 1 Juan 5:14-15 a la petición cristiana?
+4. ¿Cómo se relacionan confesión y salvación en Romanos 10:9-10?
+5. ¿Qué enseñanza pastoral se desprende de 2 Corintios 12:7-10?
+
 ## 10. Referencias bíblicas
 
 Génesis 1:1-31; Salmo 33:6-9; Marcos 11:12-25; Mateo 26:36-46; Romanos 10:9-10; Efesios 4:25; Filipenses 4:10-13; 2 Corintios 12:7-10; Hebreos 11:1-16; Santiago 3:1-12; 1 Juan 5:14-15.
