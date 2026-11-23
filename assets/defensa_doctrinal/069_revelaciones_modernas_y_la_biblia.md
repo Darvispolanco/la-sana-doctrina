@@ -1,24 +1,59 @@
-# Estudio 69. Revelaciones modernas y autoridad de la Biblia
+# D-069. Revelaciones modernas y la autoridad de la Biblia
 
-## 1. No apagar ni aceptar sin examinar
-1 Tesalonicenses 5:19-22 reúne dos mandatos: no menospreciar las profecías y examinarlo todo. La respuesta bíblica no es credulidad ni cinismo. La comunidad discierne y retiene lo bueno.
+## 1. Pregunta doctrinal
 
-## 2. El criterio cristológico
-1 Juan 4:1-6 manda probar los espíritus y presenta la confesión correcta acerca de Jesucristo como criterio. Gálatas 1:6-9 rechaza cualquier evangelio diferente, incluso si se atribuye a un ángel. Toda experiencia debe ser evaluada a la luz del evangelio apostólico.
+Los cristianos pueden hablar de dirección, convicción y ayuda del Espíritu Santo. La cuestión es si una experiencia o declaración contemporánea puede convertirse en una autoridad doctrinal que contradiga, complete o corrija el evangelio apostólico.
 
-## 3. La Escritura como norma
-2 Timoteo 3:14-17 enseña que la Escritura equipa al siervo de Dios. Hebreos 1:1-4 presenta al Hijo como revelación culminante. Ninguna experiencia contemporánea puede corregir la identidad de Cristo, el evangelio o los mandamientos de Dios.
+La respuesta debe distinguir entre guía providencial, aplicación de la Escritura y afirmaciones que reclaman una revelación normativa para toda la Iglesia.
 
-## 4. Prudencia pastoral
-No toda impresión, sueño o coincidencia es revelación divina. Las afirmaciones extraordinarias requieren discernimiento, testigos y evaluación. Nunca deben utilizarse para presionar decisiones personales, pedir dinero bajo amenaza espiritual, aislar a alguien de su familia o impedir preguntas.
+## 2. Dios ha hablado por medio del Hijo
 
-## Preguntas y respuestas
-1. **¿Dios puede guiar a sus hijos?** La Escritura enseña la dirección de Dios; eso no convierte cada impresión en palabra infalible.
-2. **¿Se examinan las profecías?** Sí.
-3. **¿Puede una revelación cambiar el evangelio?** No.
-4. **¿Qué hacer ante una afirmación dudosa?** No apresurarse; examinarla con la Escritura y líderes responsables.
+Hebreos 1:1-2 compara la comunicación de Dios en tiempos anteriores con su palabra definitiva en el Hijo. El texto no niega que Dios siga guiando a su pueblo; afirma la centralidad y supremacía del Hijo como revelación de Dios.
 
-## Conclusión
-La iglesia permanece abierta a la obra de Dios y firme en la autoridad de su Palabra. Discernimiento, humildad y protección de las personas son indispensables.
-## Pasajes
-Hebreos 1:1-4; 2 Timoteo 3:14-17; Gálatas 1:6-9; 1 Tesalonicenses 5:19-22; 1 Juan 4:1-6.
+Toda experiencia espiritual debe evaluarse en relación con Cristo y su evangelio. Ninguna supuesta revelación puede presentar un Jesús diferente o un mensaje contrario al testimonio apostólico.
+
+## 3. La Escritura equipa al creyente
+
+2 Timoteo 3:14-17 enseña que las Escrituras son inspiradas por Dios y útiles para enseñar, redargüir, corregir e instruir en justicia. El resultado es que el siervo de Dios está enteramente preparado para toda buena obra.
+
+El pasaje no enseña que el creyente nunca necesite consejo, enseñanza o discernimiento comunitario. Enseña que la Escritura tiene una función normativa y suficiente para formar la fe y la vida cristiana.
+
+## 4. El evangelio no puede ser reemplazado
+
+Gálatas 1:6-9 confronta a quienes estaban apartándose del evangelio recibido. Pablo declara que, aun si un apóstol o un ángel anunciara otro evangelio, debía ser rechazado.
+
+El criterio no es la intensidad de una experiencia ni el prestigio del mensajero. La verdad del mensaje se mide por su fidelidad al evangelio apostólico.
+
+## 5. Examinar las experiencias
+
+1 Juan 4:1 ordena probar los espíritus porque han salido muchos falsos profetas. 1 Tesalonicenses 5:19-22 combina la exhortación a no despreciar las profecías con el mandato de examinarlo todo y retener lo bueno.
+
+La Biblia no enseña credulidad absoluta ni rechazo automático de toda experiencia. Enseña discernimiento. La comunidad debe comparar las afirmaciones con la Escritura y observar sus frutos.
+
+## 6. La dirección del Espíritu y la sabiduría
+
+Romanos 8:14-16 habla de la dirección del Espíritu y del testimonio de adopción. Santiago 1:5 invita a pedir sabiduría a Dios. Proverbios 11:14 destaca el valor del consejo.
+
+La guía espiritual no debe utilizarse para anular la responsabilidad, la sabiduría, el consejo prudente o la libertad de conciencia. Una persona no debe manipular a otra afirmando que Dios le reveló decisiones privadas que debe obedecer sin examen.
+
+## 7. Preguntas y respuestas
+
+**¿Dios puede guiar a los creyentes hoy?** La Escritura enseña la obra continua del Espíritu, pero toda dirección debe ser discernida y coherente con la Palabra.
+
+**¿Una revelación puede cambiar el evangelio?** No. Gálatas 1:8-9 rechaza cualquier mensaje diferente.
+
+**¿Toda experiencia debe aceptarse?** No. 1 Juan 4:1 y 1 Tesalonicenses 5:21 mandan examinar.
+
+**¿La Biblia hace innecesario el consejo?** No. La Escritura dirige a buscar sabiduría y consejo; lo que no permite es elevar una experiencia humana por encima de su autoridad.
+
+## 8. Criterios pastorales
+
+Debe rechazarse el uso de supuestas revelaciones para exigir dinero, controlar relaciones, amenazar, aislar a personas o evitar rendición de cuentas. La guía cristiana debe producir verdad, humildad, amor y edificación, no temor a cuestionar.
+
+## 9. Síntesis
+
+El Espíritu Santo guía y fortalece a la Iglesia, pero ninguna experiencia contemporánea puede corregir el evangelio ni colocarse por encima de la Escritura. Las afirmaciones espirituales deben examinarse con discernimiento bíblico y responsabilidad comunitaria.
+
+## 10. Referencias bíblicas
+
+Proverbios 11:14; Hebreos 1:1-2; Romanos 8:14-16; Gálatas 1:6-9; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; Santiago 1:5; 1 Juan 4:1-6.
