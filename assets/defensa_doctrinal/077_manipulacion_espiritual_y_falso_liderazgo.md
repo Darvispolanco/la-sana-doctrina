@@ -54,6 +54,38 @@ Debe observarse el carácter del liderazgo, su trato a los vulnerables, su dispo
 
 El liderazgo cristiano es servicio bajo la autoridad de Jesús. La Escritura rechaza el dominio abusivo, la codicia y la manipulación espiritual. La Iglesia debe promover enseñanza examinable, rendición de cuentas y cuidado de las personas.
 
+## 8. Cómo reconocer patrones de abuso espiritual
+
+La manipulación espiritual no se identifica únicamente por una frase aislada o por una diferencia de opinión. Se reconoce mediante patrones de conducta que utilizan la autoridad religiosa para obtener control, silencio o beneficios. Entre las señales que requieren atención están: prohibir preguntas, aislar a una persona de sus apoyos, amenazar con castigos divinos para imponer decisiones, exigir recursos sin transparencia y presentar al dirigente como incapaz de equivocarse.
+
+Estas señales deben examinarse con cuidado y, cuando existe riesgo o daño, la protección de las personas tiene prioridad. La autoridad bíblica nunca justifica amenazas, explotación o violencia.
+
+## 9. El modelo de liderazgo de Jesús
+
+Marcos 10:42-45 contrasta el dominio de los gobernantes con el servicio de los discípulos. Jesús no niega que existan responsabilidades de liderazgo; redefine su propósito. El mayor debe hacerse servidor, siguiendo el ejemplo del Hijo del Hombre que vino para servir y dar su vida.
+
+Juan 13:1-17 presenta a Jesús lavando los pies de sus discípulos. La escena muestra que la autoridad de Cristo se expresa en servicio humilde. Un liderazgo que exige honra para sí mismo mientras desprecia a los demás contradice este modelo.
+
+## 10. Rendición de cuentas y protección comunitaria
+
+1 Pedro 5:1-4 llama a pastorear voluntariamente, sin codicia ni dominio abusivo. 2 Corintios 8:20-21 muestra que Pablo tomó medidas para que la administración de las ofrendas fuera honorable ante Dios y las personas. La transparencia financiera es parte de la responsabilidad cristiana.
+
+Las iglesias deben establecer procedimientos para recibir quejas, revisar decisiones, proteger a menores y personas vulnerables, y separar la investigación de una denuncia de la autoridad del dirigente señalado. Ningún título espiritual debe impedir una evaluación imparcial.
+
+## 11. Cómo responder a una supuesta revelación usada para controlar
+
+Una afirmación como «Dios me reveló que debes hacer esto» no elimina la libertad ni la responsabilidad de la persona que la escucha. Toda afirmación espiritual debe examinarse (1 Ts 5:19-22; 1 Jn 4:1). Es legítimo pedir que se explique, contrastarla con la Escritura y buscar consejo independiente.
+
+La guía cristiana no se impone mediante miedo, aislamiento o presión económica. Si una persona se siente amenazada o controlada, debe poder acudir a personas responsables y seguras fuera de la influencia del dirigente involucrado.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué diferencia existe entre autoridad pastoral y control de conciencia?
+2. ¿Qué enseña Juan 13 sobre el modelo de liderazgo de Jesús?
+3. ¿Por qué la transparencia financiera es una responsabilidad espiritual?
+4. ¿Cómo se debe examinar una supuesta revelación?
+5. ¿Qué medidas institucionales ayudan a proteger a la congregación?
+
 ## 10. Referencias bíblicas
 
 Hechos 17:10-12; Hechos 20:28-30; Marcos 10:35-45; 1 Timoteo 6:3-10; 2 Corintios 8:20-21; Gálatas 1:8-9; 1 Tesalonicenses 5:19-22; Santiago 1:5; 1 Pedro 5:1-4; 1 Juan 4:1.
