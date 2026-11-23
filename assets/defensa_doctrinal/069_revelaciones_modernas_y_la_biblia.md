@@ -1,85 +1,107 @@
 # D-069. Revelaciones modernas y la autoridad de la Biblia
 
-## 1. Pregunta doctrinal
+## 1. Pregunta doctrinal y distinciones necesarias
 
-Los cristianos pueden hablar de dirección, convicción y ayuda del Espíritu Santo. La cuestión es si una experiencia o declaración contemporánea puede convertirse en una autoridad doctrinal que contradiga, complete o corrija el evangelio apostólico.
+En la vida cristiana se habla de dirección, convicción, sabiduría y ayuda del Espíritu Santo. La cuestión doctrinal es si una experiencia o declaración contemporánea puede convertirse en una autoridad que contradiga, complete o corrija el evangelio apostólico.
 
-La respuesta debe distinguir entre guía providencial, aplicación de la Escritura y afirmaciones que reclaman una revelación normativa para toda la Iglesia.
+Para responder con precisión deben distinguirse tres asuntos. Primero, la providencia de Dios y su cuidado cotidiano. Segundo, la dirección personal que un creyente busca mediante oración, sabiduría, consejo y aplicación de la Escritura. Tercero, una afirmación que se presenta como revelación infalible y pretende imponer una doctrina o mandato obligatorio a toda la Iglesia. No son categorías idénticas.
+
+Este estudio no pretende resolver todas las diferencias entre tradiciones cristianas sobre la continuidad de los dones. Establece un criterio común: ninguna experiencia debe colocarse por encima de Jesucristo ni utilizarse para alterar el evangelio recibido.
 
 ## 2. Dios ha hablado por medio del Hijo
 
-Hebreos 1:1-2 compara la comunicación de Dios en tiempos anteriores con su palabra definitiva en el Hijo. El texto no niega que Dios siga guiando a su pueblo; afirma la centralidad y supremacía del Hijo como revelación de Dios.
+Hebreos 1:1-2 compara la comunicación de Dios en tiempos anteriores con su palabra en el Hijo. El autor destaca que el Hijo es heredero de todo y por medio de él Dios hizo el universo. El argumento de la carta exalta la superioridad de Cristo y prepara al lector para atender a su revelación.
 
-Toda experiencia espiritual debe evaluarse en relación con Cristo y su evangelio. Ninguna supuesta revelación puede presentar un Jesús diferente o un mensaje contrario al testimonio apostólico.
+El pasaje no debe utilizarse para negar automáticamente toda dirección providencial o toda obra del Espíritu en el presente. Su énfasis es la supremacía del Hijo. Por eso, una experiencia espiritual auténtica no puede conducir a un mensaje que presente a otro mediador, reduzca la gloria de Cristo o contradiga el evangelio.
 
-## 3. La Escritura equipa al creyente
+La revelación de Dios no debe convertirse en un recurso para engrandecer al mensajero. El centro de la fe cristiana es Jesucristo, no la experiencia privada de una persona.
 
-2 Timoteo 3:14-17 enseña que las Escrituras son inspiradas por Dios y útiles para enseñar, redargüir, corregir e instruir en justicia. El resultado es que el siervo de Dios está enteramente preparado para toda buena obra.
+## 3. La función normativa de la Escritura
 
-El pasaje no enseña que el creyente nunca necesite consejo, enseñanza o discernimiento comunitario. Enseña que la Escritura tiene una función normativa y suficiente para formar la fe y la vida cristiana.
+Segunda de Timoteo 3:14-17 recuerda a Timoteo la enseñanza recibida y afirma que las Escrituras son inspiradas por Dios y útiles para enseñar, redargüir, corregir e instruir en justicia. El propósito señalado es que el siervo de Dios esté preparado para toda buena obra.
+
+El contexto inmediato también resalta la necesidad de permanecer en lo aprendido y conocer las Escrituras desde la niñez. La Palabra no es un adorno de la vida religiosa: forma el pensamiento, corrige el error y orienta la conducta.
+
+Este pasaje no enseña que el creyente nunca necesite consejo, enseñanza pastoral o discernimiento comunitario. Sí establece que ninguna impresión humana debe adquirir autoridad para corregir la doctrina bíblica. La experiencia debe examinarse; la Escritura es la norma para evaluarla.
 
 ## 4. El evangelio no puede ser reemplazado
 
-Gálatas 1:6-9 confronta a quienes estaban apartándose del evangelio recibido. Pablo declara que, aun si un apóstol o un ángel anunciara otro evangelio, debía ser rechazado.
+Gálatas 1:6-9 confronta a quienes se estaban apartando del evangelio recibido. Pablo expresa asombro porque los creyentes estaban aceptando un mensaje diferente y afirma que incluso si un apóstol o un ángel anunciara otro evangelio, debía ser rechazado.
 
-El criterio no es la intensidad de una experiencia ni el prestigio del mensajero. La verdad del mensaje se mide por su fidelidad al evangelio apostólico.
+El argumento es decisivo para evaluar afirmaciones extraordinarias. La credibilidad de un mensaje no depende del prestigio del mensajero, de su lenguaje espiritual ni de la intensidad emocional con que lo presenta. Debe ser fiel al evangelio de Jesucristo.
 
-## 5. Examinar las experiencias
+Una experiencia no puede justificar la negación de la deidad del Hijo, la alteración de su obra redentora, la sustitución de la gracia por otro medio de salvación ni la introducción de un mediador rival. Toda enseñanza debe conservar el contenido esencial del evangelio apostólico.
 
-1 Juan 4:1 ordena probar los espíritus porque han salido muchos falsos profetas. 1 Tesalonicenses 5:19-22 combina la exhortación a no despreciar las profecías con el mandato de examinarlo todo y retener lo bueno.
+## 5. El mandato de probar las experiencias espirituales
 
-La Biblia no enseña credulidad absoluta ni rechazo automático de toda experiencia. Enseña discernimiento. La comunidad debe comparar las afirmaciones con la Escritura y observar sus frutos.
+Primera de Juan 4:1 ordena no creer a todo espíritu, sino probar los espíritus para comprobar si proceden de Dios. El contexto advierte que han surgido falsos profetas y relaciona el discernimiento con la confesión correcta acerca de Jesucristo venido en carne (1 Jn 4:2-3).
 
-## 6. La dirección del Espíritu y la sabiduría
+Primera de Tesalonicenses 5:19-22 reúne dos exhortaciones que deben mantenerse juntas: no apagar al Espíritu ni menospreciar las profecías, y examinarlo todo para retener lo bueno. El texto no promueve una aceptación ingenua de cualquier declaración ni un rechazo indiscriminado de todo testimonio espiritual.
 
-Romanos 8:14-16 habla de la dirección del Espíritu y del testimonio de adopción. Santiago 1:5 invita a pedir sabiduría a Dios. Proverbios 11:14 destaca el valor del consejo.
+La comunidad cristiana tiene responsabilidad de escuchar, evaluar y responder con madurez. Si una afirmación contradice la Escritura, debe rechazarse. Si se trata de una impresión personal que no puede comprobarse, no debe imponerse como mandato divino para otros.
 
-La guía espiritual no debe utilizarse para anular la responsabilidad, la sabiduría, el consejo prudente o la libertad de conciencia. Una persona no debe manipular a otra afirmando que Dios le reveló decisiones privadas que debe obedecer sin examen.
+## 6. La obra del Espíritu Santo glorifica a Cristo
 
-## 7. Preguntas y respuestas
+Juan 16:13-15 presenta al Espíritu de verdad guiando a los discípulos y glorificando a Jesucristo. El contexto corresponde a las palabras de Jesús a sus discípulos antes de su muerte y resurrección. El Espíritu no aparece como un rival del Hijo, sino como quien comunica y aplica lo que pertenece a Cristo.
 
-**¿Dios puede guiar a los creyentes hoy?** La Escritura enseña la obra continua del Espíritu, pero toda dirección debe ser discernida y coherente con la Palabra.
+Esta relación ofrece un criterio cristológico: una supuesta dirección espiritual que desplaza a Jesús, exalta al mensajero por encima de él o introduce una doctrina contraria a su enseñanza no concuerda con el propósito descrito por el Señor.
 
-**¿Una revelación puede cambiar el evangelio?** No. Gálatas 1:8-9 rechaza cualquier mensaje diferente.
+En la doctrina trinitaria, el Espíritu Santo es una persona divina, no una fuerza que pueda ser manipulada para legitimar la voluntad humana. Su obra conduce a la verdad y glorifica al Hijo para la gloria de Dios. No debe utilizarse su nombre como sello automático de aprobación de decisiones personales.
 
-**¿Toda experiencia debe aceptarse?** No. 1 Juan 4:1 y 1 Tesalonicenses 5:21 mandan examinar.
+## 7. Dirección, sabiduría y consejo
 
-**¿La Biblia hace innecesario el consejo?** No. La Escritura dirige a buscar sabiduría y consejo; lo que no permite es elevar una experiencia humana por encima de su autoridad.
+Romanos 8:14-16 habla de quienes son guiados por el Espíritu de Dios y del testimonio de adopción. El contexto describe la vida nueva en el Espíritu frente a la carne, no un mecanismo para convertir cada pensamiento espontáneo en una orden infalible.
 
-## 8. Criterios pastorales
+Santiago 1:5 invita a pedir sabiduría a Dios. Proverbios 11:14 y 15:22 destacan el valor del consejo. Estos pasajes muestran que la vida de fe involucra oración, discernimiento, conocimiento, responsabilidad y escucha de personas sabias.
 
-Debe rechazarse el uso de supuestas revelaciones para exigir dinero, controlar relaciones, amenazar, aislar a personas o evitar rendición de cuentas. La guía cristiana debe producir verdad, humildad, amor y edificación, no temor a cuestionar.
+Por ello, no debe utilizarse la frase «Dios me dijo» para anular la voluntad de otra persona, controlar decisiones privadas o evitar explicar las razones de una recomendación. Una orientación espiritual responsable puede ser compartida con humildad, examinada y contrastada con la Palabra.
 
-## 9. Síntesis
+## 8. Diferenciar testimonio personal de doctrina para toda la Iglesia
 
-El Espíritu Santo guía y fortalece a la Iglesia, pero ninguna experiencia contemporánea puede corregir el evangelio ni colocarse por encima de la Escritura. Las afirmaciones espirituales deben examinarse con discernimiento bíblico y responsabilidad comunitaria.
+Una persona puede relatar una experiencia y explicar el significado que le atribuye. Sin embargo, debe distinguirse entre lo que observó, la interpretación que hizo y la conclusión que propone para los demás. Una experiencia individual no se convierte automáticamente en doctrina normativa.
 
-## 8. Diferenciar guía espiritual de doctrina normativa
+Hechos 16:6-10 relata cómo el Espíritu dirigió el recorrido misionero de Pablo y sus compañeros. El pasaje describe una situación concreta dentro de la misión apostólica. No establece que toda impresión contemporánea tenga autoridad equivalente a la Escritura ni que deba aceptarse sin examen.
 
-La Biblia presenta al Espíritu Santo guiando a los creyentes, fortaleciendo la misión y concediendo sabiduría. Sin embargo, una impresión personal no equivale automáticamente a una palabra infalible para toda la Iglesia. La dirección debe examinarse, contrastarse con la Escritura y considerarse junto con la sabiduría y el consejo de la comunidad.
+El testimonio personal puede animar, pero no debe transformarse en una regla universal sin fundamento bíblico. Tampoco se debe ridiculizar a quien relata una experiencia. La respuesta cristiana combina respeto, escucha, prudencia y evaluación.
 
-Hechos 16:6-10 relata decisiones misioneras en las que el Espíritu dirigió el recorrido de Pablo y sus compañeros. El texto describe una situación concreta de misión; no establece que toda impresión contemporánea tenga autoridad equivalente a la Escritura. Santiago 1:5 invita a pedir sabiduría, y Proverbios 15:22 destaca la importancia del consejo.
+## 9. Señales de uso indebido de supuestas revelaciones
 
-## 9. La prueba cristológica de una afirmación
+Debe prestarse atención cuando alguien utiliza mensajes atribuidos a Dios para exigir dinero, controlar relaciones, imponer decisiones privadas, amenazar con castigos espirituales, aislar a una persona de su familia o evitar cualquier rendición de cuentas.
 
-Juan 16:13-15 enseña que el Espíritu glorifica a Cristo y toma de lo suyo para anunciarlo a los discípulos. Por tanto, una experiencia que exalta al mensajero, desplaza a Jesucristo o contradice el evangelio debe ser examinada con especial cuidado.
+También es problemático presentar una interpretación personal como si fuera una orden explícita de la Escritura, o afirmar que cuestionar al mensajero equivale necesariamente a cuestionar a Dios. La autoridad de la Palabra no puede transferirse sin examen a la opinión de un dirigente.
 
-1 Juan 4:1-3 relaciona el discernimiento con la confesión correcta acerca de Jesucristo venido en carne. Gálatas 1:6-9 establece que ningún mensaje diferente del evangelio debe aceptarse, aunque su mensajero reclame autoridad extraordinaria.
+La corrección debe realizarse con verdad y justicia. No toda experiencia poco clara demuestra mala intención, pero ninguna afirmación debe utilizarse para someter la conciencia de otra persona. La iglesia debe proteger a quienes se encuentran en situación vulnerable y establecer procesos responsables de evaluación.
 
-## 10. Cómo evaluar testimonios personales
+## 10. Procedimiento bíblico para evaluar una afirmación
 
-Un testimonio puede describir lo que una persona vivió y el significado que le atribuye, pero no se convierte por eso en norma doctrinal. Conviene separar lo que la persona observó, lo que interpretó y la conclusión que propone para otros. Esta distinción evita convertir experiencias individuales en mandamientos universales.
+1. **Escuchar con precisión:** identificar qué se afirma realmente, sin exagerarlo ni reducirlo.
+2. **Examinar el contenido:** comparar la afirmación con el contexto y el conjunto de la enseñanza bíblica.
+3. **Evaluar su relación con Cristo:** comprobar si honra al Hijo y mantiene el evangelio.
+4. **Distinguir niveles de certeza:** separar el hecho observado, la interpretación personal y la conclusión doctrinal.
+5. **Buscar consejo:** considerar la evaluación de creyentes maduros y responsables.
+6. **Observar el fruto:** examinar si promueve verdad, amor, justicia, humildad y edificación.
+7. **Rechazar la contradicción:** no aceptar como palabra de Dios lo que contradice la Escritura.
 
-No se debe ridiculizar a quien relata una experiencia ni aceptar automáticamente cada interpretación. La respuesta bíblica combina respeto, escucha y examen. La verdad no necesita presión emocional para sostenerse.
+Este procedimiento evita tanto la credulidad como el desprecio injustificado. El discernimiento cristiano no depende del miedo ni de la presión emocional, sino de la verdad.
 
-## 11. Preguntas de profundización
+## 11. Preguntas y respuestas
 
-1. ¿Qué diferencia existe entre dirección personal y doctrina normativa?
-2. ¿Qué función tiene el consejo según Proverbios 15:22?
-3. ¿Cómo describe Juan 16:13-15 la obra del Espíritu?
-4. ¿Qué límite establece Gálatas 1:6-9?
-5. ¿Cómo separar hechos, interpretaciones y conclusiones en un testimonio?
+**¿Dios puede guiar a los creyentes hoy?** La Escritura enseña la obra continua del Espíritu y llama a pedir sabiduría. Toda orientación debe discernirse y permanecer coherente con la Palabra.
 
-## 10. Referencias bíblicas
+**¿Una revelación puede cambiar el evangelio?** No. Gálatas 1:6-9 rechaza cualquier mensaje diferente del evangelio apostólico.
 
-Proverbios 11:14; Hebreos 1:1-2; Romanos 8:14-16; Gálatas 1:6-9; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; Santiago 1:5; 1 Juan 4:1-6.
+**¿Toda experiencia espiritual debe aceptarse?** No. Primera de Juan 4:1 y Primera de Tesalonicenses 5:21 mandan examinar.
+
+**¿La Biblia hace innecesario el consejo?** No. Proverbios 11:14 y Santiago 1:5 muestran el valor de la sabiduría. Lo que no se permite es elevar una experiencia humana por encima de la Escritura.
+
+**¿Una experiencia personal puede convertirse en doctrina universal?** No por sí sola. Debe distinguirse el testimonio individual de una enseñanza que pueda demostrarse mediante el testimonio bíblico.
+
+**¿Cómo se relaciona el Espíritu con Cristo?** Juan 16:13-15 enseña que el Espíritu glorifica al Hijo; no compite con él ni lo desplaza.
+
+## 12. Síntesis doctrinal
+
+El Espíritu Santo guía, fortalece y edifica a la Iglesia, y los creyentes deben buscar sabiduría y discernimiento. Sin embargo, ninguna experiencia contemporánea puede corregir el evangelio, desplazar a Cristo o colocarse por encima de la Escritura. Las afirmaciones espirituales deben examinarse en su contenido, su relación con Jesucristo, sus frutos y su coherencia bíblica. La madurez cristiana no consiste en aceptar todo mensaje extraordinario, sino en probarlo y retener lo que es verdadero.
+
+## 13. Referencias bíblicas
+
+Proverbios 11:14; Proverbios 15:22; Hechos 16:6-10; Juan 16:13-15; Romanos 8:14-16; Gálatas 1:6-9; Hebreos 1:1-2; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; Santiago 1:5; 1 Juan 4:1-6.
