@@ -31,9 +31,9 @@ void main() {
         reason: 'El documento $id no contiene encabezados estructurados.',
       );
       final numericId = int.parse(id.substring(2));
-      if (numericId >= 61 && numericId <= 100) {
+      if (numericId >= 31 && numericId <= 100) {
         final wordCount = content.trim().split(RegExp(r'\s+')).length;
-        final minimumWords = numericId <= 80 ? 540 : 650;
+        final minimumWords = numericId <= 60 ? 450 : (numericId <= 80 ? 540 : 650);
         expect(
           wordCount,
           greaterThanOrEqualTo(minimumWords),
