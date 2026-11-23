@@ -14,9 +14,17 @@ void main() {
         reason: 'La evaluación ' + pack.title + ' no tiene exactamente 20 preguntas.',
       );
 
-      final questionTexts = pack.questions
-          .map((question) => question.question.trim().toLowerCase())
-          .toSet();
+      final questionTexts = pack.questions.map((question) {
+        return question.question
+            .toLowerCase()
+            .replaceAll(RegExp(r'[áàä]'), 'a')
+            .replaceAll(RegExp(r'[éèë]'), 'e')
+            .replaceAll(RegExp(r'[íìï]'), 'i')
+            .replaceAll(RegExp(r'[óòö]'), 'o')
+            .replaceAll(RegExp(r'[úùü]'), 'u')
+            .replaceAll('ñ', 'n')
+            .replaceAll(RegExp(r'[^a-z0-9]'), '');
+      }).toSet();
       expect(
         questionTexts,
         hasLength(20),
