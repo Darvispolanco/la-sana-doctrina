@@ -50,6 +50,36 @@ La suma de estos pasajes presenta una agencia personal que no debe borrarse al h
 
 La Escritura presenta un solo Dios y relaciones personales diferenciadas entre el Padre, el Hijo y el Espíritu. La interpretación debe conservar tanto la unidad divina como la distinción que los relatos describen.
 
+## 9. Exégesis de los pasajes que muestran distinción personal
+
+**Mateo 3:13-17.** El evangelista describe el bautismo de Jesús y la manifestación del Espíritu y del Padre. La narración presenta a Jesús como Hijo amado, al Espíritu descendiendo y al Padre dando testimonio. La escena no puede reducirse a tres títulos sin explicar las acciones simultáneas.
+
+**Juan 17:1-5.** Jesús se dirige al Padre y habla de la gloria que tenía con Él antes de la creación. El capítulo continúa desarrollando el amor, la misión y la comunión entre ambos. La oración debe leerse como parte del testimonio del Evangelio sobre la identidad del Hijo.
+
+**Juan 14:16-17, 26.** Jesús promete pedir al Padre otro Consolador. El Padre envía al Espíritu en el nombre de Jesús. Los verbos y las relaciones distinguen a quienes participan en la promesa.
+
+**Juan 15:26.** Jesús dice que enviará al Consolador de parte del Padre y que el Espíritu dará testimonio de Él. El texto presenta una relación entre el Hijo, el Padre y el Espíritu que debe conservarse.
+
+## 10. Unidad divina y unidad de propósito
+
+La Biblia utiliza lenguaje de unidad en distintos sentidos. En Juan 10:30, Jesús afirma su unidad con el Padre en un contexto de autoridad y protección de las ovejas. En Juan 17:20-23, pide que los discípulos sean uno. La unidad de los creyentes no los convierte en una sola persona ni en un solo ser; por tanto, la palabra «uno» debe interpretarse según el contexto.
+
+La doctrina trinitaria confiesa una unidad divina que no es simplemente acuerdo entre tres dioses. A la vez, distingue las personas por sus relaciones. Esta formulación busca conservar el monoteísmo y la distinción que los relatos muestran.
+
+## 11. Cómo conversar con quien sostiene el modalismo
+
+Conviene preguntar qué entiende por «persona», «manifestación», «Padre» e «Hijo». Algunas personas utilizan palabras diferentes para expresar ideas distintas, por lo que la conversación debe aclarar primero el significado. Después se leen pasajes narrativos y discursos de Jesús que muestran relaciones.
+
+No debe asumirse que toda persona que utiliza una expresión popular sostiene una formulación técnica determinada. La respuesta debe centrarse en la afirmación concreta y en el texto bíblico.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué sujetos aparecen en el bautismo de Jesús?
+2. ¿Qué enseña Juan 17 sobre la relación del Hijo con el Padre?
+3. ¿Cómo describe Juan 14 el envío del Consolador?
+4. ¿Qué diferencias existen entre unidad de propósito y unidad divina?
+5. ¿Por qué es necesario definir los términos antes de debatir?
+
 ## 9. Referencias bíblicas
 
 Deuteronomio 6:4; Mateo 3:13-17; Marcos 1:9-11; Lucas 3:21-22; Juan 1:1-3; Juan 10:27-38; Juan 11:41-42; Juan 14:16-26; Juan 15:26-27; Juan 17:1-5, 20-23; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Efesios 4:30.
