@@ -1,87 +1,95 @@
 # D-067. Movimientos apostólicos y proféticos contemporáneos: discernimiento bíblico
 
-## 1. Alcance y diversidad
+## 1. Propósito y alcance
 
-Las expresiones «apostólico» y «profético» se utilizan en diversos movimientos cristianos contemporáneos. Sus prácticas y afirmaciones no son uniformes. Este estudio no atribuye una misma doctrina a todas las iglesias que emplean esos términos; propone criterios bíblicos para evaluar cualquier afirmación de autoridad, revelación o dirección espiritual.
+Las expresiones «apostólico» y «profético» se utilizan en diferentes corrientes cristianas contemporáneas. No todas las iglesias que emplean estos términos sostienen las mismas prácticas ni las mismas conclusiones doctrinales. Por eso, este estudio no atribuye una sola posición a todos esos movimientos. Examina las afirmaciones de autoridad, revelación y ministerio a la luz del testimonio bíblico.
 
-La pregunta no es si Dios puede guiar a su pueblo, sino cómo se reconoce una enseñanza fiel y qué límites establece el testimonio apostólico.
+La pregunta central no es si Dios puede guiar, capacitar o llamar a personas para servir. La pregunta es qué autoridad puede reclamar un dirigente actual, cómo debe evaluarse una profecía y qué límites establece el evangelio apostólico. Una experiencia llamativa, un título ministerial o el crecimiento de una organización no demuestran por sí mismos que una enseñanza sea verdadera.
 
-## 2. El fundamento apostólico de la Iglesia
+## 2. Cristo es la piedra angular y el centro de la Iglesia
 
-Efesios 2:19-22 describe a la Iglesia como edificada sobre el fundamento de los apóstoles y profetas, siendo Jesucristo la principal piedra del ángulo. El contexto presenta la unión de judíos y gentiles en un solo pueblo.
+Efesios 2:19-22 presenta a los creyentes como miembros de la familia de Dios y como un edificio espiritual. Los apóstoles y profetas aparecen relacionados con el fundamento, mientras que Jesucristo es la principal piedra del ángulo. El contexto inmediato explica la reconciliación de judíos y gentiles en un solo pueblo mediante la obra de Cristo.
 
-La imagen del fundamento es importante: la Iglesia no está llamada a reemplazar el testimonio apostólico por una autoridad doctrinal que compita con él. Efesios 3:4-6 explica que el misterio de Cristo fue revelado a los apóstoles y profetas por el Espíritu.
+La imagen enseña que la Iglesia no se construye alrededor de la personalidad de un dirigente. Su identidad y estabilidad dependen de Cristo. Ningún ministerio contemporáneo puede desplazarlo como centro, convertirse en dueño de la comunidad o establecer un evangelio alternativo.
 
-## 3. El significado de apostolado en el Nuevo Testamento
+Efesios 3:4-6 añade que el misterio de Cristo fue dado a conocer a los apóstoles y profetas por el Espíritu: los gentiles son coherederos y miembros del mismo cuerpo. El contenido de esa revelación está unido a la inclusión de las naciones en Cristo, no a la exaltación de una élite espiritual.
 
-El término «apóstol» puede referirse a un enviado o representante, pero el Nuevo Testamento también utiliza el título para un grupo con una función fundacional y un testimonio particular de Cristo resucitado. Hechos 1:21-26 describe los requisitos considerados para reemplazar a Judas dentro del grupo de los Doce.
+## 3. El carácter particular del apostolado fundacional
 
-Pablo defiende su apostolado relacionándolo con haber visto al Señor resucitado y con su comisión (1 Co 9:1; 15:7-10; Gá 1:1). No debe suponerse que cualquier persona que reciba una misión o liderazgo local posea automáticamente la misma autoridad fundacional de los apóstoles del Nuevo Testamento.
+En Hechos 1:21-26, al buscar un reemplazo para Judas, los discípulos consideran a alguien que hubiera acompañado el ministerio de Jesús desde el bautismo de Juan hasta la ascensión y que pudiera ser testigo de la resurrección. El pasaje muestra la importancia del testimonio histórico de quienes estuvieron vinculados directamente con el ministerio terrenal de Jesús.
 
-## 4. La profecía debe ser examinada
+Pablo defiende su apostolado apelando a haber visto al Señor resucitado y a su comisión (1 Co 9:1; 15:7-10; Gá 1:1). Su caso también muestra que el apostolado no era simplemente un cargo honorífico que alguien pudiera concederse a sí mismo. Estaba ligado al llamamiento de Cristo y al testimonio autorizado del evangelio.
 
-1 Corintios 14:29 ordena que hablen dos o tres profetas y que los demás juzguen. 1 Tesalonicenses 5:19-22 exhorta a no apagar al Espíritu ni menospreciar las profecías, pero añade que todo debe examinarse y retenerse lo bueno.
+En el Nuevo Testamento, «apóstol» también puede emplearse en el sentido más amplio de enviado o mensajero. Por ello, debe atenderse al contexto antes de concluir que cada uso del término tiene exactamente el mismo sentido que el apostolado de los Doce o el de Pablo. Una iglesia puede enviar misioneros y obreros sin afirmar que poseen autoridad fundacional equivalente a la de los testigos apostólicos de Cristo resucitado.
 
-El texto combina apertura y discernimiento. No enseña que toda declaración presentada como profecía sea incuestionable. La comunidad tiene responsabilidad de examinarla.
+## 4. El fundamento apostólico no se sustituye
 
-## 5. Cristo y la autoridad de la Escritura
+Efesios 2:20 utiliza la imagen del fundamento para describir la base sobre la que está edificada la comunidad cristiana. Un edificio puede seguir creciendo, recibir mantenimiento y ser fortalecido, pero no necesita reemplazar continuamente su fundamento. La Iglesia continúa anunciando, enseñando y aplicando el evangelio recibido; no está autorizada a inventar otro.
 
-Hebreos 1:1-2 afirma que Dios habló antiguamente por los profetas y que en estos últimos tiempos ha hablado por el Hijo. El Hijo es la revelación culminante de Dios. La enseñanza cristiana debe permanecer sometida a su persona y al testimonio apostólico.
+Judas 3 exhorta a contender por la fe que ha sido entregada a los santos. Gálatas 1:6-9 establece un límite todavía más explícito: un mensaje diferente del evangelio anunciado por los apóstoles debe rechazarse, incluso si quien lo presenta reclama una autoridad extraordinaria. La autoridad ministerial es derivada y está sometida al mensaje de Cristo.
 
-2 Timoteo 3:14-17 presenta las Escrituras como inspiradas por Dios y útiles para enseñar, corregir e instruir. Una supuesta revelación contemporánea no puede contradecir el evangelio ni adquirir autoridad para corregir la enseñanza bíblica.
+Esto no obliga a negar que existan hoy personas llamadas a servir en misiones, enseñanza, evangelización o cuidado pastoral. La distinción doctrinal está entre ejercer un ministerio de servicio y reclamar una autoridad que añada nuevas normas de fe o corrija el fundamento apostólico.
 
-## 6. Frutos y responsabilidad pastoral
+## 5. La profecía y el deber de examinar
 
-Jesús advierte sobre los falsos profetas y enseña que se reconocen por sus frutos (Mt 7:15-20). El discernimiento incluye el contenido de la enseñanza y la conducta del liderazgo: honestidad, servicio, humildad y cuidado del rebaño.
+1 Corintios 14:29 indica que, cuando hablan profetas, los demás deben juzgar. El capítulo trata del orden en la reunión de la iglesia y de la edificación de la comunidad. Por tanto, una declaración presentada como profecía no queda fuera de evaluación por el simple hecho de recibir ese nombre.
 
-1 Pedro 5:1-4 llama a los ancianos a pastorear sin dominio abusivo ni búsqueda deshonesta de ganancias. La autoridad espiritual bíblica se ejerce como servicio bajo el señorío de Cristo.
+1 Tesalonicenses 5:19-22 mantiene dos responsabilidades juntas: no apagar al Espíritu ni menospreciar las profecías, y examinarlo todo para retener lo bueno. El pasaje evita dos extremos: aceptar indiscriminadamente cualquier afirmación y despreciar de antemano todo ejercicio espiritual.
 
-## 7. Preguntas y respuestas
+Primera de Juan 4:1 ordena probar los espíritus porque han surgido muchos falsos profetas. El discernimiento incluye el contenido cristológico, la fidelidad al evangelio, el carácter del mensajero y los efectos de la enseñanza. No se debe confundir una impresión personal con una declaración infalible para toda la congregación.
 
-**¿Toda persona enviada por una iglesia es apóstol en el mismo sentido que los Doce?** No debe suponerse. Hechos 1:21-26 y 1 Corintios 15:7-10 muestran el carácter particular del testimonio apostólico fundacional.
+## 6. Los dones deben edificar y promover madurez
 
-**¿Una profecía debe aceptarse sin examen?** No. 1 Corintios 14:29 y 1 Tesalonicenses 5:20-21 mandan examinar.
+Primera de Corintios 12–14 presenta diversidad de dones dentro de un mismo cuerpo. Ningún miembro puede considerarse autosuficiente ni despreciar a los demás. El amor es indispensable para el ejercicio correcto de los dones (1 Co 13), y la edificación de la iglesia orienta su uso (1 Co 14:1-5, 12, 26).
 
-**¿Puede una autoridad moderna cambiar el evangelio?** No. Gálatas 1:8-9 advierte contra cualquier mensaje diferente del evangelio apostólico.
+Efesios 4:11-16 describe ministerios dados para capacitar a los santos y edificar el cuerpo de Cristo. El resultado esperado es unidad en la fe, conocimiento del Hijo y madurez doctrinal. El ministerio no debe crear dependencia permanente de una figura carismática, sino contribuir al crecimiento de toda la comunidad.
 
-**¿Cómo se reconoce un liderazgo fiel?** Por su fidelidad a Cristo, su enseñanza, su carácter y su servicio (Mt 7:15-20; 1 P 5:1-4).
+Por tanto, la espectacularidad no es el criterio principal. Una práctica debe examinarse por su fidelidad bíblica, su orden, su contribución a la edificación y su fruto. El don no convierte a su portador en una persona inmune a la corrección.
 
-## 8. Síntesis
+## 7. Cristo y la autoridad de la Escritura
 
-La Iglesia debe valorar el servicio y la guía del Espíritu, pero toda afirmación de autoridad y profecía debe examinarse. Cristo es el fundamento y la revelación culminante; el testimonio apostólico conserva autoridad normativa para la fe de la Iglesia.
+Hebreos 1:1-2 contrasta la comunicación de Dios en tiempos anteriores con su palabra en el Hijo. El autor destaca la supremacía del Hijo, heredero de todo y agente de la creación. La Iglesia debe interpretar toda enseñanza desde la centralidad de Jesucristo.
 
-## 8. Examen de los dones y ministerios
+Segunda de Timoteo 3:14-17 enseña que las Escrituras son inspiradas por Dios y útiles para enseñar, corregir e instruir en justicia, con el propósito de equipar al siervo de Dios para toda buena obra. El pasaje no elimina la necesidad de maestros, consejo o comunidad; establece la función normativa de la Escritura en la formación cristiana.
 
-Efesios 4:11-16 enumera ministerios dados para capacitar a los santos y edificar el cuerpo de Cristo. El propósito es que la Iglesia alcance unidad en la fe, conocimiento del Hijo y madurez, para no ser llevada por cualquier viento de doctrina. El texto vincula ministerio con servicio, formación y estabilidad doctrinal.
+Una supuesta revelación contemporánea no puede contradecir el evangelio ni convertirse en una norma superior a la Palabra. La dirección espiritual debe conducir a obedecer a Cristo, no a depender de mensajes privados que nadie puede examinar.
 
-1 Corintios 12–14 describe diversidad de dones y establece que su ejercicio debe contribuir a la edificación. En 1 Corintios 14:29, las profecías deben ser evaluadas por los demás. El don no elimina la responsabilidad de la comunidad ni concede inmunidad a quien habla.
+## 8. El carácter del liderazgo cristiano
 
-El Nuevo Testamento no permite utilizar un título ministerial para evitar la evaluación. La autoridad de quien enseña se demuestra por su fidelidad a Cristo y a la Palabra, no por la espectacularidad de sus afirmaciones.
+Jesús contrasta el dominio de los gobernantes con el servicio que debe caracterizar a sus discípulos (Mr 10:42-45). Pedro exhorta a los ancianos a pastorear voluntariamente, sin buscar ganancias deshonestas ni enseñorearse del rebaño (1 P 5:1-4). Pablo se describe como servidor y colaborador, mientras reconoce que Dios da el crecimiento (1 Co 3:5-9).
 
-## 9. Cómo probar una profecía o dirección espiritual
+Estos pasajes no eliminan la autoridad pastoral, pero definen su propósito y sus límites. La autoridad cristiana sirve para enseñar, cuidar, corregir con justicia y proteger a la comunidad. No concede permiso para manipular la conciencia, controlar relaciones personales, exigir recursos mediante amenazas espirituales o evitar toda rendición de cuentas.
 
-1. **Contenido:** ¿está de acuerdo con el evangelio y con la enseñanza bíblica?
-2. **Cristología:** ¿glorifica a Jesucristo o desplaza su señorío hacia un mensajero humano?
-3. **Carácter:** ¿produce verdad, amor, justicia y dominio propio?
-4. **Responsabilidad:** ¿permite examen y corrección?
-5. **Fruto comunitario:** ¿edifica a la iglesia o produce temor, dependencia y división?
+Jesús también advierte que los falsos profetas se reconocen por sus frutos (Mt 7:15-20). El discernimiento debe observar tanto lo que se enseña como la conducta que produce el liderazgo. La fidelidad doctrinal y la integridad moral no deben separarse.
 
-Deuteronomio 18:20-22 contiene criterios para evaluar a quien habla en nombre del Señor dentro del pacto de Israel. En el Nuevo Testamento, 1 Juan 4:1 y 1 Tesalonicenses 5:19-22 llaman a probar las afirmaciones espirituales. Los textos deben aplicarse atendiendo a su contexto y no como instrumentos de acusación ligera.
+## 9. Criterios para evaluar una afirmación profética o ministerial
 
-## 10. Riesgos de autoridad no examinable
+1. **Fidelidad bíblica:** ¿el mensaje concuerda con el conjunto de la enseñanza de la Escritura y con el evangelio?
+2. **Centralidad de Cristo:** ¿glorifica al Hijo o desplaza su señorío hacia el mensajero?
+3. **Contenido verificable:** ¿se distingue entre lo que se afirma, lo que se interpreta y lo que no puede comprobarse?
+4. **Evaluación comunitaria:** ¿se permite examinar la enseñanza conforme a 1 Corintios 14:29 y 1 Juan 4:1?
+5. **Carácter:** ¿el liderazgo manifiesta humildad, verdad, servicio y dominio propio?
+6. **Fruto:** ¿la práctica edifica y fortalece a la iglesia o genera dependencia, temor y división?
+7. **Rendición de cuentas:** ¿existen mecanismos justos para corregir errores y proteger a las personas?
 
-Una comunidad se encuentra en peligro cuando una persona afirma que sus decisiones no pueden cuestionarse, exige recursos mediante amenazas espirituales o presenta sus opiniones como mandatos divinos. Jesús enseñó que los gobernantes de las naciones se enseñorean, pero que entre sus discípulos no debe ser así (Mr 10:42-45).
+Deuteronomio 18:20-22 contiene criterios dirigidos a Israel para evaluar a quien hablaba en nombre del Señor dentro del pacto. No debe trasladarse mecánicamente cada disposición del contexto mosaico a la vida de la Iglesia, pero sí debe reconocerse el principio de que no se debe atribuir a Dios una palabra falsa. En el Nuevo Testamento, 1 Tesalonicenses 5:19-22 y 1 Juan 4:1 confirman la obligación de examinar.
 
-El cuidado pastoral incluye transparencia, rendición de cuentas, protección de los vulnerables y libertad para comparar toda enseñanza con la Escritura. La obediencia cristiana nunca debe utilizarse para encubrir abuso.
+## 10. Preguntas y respuestas
 
-## 11. Preguntas de profundización
+**¿Toda persona enviada por una iglesia tiene el mismo apostolado que los Doce?** No debe suponerse. El contexto de Hechos 1:21-26 y el testimonio de 1 Corintios 15:7-10 muestran el carácter particular del testimonio apostólico fundacional. El término también puede utilizarse para enviados en un sentido más amplio, por lo que debe estudiarse cada pasaje.
 
-1. ¿Qué propósito tienen los ministerios de Efesios 4:11-16?
-2. ¿Por qué 1 Corintios 14:29 manda evaluar las profecías?
-3. ¿Qué límites establece Gálatas 1:8-9?
-4. ¿Cómo define Jesús el liderazgo en Marcos 10:42-45?
-5. ¿Qué diferencia hay entre reconocer un don y conceder autoridad incuestionable a una persona?
+**¿La Biblia enseña que se deben despreciar todas las profecías?** No. 1 Tesalonicenses 5:19-22 prohíbe despreciarlas, pero también manda examinarlo todo. El discernimiento bíblico no es credulidad ni rechazo automático.
 
-## 9. Referencias bíblicas
+**¿Un título apostólico o profético vuelve incuestionable a una persona?** No. 1 Corintios 14:29 ordena evaluar las profecías y 1 Pedro 5:1-4 limita el modo de ejercer el liderazgo.
 
-Mateo 7:15-20; Hechos 1:21-26; 1 Corintios 9:1; 1 Corintios 14:29-33; 1 Corintios 15:7-10; Gálatas 1:6-9; Efesios 2:19-22; Efesios 3:4-6; Hebreos 1:1-2; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; 1 Pedro 5:1-4.
+**¿Puede un dirigente introducir un evangelio diferente?** No. Gálatas 1:6-9 establece que cualquier mensaje contrario al evangelio apostólico debe rechazarse.
+
+**¿Cómo se reconoce un ministerio saludable?** Por su fidelidad a Cristo, su enseñanza bíblica, su servicio, su integridad y su contribución a la madurez de la iglesia (Mt 7:15-20; Ef 4:11-16).
+
+## 11. Síntesis doctrinal
+
+La Iglesia puede reconocer llamados, dones y ministerios, pero debe distinguir el servicio contemporáneo de la autoridad fundacional del testimonio apostólico. Cristo es la piedra angular; el evangelio recibido no puede ser reemplazado. Las profecías deben examinarse, los dones deben edificar y los líderes deben servir con humildad y rendición de cuentas. Ningún título, experiencia o afirmación personal está por encima de Jesucristo y de la autoridad normativa de la Escritura.
+
+## 12. Referencias bíblicas
+
+Mateo 7:15-20; Marcos 10:42-45; Hechos 1:21-26; 1 Corintios 3:5-11; 1 Corintios 9:1; 1 Corintios 12–14; 1 Corintios 15:7-10; Gálatas 1:1-9; Efesios 2:19-22; Efesios 3:4-6; Efesios 4:11-16; Hebreos 1:1-2; 2 Timoteo 3:14-17; 1 Tesalonicenses 5:19-22; Judas 3; 1 Juan 4:1-3; 1 Pedro 5:1-4.
