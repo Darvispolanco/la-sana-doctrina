@@ -21,9 +21,9 @@ No se incluye una sección de enseñanzas en audio ni una traducción bíblica c
 
 ## Compilación desde GitHub Actions
 
-El flujo `.github/workflows/android.yml` instala Flutter y Java 17, genera el proyecto Android si todavía no existe en el repositorio, configura el identificador de AdMob, ejecuta análisis y pruebas, compila un APK de depuración y lo publica como artefacto de GitHub Actions.
+El flujo `.github/workflows/android.yml` instala Flutter y Java 21, genera el proyecto Android si todavía no existe en el repositorio, configura el identificador de AdMob, ejecuta análisis y pruebas y publica APK con nombres únicos, número de compilación creciente y SHA-256.
 
-El APK de depuración es para pruebas. **No es una versión firmada lista para Google Play.**
+El APK de depuración es para pruebas. Para que una compilación nueva pueda actualizar una instalación anterior sin desinstalarla, todas las compilaciones deben usar la misma clave privada de firma. El workflow admite una clave persistente mediante estos GitHub Actions Secrets: `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS` y `ANDROID_KEY_PASSWORD`. Si no están configurados, se compila con la firma temporal de CI y Android puede exigir desinstalar la versión anterior. No se debe subir el keystore ni sus contraseñas al repositorio. La publicación en Google Play requiere además el proceso de firma de lanzamiento y un AAB firmado.
 
 ## Publicación en Google Play
 
