@@ -1,25 +1,45 @@
-# Estudio 49. Universalismo cristiano: juicio, gracia y esperanza
+# D-049. Universalismo cristiano: alcance de la salvación y realidad del juicio
 
-## Definición y diversidad
-El universalismo cristiano sostiene, en sus distintas versiones, que finalmente todos los seres humanos serán reconciliados con Dios. Algunas formas lo presentan como esperanza; otras como afirmación de que el juicio final no implica condenación definitiva. Hay que distinguir el deseo de que todos sean salvos de la afirmación de que todos serán efectivamente salvos.
+## 1. Definición y diversidad
 
-## Textos sobre el deseo salvador de Dios
-1 Timoteo 2:1-6 llama a orar por todos y afirma que Dios quiere que todos sean salvos y lleguen al conocimiento de la verdad. El contexto impulsa la oración amplia y la proclamación del único mediador, Jesucristo. El pasaje no debe separarse de las advertencias bíblicas sobre incredulidad y juicio.
-2 Pedro 3:9 expresa la paciencia de Dios y su deseo de arrepentimiento. El contexto exhorta a esperar con santidad el día del Señor.
+El universalismo cristiano reúne posturas que sostienen que, al final, todas las personas serán reconciliadas con Dios. Algunas expresiones lo presentan como una esperanza; otras afirman que la salvación final de todos es segura. Es importante distinguir el deseo de que todos sean salvos de la afirmación doctrinal de que todos serán salvos independientemente de su respuesta al evangelio.
 
-## Textos sobre juicio y respuesta humana
-Mateo 25:31-46 describe el juicio del Hijo del Hombre y dos destinos contrastados. Juan 3:16-21 une el amor de Dios y la oferta de vida con la responsabilidad de creer; Juan 5:28-29 habla de resurrección de vida y de condenación. Apocalipsis 20:11-15 presenta el juicio final. Una interpretación responsable debe explicar estos textos sin debilitarlos.
+## 2. Dios llama a todos
 
-## Textos de alcance universal
-Romanos 5:12-21 y 1 Corintios 15:20-28 comparan la obra de Adán con la de Cristo y describen el alcance de la victoria de Cristo. Deben leerse en sus argumentos completos, incluyendo la unión con Cristo por la fe y el desarrollo de la resurrección. No es adecuado resolver el debate con una sola frase aislada.
+1 Timoteo 2:1-6 exhorta a orar por todos y declara que Dios quiere que todos sean salvos y lleguen al conocimiento de la verdad. El contexto presenta a Cristo como único mediador y fundamento de la salvación.
 
-## Preguntas y respuestas
-1. **¿Dios desea la salvación?** La Escritura afirma su misericordia y paciencia.
-2. **¿Eso elimina el juicio?** No; muchos textos enseñan juicio real.
-3. **¿Debe la iglesia dejar de evangelizar?** No; el evangelio llama a arrepentimiento y fe.
-4. **¿Podemos afirmar con certeza que todos serán salvos?** Debe evitarse ir más allá de lo que el conjunto de los textos permite concluir.
+2 Pedro 3:9 habla de la paciencia de Dios y de su deseo de que las personas procedan al arrepentimiento. Estos textos muestran la amplitud de la misericordia divina.
 
-## Conclusión
-La iglesia proclama la amplitud de la gracia sin silenciar las advertencias de Jesús y los apóstoles. La esperanza cristiana descansa en Cristo y llama a todos a arrepentirse y creer.
-## Pasajes
-Mateo 25:31-46; Juan 3:16-21; 5:28-29; Romanos 5:12-21; 1 Corintios 15:20-28; 1 Timoteo 2:1-6; 2 Pedro 3:8-13; Apocalipsis 20:11-15.
+## 3. La respuesta al evangelio
+
+Juan 3:16-18 enseña que quien cree en el Hijo tiene vida eterna y también habla de condenación para quien no cree. Hechos 17:30-31 anuncia que Dios manda a todos que se arrepientan y que ha establecido un día de juicio.
+
+La invitación es universal, pero el Nuevo Testamento no presenta la respuesta al evangelio como irrelevante.
+
+## 4. Los textos sobre reconciliación universal
+
+Colosenses 1:19-20 habla de reconciliar todas las cosas por medio de Cristo. Efesios 1:9-10 describe el propósito de reunir todas las cosas en Cristo. Estos textos enseñan el alcance cósmico de su autoridad y obra.
+
+Deben compararse con Mateo 25:31-46, 2 Tesalonicenses 1:5-10 y Apocalipsis 20:11-15, que hablan del juicio. No se debe utilizar un grupo de textos para anular el otro.
+
+## 5. La esperanza y la responsabilidad de la Iglesia
+
+La Iglesia debe anunciar el evangelio a todos, orar por todos y mostrar misericordia. La esperanza cristiana no autoriza a declarar con certeza lo que Dios no ha revelado sobre cada persona. El juicio pertenece al Señor.
+
+## 6. Preguntas y respuestas
+
+**¿Dios desea que todos sean salvos?** 1 Timoteo 2:1-6 presenta el deseo salvador de Dios.
+
+**¿La Biblia enseña que el juicio no existe?** No. Mateo 25:31-46 y Apocalipsis 20:11-15 presentan juicio.
+
+**¿Podemos conocer el destino eterno de cada individuo?** No nos corresponde emitir sentencias particulares que la Escritura no revela.
+
+**¿La esperanza universal elimina el llamado al arrepentimiento?** No. Hechos 17:30-31 mantiene ese llamado.
+
+## 7. Síntesis
+
+La misericordia de Dios y el alcance de la obra de Cristo son amplios, pero la Escritura también enseña juicio y llama a responder al evangelio. La interpretación debe conservar ambos testimonios y evitar afirmaciones que excedan la revelación.
+
+## 8. Referencias bíblicas
+
+Mateo 25:31-46; Juan 3:16-21; Hechos 17:30-31; 1 Timoteo 2:1-6; Efesios 1:9-10; Colosenses 1:15-23; 2 Tesalonicenses 1:5-10; 2 Pedro 3:9; Apocalipsis 20:11-15.
