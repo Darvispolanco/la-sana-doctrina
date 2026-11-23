@@ -196,9 +196,15 @@ void main() {
 
     expect(find.textContaining('Pregunta 1:'), findsOneWidget);
     final lastReviewQuestion = find.textContaining('Pregunta 20:');
-    await tester.ensureVisible(lastReviewQuestion);
+    // SliverList construye de forma diferida: primero hay que desplazar
+    // el CustomScrollView para que la última tarjeta exista en el árbol.
+    await tester.scrollUntilVisible(
+      lastReviewQuestion,
+      400,
+      scrollable: find.byType(Scrollable).last,
+    );
     await tester.pumpAndSettle();
-    expect(find.textContaining('Pregunta 20:'), findsOneWidget);
+    expect(lastReviewQuestion, findsOneWidget);
   });
 
 }
