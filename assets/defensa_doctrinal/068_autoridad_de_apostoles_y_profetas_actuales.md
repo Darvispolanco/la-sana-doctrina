@@ -52,6 +52,39 @@ Debe examinarse cualquier liderazgo que prohíba preguntas, exija dinero bajo am
 
 Los ministerios de la Iglesia sirven a la edificación del cuerpo, pero no sustituyen la autoridad de Cristo ni el fundamento apostólico. Los títulos no hacen incuestionable a una persona. Toda enseñanza y profecía debe examinarse conforme a la Escritura.
 
+## 9. El sentido del fundamento apostólico
+
+Efesios 2:19-22 utiliza la imagen de un edificio. Los creyentes son conciudadanos y miembros de la familia de Dios; el edificio está relacionado con el fundamento de los apóstoles y profetas y tiene a Jesucristo como piedra angular. La imagen no describe una sucesión interminable de nuevos fundamentos, sino una comunidad edificada sobre el testimonio recibido.
+
+En Efesios 3:4-6, Pablo explica que el misterio de Cristo fue revelado a los apóstoles y profetas por el Espíritu: los gentiles son coherederos y miembros del mismo cuerpo. El contenido del fundamento es el evangelio de Cristo y la incorporación de las naciones al pueblo de Dios.
+
+Esto no elimina los ministerios actuales. La iglesia necesita pastores, evangelistas, maestros y misioneros. La distinción está entre servir y transmitir el evangelio recibido, por un lado, y reclamar autoridad fundacional para añadir una nueva norma doctrinal, por otro.
+
+## 10. Autoridad apostólica y carácter del liderazgo
+
+En 1 Corintios 3:5-11, Pablo describe a los ministros como servidores por medio de los cuales otros creyeron; Dios es quien da el crecimiento y Cristo es el fundamento. En 2 Corintios 4:5 declara que no se predican a sí mismos, sino a Jesucristo como Señor. Estos textos contradicen la exaltación del líder como centro de la fe.
+
+1 Pedro 5:1-4 prohíbe pastorear por fuerza, por ganancia deshonesta o enseñoreándose del rebaño. Marcos 10:42-45 define la grandeza mediante el servicio. El liderazgo cristiano debe ser verificable por su fidelidad, humildad y cuidado de las personas.
+
+## 11. Señales concretas que requieren atención
+
+- Prohibir que la congregación compare la enseñanza con la Biblia.
+- Presentar toda discrepancia como rebelión contra Dios.
+- Exigir obediencia personal sin rendición de cuentas.
+- Utilizar supuestas revelaciones para controlar relaciones, dinero o decisiones privadas.
+- Ocultar información financiera o evitar mecanismos de protección.
+- Prometer inmunidad espiritual a un dirigente por su título.
+
+Estas señales requieren examen serio y medidas de protección. No toda diferencia de criterio constituye abuso, pero ninguna autoridad debe quedar fuera de la evaluación.
+
+## 12. Preguntas de profundización
+
+1. ¿Qué significa que Cristo sea la piedra angular?
+2. ¿Por qué el fundamento apostólico no puede ser reemplazado?
+3. ¿Qué enseña 2 Corintios 4:5 sobre el centro de la predicación?
+4. ¿Qué límites pone 1 Pedro 5:1-4 al liderazgo?
+5. ¿Cómo puede una iglesia establecer rendición de cuentas y protección pastoral?
+
 ## 10. Referencias bíblicas
 
 Marcos 10:42-45; Hechos 1:21-26; 1 Corintios 3:5-9; 1 Corintios 9:1; 1 Corintios 14:29-33; 1 Corintios 15:7-10; Gálatas 1:6-9; Efesios 2:19-22; 2 Timoteo 3:14-17; Judas 3; 1 Juan 4:1; 1 Pedro 5:1-4.
