@@ -418,14 +418,6 @@ List<QuizQuestion>? _doctrinalQuestionsFor(String title) {
         _curatedQuestion('¿Qué conclusión presenta Hechos 5:3-4 al comparar mentir al Espíritu con mentir a Dios?', ['El Espíritu Santo es presentado con identidad divina', 'El Espíritu es un ángel creado', 'El Espíritu es solo una metáfora', 'Pedro niega la existencia de Dios'], 0, 'Pedro identifica la mentira al Espíritu con mentir a Dios, un dato central para la doctrina de su deidad.', 'Hechos 5:3-4'),
         _curatedQuestion('Según 1 Corintios 12:11, ¿quién distribuye los dones como quiere?', ['El mismo Espíritu', 'Los creyentes según popularidad', 'Los gobernantes civiles', 'Los ángeles por iniciativa propia'], 0, 'La distribución soberana de los dones se atribuye al Espíritu, mostrando voluntad y acción personal.', '1 Corintios 12:4-11'),
       ];
-    case 'Relaciones trinitarias':
-      return [
-        _curatedQuestion('¿Qué distingue la escena de Mateo 3:16-17?', ['Al Hijo bautizado, al Espíritu descendiendo y al Padre hablando', 'Tres dioses que compiten', 'Una sola persona cambiando de apariencia en momentos sucesivos', 'La ausencia del Espíritu'], 0, 'Los tres aparecen simultáneamente en relaciones diferenciadas dentro de una misma escena.', 'Mateo 3:16-17'),
-        _curatedQuestion('¿Qué estructura aparece en 2 Corintios 13:14?', ['La gracia de Cristo, el amor de Dios y la comunión del Espíritu', 'Una lista de tres ángeles', 'Tres caminos independientes de salvación', 'Una negación de la unidad divina'], 0, 'La bendición apostólica coordina a Cristo, Dios y el Espíritu en la vida de la Iglesia.', '2 Corintios 13:14'),
-        _curatedQuestion('¿Qué muestra 1 Pedro 1:2 sobre la obra trinitaria?', ['Presciencia del Padre, santificación del Espíritu y obediencia a Jesucristo', 'Tres salvaciones distintas', 'Que el Espíritu es una criatura', 'Que el Hijo no participa en la redención'], 0, 'Pedro distingue las acciones relacionadas del Padre, el Espíritu y Jesucristo en la salvación.', '1 Pedro 1:1-2'),
-        _curatedQuestion('¿Qué debe afirmarse al relacionar unidad divina y distinción personal?', ['Un solo Dios sin confundir al Padre, al Hijo y al Espíritu', 'Tres dioses separados', 'Una persona con tres nombres intercambiables', 'Tres partes incompletas de Dios'], 0, 'La enseñanza trinitaria conserva simultáneamente el monoteísmo y las distinciones personales del testimonio bíblico.', 'Deuteronomio 6:4; Mateo 28:19; 2 Corintios 13:14'),
-        _curatedQuestion('En Juan 14:16-17, ¿qué relación anuncia Jesús?', ['El Hijo pide al Padre y el Padre da otro Consolador', 'Jesús afirma que él es el Padre que se enviará a sí mismo', 'El Espíritu reemplaza al Padre', 'Los discípulos crean al Espíritu'], 0, 'El lenguaje de pedir, dar y enviar presenta relaciones personales diferenciadas.', 'Juan 14:16-17'),
-      ];
     case 'Bautismo de Jesús':
       return [
         _curatedQuestion('¿Quién bautiza a Jesús en el Jordán?', ['Juan el Bautista', 'Pedro', 'El apóstol Juan', 'Moisés'], 0, 'Mateo narra que Jesús acude a Juan para ser bautizado y que Juan finalmente lo bautiza.', 'Mateo 3:13-16'),
@@ -615,8 +607,6 @@ List<QuizQuestion> _additionalTrinityQuestions(String title) {
         _curatedQuestion('¿Qué patrón aparece en Efesios 2:18?', ['Por medio de Cristo, en un mismo Espíritu, tenemos acceso al Padre', 'Por medio del Padre evitamos a Cristo y al Espíritu', 'Tres accesos a tres dioses separados', 'La Iglesia se acerca a los ángeles'], 0, 'Pablo formula el acceso cristiano con una estructura trinitaria: por Cristo, en el Espíritu, al Padre.', 'Efesios 2:17-22'),
         _curatedQuestion('¿Cuál lectura respeta el conjunto de Juan 5:19-23?', ['El Hijo actúa en relación perfecta con el Padre y recibe honra como él', 'El Hijo actúa como rival del Padre', 'El Padre y el Hijo son la misma persona que dialoga consigo misma', 'El Hijo es un profeta sin autoridad'], 0, 'El pasaje mantiene la distinción entre Padre e Hijo y atribuye al Hijo obras y honra extraordinarias.', 'Juan 5:19-23'),
       ];
-    case 'Relaciones trinitarias':
-      return _doctrinalQuestionsFor(title) ?? const <QuizQuestion>[];
     default:
       return const <QuizQuestion>[];
   }
