@@ -64,6 +64,22 @@ La salvación realizada por Cristo se aplica por la obra del Espíritu. Tito 3:4
 
 El Espíritu no añade otra redención distinta de la cruz. Hace efectiva en la vida de los creyentes la obra de Cristo, los une a Él y produce una vida transformada.
 
+## 10. La sustitución, la representación y el perdón
+
+Isaías 53:4-6 describe al siervo que lleva sufrimientos y transgresiones ajenas. Marcos 10:45 presenta la vida del Hijo del Hombre como rescate por muchos, y 1 Pedro 3:18 afirma que Cristo padeció una sola vez por los pecados, el justo por los injustos, para llevarnos a Dios.
+
+Estos textos permiten hablar de una entrega representativa y sustitutiva: Cristo actúa en favor de pecadores y carga con aquello que ellos no podían resolver por sí mismos. La expresión no debe convertirse en una explicación simplista que ignore otros aspectos bíblicos de la cruz, como la victoria sobre el mal, la reconciliación y el ejemplo de obediencia.
+
+La sustitución no significa que el Padre y el Hijo sean adversarios ni que el Padre actúe contra la voluntad del Hijo. Juan 10:17-18 presenta la entrega de Jesús como voluntaria, y Juan 3:16-17 sitúa la misión dentro del amor de Dios. La cruz revela la unidad del propósito salvador y la entrega del Hijo.
+
+## 11. La cruz como centro de la vida de la Iglesia
+
+Primera de Corintios 11:23-26 relaciona la Cena del Señor con el recuerdo y la proclamación de la muerte de Cristo hasta que Él venga. La comunidad no celebra un mérito propio, sino la obra del Señor que la redimió.
+
+Gálatas 6:14 presenta la cruz como motivo de gloria que desplaza la jactancia humana. La vida cristiana se organiza alrededor de la gratitud, la reconciliación, el servicio y la fidelidad al Señor crucificado y resucitado.
+
+La predicación de la cruz debe evitar dos reducciones: tratarla como un símbolo vacío de sacrificio o usarla para justificar abusos y sufrimientos impuestos por otras personas. La entrega de Cristo revela el amor santo de Dios y llama a la Iglesia a servir, no a dominar.
+
 ## 10. Preguntas y respuestas
 
 **¿La salvación se compra mediante obras humanas?** No. Romanos 3:24-28 y Efesios 2:8-10 enseñan que la salvación es por gracia mediante la fe; las buenas obras son fruto de la nueva vida.
@@ -82,4 +98,4 @@ El Padre envió al Hijo; el Hijo se encarnó, obedeció y entregó su vida por l
 
 ## 12. Referencias bíblicas
 
-Isaías 52:13–53:12; Marcos 10:45; Juan 3:16-17; Romanos 3:9-26; Romanos 4:25; Romanos 5:18-19; 2 Corintios 5:18-21; Gálatas 4:4-7; Efesios 1:3-14; Filipenses 2:5-11; Colosenses 1:19-22; Colosenses 2:13-15; Hebreos 2:14-18; Hebreos 5:7-9; Hebreos 9:11-14; Hebreos 10:10-14; 1 Pedro 2:21-25; Tito 3:4-7; 1 Corintios 15:3-8.
+Isaías 52:13–53:12; Marcos 10:45; Juan 3:16-17; Romanos 3:9-26; Romanos 4:25; Romanos 5:18-19; 2 Corintios 5:18-21; Gálatas 4:4-7; Efesios 1:3-14; Filipenses 2:5-11; Colosenses 1:19-22; Colosenses 2:13-15; Hebreos 2:14-18; Hebreos 5:7-9; Hebreos 9:11-14; Hebreos 10:10-14; 1 Pedro 2:21-25; Tito 3:4-7; 1 Corintios 15:3-8.; Isaías 53:4-6; Juan 10:17-18; 1 Corintios 11:23-26; Gálatas 6:14; 1 Pedro 3:18
