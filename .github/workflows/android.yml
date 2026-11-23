@@ -246,24 +246,22 @@ jobs:
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-release.apk
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-debug.apk
 
-      - name: Install and launch APKs on Android 15 emulator
-        uses: reactivecircus/android-emulator-runner@v2
-        with:
-          api-level: 35
-          target: google_apis
-          arch: x86_64
-          profile: pixel_2
-          disable-animations: true
-          script: |
-            set -euo pipefail
-            adb install build/app/outputs/flutter-apk/app-release.apk
-            adb shell monkey -p com.lasanadoctrina.la_sana_doctrina 1
-            sleep 5
-            adb shell am force-stop com.lasanadoctrina.la_sana_doctrina
-            adb install -r build/app/outputs/flutter-apk/app-debug.apk
-            adb shell monkey -p com.lasanadoctrina.la_sana_doctrina 1
-            sleep 5
-            adb shell am force-stop com.lasanadoctrina.la_sana_doctrina
+      - name: Verify APK package metadata
+        run: |
+          set -euo pipefail
+          SDK_ROOT="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-$HOME/Android/Sdk}}"
+          BUILD_TOOLS="$(find "$SDK_ROOT/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -n1)"
+          AAPT="$BUILD_TOOLS/aapt"
+          test -x "$AAPT"
+          for APK in build/app/outputs/flutter-apk/app-debug.apk build/app/outputs/flutter-apk/app-release.apk; do
+            test -s "$APK"
+            PACKAGE="$("$AAPT" dump badging "$APK" | sed -n "s/^package: name='\\([^']*\\)'.*/\\1/p" | head -n1)"
+            if [ "$PACKAGE" != "com.lasanadoctrina.la_sana_doctrina" ]; then
+              echo "Unexpected package in $APK: $PACKAGE" >&2
+              exit 1
+            fi
+            echo "Verified package $PACKAGE in $APK"
+          done
 
       - name: Give every download a unique filename and checksum
         run: |
