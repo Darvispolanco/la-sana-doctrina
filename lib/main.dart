@@ -1285,7 +1285,7 @@ bool _isLoaded = false;
 // de prueba oficial para evitar tráfico publicitario inválido durante el desarrollo.
 // La cuenta de AdMob y los pagos deben estar a nombre de un adulto responsable.
 static const String _bannerAdUnitId = kReleaseMode
-    ? 'ca-app-pub-3642704038738168/1492221540'
+    ? 'ca-app-pub-3642704038738168/1480914570'
     : 'ca-app-pub-3940256099942544/6300978111';
 
 void _loadBanner() {
