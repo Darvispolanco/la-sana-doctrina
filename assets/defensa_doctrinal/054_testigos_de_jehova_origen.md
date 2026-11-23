@@ -52,6 +52,42 @@ Los testigos de Jehová poseen una historia y una estructura doctrinal propias. 
 - [What Is the Holy Spirit?](https://www.jw.org/en/bible-teachings/questions/what-is-the-holy-spirit/)
 - [Is Jesus Almighty God?](https://www.jw.org/en/bible-teachings/questions/is-jesus-almighty/)
 
+## 10. Historia y fuentes oficiales
+
+El movimiento de Estudiantes de la Biblia se desarrolló en Estados Unidos durante la segunda mitad del siglo XIX y estuvo asociado inicialmente con Charles Taze Russell. A través de publicaciones, reuniones y redes de estudio se formó una comunidad que posteriormente experimentó cambios organizativos y doctrinales. El nombre «testigos de Jehová» fue adoptado en 1931 por el grupo que llegó a constituir la organización actual.
+
+Para estudiar su historia hay que distinguir el movimiento temprano, las transformaciones institucionales, las publicaciones doctrinales de cada época y la enseñanza oficial contemporánea. Una cita antigua no demuestra por sí sola lo que la organización enseña hoy; de igual manera, una publicación reciente no debe proyectarse sin matices sobre todos los períodos anteriores.
+
+## 11. Comparación bíblica sobre la identidad de Jesús
+
+**Juan 1:1-3.** El prólogo afirma que el Verbo estaba con Dios, era Dios y que todas las cosas fueron hechas por medio de Él. La interpretación de la expresión «el Verbo era Dios» debe considerar la gramática griega, el contexto inmediato y el argumento completo. No es responsable resolver la cuestión con una traducción aislada o con una afirmación sin análisis.
+
+**Juan 8:58.** Jesús contrasta su existencia con la de Abraham mediante la declaración «Antes que Abraham fuese, yo soy». El pasaje requiere atención a la controversia que lo rodea y a su relación con el resto del Evangelio.
+
+**Colosenses 1:15-17.** El Hijo es llamado primogénito de toda creación y el propio texto explica su relación con ella: todas las cosas fueron creadas por medio de Él y para Él, y Él es antes de todas las cosas. El argumento debe considerar el sentido de «primogénito» dentro del párrafo y no asumir que siempre significa primer ser creado.
+
+**Hebreos 1:5-12.** El autor distingue al Hijo de los ángeles y aplica al Hijo expresiones de realeza y permanencia. El capítulo presenta una cristología elevada que debe leerse como unidad.
+
+## 12. La identidad y obra del Espíritu Santo
+
+Juan 14:16-17 promete «otro Consolador» que estará con los discípulos. Juan 14:26 atribuye al Espíritu enseñanza y recuerdo; Hechos 13:2 lo presenta hablando y apartando a dos misioneros; 1 Corintios 12:11 afirma que distribuye dones como quiere. Hechos 5:3-4 relaciona mentir al Espíritu con mentir a Dios.
+
+La Biblia utiliza imágenes como viento, fuego, agua o aceite para describir aspectos de la obra del Espíritu. Una metáfora no debe convertirse en una definición exhaustiva que anule los pasajes donde el Espíritu habla, enseña, decide y guía.
+
+## 13. Método para conversar y comparar traducciones
+
+Cuando una conversación depende de una traducción concreta, conviene identificar qué versión utiliza cada interlocutor y consultar el contexto del pasaje. Las diferencias de traducción deben examinarse con herramientas lingüísticas y no mediante acusaciones automáticas de corrupción. El estudiante debe comparar el argumento completo, revisar referencias cruzadas y reconocer cuándo una cuestión requiere mayor estudio.
+
+La finalidad es comprender lo que el texto afirma, no encontrar una frase aislada que permita desacreditar al interlocutor. La defensa bíblica debe ser precisa, paciente y centrada en Jesucristo.
+
+## 14. Preguntas de profundización
+
+1. ¿Qué relación establece Juan 1:1-3 entre el Verbo y la creación?
+2. ¿Cómo debe interpretarse «primogénito» en Colosenses 1:15-17?
+3. ¿Qué argumento desarrolla Hebreos 1 al comparar al Hijo con los ángeles?
+4. ¿Qué acciones personales del Espíritu aparecen en Juan 14 y Hechos 13?
+5. ¿Por qué una metáfora bíblica no debe utilizarse para ignorar otros textos?
+
 ## 10. Referencias bíblicas
 
 Deuteronomio 6:4; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Hechos 5:3-4; Hechos 13:1-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Colosenses 1:15-20; Hebreos 1:1-12.
