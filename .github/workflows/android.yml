@@ -227,6 +227,7 @@ jobs:
           --build-number=${GITHUB_RUN_NUMBER}
 
       - name: Build production APK with a unique Android version code
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         env:
           ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
           ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
@@ -236,17 +237,23 @@ jobs:
           --build-name=0.1.0
           --build-number=${GITHUB_RUN_NUMBER}
 
-      - name: Give every download a unique filename
+      - name: Give every download a unique filename and checksum
         run: |
           set -euo pipefail
           BUILD_TAG="v0.1.0-build${GITHUB_RUN_NUMBER}-${GITHUB_SHA::7}-run${GITHUB_RUN_ID}"
           OUT="build/app/outputs/flutter-apk"
           mv "${OUT}/app-debug.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-debug.apk"
-          mv "${OUT}/app-release.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release.apk"
           (
             cd "${OUT}"
-            sha256sum "LaSanaDoctrina-${BUILD_TAG}-debug.apk" "LaSanaDoctrina-${BUILD_TAG}-release.apk" > "LaSanaDoctrina-${BUILD_TAG}-SHA256SUMS.txt"
+            sha256sum "LaSanaDoctrina-${BUILD_TAG}-debug.apk" > "LaSanaDoctrina-${BUILD_TAG}-debug-SHA256SUM.txt"
           )
+          if [ -f "${OUT}/app-release.apk" ]; then
+            mv "${OUT}/app-release.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release.apk"
+            (
+              cd "${OUT}"
+              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-SHA256SUM.txt"
+            )
+          fi
 
       - name: Upload debug APK
         uses: actions/upload-artifact@v4
@@ -254,17 +261,18 @@ jobs:
           name: LaSanaDoctrina-v0.1.0-build${{ github.run_number }}-${{ github.run_id }}-debug
           path: |
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-debug.apk
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-SHA256SUMS.txt
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-debug-SHA256SUM.txt
           if-no-files-found: error
           retention-days: 14
 
       - name: Upload production APK
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: LaSanaDoctrina-v0.1.0-build${{ github.run_number }}-${{ github.run_id }}-production
           path: |
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-release.apk
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-SHA256SUMS.txt
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-SHA256SUM.txt
           if-no-files-found: error
           retention-days: 14
 
