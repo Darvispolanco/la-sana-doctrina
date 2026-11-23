@@ -27,7 +27,7 @@ String normalizeQuizQuestionKey(String value) => value
     .replaceAll(RegExp(r'[óòö]'), 'o')
     .replaceAll(RegExp(r'[úùü]'), 'u')
     .replaceAll('ñ', 'n')
-    .replaceAll(RegExp(r'[\\u0300-\\u036f]'), '')
+    .replaceAll(RegExp(r'[\u0300-\u036f]'), '')
     .replaceAll(RegExp(r'[^a-z0-9]'), '');
 
 /// Conserva la primera versión de cada pregunta y descarta duplicados.
