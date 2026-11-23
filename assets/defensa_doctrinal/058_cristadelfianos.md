@@ -82,6 +82,32 @@ La respuesta trinitaria debe explicar positivamente quién es Cristo, qué signi
 4. ¿Qué acciones personales del Espíritu describen Hechos 13:2 y 1 Corintios 12:11?
 5. ¿Cómo se mantienen juntos Deuteronomio 6:4 y Mateo 3:16-17?
 
+
+## 15. El argumento de la creación en Juan y Colosenses
+
+Juan 1:3 afirma que todas las cosas llegaron a existir por medio del Verbo y que sin él nada de lo creado llegó a existir. Colosenses 1:16-17 desarrolla una afirmación semejante: las cosas visibles e invisibles fueron creadas por medio de Cristo y para él, y él es antes de todas ellas. El razonamiento debe seguir la estructura de los textos. Si el Hijo fuera incluido entre las cosas creadas, sería necesario explicar por qué el autor lo presenta como aquel por medio de quien llegó a existir todo lo creado. La lectura trinitaria entiende que el Hijo no es una criatura exaltada, sino el Verbo eterno que participa de la obra creadora de Dios. Esta conclusión no elimina la distinción entre el Padre y el Hijo; precisamente Juan dice que el Verbo estaba con Dios.
+
+La expresión «primogénito de toda creación» de Colosenses 1:15 debe interpretarse dentro de los versículos siguientes, no separada de ellos. En el uso bíblico, primogenitura puede expresar preeminencia, herencia y autoridad, además de orden de nacimiento en determinados contextos. El propio pasaje explica la razón de la supremacía de Cristo: todas las cosas fueron creadas por medio de él y para él, y él es antes de todas ellas. Por tanto, el contexto favorece la idea de supremacía sobre la creación, no la identificación del Hijo como el primer elemento creado. La interpretación responsable permite que el autor explique su propio lenguaje.
+
+## 16. La resurrección y la obra del Padre, del Hijo y del Espíritu
+
+El Nuevo Testamento atribuye la resurrección de Jesús a la obra de Dios Padre, y también presenta al Hijo con autoridad sobre su propia vida y relaciona la vivificación con el Espíritu. Juan 2:19-21 registra la palabra de Jesús acerca de levantar el templo de su cuerpo; Juan 10:17-18 declara que tiene autoridad para poner su vida y volverla a tomar. Hechos 2:24 anuncia que Dios lo levantó, y Romanos 8:11 habla del Espíritu que levantó a Jesús de los muertos. Estos textos no se contradicen: muestran la acción divina en la obra salvadora y las relaciones personales que el Nuevo Testamento mantiene.
+
+La resurrección confirma que la humanidad de Jesús fue real y que la muerte no tuvo la última palabra. También vindica su identidad y su misión. Primera Corintios 15:3-8 presenta la muerte, sepultura y resurrección como elementos centrales del mensaje apostólico. Una doctrina de Cristo que debilite la realidad de su humanidad o convierta su resurrección en una simple metáfora no hace justicia al testimonio de los apóstoles. La fe cristiana proclama un acontecimiento redentor: el Hijo encarnado murió y resucitó, y en esa obra se manifiestan el propósito del Padre y el poder del Espíritu.
+
+## 17. La comunión del Espíritu y la vida del creyente
+
+La enseñanza sobre la personalidad del Espíritu no es una discusión abstracta. Segunda Corintios 13:14 habla de la comunión del Espíritu Santo, mientras Efesios 1:13-14 lo presenta como sello y garantía de la herencia. Romanos 8 describe su presencia en los creyentes, su testimonio de adopción y su ayuda en la debilidad. Estas funciones pertenecen al corazón de la vida cristiana: el Espíritu aplica la obra de Cristo, fortalece la esperanza y forma una comunidad que pertenece a Dios. Reducirlo a una energía impersonal oscurece la relación de comunión que los textos describen.
+
+La iglesia debe responder a esta enseñanza con dependencia, obediencia y discernimiento. No se debe confundir la obra del Espíritu con impulsos humanos, presión emocional o autoridad incuestionable de un dirigente. Primera de Juan 4:1 exhorta a probar los espíritus, y 1 Tesalonicenses 5:19-22 combina apertura a la obra del Espíritu con el deber de examinarlo todo. Una comprensión bíblica de su persona produce una comunidad que busca la verdad, sirve con humildad y procura el bien común. La doctrina trinitaria no separa la teología de la práctica: la confesión del Dios vivo transforma la adoración y la conducta.
+
+## 18. Aplicación pastoral y preguntas de estudio
+
+Al dialogar sobre la identidad de Cristo y el Espíritu, es útil comenzar por un pasaje y permitir que el texto establezca las preguntas. En Juan 1 se puede examinar quién es el Verbo, con quién estaba y qué relación tiene con la creación. En Colosenses 1 se debe observar qué significa que Cristo sea anterior a todas las cosas y que todo haya sido creado por medio de él. En Juan 14–16 se puede identificar qué hace el Consolador y cómo se relaciona con el Padre y el Hijo. Este procedimiento evita discusiones basadas únicamente en etiquetas y permite comparar las afirmaciones con el contexto.
+
+La aplicación pastoral requiere respeto por las personas y firmeza respecto a las ideas. No se debe asumir que todos los miembros de una comunidad conocen o sostienen cada formulación de sus documentos oficiales. Tampoco se debe ocultar una diferencia doctrinal por temor al diálogo. Una conversación honesta define los términos, escucha la explicación del interlocutor, lee los textos completos y reconoce cuando una cuestión necesita más estudio. La meta no es ganar una disputa, sino comunicar fielmente quién es el Hijo, quién es el Espíritu y cómo la Escritura mantiene la confesión de un solo Dios.
+
+
 ## 10. Referencias bíblicas
 
 Deuteronomio 6:4; Juan 1:1-18; Juan 14:16-26; Juan 17:1-5; Juan 20:24-29; Hechos 13:1-4; Romanos 8:26-27; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Colosenses 1:15-20; Hebreos 1:1-12; Hebreos 2:14-18.
