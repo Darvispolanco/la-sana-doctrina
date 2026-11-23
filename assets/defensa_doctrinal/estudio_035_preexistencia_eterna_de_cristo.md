@@ -1,41 +1,51 @@
-# Estudio 35. La preexistencia eterna de Cristo
+# D-035. La preexistencia eterna de Cristo
 
-## 1. Tesis
-El Hijo no comenzó a existir en Belén. Su nacimiento humano ocurrió en la historia, pero su existencia como Verbo es anterior a la creación. La doctrina debe demostrarse mediante textos en contexto, no solo por una frase aislada.
+## 1. La afirmación bíblica
 
-## 2. Juan 1:1-3: el Verbo antes de la creación
-El prólogo del Evangelio comienza «En el principio», evocando Génesis 1:1. Antes de describir la creación, Juan afirma que el Verbo ya era, estaba con Dios y era Dios. El versículo 3 declara que todas las cosas por él fueron hechas. Si todo lo creado llegó a existir por medio de él, el Verbo no pertenece a la categoría de las cosas creadas. Juan 1:14 identifica a ese Verbo con el que se hizo carne.
+La preexistencia de Cristo significa que el Hijo existía antes de su nacimiento humano. La Escritura no presenta a Jesús como un hombre que comenzó a existir en Belén y después recibió una dignidad extraordinaria. Lo presenta como el Verbo eterno que se hizo carne.
 
-## 3. Juan 8:58: antes que Abraham
-En Juan 8:31-59, Jesús debate con interlocutores que apelan a Abraham. La declaración «Antes que Abraham fuese, yo soy» presenta una existencia anterior a Abraham y una expresión solemne de identidad. El contexto explica la reacción de sus oyentes, aunque la interpretación de la frase debe relacionarse con el conjunto del Evangelio y no aislarse.
+## 2. Juan 1:1-3
 
-## 4. Juan 17:5: gloria anterior al mundo
-En la oración sacerdotal, Jesús pide al Padre que lo glorifique con la gloria que tuvo junto a él antes que el mundo fuese. El contexto (Jn 17:1-26) distingue al Hijo del Padre y afirma una relación anterior a la creación. La petición no describe el comienzo de la existencia del Hijo, sino su gloria preexistente.
+El Evangelio de Juan comienza declarando que el Verbo ya era en el principio. Estaba con Dios y era Dios. El versículo 3 afirma que todas las cosas fueron hechas por medio de Él.
 
-## 5. Filipenses 2:5-11
-Pablo llama a la iglesia a la humildad y presenta a Cristo como modelo. El que existía en forma de Dios tomó forma de siervo y se humilló hasta la muerte. La secuencia presupone existencia anterior a la condición humana. No enseña que Cristo dejara de ser divino, sino que asumió la condición de siervo.
+El argumento distingue al Verbo de aquel con quien estaba y afirma su naturaleza divina. También lo sitúa antes de todo lo creado. Si todas las cosas creadas llegaron a existir por medio de Él, no debe incluirse al Verbo entre las criaturas.
 
-## 6. Colosenses 1:15-17 y Hebreos 1:1-3
-Colosenses presenta al Hijo como imagen del Dios invisible, primogénito sobre toda creación, y explica que todas las cosas fueron creadas por medio de él y para él. «Primogénito» debe leerse en el contexto de supremacía y herencia, no imponiendo automáticamente la idea de primer ser creado; los versículos 16-17 explican su relación con toda la creación. Hebreos 1 afirma que Dios hizo el universo por el Hijo y que el Hijo sustenta todas las cosas.
+## 3. La gloria antes de la creación
 
-## 7. Objeciones y respuestas
-**Objeción: Jesús nació en Belén, por tanto comenzó allí.**  
-Respuesta: Belén marca su nacimiento humano (Mt 2:1); Juan 1:1-14 distingue ese acontecimiento de la existencia anterior del Verbo.
+Juan 17:1-5 contiene la oración de Jesús al Padre. En el versículo 5 pide ser glorificado con la gloria que tuvo con Él antes que el mundo existiera. La oración muestra una relación anterior a la creación y una gloria compartida.
 
-**Objeción: «Primogénito» significa necesariamente creado primero.**  
-Respuesta: Colosenses 1:15-17 define el término mediante la supremacía del Hijo sobre todo lo creado y su papel como creador y sustentador.
+El pasaje debe leerse en el contexto de la hora de Jesús, su misión y su regreso al Padre. No es una referencia a una existencia que comenzó en Belén.
 
-**Objeción: Jesús es llamado Hijo, así que tuvo un comienzo.**  
-Respuesta: el título «Hijo» expresa su relación con el Padre; Juan 17:5 y Juan 1:1 enseñan su existencia anterior al mundo.
+## 4. Antes de Abraham
 
-## 8. Preguntas y respuestas
-1. **¿Cuándo comenzó la existencia humana de Jesús?** En su concepción y nacimiento históricos.
-2. **¿Comenzó entonces el Hijo a existir?** No; el Verbo existía antes de la creación (Jn 1:1-3).
-3. **¿Qué significa «primogénito» en Colosenses 1?** Supremacía y herencia en el contexto, no criatura inicial.
-4. **¿Qué relación hay entre preexistencia y encarnación?** El Hijo eterno asumió verdadera humanidad (Jn 1:14).
+En Juan 8:31-59 Jesús discute con sus interlocutores acerca de Abraham y su identidad. En el versículo 58 declara que antes de que Abraham fuese, Él es. El contraste entre la existencia temporal de Abraham y la afirmación de Jesús forma parte del argumento.
 
-## 9. Conclusión
-La preexistencia eterna del Hijo aparece en Juan, Pablo y Hebreos. La encarnación no creó al Hijo; el Hijo eterno entró verdaderamente en la historia humana para nuestra salvación.
+El texto debe relacionarse con Juan 1:1-3 y Juan 17:5. No debe aislarse de la discusión sobre la identidad de Cristo.
 
-## Pasajes para repaso
-Juan 1:1-18; 8:48-59; 17:1-5; Filipenses 2:5-11; Colosenses 1:15-20; Hebreos 1:1-12; Miqueas 5:2.
+## 5. El Hijo y la creación
+
+Colosenses 1:15-17 enseña que todas las cosas fueron creadas por medio del Hijo y para Él, y que Él es antes de todas las cosas. Hebreos 1:2-3 declara que Dios hizo el universo por medio del Hijo y que Él sustenta todas las cosas.
+
+La expresión «primogénito de toda creación» debe leerse dentro del contexto que atribuye al Hijo supremacía sobre lo creado, no como una afirmación de que Él fue la primera criatura.
+
+## 6. La encarnación
+
+Gálatas 4:4 afirma que Dios envió a su Hijo, nacido de mujer y nacido bajo la ley. Juan 1:14 enseña que el Verbo se hizo carne. El nacimiento humano es el comienzo de la vida terrenal de Jesús, no el inicio de la existencia del Hijo.
+
+## 7. Preguntas y respuestas
+
+**¿Jesús comenzó a existir en Belén?** No. Juan 1:1-3 y Juan 17:5 enseñan que existía antes de la creación.
+
+**¿El Hijo es una criatura?** Colosenses 1:16-17 y Hebreos 1:2-3 lo presentan como agente de la creación y sustentador de todas las cosas.
+
+**¿La preexistencia significa que el Hijo es el Padre?** No. Juan 17 muestra al Hijo hablando con el Padre y compartiendo gloria con Él.
+
+**¿La encarnación cambia la identidad del Hijo?** El Verbo se hace carne; no deja de ser el Verbo (Jn 1:14).
+
+## 8. Síntesis
+
+Jesucristo es el Hijo eterno, distinto del Padre y plenamente divino. Existía antes de la creación, participó en ella y asumió verdadera humanidad en la encarnación.
+
+## 9. Referencias bíblicas
+
+Miqueas 5:2; Juan 1:1-18; Juan 8:31-59; Juan 17:1-5; Colosenses 1:15-20; Gálatas 4:4-5; Filipenses 2:5-11; Hebreos 1:1-12.
