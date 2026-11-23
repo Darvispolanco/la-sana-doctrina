@@ -145,8 +145,11 @@ void main() {
 
     expect(find.textContaining('Pregunta 1:'), findsOneWidget);
     final resultsList = find.byType(ListView).first;
-    await tester.drag(resultsList, const Offset(0, -1600));
-    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(
+      find.textContaining('Pregunta 20:'),
+      500,
+      scrollable: resultsList,
+    );
     expect(find.textContaining('Pregunta 20:'), findsOneWidget);
   });
 
