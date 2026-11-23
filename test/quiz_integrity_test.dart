@@ -47,9 +47,6 @@ void main() {
       'Persona del Espíritu Santo',
       'Bautismo de Jesús',
       'Jesús y el Padre',
-      'Nombre del Padre, Hijo y Espíritu',
-      'Bendición apostólica',
-      'El Verbo eterno',
     ];
 
     for (final title in focusedTitles) {
