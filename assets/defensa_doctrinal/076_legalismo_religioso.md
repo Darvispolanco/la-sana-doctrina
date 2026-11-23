@@ -46,6 +46,32 @@ Debe enseñarse con claridad lo que la Biblia manda, distinguirlo de consejos pr
 
 La salvación es por gracia mediante la fe y produce obediencia. El legalismo distorsiona el evangelio al convertir reglas humanas o méritos personales en fundamento de aceptación. La libertad cristiana conduce al amor y al servicio, no al desorden.
 
+## 9. Diferenciar mandamiento bíblico, principio y preferencia
+
+No toda norma de una comunidad es necesariamente un mandamiento explícito de la Escritura. Conviene distinguir entre mandamientos claros, principios bíblicos que requieren aplicación prudente y acuerdos comunitarios que pueden variar según cultura y contexto. El error legalista aparece cuando una preferencia humana se presenta como condición universal de aceptación ante Dios.
+
+Romanos 14 trata asuntos de conciencia relacionados con comida y días. Pablo llama a no despreciar ni juzgar al hermano y a actuar para el Señor con convicción. El capítulo no elimina los mandamientos morales ni permite llamar bueno al pecado; enseña a no imponer como ley divina aquello que pertenece a la conciencia en asuntos secundarios.
+
+## 10. La relación entre gracia y santidad
+
+Tito 2:11-14 es central porque afirma que la gracia no solo salva: también educa al creyente para renunciar a la impiedad y vivir sobria, justa y piadosamente. La santidad no es un precio que se paga para recibir la salvación, sino una respuesta a la gracia que redime y purifica.
+
+Romanos 6:1-14 rechaza la idea de continuar en el pecado para que la gracia abunde. La unión con Cristo en su muerte y resurrección cambia la relación del creyente con el pecado. Por tanto, la gracia no debe utilizarse para justificar indiferencia moral.
+
+## 11. La corrección debe restaurar
+
+Gálatas 6:1-2 manda restaurar con espíritu de mansedumbre a quien cae en alguna falta, cuidando también de uno mismo. Mateo 18:15-17 describe un proceso de confrontación y responsabilidad comunitaria. La disciplina bíblica no busca humillar ni controlar, sino proteger a la comunidad y procurar restauración.
+
+Una iglesia debe corregir el pecado con verdad y misericordia. No debe inventar faltas para imponer preferencias ni ocultar conductas dañinas bajo el argumento de proteger la reputación institucional.
+
+## 12. Preguntas de profundización
+
+1. ¿Cómo distinguir un mandamiento bíblico de una preferencia cultural?
+2. ¿Qué enseña Romanos 14 sobre asuntos de conciencia?
+3. ¿Cómo demuestra Tito 2:11-14 que la gracia produce santidad?
+4. ¿Por qué Romanos 6 rechaza utilizar la gracia como permiso para pecar?
+5. ¿Qué actitud debe caracterizar la restauración según Gálatas 6:1-2?
+
 ## 9. Referencias bíblicas
 
 Marcos 7:1-13; Mateo 23:1-28; Romanos 6:1-14; Romanos 14:1-23; Gálatas 1:6-9; Gálatas 2:15-21; Gálatas 3:1-14; Gálatas 5:1-14; Efesios 2:8-10; Colosenses 2:16-23; Tito 2:11-14; 1 Pedro 1:14-16.
