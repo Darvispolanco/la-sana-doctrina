@@ -50,6 +50,34 @@ La gracia no exige encubrir el pecado ni permite tratar con crueldad a quien nec
 
 La gracia excluye el mérito humano y produce una vida de obediencia. Rechaza tanto el legalismo como el libertinaje. La salvación se recibe por fe y transforma al creyente para vivir en santidad y amor.
 
+## 9. Dos errores opuestos y una respuesta bíblica
+
+**Legalismo:** convierte la observancia humana en fundamento de aceptación ante Dios. Romanos 3:21-28 y Gálatas 2:15-21 enseñan que la justificación no se obtiene por las obras de la ley. La persona no puede presentar su desempeño como precio de la gracia.
+
+**Libertinaje:** utiliza la gracia como excusa para continuar deliberadamente en el pecado. Romanos 6:1-14 rechaza esa conclusión y explica que la unión con Cristo conduce a una vida nueva. Tito 2:11-14 afirma que la gracia educa para renunciar a la impiedad.
+
+La respuesta bíblica no consiste en encontrar un punto medio entre dos errores, sino en conservar el orden del evangelio: Dios salva por gracia mediante la fe y transforma al creyente para vivir en obediencia.
+
+## 10. La gracia en la obra del Padre, del Hijo y del Espíritu
+
+Efesios 1:3-14 presenta el propósito del Padre, la redención por la sangre del Hijo y el sello del Espíritu Santo. Tito 3:4-7 habla de la bondad y amor de Dios, la salvación por misericordia, la renovación del Espíritu y la justificación por gracia mediante Jesucristo.
+
+La salvación no es una recompensa por méritos ni una licencia para vivir sin transformación. Es la obra del único Dios trino que rescata y renueva al pecador. La respuesta adecuada es gratitud, fe y una vida de buenas obras.
+
+## 11. Disciplina, libertad y restauración
+
+La iglesia debe enseñar con claridad, pero no añadir condiciones humanas a la salvación. Romanos 14 llama a tratar con paciencia los asuntos de conciencia; Gálatas 6:1-2 manda restaurar con mansedumbre; Mateo 18:15-17 establece responsabilidad comunitaria frente al pecado. La disciplina debe ser proporcional, transparente y orientada a la restauración.
+
+La libertad cristiana no significa que cada persona defina el bien y el mal según su preferencia. Significa que la obediencia nace de la gracia y se expresa en amor, santidad y servicio.
+
+## 12. Preguntas de profundización
+
+1. ¿Cómo define Romanos 3 la base de la justificación?
+2. ¿Qué enseña Romanos 6 sobre la relación entre gracia y pecado?
+3. ¿Cómo transforma la gracia según Tito 2:11-14?
+4. ¿Qué papel tienen el Padre, el Hijo y el Espíritu en Tito 3:4-7?
+5. ¿Cómo se corrige sin caer en legalismo ni en indiferencia moral?
+
 ## 9. Referencias bíblicas
 
 Romanos 3:21-28; Romanos 6:1-14; Gálatas 2:15-21; Gálatas 5:1-14; Gálatas 6:1-2; Efesios 2:8-10; Tito 2:11-14; Tito 3:4-8.
