@@ -953,14 +953,25 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
   List<int?> answerHistory = [];
 
   void _start(QuizPack pack) {
+    // Segunda barrera en tiempo de ejecución: ninguna evaluación puede
+    // presentar dos veces la misma pregunta, aunque el origen tenga duplicados.
+    final questions = uniqueQuizQuestions(pack.questions);
+    final safePack = QuizPack(
+      title: pack.title,
+      description: pack.description,
+      questions: questions,
+      difficulty: pack.difficulty,
+      source: pack.source,
+    );
+
     setState(() {
-      selectedPack = pack;
+      selectedPack = safePack;
       questionIndex = 0;
       selectedAnswer = null;
       correctAnswers = 0;
       answered = false;
       showReview = false;
-      answerHistory = List<int?>.filled(pack.questions.length, null);
+      answerHistory = List<int?>.filled(questions.length, null);
     });
   }
 
