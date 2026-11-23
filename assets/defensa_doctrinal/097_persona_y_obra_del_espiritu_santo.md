@@ -56,6 +56,22 @@ Hechos 5:3-4 relaciona mentir al Espíritu Santo con mentir a Dios. Primera de C
 
 Estos textos muestran que el Espíritu es plenamente divino y actúa personalmente. No es una energía creada ni un dios independiente. Su identidad debe comprenderse dentro de la confesión del único Dios y de la distinción entre Padre, Hijo y Espíritu.
 
+## 9. El Espíritu y la oración de los creyentes
+
+Romanos 8:26-27 enseña que el Espíritu ayuda en la debilidad y que intercede conforme a la voluntad de Dios. Efesios 6:18 llama a orar en todo tiempo en el Espíritu, y Judas 20 exhorta a edificarse sobre la fe y orar en el Espíritu Santo.
+
+La oración cristiana no es una técnica para controlar a Dios ni una repetición mecánica de palabras. Es comunión dependiente de Dios, guiada por su verdad. La ayuda del Espíritu no elimina la responsabilidad de orar, estudiar la Escritura y vivir en obediencia.
+
+El Espíritu fortalece al creyente en su debilidad y orienta la oración hacia la voluntad de Dios. Esta obra no debe utilizarse para afirmar que cualquier pensamiento o impulso personal procede necesariamente del Espíritu.
+
+## 10. Llenura, poder y testimonio
+
+Hechos 2:1-4 relata la venida del Espíritu en Pentecostés, y Hechos 4:29-31 describe a los creyentes siendo llenos del Espíritu para anunciar con valor la palabra de Dios. Efesios 5:18-21 relaciona la llenura con una vida de adoración, gratitud y relaciones transformadas.
+
+Hechos 1:8 vincula el poder del Espíritu con el testimonio de Cristo. Por tanto, la llenura no debe medirse únicamente por manifestaciones externas o por la intensidad de una reunión. El texto destaca la capacidad para dar testimonio, la valentía, la edificación y una vida sometida al Señor.
+
+Las experiencias deben examinarse a la luz de la Escritura y de sus frutos. Ninguna manifestación concede permiso para manipular, humillar o dominar a otras personas. El Espíritu glorifica a Cristo y edifica a la Iglesia.
+
 ## 9. Preguntas y respuestas
 
 **¿El Espíritu Santo es una energía?** No. Enseña, habla, guía y distribuye dones según su voluntad (Jn 14:26; Hch 13:2; 1 Co 12:11).
@@ -76,4 +92,4 @@ El Espíritu Santo es una persona divina que aplica la obra de Cristo, produce e
 
 ## 11. Referencias bíblicas
 
-Juan 3:1-8; Juan 14:16-26; Juan 15:26-27; Juan 16:7-15; Hechos 1:8; Hechos 5:3-4; Hechos 13:1-4; Hechos 16:6-10; Romanos 8:1-17, 26-27; 1 Corintios 2:10-11; 1 Corintios 12:4-11; 1 Corintios 13:1-13; 1 Corintios 14:1-40; Gálatas 4:4-7; Gálatas 5:16-25; Tito 3:4-7; 1 Pedro 1:1-2; 1 Juan 4:1.
+Juan 3:1-8; Juan 14:16-26; Juan 15:26-27; Juan 16:7-15; Hechos 1:8; Hechos 5:3-4; Hechos 13:1-4; Hechos 16:6-10; Romanos 8:1-17, 26-27; 1 Corintios 2:10-11; 1 Corintios 12:4-11; 1 Corintios 13:1-13; 1 Corintios 14:1-40; Gálatas 4:4-7; Gálatas 5:16-25; Tito 3:4-7; 1 Pedro 1:1-2; 1 Juan 4:1.; Hechos 2:1-4; Hechos 4:29-31; Romanos 8:26-27; Efesios 5:18-21; Efesios 6:18; Judas 20
