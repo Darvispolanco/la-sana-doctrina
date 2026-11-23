@@ -5,9 +5,9 @@ import 'package:la_sana_doctrina/main.dart';
 void main() {
   testWidgets('el diccionario muestra el catálogo completo y busca sin distinguir tildes',
       (tester) async {
-    await tester.pumpWidget(const MaterialApp(home: DiccionarioTab()));
+    await tester.pumpWidget(const MaterialApp(home: Scaffold(body: DiccionarioTab())));
 
-    expect(find.text('636 términos disponibles'), findsOneWidget);
+    expect(find.text('658 términos disponibles'), findsOneWidget);
 
     await tester.enterText(find.byType(TextField), 'Espiritu Santo');
     await tester.pumpAndSettle();
