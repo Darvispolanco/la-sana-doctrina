@@ -1,24 +1,57 @@
-# Estudio 66. Movimiento Palabra de Fe: lenguaje, fe y soberanía de Dios
+# D-066. Movimiento Palabra de Fe: examinar las afirmaciones sobre fe y palabras
 
-## Panorama
-«Palabra de Fe» identifica corrientes y predicadores que enfatizan la confesión verbal, la fe y la relación entre palabras y resultados. Hay diversidad interna; el análisis debe dirigirse a enseñanzas documentadas, especialmente cuando se afirma que las palabras humanas obligan a Dios o garantizan salud y prosperidad.
+## 1. Alcance
 
-## La fe bíblica
-Hebreos 11:1-6 describe la fe como confianza en Dios y su palabra. Marcos 11:22-25 llama a tener fe en Dios y a orar perdonando. El pasaje no presenta al creyente como soberano que controla la realidad mediante una fórmula verbal. Santiago 4:13-16 advierte que los planes humanos deben someterse a la voluntad del Señor.
+El nombre «Palabra de Fe» reúne enseñanzas y ministerios con diferencias internas. No es correcto atribuir cada declaración a todos sus participantes. Este estudio evalúa afirmaciones que atribuyen a las palabras humanas un poder casi automático para producir salud, riqueza o acontecimientos, y las compara con el uso bíblico de la fe, la oración y la confesión.
 
-## Oración y voluntad divina
-1 Juan 5:14-15 enseña confianza al pedir conforme a la voluntad de Dios. Jesús ora en Getsemaní: «no se haga mi voluntad, sino la tuya» (Lc 22:42). La fe madura no manipula a Dios; confía en su sabiduría incluso cuando la respuesta no coincide con nuestro deseo.
+## 2. La fe bíblica se dirige a Dios
 
-## La lengua y sus límites
-Proverbios 18:21 destaca el poder de la lengua para vida y muerte en el ámbito de las relaciones y consecuencias humanas. Santiago 3:1-12 advierte sobre el daño que puede causar el habla. Ninguno de estos textos enseña que toda declaración humana cree automáticamente realidades materiales.
+Hebreos 11:1-6 presenta la fe como confianza en Dios y en su palabra. Los ejemplos del capítulo muestran personas que obedecieron, esperaron y perseveraron, incluso cuando no recibieron en esta vida todo lo prometido.
 
-## Preguntas y respuestas
-1. **¿La fe es una fuerza controlable?** La Biblia la presenta como confianza en Dios.
-2. **¿Toda oración debe producir el resultado solicitado?** Se ora conforme a la voluntad de Dios.
-3. **¿Las palabras importan?** Sí, pero no convierten al ser humano en soberano.
-4. **¿Qué modelo ofrece Jesús?** Confianza y sumisión al Padre.
+La fe no es una fuerza independiente que el ser humano activa mediante fórmulas verbales. Su objeto es Dios, cuyo carácter y promesas sostienen al creyente.
 
-## Conclusión
-La fe bíblica no es una técnica de control. Es confianza obediente en el Dios soberano, expresada en oración, perseverancia y sometimiento a su voluntad.
-## Pasajes
-Marcos 11:22-25; Lucas 22:39-46; Santiago 3:1-12; 4:13-16; Hebreos 11:1-6; 1 Juan 5:14-15.
+## 3. El poder pertenece a Dios
+
+Génesis 1 presenta a Dios creando mediante su palabra. El sujeto de esa acción es Dios, no el ser humano. Salmo 33:6-9 atribuye al Señor la creación por la palabra de su poder.
+
+No debe trasladarse automáticamente la acción creadora de Dios a las declaraciones humanas. La Escritura enseña que el ser humano ora, pide, confiesa y anuncia la verdad, pero no controla la realidad como si sus palabras tuvieran autoridad divina autónoma.
+
+## 4. Marcos 11:22-24 en su contexto
+
+Jesús llama a sus discípulos a tener fe en Dios y enseña sobre la oración. El pasaje debe leerse junto con el contexto de la higuera, la purificación del templo y la enseñanza sobre perdonar (Mr 11:12-25).
+
+La exhortación no convierte la oración en una técnica para obligar a Dios a cumplir cualquier deseo. 1 Juan 5:14 aclara que la confianza en la oración se relaciona con pedir conforme a su voluntad.
+
+## 5. La oración incluye dependencia y sumisión
+
+En Getsemaní, Jesús pide que pase de Él la copa, pero expresa obediencia a la voluntad del Padre (Mt 26:36-46). Pablo ruega que le sea quitado un aguijón y recibe la respuesta de que la gracia del Señor le basta (2 Co 12:7-10).
+
+Estos pasajes muestran que la oración verdadera no niega la dificultad ni garantiza que toda petición se cumpla como se desea. La fe persevera confiando en Dios.
+
+## 6. Confesar la verdad no es manipular la realidad
+
+Romanos 10:9-10 habla de creer con el corazón y confesar con la boca que Jesús es el Señor. La confesión es una respuesta de fe al evangelio, no una fórmula para generar riqueza o impedir todo sufrimiento.
+
+Efesios 4:25 llama a hablar verdad con el prójimo. Santiago 3 advierte sobre el uso destructivo de la lengua. La Biblia atribuye importancia moral a las palabras, pero no enseña que toda declaración humana produzca automáticamente lo que enuncia.
+
+## 7. Preguntas y respuestas
+
+**¿Las palabras humanas tienen poder creador como la palabra de Dios?** No. Génesis 1 y Salmo 33 atribuyen la creación al Señor.
+
+**¿La fe garantiza que no habrá enfermedad ni escasez?** No. Pablo describe debilidad y necesidad en 2 Corintios 12:7-10 y Filipenses 4:11-13.
+
+**¿Confesar a Jesús es una declaración positiva para obtener bienes?** Romanos 10:9-10 relaciona la confesión con la fe en Cristo y su señorío.
+
+**¿Debemos orar con confianza?** Sí, pero conforme a la voluntad de Dios (1 Jn 5:14-15), como Jesús modela en Getsemaní.
+
+## 8. Criterios de evaluación
+
+Se debe preguntar si la enseñanza presenta a Dios como soberano, si interpreta correctamente los pasajes, si permite reconocer el sufrimiento y si evita culpar a quienes no reciben lo que piden. Una doctrina que convierte las palabras en mecanismo de control no refleja la dependencia bíblica.
+
+## 9. Síntesis
+
+La fe bíblica confía en Dios; la oración expresa dependencia; y la confesión proclama la verdad acerca de Cristo. Las palabras humanas tienen responsabilidad moral, pero no poseen el poder creador ni la soberanía de Dios.
+
+## 10. Referencias bíblicas
+
+Génesis 1:1-31; Salmo 33:6-9; Marcos 11:12-25; Mateo 26:36-46; Romanos 10:9-10; Efesios 4:25; Filipenses 4:10-13; 2 Corintios 12:7-10; Hebreos 11:1-16; Santiago 3:1-12; 1 Juan 5:14-15.
