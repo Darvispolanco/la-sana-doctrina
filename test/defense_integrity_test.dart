@@ -30,6 +30,15 @@ void main() {
         isTrue,
         reason: 'El documento $id no contiene encabezados estructurados.',
       );
+      final numericId = int.parse(id.substring(2));
+      if (numericId >= 81 && numericId <= 100) {
+        final wordCount = content.trim().split(RegExp(r'\\s+')).length;
+        expect(
+          wordCount,
+          greaterThanOrEqualTo(650),
+          reason: 'El documento $id necesita mayor desarrollo bíblico y contextual.',
+        );
+      }
     }
   });
 }
