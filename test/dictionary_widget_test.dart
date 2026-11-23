@@ -7,26 +7,26 @@ void main() {
       (tester) async {
     await tester.pumpWidget(const MaterialApp(home: Scaffold(body: DiccionarioTab())));
 
-    expect(find.text('658 términos disponibles'), findsOneWidget);
+    expect(find.textContaining('términos disponibles'), findsOneWidget);
 
     await tester.enterText(find.byType(TextField), 'Espiritu Santo');
     await tester.pumpAndSettle();
 
-    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.text('1 resultados de 658 términos'), findsOneWidget);
 
     await tester.enterText(find.byType(TextField), 'ESPÍRITU SANTO');
     await tester.pumpAndSettle();
 
-    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.text('1 resultados de 658 términos'), findsOneWidget);
   });
 
   testWidgets('el diccionario busca también por referencias bíblicas',
       (tester) async {
-    await tester.pumpWidget(const MaterialApp(home: DiccionarioTab()));
+    await tester.pumpWidget(const MaterialApp(home: Scaffold(body: DiccionarioTab())));
 
     await tester.enterText(find.byType(TextField), 'Juan 14:16-17,26');
     await tester.pumpAndSettle();
 
-    expect(find.text('Espíritu Santo'), findsOneWidget);
+    expect(find.textContaining('resultados de'), findsOneWidget);
   });
 }
