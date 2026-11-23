@@ -16,13 +16,36 @@ import 'study_data.dart';
 export 'study_data.dart';
 export 'quiz_data.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+Future<bool>? _adsInitialization;
+
+Future<bool> _initializeAdsSafely() {
+  return _adsInitialization ??= () async {
+    try {
+      await MobileAds.instance.initialize();
+      return true;
+    } catch (error, stackTrace) {
+      debugPrint('No se pudieron inicializar los anuncios: $error');
+      debugPrintStack(stackTrace: stackTrace);
+      return false;
+    }
+  }();
+}
+
 Future<void> main() async {
-WidgetsFlutterBinding.ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
 
-await MobileAds.instance.initialize();
-await SavedStudyStore.load();
+  // La interfaz debe aparecer aunque falle un servicio externo del dispositivo.
+  runApp(const SanaDoctrinaApp());
 
-runApp(const SanaDoctrinaApp());
+  try {
+    await SavedStudyStore.load();
+  } catch (error, stackTrace) {
+    debugPrint('No se pudieron recuperar los estudios guardados: $error');
+    debugPrintStack(stackTrace: stackTrace);
+  }
+
+  // Los anuncios se inicializan después de mostrar la primera pantalla.
+  await _initializeAdsSafely();
 }
 
 class SanaDoctrinaApp extends StatelessWidget {
@@ -292,16 +315,28 @@ class SavedStudyStore {
 static final ValueNotifier<Set<String>> saved = ValueNotifier<Set<String>>({});
 
 static Future<void> load() async {
-final preferences = await SharedPreferences.getInstance();
-saved.value = preferences.getStringList('saved_study_numbers')?.toSet() ?? <String>{};
+  try {
+    final preferences = await SharedPreferences.getInstance();
+    saved.value = preferences.getStringList('saved_study_numbers')?.toSet() ?? <String>{};
+  } catch (error, stackTrace) {
+    debugPrint('No se pudieron cargar los estudios guardados: $error');
+    debugPrintStack(stackTrace: stackTrace);
+    saved.value = <String>{};
+  }
 }
 
 static Future<void> toggle(String number) async {
-final next = Set<String>.from(saved.value);
-if (!next.add(number)) next.remove(number);
-saved.value = next;
-final preferences = await SharedPreferences.getInstance();
-await preferences.setStringList('saved_study_numbers', next.toList());
+  final next = Set<String>.from(saved.value);
+  if (!next.add(number)) next.remove(number);
+  saved.value = next;
+
+  try {
+    final preferences = await SharedPreferences.getInstance();
+    await preferences.setStringList('saved_study_numbers', next.toList());
+  } catch (error, stackTrace) {
+    debugPrint('No se pudieron guardar los cambios localmente: $error');
+    debugPrintStack(stackTrace: stackTrace);
+  }
 }
 }
 
@@ -1288,30 +1323,46 @@ static const String _bannerAdUnitId = kReleaseMode
     ? 'ca-app-pub-3642704038738168/1480914570'
     : 'ca-app-pub-3940256099942544/6300978111';
 
-void _loadBanner() {
-final banner = BannerAd(
-adUnitId: _bannerAdUnitId,
-size: AdSize.banner,
-request: const AdRequest(),
-listener: BannerAdListener(
-onAdLoaded: (ad) {
-if (!mounted) {
-ad.dispose();
-return;
-}
+Future<void> _loadBanner() async {
+  final initialized = await _initializeAdsSafely();
+  if (!initialized || !mounted) return;
 
-setState(() {
-_bannerAd = ad as BannerAd;
-_isLoaded = true;
-});
-},
-onAdFailedToLoad: (ad, error) {
-ad.dispose();
-},
-),
-);
+  try {
+    final banner = BannerAd(
+      adUnitId: _bannerAdUnitId,
+      size: AdSize.banner,
+      request: const AdRequest(),
+      listener: BannerAdListener(
+        onAdLoaded: (ad) {
+          if (!mounted) {
+            ad.dispose();
+            return;
+          }
+          setState(() {
+            _bannerAd = ad as BannerAd;
+            _isLoaded = true;
+          });
+        },
+        onAdFailedToLoad: (ad, error) {
+          ad.dispose();
+          if (identical(_bannerAd, ad)) {
+            _bannerAd = null;
+            _isLoaded = false;
+          }
+          debugPrint('No se pudo cargar el anuncio: $error');
+        },
+      ),
+    );
 
-banner.load();
+    _bannerAd = banner;
+    await banner.load();
+  } catch (error, stackTrace) {
+    _bannerAd?.dispose();
+    _bannerAd = null;
+    _isLoaded = false;
+    debugPrint('Se omitió el banner por un error de inicialización: $error');
+    debugPrintStack(stackTrace: stackTrace);
+  }
 }
 
 @override
