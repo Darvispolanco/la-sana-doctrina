@@ -51,6 +51,32 @@ El Nuevo Testamento presenta al Hijo como anterior a la creación, agente de tod
 - [Who Is Jesus Christ? Is Jesus God or God’s Son?](https://www.jw.org/en/library/books/bible-study/who-is-jesus-christ/)
 - [Who Is the Archangel Michael?](https://www.jw.org/en/bible-teachings/questions/archangel-michael/)
 
+## 11. Análisis del argumento de Hebreos 1
+
+Hebreos 1 no es una colección de títulos aislados. El autor construye un contraste entre el Hijo y los ángeles para demostrar la superioridad del Hijo. Primero lo presenta como heredero de todo y agente de la creación; luego lo describe como resplandor de la gloria divina y expresión exacta de su ser. Después pregunta a cuál de los ángeles se dirigió Dios como Hijo y continúa aplicando al Hijo textos de entronización y permanencia.
+
+En los versículos 10-12 se utiliza lenguaje del Salmo 102 relacionado con el Creador que permanece mientras la creación cambia. El argumento tiene peso porque no solo atribuye honor al Hijo: lo coloca del lado del Creador y por encima del orden angélico. Una lectura que identifica al Hijo con Miguel debe explicar por qué el autor distingue al Hijo de los ángeles y le aplica estos pasajes.
+
+## 12. «Primogénito» en Colosenses 1:15
+
+El término «primogénito» puede expresar prioridad, rango y herencia, además de su uso para el primer nacido en una familia. El propio contexto ayuda a precisar el sentido: los versículos 16-17 explican que todas las cosas fueron creadas por medio del Hijo, en los cielos y en la tierra, visibles e invisibles, y que Él es antes de todas las cosas.
+
+Por tanto, la palabra no debe interpretarse separada de la explicación que sigue. El argumento de Pablo presenta la supremacía del Hijo sobre la creación, no su pertenencia al conjunto de seres creados. El estudio también debe comparar Salmo 89:27, donde el lenguaje de primogenitura se relaciona con posición y preeminencia.
+
+## 13. Integración de la deidad y la distinción personal
+
+La confesión de Tomás en Juan 20:28 no elimina la distinción entre Jesús y el Padre. Juan 17 presenta al Hijo orando al Padre; Juan 1 presenta al Verbo con Dios y siendo Dios. La doctrina trinitaria sostiene ambos datos: el Hijo es plenamente divino y es una persona distinta del Padre.
+
+La respuesta no debe caer en dos errores: afirmar que Jesús es el Padre como si no hubiera distinción, o afirmar que Jesús es una criatura porque se dirige al Padre. La relación filial y la deidad del Hijo deben conservarse juntas.
+
+## 14. Preguntas de profundización
+
+1. ¿Cuál es la estructura argumental de Hebreos 1:1-14?
+2. ¿Qué relación existe entre Colosenses 1:15 y los versículos 16-17?
+3. ¿Cómo se relacionan Juan 1:1 y Juan 17:1-5?
+4. ¿Por qué Juan 20:28 es una confesión dirigida al Jesús resucitado?
+5. ¿Cómo se puede afirmar la deidad del Hijo sin confundirlo con el Padre?
+
 ## 10. Referencias bíblicas
 
 Juan 1:1-18; Juan 5:19-23; Juan 17:1-5; Juan 20:24-31; Colosenses 1:15-20; Filipenses 2:5-11; Hebreos 1:1-14.
