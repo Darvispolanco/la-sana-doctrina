@@ -1,27 +1,56 @@
-# Estudio 55. La identidad de Jesús según los Testigos de Jehová: examen bíblico
+# D-055. La identidad de Jesús según los testigos de Jehová: examen de los textos
 
-## Presentación cuidadosa
-La enseñanza oficial de los Testigos de Jehová distingue a Jehová como Dios Todopoderoso y presenta a Jesucristo como su Hijo creado, identificado con Miguel antes de su vida humana. Para una conversación justa, debe verificarse la formulación en sus publicaciones oficiales actuales; no se debe atribuir esta posición a todos los grupos religiosos ni caricaturizar a sus miembros.
+## 1. Presentación fiel de la postura
 
-## Juan 1:1-3
-El prólogo afirma que el Verbo estaba con Dios y era Dios, y que todas las cosas llegaron a existir por medio de él. La expresión griega final de Juan 1:1 carece de artículo definido antes de *theos*, lo que ha generado debate sobre su traducción. La ausencia de artículo no significa automáticamente «un dios»; la construcción cualitativa puede expresar la naturaleza divina del Verbo. La interpretación debe considerar el paralelismo del versículo, Juan 1:3 y el uso del término en el Evangelio.
+Las publicaciones oficiales de los testigos de Jehová enseñan que Jesús es el Hijo de Dios, que existió antes de su vida humana y que es identificado con el arcángel Miguel. También sostienen que el Hijo fue creado por Jehová y no es igual al Dios Todopoderoso.
 
-## Juan 20:28
-Tomás responde al Jesús resucitado: «¡Señor mío, y Dios mío!». El contexto culmina con el propósito del Evangelio: creer que Jesús es el Cristo, el Hijo de Dios (20:30-31). No es adecuado convertir la confesión de Tomás en una exclamación dirigida al Padre: el texto la dirige a Jesús.
+La evaluación trinitaria debe presentar esa postura con exactitud y responder mediante los textos bíblicos, sin atribuir a cada miembro una intención personal.
 
-## Hebreos 1:5-12
-El capítulo distingue al Hijo de los ángeles y aplica al Hijo lenguaje de trono y creación. El argumento no presenta al Hijo como un ángel más elevado, sino como superior a los ángeles. Salmo 102:25-27 se aplica al Hijo en Hebreos 1:10-12.
+## 2. Juan 1:1-3: el Verbo y la creación
 
-## Colosenses 1:15-17
-«Primogénito de toda creación» se interpreta en su contexto: todas las cosas fueron creadas por medio de él y para él, y él es antes de todas las cosas. El término puede indicar rango y herencia, como en Salmo 89:27, no necesariamente el primero creado.
+Juan declara que el Verbo estaba con Dios y era Dios. Después afirma que todas las cosas fueron hechas por medio de Él y que sin Él nada de lo creado llegó a existir.
 
-## Preguntas y respuestas
-1. **¿Jesús es distinto del Padre?** Sí; Juan 17:1-5 muestra distinción relacional.
-2. **¿Eso significa que es una criatura?** No; Juan 1:1-3 y Hebreos 1:8-12 presentan su divinidad.
-3. **¿«Primogénito» siempre significa primer ser creado?** No; el contexto determina el sentido.
-4. **¿Cómo dialogar?** Leer juntos el párrafo completo y preguntar qué significa cada afirmación.
+El argumento sitúa al Verbo antes de la creación y le atribuye una función universal en ella. La expresión «primogénito de toda creación» de Colosenses 1:15 debe interpretarse junto con los versículos 16-17, que afirman que todo fue creado por medio de Él y para Él.
 
-## Conclusión
-La defensa trinitaria afirma un solo Dios y reconoce al Hijo como eterno y divino, distinto del Padre. La argumentación debe partir de los textos completos, no de consignas.
-## Pasajes
-Salmo 89:20-29; 102:25-27; Juan 1:1-18; 17:1-5; 20:24-31; Colosenses 1:15-20; Hebreos 1:1-14.
+## 3. Hebreos 1: el Hijo es superior a los ángeles
+
+Hebreos 1 compara al Hijo con los ángeles y muestra su superioridad. El versículo 5 pregunta a cuál de los ángeles Dios dijo «Mi Hijo eres tú». El versículo 8 utiliza lenguaje de dignidad divina para el Hijo. Los versículos 10-12 le atribuyen lenguaje relacionado con la creación y la permanencia.
+
+El capítulo no presenta a Jesús como el ángel más importante, sino como el Hijo superior a los ángeles.
+
+## 4. Juan 20:28: la confesión de Tomás
+
+Después de la resurrección, Tomás reconoce a Jesús y declara: «¡Señor mío, y Dios mío!». El contexto presenta una confesión dirigida al Cristo resucitado. Jesús no la corrige; concluye hablando de quienes creerán sin haber visto.
+
+El texto debe leerse junto con Juan 1:1-3 y con el propósito del Evangelio de conducir a la fe en Jesús como el Cristo, el Hijo de Dios (Jn 20:30-31).
+
+## 5. El Hijo y el Padre son distintos
+
+Juan 17:1-5 presenta al Hijo orando al Padre y hablando de la gloria que tenía con Él antes de la creación. La doctrina trinitaria no afirma que Jesús sea la misma persona que el Padre. Afirma que el Hijo es distinto del Padre y comparte la naturaleza divina.
+
+## 6. Preguntas y respuestas
+
+**¿Jesús es el arcángel Miguel?** La Biblia distingue al Hijo de los ángeles y presenta a Cristo como superior a ellos (Heb 1:5-14).
+
+**¿Colosenses 1:15 enseña que Jesús fue creado?** Los versículos 16-17 afirman que todas las cosas fueron creadas por medio de Él y que Él es antes de todas ellas.
+
+**¿Tomás llamó Dios a Jesús?** Juan 20:28 registra esa confesión dirigida al Señor resucitado.
+
+**¿Jesús y el Padre son la misma persona?** No. Juan 17:1-5 muestra al Hijo dirigiéndose al Padre.
+
+## 7. Método de respuesta
+
+Se debe leer el capítulo completo, observar el argumento del autor y comparar los textos que hablan de creación, preexistencia, gloria y relación con el Padre. Una palabra como «primogénito» no debe interpretarse aislada de la explicación inmediata.
+
+## 8. Síntesis doctrinal
+
+El Nuevo Testamento presenta al Hijo como anterior a la creación, agente de todas las cosas creadas, superior a los ángeles y digno de confesión como Dios. Es distinto del Padre, con quien comparte gloria y relación eterna.
+
+## 9. Fuente oficial para identificar la postura
+
+- [Who Is Jesus Christ? Is Jesus God or God’s Son?](https://www.jw.org/en/library/books/bible-study/who-is-jesus-christ/)
+- [Who Is the Archangel Michael?](https://www.jw.org/en/bible-teachings/questions/archangel-michael/)
+
+## 10. Referencias bíblicas
+
+Juan 1:1-18; Juan 5:19-23; Juan 17:1-5; Juan 20:24-31; Colosenses 1:15-20; Filipenses 2:5-11; Hebreos 1:1-14.
