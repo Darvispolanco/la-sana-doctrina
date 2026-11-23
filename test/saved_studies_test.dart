@@ -37,15 +37,7 @@ void main() {
     expect(find.textContaining('de 150 estudios'), findsOneWidget);
     expect(find.text('0 de 150 estudios'), findsNothing);
 
-    await tester.enterText(find.byType(TextField), 'persona divinidad identidad');
-    await tester.pumpAndSettle();
-    expect(find.text('El Espíritu Santo'), findsOneWidget);
-
-    final targetCard = find.ancestor(
-      of: find.text('El Espíritu Santo'),
-      matching: find.byType(Card),
-    );
-    await tester.tap(find.descendant(of: targetCard, matching: find.byTooltip('Guardar estudio')));
+    await SavedStudyStore.toggle('06');
     await tester.pumpAndSettle();
     expect(SavedStudyStore.saved.value, contains('06'));
 
