@@ -1,20 +1,47 @@
-# Estudio 46. Socinianismo: cristología y autoridad bíblica
+# D-046. Socinianismo: la divinidad de Cristo y la Trinidad
 
-## Contexto histórico
-El socinianismo se desarrolló en el siglo XVI y se asocia con Fausto Socino y comunidades antitrinitarias de Europa central. Sus posiciones incluyeron una lectura no trinitaria de la identidad de Cristo y una interpretación particular de la expiación. Las comunidades y autores socinianos no deben confundirse con todas las formas posteriores de unitarismo.
+## 1. Contexto histórico
 
-## Cuestión cristológica
-La evaluación bíblica debe atender a los textos que afirman la preexistencia y divinidad del Hijo. Juan 1:1-3 sitúa al Verbo antes de la creación y lo identifica como divino; Juan 17:5 habla de la gloria compartida con el Padre antes del mundo; Colosenses 1:15-17 presenta al Hijo como agente y fin de la creación. Cada texto requiere lectura gramatical y literaria, no una conclusión basada en una sola palabra.
+El socinianismo se desarrolló en Europa durante el siglo XVI y se relaciona especialmente con Lelio y Fausto Sozzini. Sus seguidores rechazaron la doctrina trinitaria y sostuvieron una interpretación de la identidad de Jesús que no aceptaba su preexistencia y deidad en el sentido trinitario clásico.
 
-## Expiación y reconciliación
-Romanos 3:21-26 presenta la muerte de Cristo en relación con la justicia de Dios y la justificación por gracia. 2 Corintios 5:18-21 enseña que Dios reconcilia consigo al mundo por Cristo y que el pecado es tratado en su obra. Reducir la cruz a ejemplo moral no hace justicia a todos estos pasajes, aunque el ejemplo de amor y obediencia también forma parte de su significado (1 P 2:21-24).
+El movimiento influyó en corrientes antitrinitarias posteriores. Para estudiarlo con justicia, se deben distinguir sus autores, sus comunidades y las formas posteriores de unitarismo.
 
-## Preguntas y respuestas
-1. **¿Qué temas deben examinarse?** La identidad de Cristo, su preexistencia, la Trinidad y el significado de la cruz.
-2. **¿Basta citar un versículo sobre la humanidad de Jesús?** No; hay que armonizarlo con los textos sobre su divinidad.
-3. **¿La cruz es solo ejemplo?** No; el NT también la presenta como obra redentora y reconciliadora.
+## 2. La confesión bíblica de un solo Dios
 
-## Conclusión
-El socinianismo debe estudiarse en su contexto histórico y evaluarse mediante el conjunto del testimonio bíblico sobre el Hijo y su obra.
-## Pasajes
-Juan 1:1-18; 17:1-5; Romanos 3:21-26; 1 Corintios 15:1-4; Colosenses 1:15-20; 2 Corintios 5:18-21.
+Deuteronomio 6:4 afirma que Jehová es uno. La doctrina trinitaria mantiene esta confesión y no enseña tres dioses. La discusión no consiste en abandonar el monoteísmo, sino en explicar los textos que presentan la deidad del Hijo y del Espíritu.
+
+## 3. Juan 1:1-3
+
+Juan declara que el Verbo estaba con Dios y era Dios. En el versículo 3 afirma que todas las cosas fueron hechas por medio de Él. El contexto sitúa al Verbo antes de la creación y le atribuye participación en ella.
+
+El pasaje debe leerse junto con Juan 1:14, que identifica al Verbo como quien se hizo carne. El sujeto que se encarna es el mismo que existía desde el principio.
+
+## 4. La confesión de Tomás y Hebreos 1
+
+Juan 20:28 registra que Tomás se dirige a Jesús como Señor y Dios. Hebreos 1:8 utiliza lenguaje de dignidad divina para el Hijo y el capítulo lo presenta como superior a los ángeles y agente de la creación.
+
+Estos textos deben estudiarse en su contexto y compararse con los pasajes donde Jesús ora al Padre. La distinción personal no elimina la deidad del Hijo.
+
+## 5. El Espíritu Santo
+
+Juan 14:16-26 presenta al Espíritu como Consolador enviado por el Padre en el nombre de Jesús. Hechos 5:3-4 relaciona mentir al Espíritu con mentir a Dios. 1 Corintios 12:11 le atribuye voluntad en la distribución de dones.
+
+La doctrina trinitaria considera estos pasajes junto con la confesión de un solo Dios. El Espíritu no es un dios separado ni una fuerza impersonal.
+
+## 6. Preguntas y respuestas
+
+**¿La Trinidad enseña tres dioses?** No. Mantiene la unidad divina (Dt 6:4; 1 Co 8:4-6).
+
+**¿El Verbo comenzó a existir en Belén?** Juan 1:1-3 lo presenta antes de la creación.
+
+**¿Tomás llamó Dios a Jesús?** Juan 20:28 registra esa confesión dirigida a Cristo.
+
+**¿El Espíritu es impersonal?** Juan 14:26, Hechos 13:2 y 1 Corintios 12:11 le atribuyen acciones personales.
+
+## 7. Síntesis
+
+El socinianismo debe estudiarse en su contexto histórico y en sus afirmaciones sobre Cristo y la Trinidad. La respuesta trinitaria reúne la confesión de un solo Dios con los textos que afirman la deidad y preexistencia del Hijo y la divinidad y personalidad del Espíritu.
+
+## 8. Referencias bíblicas
+
+Deuteronomio 6:4; Juan 1:1-18; Juan 14:16-26; Juan 20:24-29; Hechos 5:3-4; 1 Corintios 8:4-6; 1 Corintios 12:4-11; Hebreos 1:1-12.
