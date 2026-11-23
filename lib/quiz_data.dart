@@ -615,6 +615,8 @@ List<QuizQuestion> _additionalTrinityQuestions(String title) {
         _curatedQuestion('¿Qué patrón aparece en Efesios 2:18?', ['Por medio de Cristo, en un mismo Espíritu, tenemos acceso al Padre', 'Por medio del Padre evitamos a Cristo y al Espíritu', 'Tres accesos a tres dioses separados', 'La Iglesia se acerca a los ángeles'], 0, 'Pablo formula el acceso cristiano con una estructura trinitaria: por Cristo, en el Espíritu, al Padre.', 'Efesios 2:17-22'),
         _curatedQuestion('¿Cuál lectura respeta el conjunto de Juan 5:19-23?', ['El Hijo actúa en relación perfecta con el Padre y recibe honra como él', 'El Hijo actúa como rival del Padre', 'El Padre y el Hijo son la misma persona que dialoga consigo misma', 'El Hijo es un profeta sin autoridad'], 0, 'El pasaje mantiene la distinción entre Padre e Hijo y atribuye al Hijo obras y honra extraordinarias.', 'Juan 5:19-23'),
       ];
+    case 'Relaciones trinitarias':
+      return _doctrinalQuestionsFor(title) ?? const <QuizQuestion>[];
     default:
       return const <QuizQuestion>[];
   }
