@@ -171,11 +171,8 @@ void main() {
     for (var i = 0; i < pack.questions.length; i++) {
       final question = pack.questions[i];
       final correctOption = find.text(question.options[question.correctIndex]).first;
-      await tester.scrollUntilVisible(
-        correctOption,
-        250,
-        scrollable: find.byType(Scrollable).first,
-      );
+      await tester.ensureVisible(correctOption);
+      await tester.pumpAndSettle();
       await tester.tap(correctOption);
       await tester.pumpAndSettle();
 
@@ -183,11 +180,11 @@ void main() {
           ? 'Ver resultado'
           : 'Siguiente pregunta';
       final nextButton = find.text(nextLabel).last;
-      await tester.scrollUntilVisible(
-        nextButton,
-        250,
-        scrollable: find.byType(Scrollable).first,
-      );
+      // El botón aparece después de la explicación; desplazar su ListView
+      // ancestro evita tocarlo cuando queda parcialmente fuera del viewport.
+      await tester.ensureVisible(nextButton);
+      await tester.pumpAndSettle();
+      expect(nextButton, findsOneWidget);
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
     }
@@ -202,11 +199,9 @@ void main() {
       of: find.byType(CustomScrollView),
       matching: find.byType(Scrollable),
     ).first;
-    await tester.scrollUntilVisible(
-      find.textContaining('Pregunta 20:'),
-      500,
-      scrollable: resultsScrollView,
-    );
+    final lastReviewQuestion = find.textContaining('Pregunta 20:');
+    await tester.ensureVisible(lastReviewQuestion);
+    await tester.pumpAndSettle();
     expect(find.textContaining('Pregunta 20:'), findsOneWidget);
   });
 
