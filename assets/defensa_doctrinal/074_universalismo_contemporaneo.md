@@ -46,6 +46,36 @@ Una enseñanza debe evaluarse preguntando si mantiene la realidad del pecado, la
 
 El evangelio se anuncia a todos y Dios llama al arrepentimiento. La obra de Cristo tiene alcance universal en su autoridad y propósito, pero la Escritura también enseña juicio y la necesidad de responder al evangelio. La esperanza cristiana debe respetar todo el testimonio bíblico.
 
+## 8. Lectura conjunta de la misericordia y el juicio
+
+**1 Timoteo 2:1-6.** El llamado a orar por todos se relaciona con la voluntad salvadora de Dios y con la mediación única de Jesucristo. La amplitud de la oración cristiana impide limitar la preocupación de la iglesia a un grupo étnico, social o político. Sin embargo, el pasaje no elimina la necesidad de la fe ni la mediación de Cristo.
+
+**Juan 3:16-21.** El amor de Dios se dirige al mundo y ofrece vida eterna por medio del Hijo. El texto también distingue entre creer y no creer, y explica que la luz revela las obras humanas. La invitación es amplia, pero la respuesta al Hijo tiene consecuencias.
+
+**Hechos 17:30-31.** Pablo anuncia a los atenienses que Dios manda a todos arrepentirse porque ha establecido un día de juicio por medio de Jesucristo, a quien resucitó. La resurrección confirma la autoridad del juez designado.
+
+**Apocalipsis 20:11-15.** La visión del juicio final presenta responsabilidad ante Dios. Su lenguaje debe leerse dentro del género apocalíptico, pero no puede vaciarse de su función de advertencia.
+
+## 9. Reconciliación cósmica y destino individual
+
+Colosenses 1:19-20 presenta la reconciliación de todas las cosas por medio de la sangre de la cruz. El contexto destaca la supremacía del Hijo sobre la creación y la reconciliación realizada por su obra. La reconciliación cósmica puede expresar que todo el orden creado queda sometido al señorío de Cristo y que la paz de Dios prevalece.
+
+No debe asumirse sin argumentación que la expresión garantiza la salvación final de cada individuo. Para llegar a esa conclusión habría que explicar cómo se relaciona con los textos que hablan de incredulidad, arrepentimiento y juicio. La interpretación bíblica debe permitir que los pasajes se iluminen mutuamente.
+
+## 10. Responsabilidad pastoral y esperanza
+
+La iglesia debe evitar dos extremos. El primero es la presunción: asegurar que todos serán salvos sin importar su respuesta a Cristo. El segundo es la desesperación o el juicio precipitado: declarar que una persona específica está fuera del alcance de la misericordia divina. La tarea cristiana es anunciar el evangelio, llamar al arrepentimiento, practicar misericordia y dejar el juicio definitivo al Señor.
+
+La esperanza debe sostener la oración y la misión. La advertencia del juicio debe conducir a fidelidad, no a manipulación ni a especulación sobre personas concretas.
+
+## 11. Preguntas de profundización
+
+1. ¿Qué diferencia existe entre el deseo salvador de Dios y una afirmación sobre el destino final de todos?
+2. ¿Qué lugar ocupa la fe en Juan 3:16-21?
+3. ¿Cómo relaciona Hechos 17:30-31 la resurrección con el juicio?
+4. ¿Qué significa la reconciliación de todas las cosas en Colosenses 1:19-20?
+5. ¿Cómo debe la iglesia combinar esperanza, advertencia y misericordia?
+
 ## 9. Referencias bíblicas
 
 Mateo 25:31-46; Juan 3:16-21; Hechos 17:30-31; Romanos 2:5-11; 1 Timoteo 2:1-6; Efesios 1:9-10; Colosenses 1:15-23; 2 Tesalonicenses 1:5-10; Apocalipsis 20:11-15.
