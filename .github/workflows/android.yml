@@ -156,11 +156,22 @@ jobs:
       - name: Build debug APK
         run: flutter build apk --debug
 
-      - name: Upload APK
+      - name: Build production APK
+        run: flutter build apk --release
+
+      - name: Upload debug APK
         uses: actions/upload-artifact@v4
         with:
           name: la-sana-doctrina-debug-apk
           path: build/app/outputs/flutter-apk/app-debug.apk
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Upload production APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: la-sana-doctrina-production-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
           if-no-files-found: error
           retention-days: 7
 
