@@ -31,7 +31,7 @@ void main() {
     expect(preferences.getStringList('saved_study_numbers'), isEmpty);
   });
   testWidgets('Estudios permite buscar sin tildes y guardar desde el catálogo', (tester) async {
-    await tester.pumpWidget(const MaterialApp(home: EstudiosTab()));
+    await tester.pumpWidget(const MaterialApp(home: Scaffold(body: EstudiosTab())));
     await tester.enterText(find.byType(TextField), 'espiritu santo');
     await tester.pumpAndSettle();
 
@@ -46,7 +46,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(SavedStudyStore.saved.value, contains('06'));
 
-    await tester.pumpWidget(const MaterialApp(home: GuardadosTab()));
+    await tester.pumpWidget(const MaterialApp(home: Scaffold(body: GuardadosTab())));
     await tester.pumpAndSettle();
     expect(find.text('El Espíritu Santo'), findsOneWidget);
   });
