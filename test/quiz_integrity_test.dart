@@ -198,7 +198,9 @@ void main() {
     final lastReviewQuestion = find.textContaining('Pregunta 20:');
     // SliverList construye de forma diferida. Desplazar el viewport en
     // incrementos hasta que la última tarjeta entre en el árbol de widgets.
-    final reviewScrollView = find.byType(Scrollable).last;
+    final reviewScrollView = find.byWidgetPredicate(
+      (widget) => widget is Scrollable,
+    ).last;
     for (var attempt = 0;
         attempt < 25 && lastReviewQuestion.evaluate().isEmpty;
         attempt++) {
