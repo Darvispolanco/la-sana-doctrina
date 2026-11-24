@@ -1349,10 +1349,14 @@ class _HomeBannerAdState extends State<HomeBannerAd> {
 BannerAd? _bannerAd;
 bool _isLoaded = false;
 
-// Producción usa la unidad real. Las compilaciones debug conservan el ID
-// de prueba oficial para evitar tráfico publicitario inválido durante el desarrollo.
-// La cuenta de AdMob y los pagos deben estar a nombre de un adulto responsable.
-static const String _bannerAdUnitId = kReleaseMode
+// El APK Debug oficial distribuido por CI puede habilitar anuncios reales
+// mediante --dart-define=USE_PRODUCTION_ADS=true. Las compilaciones locales
+// conservan anuncios de prueba para no generar tráfico publicitario inválido.
+static const bool _useProductionAds = bool.fromEnvironment(
+  'USE_PRODUCTION_ADS',
+  defaultValue: false,
+);
+static const String _bannerAdUnitId = _useProductionAds
     ? 'ca-app-pub-3642704038738168/1480914570'
     : 'ca-app-pub-3940256099942544/6300978111';
 
