@@ -180,7 +180,11 @@ void main() {
           ? 'Ver resultado'
           : 'Siguiente pregunta';
       final nextButton = find.text(nextLabel).last;
-      await tester.ensureVisible(nextButton);
+      await tester.scrollUntilVisible(
+        nextButton,
+        250,
+        scrollable: find.byType(Scrollable).last,
+      );
       await tester.pumpAndSettle();
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
