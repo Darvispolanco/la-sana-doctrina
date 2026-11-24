@@ -197,14 +197,15 @@ void main() {
 
     expect(find.textContaining('Pregunta 1:'), findsOneWidget);
     final lastReviewQuestion = find.textContaining('Pregunta 20:');
-    // La revisión usa un CustomScrollView con SliverList; se desplaza
-    // el Scrollable real hasta construir la última tarjeta de respuestas.
-    await tester.scrollUntilVisible(
-      lastReviewQuestion,
-      350,
-      scrollable: find.byType(Scrollable).last,
-    );
-    await tester.pumpAndSettle();
+    // La pantalla de resultados presenta la revisión en un ListView
+    // único. Desplazar ese viewport hasta que se construya la pregunta 20.
+    final resultsList = find.byType(ListView).last;
+    for (var attempt = 0;
+        attempt < 30 && lastReviewQuestion.evaluate().isEmpty;
+        attempt++) {
+      await tester.drag(resultsList, const Offset(0, -450));
+      await tester.pumpAndSettle();
+    }
     expect(lastReviewQuestion, findsOneWidget);
   });
 
