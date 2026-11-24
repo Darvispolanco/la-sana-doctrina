@@ -296,6 +296,10 @@ jobs:
 
       - name: Build diagnostic Release APK without ads
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: |
           set -euo pipefail
           for attempt in 1 2 3; do
