@@ -179,9 +179,16 @@ void main() {
       final nextLabel = i + 1 == pack.questions.length
           ? 'Ver resultado'
           : 'Siguiente pregunta';
-      final nextButton = find.text(nextLabel).last;
-      // ensureVisible localiza el Scrollable ancestro correcto del botón.
-      // scrollUntilVisible exige recibir un Finder de tipo Scrollable, no ListView.
+      // La pantalla de pregunta solo contiene un FilledButton cuando la
+      // respuesta ya fue registrada. Localizar el control por tipo evita
+      // depender de Finder.last sobre un texto que puede no estar montado.
+      final nextButton = find.byType(FilledButton);
+      expect(
+        nextButton,
+        findsOneWidget,
+        reason: 'No apareció el control para avanzar después de responder la pregunta ${i + 1}.',
+      );
+      expect(find.text(nextLabel), findsOneWidget);
       await tester.ensureVisible(nextButton);
       await tester.pumpAndSettle();
       await tester.tap(nextButton);
