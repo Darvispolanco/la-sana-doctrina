@@ -260,6 +260,40 @@ jobs:
         run: |
           cp build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk
 
+      - name: Disable native AdMob startup for diagnostic Release
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          manifest = Path('android/app/src/main/AndroidManifest.xml')
+          source = manifest.read_text()
+          source = re.sub(
+              r'\\s*<meta-data\\s+android:name="com\\.google\\.android\\.gms\\.ads\\.APPLICATION_ID"[^>]*/>',
+              '',
+              source,
+          )
+          if 'xmlns:tools=' not in source:
+              source = source.replace(
+                  '<manifest ',
+                  '<manifest xmlns:tools="http://schemas.android.com/tools" ',
+                  1,
+              )
+          application_close = '</application>'
+          removal = '''
+                  <provider
+                      android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+                      tools:node="remove" />
+          '''
+          if 'com.google.android.gms.ads.MobileAdsInitProvider' not in source:
+              source = source.replace(application_close, removal + application_close, 1)
+          manifest.write_text(source)
+          if 'com.google.android.gms.ads.APPLICATION_ID' in source:
+              raise SystemExit('AdMob App ID remains in diagnostic manifest')
+          print('Diagnostic manifest excludes AdMob auto-initialization.')
+          PY
+
       - name: Build diagnostic Release APK without ads
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         run: |
