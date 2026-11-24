@@ -193,9 +193,10 @@ void main() {
       final nextLabel = i + 1 == pack.questions.length
           ? 'Ver resultado'
           : 'Siguiente pregunta';
-      // El control se muestra después de confirmar visualmente el registro
-      // de la respuesta. Se localiza por su etiqueta visible y tipo real.
-      final nextButton = find.widgetWithText(FilledButton, nextLabel);
+      // La respuesta ya fue registrada y la etiqueta del control debe
+      // estar montada. Usar el texto exacto evita depender del árbol interno
+      // que Material construye alrededor de FilledButton.
+      final nextButton = find.text(nextLabel);
       expect(
         nextButton,
         findsOneWidget,
