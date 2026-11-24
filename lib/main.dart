@@ -1068,67 +1068,49 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
 
     if (questionIndex >= pack.questions.length) {
       final percent = (correctAnswers / pack.questions.length * 100).round();
-      return CustomScrollView(
+      return ListView(
         key: PageStorageKey<String>('quiz-result-${pack.title}'),
         primary: true,
         physics: const AlwaysScrollableScrollPhysics(),
-        slivers: [
-          SliverPadding(
-            padding: const EdgeInsets.fromLTRB(24, 24, 24, 8),
-            sliver: SliverList(
-              delegate: SliverChildListDelegate([
-                const SizedBox(height: 12),
-                const Icon(Icons.emoji_events_outlined, size: 64, color: Color(0xFFD5B46A)),
-                const SizedBox(height: 12),
-                const Text(
-                  'Evaluación completada',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
-                ),
-                const SizedBox(height: 8),
-                Text(pack.title, textAlign: TextAlign.center),
-                const SizedBox(height: 16),
-                Text(
-                  correctAnswers.toString() + ' de ' + pack.questions.length.toString() + ' respuestas correctas',
-                  textAlign: TextAlign.center,
-                  style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
-                ),
-                Center(child: Text('Resultado: ' + percent.toString() + '%')),
-                Center(
-                  child: TextButton(
-                    onPressed: () => setState(() => showReview = !showReview),
-                    child: Text(showReview ? 'Ocultar respuestas' : 'Ver respuestas'),
-                  ),
-                ),
-              ]),
+        padding: const EdgeInsets.fromLTRB(24, 24, 24, 32),
+        children: [
+          const SizedBox(height: 12),
+          const Icon(Icons.emoji_events_outlined, size: 64, color: Color(0xFFD5B46A)),
+          const SizedBox(height: 12),
+          const Text(
+            'Evaluación completada',
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
+          ),
+          const SizedBox(height: 8),
+          Text(pack.title, textAlign: TextAlign.center),
+          const SizedBox(height: 16),
+          Text(
+            correctAnswers.toString() + ' de ' + pack.questions.length.toString() + ' respuestas correctas',
+            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
+          ),
+          Center(child: Text('Resultado: ' + percent.toString() + '%')),
+          Center(
+            child: TextButton(
+              onPressed: () => setState(() => showReview = !showReview),
+              child: Text(showReview ? 'Ocultar respuestas' : 'Ver respuestas'),
             ),
           ),
-          if (showReview)
-            SliverPadding(
-              padding: const EdgeInsets.symmetric(horizontal: 24),
-              sliver: SliverList(
-                delegate: SliverChildBuilderDelegate(
-                  (context, index) => _buildReviewCard(pack, index),
-                  childCount: pack.questions.length,
-                ),
-              ),
-            ),
-          SliverPadding(
-            padding: const EdgeInsets.fromLTRB(24, 8, 24, 32),
-            sliver: SliverList(
-              delegate: SliverChildListDelegate([
-                const SizedBox(height: 12),
-                FilledButton(
-                  onPressed: () => _start(pack),
-                  child: const Text('Repetir evaluación'),
-                ),
-                Center(
-                  child: TextButton(
-                    onPressed: () => setState(() => selectedPack = null),
-                    child: const Text('Volver a evaluaciones'),
-                  ),
-                ),
-              ]),
+          if (showReview) ...[
+            const SizedBox(height: 8),
+            for (var index = 0; index < pack.questions.length; index++)
+              _buildReviewCard(pack, index),
+          ],
+          const SizedBox(height: 12),
+          FilledButton(
+            onPressed: () => _start(pack),
+            child: const Text('Repetir evaluación'),
+          ),
+          Center(
+            child: TextButton(
+              onPressed: () => setState(() => selectedPack = null),
+              child: const Text('Volver a evaluaciones'),
             ),
           ),
         ],
