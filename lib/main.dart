@@ -1191,7 +1191,6 @@ class _CuestionariosTabState extends State<CuestionariosTab> {
           ),
           const SizedBox(height: 12),
           FilledButton(
-            key: const ValueKey('quiz-next-button'),
             onPressed: _next,
             child: Text(questionIndex + 1 == pack.questions.length ? 'Ver resultado' : 'Siguiente pregunta'),
           ),
