@@ -190,6 +190,15 @@ void main() {
         reason: 'La opción correcta no quedó registrada en la pregunta ${i + 1}.',
       );
 
+      // El ListView de preguntas construye sus hijos bajo demanda. El botón
+      // puede estar fuera del viewport y todavía no existir en el árbol;
+      // desplazar primero hasta la zona inferior permite que se monte.
+      await tester.drag(
+        find.byType(ListView).first,
+        const Offset(0, -650),
+      );
+      await tester.pumpAndSettle();
+
       final nextLabel = i + 1 == pack.questions.length
           ? 'Ver resultado'
           : 'Siguiente pregunta';
