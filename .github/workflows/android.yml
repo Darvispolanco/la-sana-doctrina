@@ -237,6 +237,19 @@ jobs:
           --build-name=0.1.0
           --build-number=${GITHUB_RUN_NUMBER}
 
+      - name: Preserve production APK with ads
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        run: |
+          cp build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk
+
+      - name: Build diagnostic Release APK without ads
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        run: >-
+          flutter build apk --release
+          --dart-define=ENABLE_ADS=false
+          --build-name=0.1.0
+          --build-number=${GITHUB_RUN_NUMBER}
+
       - name: Verify Android APK signatures
         run: |
           set -euo pipefail
@@ -244,6 +257,7 @@ jobs:
           BUILD_TOOLS="$(find "$SDK_ROOT/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -n1)"
           test -x "$BUILD_TOOLS/apksigner"
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-release.apk
+          "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-release-with-ads.apk
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-debug.apk
 
       - name: Verify APK package metadata
@@ -253,7 +267,7 @@ jobs:
           BUILD_TOOLS="$(find "$SDK_ROOT/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -n1)"
           AAPT="$BUILD_TOOLS/aapt"
           test -x "$AAPT"
-          for APK in build/app/outputs/flutter-apk/app-debug.apk build/app/outputs/flutter-apk/app-release.apk; do
+          for APK in build/app/outputs/flutter-apk/app-debug.apk build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk; do
             test -s "$APK"
             PACKAGE="$("$AAPT" dump badging "$APK" | sed -n "s/^package: name='\\([^']*\\)'.*/\\1/p" | head -n1)"
             if [ "$PACKAGE" != "com.lasanadoctrina.la_sana_doctrina" ]; then
@@ -273,13 +287,15 @@ jobs:
             cd "${OUT}"
             sha256sum "LaSanaDoctrina-${BUILD_TAG}-debug.apk" > "LaSanaDoctrina-${BUILD_TAG}-debug-SHA256SUM.txt"
           )
-          if [ -f "${OUT}/app-release.apk" ]; then
-            mv "${OUT}/app-release.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release.apk"
+          if [ -f "${OUT}/app-release-with-ads.apk" ]; then
+            mv "${OUT}/app-release-with-ads.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios.apk"
+            mv "${OUT}/app-release.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios.apk"
             (
               cd "${OUT}"
-              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-SHA256SUM.txt"
+              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios-SHA256SUM.txt"
+              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios-SHA256SUM.txt"
             )
-          fi
+          fii
 
       - name: Upload debug APK
         uses: actions/upload-artifact@v4
@@ -297,8 +313,8 @@ jobs:
         with:
           name: LaSanaDoctrina-v0.1.0-build${{ github.run_number }}-${{ github.run_id }}-production
           path: |
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release.apk
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-SHA256SUM.txt
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*.apk
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*-SHA256SUM.txt
           if-no-files-found: error
           retention-days: 14
 
