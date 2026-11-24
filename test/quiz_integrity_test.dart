@@ -173,16 +173,29 @@ void main() {
       final correctOption = find.text(question.options[question.correctIndex]).first;
       await tester.ensureVisible(correctOption);
       await tester.pumpAndSettle();
-      await tester.tap(correctOption);
+
+      // La opción es interactiva mediante el ListTile completo. Pulsar el
+      // texto interno puede no activar el callback en el test cuando hay
+      // elementos desplazables o textos coincidentes.
+      final optionTile = find.ancestor(
+        of: correctOption,
+        matching: find.byType(ListTile),
+      ).first;
+      await tester.tap(optionTile);
       await tester.pumpAndSettle();
+
+      expect(
+        find.text('¡Respuesta correcta!'),
+        findsOneWidget,
+        reason: 'La opción correcta no quedó registrada en la pregunta ${i + 1}.',
+      );
 
       final nextLabel = i + 1 == pack.questions.length
           ? 'Ver resultado'
           : 'Siguiente pregunta';
-      // La pantalla de pregunta solo contiene un FilledButton cuando la
-      // respuesta ya fue registrada. Localizar el control por tipo evita
-      // depender de Finder.last sobre un texto que puede no estar montado.
-      final nextButton = find.byType(FilledButton);
+      // El control se muestra después de confirmar visualmente el registro
+      // de la respuesta. Se localiza por su etiqueta visible y tipo real.
+      final nextButton = find.widgetWithText(FilledButton, nextLabel);
       expect(
         nextButton,
         findsOneWidget,
