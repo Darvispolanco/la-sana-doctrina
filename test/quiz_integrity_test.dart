@@ -180,11 +180,9 @@ void main() {
           ? 'Ver resultado'
           : 'Siguiente pregunta';
       final nextButton = find.text(nextLabel).last;
-      await tester.scrollUntilVisible(
-        nextButton,
-        250,
-        scrollable: find.byType(ListView).last,
-      );
+      // ensureVisible localiza el Scrollable ancestro correcto del botón.
+      // scrollUntilVisible exige recibir un Finder de tipo Scrollable, no ListView.
+      await tester.ensureVisible(nextButton);
       await tester.pumpAndSettle();
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
