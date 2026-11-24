@@ -138,13 +138,15 @@ jobs:
           production_app = 'ca-app-pub-3642704038738168~6121712215'
           debug_test_unit = 'ca-app-pub-3940256099942544/6300978111'
 
-          if production_unit not in dart or 'kReleaseMode' not in dart:
-              raise SystemExit('Production banner ID is not restricted to release builds')
+          if production_unit not in dart or 'USE_PRODUCTION_ADS' not in dart:
+              raise SystemExit('Production banner ID or explicit production-ad switch is missing')
           if debug_test_unit not in dart:
-              raise SystemExit('Debug builds must use the official Google test banner')
+              raise SystemExit('Local development must retain the official Google test banner')
           if production_app not in workflow:
               raise SystemExit('Production AdMob App ID is missing from Android configuration')
-          print('Verified: release uses the production banner; debug uses Google test ads.')
+          if '--dart-define=USE_PRODUCTION_ADS=true' not in workflow:
+              raise SystemExit('The official distributed Debug APK must explicitly enable production ads')
+          print('Verified: official Debug artifact enables the production banner; local builds retain test ads.')
           PY
 
       - name: Configure persistent Android signing key
@@ -224,7 +226,7 @@ jobs:
         run: |
           set -euo pipefail
           for attempt in 1 2 3; do
-            if flutter build apk --debug --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
+            if flutter build apk --debug --dart-define=USE_PRODUCTION_ADS=true --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
               exit 0
             fi
             if [ "$attempt" -lt 3 ]; then
