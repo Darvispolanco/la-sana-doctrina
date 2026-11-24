@@ -176,14 +176,12 @@ void main() {
       await tester.tap(correctOption);
       await tester.pumpAndSettle();
 
-      final nextLabel = i + 1 == pack.questions.length
-          ? 'Ver resultado'
-          : 'Siguiente pregunta';
-      final nextButton = find.text(nextLabel).last;
-      // El botón aparece después de la explicación; desplazar su ListView
-      // ancestro evita tocarlo cuando queda parcialmente fuera del viewport.
-      await tester.ensureVisible(nextButton);
+      // El botón tiene una clave estable. Se desplaza la lista completa
+      // hasta el final antes de buscarlo, sin depender de textos ni índices.
+      final questionList = find.byType(ListView).last;
+      await tester.drag(questionList, const Offset(0, -1200));
       await tester.pumpAndSettle();
+      final nextButton = find.byKey(const ValueKey('quiz-next-button'));
       expect(nextButton, findsOneWidget);
       await tester.tap(nextButton);
       await tester.pumpAndSettle();
@@ -198,9 +196,9 @@ void main() {
     final lastReviewQuestion = find.textContaining('Pregunta 20:');
     // SliverList construye de forma diferida. Desplazar el viewport en
     // incrementos hasta que la última tarjeta entre en el árbol de widgets.
-    final reviewScrollView = find.byWidgetPredicate(
-      (widget) => widget is Scrollable,
-    ).last;
+    final reviewScrollView = find.byKey(
+      PageStorageKey<String>('quiz-result-${pack.title}'),
+    );
     for (var attempt = 0;
         attempt < 25 && lastReviewQuestion.evaluate().isEmpty;
         attempt++) {
