@@ -183,7 +183,7 @@ void main() {
       await tester.scrollUntilVisible(
         nextButton,
         250,
-        scrollable: find.byType(Scrollable).last,
+        scrollable: find.byType(ListView).last,
       );
       await tester.pumpAndSettle();
       await tester.tap(nextButton);
