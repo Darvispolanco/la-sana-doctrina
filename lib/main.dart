@@ -16,6 +16,8 @@ import 'study_data.dart';
 export 'study_data.dart';
 export 'quiz_data.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+const bool adsEnabled = bool.fromEnvironment('ENABLE_ADS', defaultValue: true);
+
 Future<bool>? _adsInitialization;
 
 Future<bool> _initializeAdsSafely() {
@@ -44,8 +46,11 @@ Future<void> main() async {
     debugPrintStack(stackTrace: stackTrace);
   }
 
-  // Los anuncios se inicializan después de mostrar la primera pantalla.
-  await _initializeAdsSafely();
+  // ENABLE_ADS=false permite aislar fallos de arranque en una compilación
+  // Release de diagnóstico. La producción normal conserva los anuncios.
+  if (adsEnabled) {
+    await _initializeAdsSafely();
+  }
 }
 
 class SanaDoctrinaApp extends StatelessWidget {
@@ -1352,6 +1357,8 @@ static const String _bannerAdUnitId = kReleaseMode
     : 'ca-app-pub-3940256099942544/6300978111';
 
 Future<void> _loadBanner() async {
+  if (!adsEnabled) return;
+
   final initialized = await _initializeAdsSafely();
   if (!initialized || !mounted) return;
 
