@@ -270,7 +270,7 @@ jobs:
           manifest = Path('android/app/src/main/AndroidManifest.xml')
           source = manifest.read_text()
           source = re.sub(
-              r'\\s*<meta-data\\s+android:name="com\\.google\\.android\\.gms\\.ads\\.APPLICATION_ID"[^>]*/>',
+              r'\s*<meta-data\s+android:name="com\.google\.android\.gms\.ads\.APPLICATION_ID"[^>]*/>',
               '',
               source,
           )
