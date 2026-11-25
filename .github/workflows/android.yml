@@ -341,6 +341,32 @@ jobs:
           echo "Diagnostic Release APK build failed after 3 attempts." >&2
           exit 1
 
+      - name: Smoke-test Release APK startup on Android 15 emulator
+        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 35
+          arch: x86_64
+          profile: pixel_6
+          disable-animations: true
+          script: |
+            set -euo pipefail
+            APP_ID="com.lasanadoctrina.la_sana_doctrina"
+            for APK in build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk; do
+              echo "Installing and launching $APK"
+              adb install -r "$APK"
+              adb shell am force-stop "$APP_ID" || true
+              adb logcat -c
+              adb shell monkey -p "$APP_ID" 1
+              sleep 8
+              if ! adb shell pidof "$APP_ID" >/dev/null; then
+                echo "Application process exited after launch: $APK" >&2
+                adb logcat -d -t 2500 | grep -E -A 25 -B 5 'FATAL EXCEPTION|AndroidRuntime|Fatal signal' || true
+                exit 1
+              fi
+              adb shell am force-stop "$APP_ID"
+            done
+
       - name: Verify Android APK signatures
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         run: |
