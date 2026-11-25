@@ -410,6 +410,8 @@ jobs:
           path: |
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*.apk
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*-SHA256SUM.txt
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-play-store.aab
+            build/app/outputs/flutter-apk/LaSanaDoctrina-*-play-store-SHA256SUM.txt
           if-no-files-found: error
           retention-days: 14
 
