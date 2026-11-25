@@ -26,6 +26,21 @@ void main() {
       final content = await rootBundle.loadString('assets/defensa_doctrinal/$file');
       expect(content.trim().isNotEmpty, isTrue, reason: 'El documento $id está vacío.');
       expect(
+        content,
+        isNot(contains('Estado editorial')),
+        reason: 'El documento $id contiene una nota editorial interna que no debe mostrarse en la app.',
+      );
+      expect(
+        content,
+        isNot(contains('Nota bibliográfica de trabajo')),
+        reason: 'El documento $id contiene una nota bibliográfica interna que no debe mostrarse en la app.',
+      );
+      expect(
+        content,
+        isNot(contains('bibliografía final del libro')),
+        reason: 'El documento $id contiene una referencia al formato de un libro externo a la app.',
+      );
+      expect(
         RegExp(r'^#{1,3}\s+\S', multiLine: true).hasMatch(content),
         isTrue,
         reason: 'El documento $id no contiene encabezados estructurados.',
