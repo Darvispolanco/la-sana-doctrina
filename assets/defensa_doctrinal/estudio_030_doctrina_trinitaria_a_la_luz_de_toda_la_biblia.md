@@ -57,6 +57,3 @@ La enseñanza trinitaria surge al mantener juntas todas las afirmaciones bíblic
 
 ## 11. Pasajes para repaso
 Deuteronomio 6:4; Isaías 45:5-6; Juan 1:1-18; Mateo 3:13-17; Juan 14:16-26; Juan 17:1-5; Mateo 28:18-20; Hechos 5:3-4; 1 Corintios 8:4-6; 2 Corintios 13:14; Hebreos 1:1-12.
-
-## Nota bibliográfica de trabajo
-Biblia Reina-Valera 1960. Las referencias bibliográficas académicas generales se consolidarán en la bibliografía final del libro.
