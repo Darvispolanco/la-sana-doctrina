@@ -216,7 +216,3 @@ La Iglesia que desea defender la sana doctrina debe cultivar creyentes que conoz
 ## Referencias bíblicas principales
 
 RVR1960: Deuteronomio 4:1–2; Salmo 19:7–11; Mateo 4:1–11; Mateo 5:17–19; Marcos 7:1–13; Lucas 24:25–27, 44–47; Juan 10:31–39; Juan 20:30–31; Juan 21:24–25; Hechos 17:10–12; 1 Timoteo 3:14–16; 2 Timoteo 3:14–17; 2 Tesalonicenses 2:1–17; 2 Pedro 1:19–21; 2 Pedro 3:15–18; Apocalipsis 22:18–19.
-
----
-
-**Estado editorial:** primera versión de desarrollo. Antes de publicar como estudio definitivo, las citas bíblicas completas deben revisarse contra la edición RVR1960 utilizada por el proyecto y añadirse fuentes históricas especializadas si se amplía la sección sobre canon y transmisión textual.
