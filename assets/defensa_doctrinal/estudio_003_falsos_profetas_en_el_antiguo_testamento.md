@@ -285,7 +285,3 @@ La Iglesia debe aprender del testimonio de Israel: la palabra de Dios no puede s
 ## Referencias bíblicas principales
 
 RVR1960: Éxodo 4:10–16; 7:1–2; Levítico 10:8–11; Deuteronomio 12:1–32; 13:1–5; 18:9–22; 19:15; 33:8–10; Josué 24:14–24; 1 Reyes 18:17–40; 21:1–29; 22:1–40; 2 Samuel 7:1–17; 2 Crónicas 18:1–34; 19:1–3; 2 Reyes 17:7–18; Isaías 1:16–23; Jeremías 6:13–14; 14:13–16; 18:7–10; 23:9–40; 27:1–22; 28:1–17; 29:4–14, 20–23; Ezequiel 13:1–16; 22:23–31; Jonás 3:1–10; Miqueas 3:1–12; Mateo 7:13–27; 24:11, 23–25; Hechos 20:28–31; 2 Pedro 2:1–3; 1 Juan 4:1–6.
-
----
-
-**Estado editorial:** primera versión de desarrollo. Antes de publicar como estudio definitivo, deben revisarse las citas textuales contra la edición RVR1960 utilizada por el proyecto. Las referencias históricas y las aplicaciones contemporáneas requieren fuentes documentales específicas; este estudio se concentra en los testimonios y criterios del texto bíblico.
