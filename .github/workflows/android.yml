@@ -183,7 +183,7 @@ jobs:
               raise SystemExit('Both distributed Debug and Play Store AAB builds must explicitly enable production ads')
           if 'flutter build appbundle --release --dart-define=USE_PRODUCTION_ADS=true' not in workflow:
               raise SystemExit('The Play Store AAB must explicitly enable the production ad configuration')
-          print('Verified: distributed Debug, Release APK and Play Store AAB use the production banner; local builds retain test ads.')
+          print('Verified: distributed Debug APK and Play Store AAB use the production banner; local builds retain test ads.')
           PY
 
       - name: Configure persistent Android signing key
