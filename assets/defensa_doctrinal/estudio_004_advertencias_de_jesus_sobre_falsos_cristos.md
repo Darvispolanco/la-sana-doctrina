@@ -226,7 +226,3 @@ La advertencia de Jesús sigue siendo fundamental para la Iglesia: no todo el qu
 ## Referencias bíblicas principales
 
 RVR1960: Deuteronomio 13:1–5; Mateo 5:31–47; 16:13–23; 24:1–44; Marcos 13:1–37; Lucas 21:5–36; Hechos 1:1–11; Gálatas 1:6–9; Filipenses 3:20–21; 1 Tesalonicenses 4:13–18; 5:1–11; 2 Tesalonicenses 2:1–3; 1 Juan 4:1–6.
-
----
-
-**Estado editorial:** primera versión de desarrollo. Antes de publicar como estudio definitivo, deben revisarse las citas textuales contra la edición RVR1960 utilizada por el proyecto. La relación entre la destrucción del templo, los acontecimientos históricos del siglo I y la consumación final contiene cuestiones interpretativas debatidas; el estudio procura distinguir las afirmaciones explícitas de Jesús de las conclusiones que requieren mayor argumentación.
