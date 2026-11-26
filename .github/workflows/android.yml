@@ -180,7 +180,7 @@ jobs:
           if production_app not in workflow:
               raise SystemExit('Production AdMob App ID is missing from Android configuration')
           if workflow.count('--dart-define=USE_PRODUCTION_ADS=true') < 2:
-              raise SystemExit('Both distributed Debug and production Release builds must explicitly enable production ads')
+              raise SystemExit('Both distributed Debug and Play Store AAB builds must explicitly enable production ads')
           if 'flutter build appbundle --release --dart-define=USE_PRODUCTION_ADS=true' not in workflow:
               raise SystemExit('The Play Store AAB must explicitly enable the production ad configuration')
           print('Verified: distributed Debug, Release APK and Play Store AAB use the production banner; local builds retain test ads.')
@@ -274,31 +274,6 @@ jobs:
           echo "Debug APK build failed after 3 attempts." >&2
           exit 1
 
-      - name: Build production APK with a unique Android version code
-        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
-        env:
-          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
-          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
-          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
-        run: |
-          set -euo pipefail
-          for attempt in 1 2 3; do
-            if flutter build apk --release --dart-define=USE_PRODUCTION_ADS=true --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
-              exit 0
-            fi
-            if [ "$attempt" -lt 3 ]; then
-              echo "Release build failed; retrying after transient dependency/network failure (attempt $attempt/3)."
-              sleep $((attempt * 20))
-            fi
-          done
-          echo "Production APK build failed after 3 attempts." >&2
-          exit 1
-
-      - name: Preserve production APK with ads
-        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
-        run: |
-          cp build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk
-
       - name: Build signed Play Store App Bundle
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         env:
@@ -322,26 +297,6 @@ jobs:
           jarsigner -verify build/app/outputs/bundle/release/app-release.aab
           mv build/app/outputs/bundle/release/app-release.aab build/app/outputs/flutter-apk/app-release.aab
 
-      - name: Build diagnostic Release APK without ads
-        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
-        env:
-          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
-          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
-          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
-        run: |
-          set -euo pipefail
-          for attempt in 1 2 3; do
-            if flutter build apk --release --dart-define=ENABLE_ADS=false --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
-              exit 0
-            fi
-            if [ "$attempt" -lt 3 ]; then
-              echo "Diagnostic Release build failed; retrying (attempt $attempt/3)."
-              sleep $((attempt * 20))
-            fi
-          done
-          echo "Diagnostic Release APK build failed after 3 attempts." >&2
-          exit 1
-
       - name: Verify Android APK signatures
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         run: |
@@ -349,8 +304,6 @@ jobs:
           SDK_ROOT="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-$HOME/Android/Sdk}}"
           BUILD_TOOLS="$(find "$SDK_ROOT/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -n1)"
           test -x "$BUILD_TOOLS/apksigner"
-          "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-release.apk
-          "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-release-with-ads.apk
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs build/app/outputs/flutter-apk/app-debug.apk
 
       - name: Verify APK package metadata
@@ -361,7 +314,7 @@ jobs:
           BUILD_TOOLS="$(find "$SDK_ROOT/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -n1)"
           AAPT="$BUILD_TOOLS/aapt"
           test -x "$AAPT"
-          for APK in build/app/outputs/flutter-apk/app-debug.apk build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/app-release-with-ads.apk; do
+          for APK in build/app/outputs/flutter-apk/app-debug.apk; do
             test -s "$APK"
             PACKAGE="$("$AAPT" dump badging "$APK" | sed -n "s/^package: name='\\([^']*\\)'.*/\\1/p" | head -n1)"
             if [ "$PACKAGE" != "com.lasanadoctrina.la_sana_doctrina" ]; then
@@ -381,15 +334,11 @@ jobs:
             cd "${OUT}"
             sha256sum "LaSanaDoctrina-${BUILD_TAG}-debug.apk" > "LaSanaDoctrina-${BUILD_TAG}-debug-SHA256SUM.txt"
           )
-          if [ -f "${OUT}/app-release-with-ads.apk" ]; then
-            mv "${OUT}/app-release-with-ads.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios.apk"
+          if [ -f "${OUT}/app-release.aab" ]; then
             mv "${OUT}/app-release.aab" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-play-store.aab"
-            mv "${OUT}/app-release.apk" "${OUT}/LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios.apk"
             (
               cd "${OUT}"
               sha256sum "LaSanaDoctrina-${BUILD_TAG}-play-store.aab" > "LaSanaDoctrina-${BUILD_TAG}-play-store-SHA256SUM.txt"
-              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-con-anuncios-SHA256SUM.txt"
-              sha256sum "LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios.apk" > "LaSanaDoctrina-${BUILD_TAG}-release-diagnostico-sin-anuncios-SHA256SUM.txt"
             )
           fi
 
@@ -403,14 +352,12 @@ jobs:
           if-no-files-found: error
           retention-days: 14
 
-      - name: Upload production APK
+      - name: Upload Play Store AAB
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: LaSanaDoctrina-v0.1.0-build${{ github.run_number }}-${{ github.run_id }}-production
+          name: LaSanaDoctrina-v0.1.0-build${{ github.run_number }}-${{ github.run_id }}-aab
           path: |
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*.apk
-            build/app/outputs/flutter-apk/LaSanaDoctrina-*-release-*-SHA256SUM.txt
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-play-store.aab
             build/app/outputs/flutter-apk/LaSanaDoctrina-*-play-store-SHA256SUM.txt
           if-no-files-found: error
