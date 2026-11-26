@@ -22,8 +22,13 @@ Future<bool>? _adsInitialization;
 
 Future<bool> _initializeAdsSafely() {
   return _adsInitialization ??= () async {
+    // Dar 30 segundos a Flutter para completar el arranque y mostrar
+    // la interfaz antes de inicializar el SDK de Google Mobile Ads.
+    await Future<void>.delayed(const Duration(seconds: 30));
+
     try {
       await MobileAds.instance.initialize();
+      debugPrint('AdMob se inicializó 30 segundos después del inicio.');
       return true;
     } catch (error, stackTrace) {
       debugPrint('No se pudieron inicializar los anuncios: $error');
@@ -36,20 +41,19 @@ Future<bool> _initializeAdsSafely() {
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // La interfaz debe aparecer aunque falle un servicio externo del dispositivo.
+  // Mostrar primero la aplicación y comenzar en segundo plano el temporizador
+  // único de AdMob. Los widgets de anuncios esperan esta misma inicialización.
   runApp(const SanaDoctrinaApp());
+
+  if (adsEnabled) {
+    _initializeAdsSafely();
+  }
 
   try {
     await SavedStudyStore.load();
   } catch (error, stackTrace) {
     debugPrint('No se pudieron recuperar los estudios guardados: $error');
     debugPrintStack(stackTrace: stackTrace);
-  }
-
-  // ENABLE_ADS=false permite aislar fallos de arranque en una compilación
-  // Release de diagnóstico. La producción normal conserva los anuncios.
-  if (adsEnabled) {
-    await _initializeAdsSafely();
   }
 }
 
