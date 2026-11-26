@@ -267,7 +267,3 @@ La defensa de la sana doctrina exige discernimiento, conocimiento bíblico, hone
 ## Referencias bíblicas principales
 
 RVR1960: Deuteronomio 19:15; Mateo 7:13–27; Lucas 6:43–45; Hechos 17:10–12; Hechos 18:24–28; Hechos 20:17–35; Romanos 14:1–13; Romanos 16:17–20; 1 Corintios 9:7–14; Gálatas 1:6–9; Gálatas 6:1; 1 Tesalonicenses 5:19–22; 1 Timoteo 3:1–7; 1 Timoteo 4:13–16; 1 Timoteo 5:17–21; 1 Timoteo 6:3–10; 2 Timoteo 2:1–2, 23–26; Tito 1:5–14; Santiago 3:1–12; 1 Pedro 5:1–4; 2 Pedro 2:1–19; 1 Juan 2:18–23; 1 Juan 4:1–6; Judas 3–4.
-
----
-
-**Estado editorial:** primera versión de desarrollo. Antes de publicar como estudio definitivo, las citas bíblicas deben revisarse contra la edición RVR1960 utilizada por el proyecto. Las acusaciones históricas o contemporáneas contra personas y organizaciones requerirán fuentes directas y verificables; este estudio presenta criterios bíblicos generales y no acusa a individuos concretos.
