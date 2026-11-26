@@ -80,6 +80,41 @@ jobs:
           p.write_text(s)
           PY
 
+      - name: Prevent native AdMob auto-start before Flutter is ready
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          manifest = Path('android/app/src/main/AndroidManifest.xml')
+          source = manifest.read_text()
+          app_id = 'com.google.android.gms.ads.APPLICATION_ID'
+          provider = 'com.google.android.gms.ads.MobileAdsInitProvider'
+
+          if app_id not in source:
+              raise SystemExit('AdMob App ID metadata is required and must remain in the manifest')
+
+          if 'xmlns:tools=' not in source:
+              source = source.replace(
+                  '<manifest ',
+                  '<manifest xmlns:tools="http://schemas.android.com/tools" ',
+                  1,
+              )
+
+          removal = '''
+                  <provider
+                      android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+                      tools:node="remove" />
+          '''
+          if provider not in source:
+              source = source.replace('</application>', removal + '    </application>', 1)
+
+          manifest.write_text(source)
+
+          if app_id not in source or provider not in source:
+              raise SystemExit('Safe AdMob startup configuration was not applied')
+          print('AdMob keeps its App ID but initializes only from Dart after Flutter starts.')
+          PY
+
       - name: Configure app identity and Android 16 target
         run: |
           python3 - <<'PY'
@@ -286,40 +321,6 @@ jobs:
           test -s build/app/outputs/bundle/release/app-release.aab
           jarsigner -verify build/app/outputs/bundle/release/app-release.aab
           mv build/app/outputs/bundle/release/app-release.aab build/app/outputs/flutter-apk/app-release.aab
-
-      - name: Disable native AdMob startup for diagnostic Release
-        if: env.ANDROID_SIGNING_CONFIGURED == 'true'
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          import re
-
-          manifest = Path('android/app/src/main/AndroidManifest.xml')
-          source = manifest.read_text()
-          source = re.sub(
-              r'\s*<meta-data\s+android:name="com\.google\.android\.gms\.ads\.APPLICATION_ID"[^>]*/>',
-              '',
-              source,
-          )
-          if 'xmlns:tools=' not in source:
-              source = source.replace(
-                  '<manifest ',
-                  '<manifest xmlns:tools="http://schemas.android.com/tools" ',
-                  1,
-              )
-          application_close = '</application>'
-          removal = '''
-                  <provider
-                      android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-                      tools:node="remove" />
-          '''
-          if 'com.google.android.gms.ads.MobileAdsInitProvider' not in source:
-              source = source.replace(application_close, removal + application_close, 1)
-          manifest.write_text(source)
-          if 'com.google.android.gms.ads.APPLICATION_ID' in source:
-              raise SystemExit('AdMob App ID remains in diagnostic manifest')
-          print('Diagnostic manifest excludes AdMob auto-initialization.')
-          PY
 
       - name: Build diagnostic Release APK without ads
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
