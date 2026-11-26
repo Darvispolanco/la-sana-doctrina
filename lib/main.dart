@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
@@ -46,7 +47,7 @@ Future<void> main() async {
   runApp(const SanaDoctrinaApp());
 
   if (adsEnabled) {
-    _initializeAdsSafely();
+    unawaited(_initializeAdsSafely().then<void>((_) {}));
   }
 
   try {
