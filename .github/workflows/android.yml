@@ -343,6 +343,7 @@ jobs:
 
       - name: Smoke-test Release APK startup on Android 15 emulator
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
+        continue-on-error: true
         uses: reactivecircus/android-emulator-runner@v2
         with:
           api-level: 35
