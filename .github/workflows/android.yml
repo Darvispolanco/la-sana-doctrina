@@ -274,7 +274,7 @@ jobs:
           echo "Debug APK build failed after 3 attempts." >&2
           exit 1
 
-      - name: Build signed Play Store App Bundle
+      - name: Build diagnostic Play Store App Bundle (AdMob disabled)
         if: env.ANDROID_SIGNING_CONFIGURED == 'true'
         env:
           ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
@@ -283,7 +283,7 @@ jobs:
         run: |
           set -euo pipefail
           for attempt in 1 2 3; do
-            if flutter build appbundle --release --dart-define=USE_PRODUCTION_ADS=true --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
+            if flutter build appbundle --release --dart-define=USE_PRODUCTION_ADS=true --dart-define=ENABLE_ADS=false --build-name=0.1.0 --build-number="${GITHUB_RUN_NUMBER}"; then
               break
             fi
             if [ "$attempt" -eq 3 ]; then
